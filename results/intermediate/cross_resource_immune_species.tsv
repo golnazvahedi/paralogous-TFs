@@ -18,3 +18,4 @@ Panthera tigris	Tiger	False	pbmc	cross-species PBMC atlas	blood (PBMC)
 Gallus gallus	Chicken	False	limited	avian immune scRNA-seq	spleen / immune
 Columba livia	Pigeon	False	pbmc	cross-species PBMC atlas	blood (PBMC)
 Danio rerio	Zebrafish	True	atlas	SCEA / zebrafish atlases	kidney marrow (blood), spleen, blood
+Lethenteron reissneri	Lamprey	False	atlas	lamprey cell atlas (CNP0005120) + L. morii immune scRNA	blood, supraneural body, gill, kidney, intestine

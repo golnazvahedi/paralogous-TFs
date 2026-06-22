@@ -7,7 +7,13 @@ This extends scripts/05 (SCEA-only) with species whose immune-cell scRNA-seq
 lives outside SCEA: rhesus macaque (RIRA), mouse lemur (Tabula Microcebus), pig
 (porcine lymphoid-organ immune atlas), cattle (Cattle Cell Atlas), horse (equine
 PBMC atlas), and the cat/dog/goat/deer/hamster/tiger/pigeon/chicken/sheep
-profiled in cross-species PBMC / livestock studies.
+profiled in cross-species PBMC / livestock studies. The jawless-vertebrate
+outgroup is lamprey: a 14-tissue cell atlas of Lethenteron reissneri (604k
+cells/nuclei, CNGB CNP0005120; Nat Commun 2025, s41467-025-56153-w) plus an
+immune-focused gill/blood/intestine lymphocyte study in Lampetra morii
+(65k cells; Nat Commun 2024, s41467-024-51763-2). Both profile VLR lymphocytes,
+granulocytes, monocytes/macrophages and DCs in lamprey hematopoietic tissues
+(blood, supraneural body, gill, kidney, intestine), rooting the tree ~500 Mya.
 
 Each tip is annotated with its resource and immune tissues, coloured by whether
 the data are in SCEA or an external resource, and sized by tissue breadth
@@ -61,6 +67,7 @@ SP = {
  "Gallus gallus":         ("Chicken",      False, "limited", "avian immune scRNA-seq",          "spleen / immune"),
  "Columba livia":         ("Pigeon",       False, "pbmc",    "cross-species PBMC atlas",        "blood (PBMC)"),
  "Danio rerio":           ("Zebrafish",    True,  "atlas",   "SCEA / zebrafish atlases",        "kidney marrow (blood), spleen, blood"),
+ "Lethenteron reissneri": ("Lamprey",      False, "atlas",   "lamprey cell atlas (CNP0005120) + L. morii immune scRNA", "blood, supraneural body, gill, kidney, intestine"),
 }
 
 # --- time-calibrated tree (ages Mya, tips at 0) -------------------------------
@@ -100,7 +107,10 @@ chicken, pigeon = L("Gallus gallus"), L("Columba livia")
 birds     = I(93, [chicken, pigeon], "Aves")
 amniota   = I(319, [boreo, birds], "Amniota")
 zebrafish = L("Danio rerio")
-root      = I(429, [amniota, zebrafish], "Euteleostomi")
+euteleostomi = I(429, [amniota, zebrafish], "Euteleostomi")
+# Cyclostome outgroup: lamprey (jawless vertebrate) roots the whole tree
+lamprey   = L("Lethenteron reissneri")
+root      = I(500, [euteleostomi, lamprey], "Vertebrata")
 
 # layout
 order = []
@@ -140,8 +150,8 @@ def draw(n):
         ax.plot([n.age, n.age], [min(ys), max(ys)], color="#666666", lw=1.4, zorder=1)
 draw(root)
 
-LABEL_NODES = [root, amniota, boreo, laurasia, euarch, glires, primates,
-               carnivora, artiodactyla, birds]
+LABEL_NODES = [root, euteleostomi, amniota, boreo, laurasia, euarch, glires,
+               primates, carnivora, artiodactyla, birds]
 for nd in LABEL_NODES:
     ax.plot(nd.age, yof[nd], "o", ms=3.5, color="#333333", zorder=3)
     ax.annotate(f"{int(nd.age)}", (nd.age, yof[nd]), textcoords="offset points",
@@ -163,12 +173,12 @@ for lf in order:
     ax.annotate(f"{resource}  -  {tissues}", (0, y), textcoords="offset points",
                 xytext=(13, -8), fontsize=6.8, color=col, style="italic")
 
-ax.set_xlim(450, -185)
+ax.set_xlim(525, -185)
 ax.set_ylim(-0.8, len(order) - 0.2)
 ax.set_yticks([])
 for s in ("top", "left", "right"): ax.spines[s].set_visible(False)
 ax.set_xlabel("Million years ago (approximate divergence time, TimeTree)", fontsize=9)
-ax.set_xticks([429, 319, 96, 90, 82, 78, 60, 0])
+ax.set_xticks([500, 429, 319, 96, 90, 82, 78, 60, 0])
 ax.tick_params(axis="x", labelsize=7.5)
 
 fig.text(0.5, 0.965, "Vertebrates with single-cell RNA-seq of immune cells "
