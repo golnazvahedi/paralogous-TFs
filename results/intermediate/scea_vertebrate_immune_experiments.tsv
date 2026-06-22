@@ -1,0 +1,10 @@
+species	common	n_experiments	n_immune_experiments	has_immune	example_immune_tissues	immune_accessions
+Homo sapiens	Human	159	44	True	blood/PBMC, spleen, lymph node, bone marrow, thymus	E-ANND-5;E-CURD-112;E-CURD-120;E-CURD-122;E-CURD-55;E-CURD-6;E-CURD-77;E-CURD-79;E-CURD-85;E-CURD-88;E-CURD-89;E-CURD-97;E-GEOD-100618;E-GEOD-106540;E-GEOD-110499;E-GEOD-111727;E-GEOD-124858;E-GEOD-139324;E-GEOD-150728;E-GEOD-180759;E-GEOD-70580;E-GEOD-75688;E-GEOD-76312;E-GEOD-89232;E-HCAD-10;E-HCAD-13;E-HCAD-32;E-HCAD-4;E-HCAD-6;E-HCAD-8;E-HCAD-9;E-MTAB-10042;E-MTAB-10137;E-MTAB-6379;E-MTAB-6386;E-MTAB-6505;E-MTAB-7381;E-MTAB-7606;E-MTAB-8207;E-MTAB-8498;E-MTAB-9067;E-MTAB-9221;E-MTAB-9467;E-MTAB-9801
+Callithrix jacchus	Marmoset	1	0	False	embryo only - no immune dataset	
+Mus musculus	Mouse	126	24	True	spleen, blood, bone marrow, lymph node, thymus	E-CURD-100;E-CURD-117;E-CURD-118;E-CURD-80;E-CURD-96;E-EHCA-2;E-GEOD-103334;E-GEOD-106973;E-MTAB-10196;E-MTAB-10197;E-MTAB-10743;E-MTAB-10746;E-MTAB-11238;E-MTAB-4388;E-MTAB-4619;E-MTAB-4888;E-MTAB-5727;E-MTAB-6051;E-MTAB-7094;E-MTAB-7311;E-MTAB-7703;E-MTAB-7704;E-MTAB-8002;E-MTAB-8360
+Rattus norvegicus	Rat	3	2	True	bone-marrow mononuclear phagocytes, microglia	E-CURD-101;E-MTAB-10030
+Oryctolagus cuniculus	Rabbit	2	1	True	bone-marrow mononuclear phagocytes	E-CURD-102
+Ovis aries	Sheep	1	0	False	gut epithelium only - no immune dataset	
+Gallus gallus	Chicken	4	0	False	limb / neural crest / embryo - no immune dataset	
+Xenopus tropicalis	Frog (Xenopus)	1	0	False	spinal cord only - no immune dataset	
+Danio rerio	Zebrafish	15	6	True	kidney marrow (blood), spleen, blood, ILC-like	E-GEOD-100911;E-MTAB-3947;E-MTAB-4617;E-MTAB-5530;E-MTAB-7117;E-MTAB-7159

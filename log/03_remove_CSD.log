@@ -1,0 +1,11 @@
+# Step 3: drop non-TF DBD families: CSD
+paralogous_TFs.tsv: 1563 -> 1558 (removed 5)
+removed genes: LIN28A, LIN28B, YBX1, YBX2, YBX3
+lambert_isTF_yes.tsv: 1570 -> 1565
+paralogous_TF_family_summary.tsv: 59 family rows
+
+=== cleaned catalog ===
+paralogous TFs remaining: 1558
+DBD families (coarse): 56
+families (fine grouping): 59
+confirm CSD gone: True

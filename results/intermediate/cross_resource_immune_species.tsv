@@ -1,0 +1,20 @@
+species	common	in_SCEA	coverage	resource	immune_tissues
+Homo sapiens	Human	True	atlas	SCEA / Human Cell Atlas	blood, spleen, lymph node, marrow, thymus
+Macaca mulatta	Rhesus macaque	False	atlas	RIRA atlas	blood, lymph node, bone marrow
+Microcebus murinus	Mouse lemur	False	atlas	Tabula Microcebus	blood, spleen, bone marrow
+Mus musculus	Mouse	True	atlas	SCEA / ImmGen, Tabula Muris	spleen, blood, marrow, lymph node, thymus
+Rattus norvegicus	Rat	True	limited	SCEA	bone-marrow phagocytes, microglia
+Mesocricetus auratus	Hamster	False	pbmc	cross-species PBMC atlas	blood (PBMC)
+Oryctolagus cuniculus	Rabbit	True	limited	SCEA / cross-species PBMC	bone-marrow phagocytes, PBMC
+Sus scrofa	Pig	False	atlas	porcine lymphoid-organ atlas	marrow, thymus, spleen, lymph node, PBMC
+Bos taurus	Cattle	False	atlas	Cattle Cell Atlas	PBMC, spleen
+Ovis aries	Sheep	False	limited	ruminant scRNA-seq	PBMC / immune
+Capra hircus	Goat	False	pbmc	cross-species / ruminant	blood (PBMC)
+Cervus	Deer	False	pbmc	cross-species PBMC atlas	blood (PBMC)
+Equus caballus	Horse	False	pbmc	equine PBMC atlas	blood (PBMC, deep)
+Canis lupus familiaris	Dog	False	pbmc	cross-species PBMC atlas	blood (PBMC)
+Felis catus	Cat	False	pbmc	cross-species PBMC atlas	blood (PBMC)
+Panthera tigris	Tiger	False	pbmc	cross-species PBMC atlas	blood (PBMC)
+Gallus gallus	Chicken	False	limited	avian immune scRNA-seq	spleen / immune
+Columba livia	Pigeon	False	pbmc	cross-species PBMC atlas	blood (PBMC)
+Danio rerio	Zebrafish	True	atlas	SCEA / zebrafish atlases	kidney marrow (blood), spleen, blood

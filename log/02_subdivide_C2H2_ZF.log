@@ -1,0 +1,19 @@
+# Step 2: subdivide C2H2 ZF using HGNC accessory-domain gene groups
+paralogous TFs total: 1563;  C2H2 ZF: 747
+HGNC genes with a relevant group: by ENSG=931, by symbol=931, by prev/alias=1864
+wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration11_06.16.2026/results/intermediate/c2h2_zf_subfamily_assignment.tsv
+match-method breakdown:
+    ensembl_id: 745
+    not_in_hgnc: 2
+C2H2-type membership confirmed in HGNC for 720/747 matched genes
+updated /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration11_06.16.2026/results/paralogous_TFs.tsv with fine-grained C2H2 subfamilies
+regenerated /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration11_06.16.2026/results/paralogous_TF_family_summary.tsv on fine grouping: 60 families
+C2H2-derived rows now present: BTB-ZNF, C2H2 ZF (other), KRAB-ZNF, SCAN-ZNF
+
+=== C2H2 ZF split into fine subfamilies ===
+    KRAB-ZNF             354
+    C2H2 ZF (other)      316
+    BTB-ZNF              47
+    SCAN-ZNF             30
+    (genes carrying >=2 accessory domains counted once, by priority KRAB > SCAN > BTB)
+    genes with >=2 accessory domains: 25
