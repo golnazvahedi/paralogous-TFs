@@ -252,6 +252,61 @@ core sequence.
     edges CYTOKINE response (alpha-vs-rest OR 1.36, p=0.026; beta-vs-rest ns). The robust
     claim is ohnolog>SSD; the within-ohnolog alpha/beta contrasts are trends (beta n small).
 
+########################################## Part VI — Monogenic immune-disease (IEI) gene enrichment ##########################################
+
+  - `13_IEI_disease_gene_enrichment.py`. Intersects the 4-group catalog with curated MONOGENIC
+    immune-disease genes (Inborn Errors of Immunity) and asks which duplication category is
+    enriched. IEI set = Genomics England PanelApp, distilled to
+    `inputs/iei/panelapp_iei_genes.tsv` (panel 398 "Primary immunodeficiency or monogenic IBD"
+    v9.18 + panel 1075 "Autoinflammatory disorders" v3.10; confidence 3=green/diagnostic-grade
+    = primary set, also a MONOALLELIC/dominant = haploinsufficiency-compatible green subset).
+    Match by HGNC ID (catalog symbol→hgnc_id via `inputs/hgnc_complete_set.txt` incl.
+    alias/prev; symbol fallback). Universe = full classified catalog (1153); one-vs-rest Fisher
+    OR WITHIN that universe; merges alpha/beta lineage (12) + gene-origin window (05d).
+    Inputs: `TF_dup_2x2_classification.tsv`, `inputs/iei/panelapp_iei_genes.tsv`,
+    `inputs/hgnc_complete_set.txt`, `TF_ohnolog_alpha_beta.tsv`, `TF_gene_origin_age_2R.full.tsv`.
+    Outputs: `results/TF_IEI_disease_genes.tsv` (per-TF annot + IEI flags + MOI),
+    `results/TF_IEI_enrichment.summary.tsv`, `results/figures/TF_IEI_disease_enrichment.{pdf,png}`.
+    RESULT: 42/1153 paralogous TFs are green IEI genes; enrichment is driven by PROVENANCE not
+    buffering. dispersed_ohnolog OR=3.53 (p=2e-4; the same identity-TF reservoir as Part III);
+    ohnolog-vs-SSD OR=4.34 (p=1e-4); pre-R1-ancient-vs-younger OR=3.40 (p=0.003); clustered-vs-
+    dispersed (buffered vs unbuffered) ns (OR=0.73). Strongest for the monoallelic/dominant
+    subset (dispersed_ohnolog OR=4.55). P01 tie-in: SPI1/PU.1 + ELF4 are dispersed_ohnolog green
+    IEI genes; ETS1/FLI1 is the clustered buffered pair and is NOT monogenic (polygenic lupus
+    GWAS) — buffering may convert a monogenic dosage gene into a polygenic risk locus.
+    CAVEAT: enrichment is WITHIN the paralogous-TF universe (not genome-wide); IEI=monogenic
+    only (polygenic autoimmunity is in the GWAS layer); PanelApp green is curated but evolving.
+
+########################################## Part VII — Polygenic (GWAS) complex-immune-disease enrichment ##########################################
+
+  - `14_gwas_curate_immune_disease_genes.py`. Curates GWAS genes for 5 COMPLEX immune diseases
+    (SLE_lupus, rheumatoid_arthritis, allergy, asthma, type_1_diabetes) from the NHGRI-EBI GWAS
+    Catalog full ontology-annotated associations, read IN PLACE from
+    `../iteration7_05.20.2026/inputs/gwas_catalog_full.tsv` (project convention, not copied).
+    Keeps genome-wide-significant rows (PVALUE_MLOG>=7.3 = P<=5e-8), matches diseases on
+    MAPPED_TRAIT + DISEASE/TRAIT, explodes MAPPED_GENE (nearest/overlapping; intergenic SNPs
+    give both flanking genes), flags is_MHC + is_protein_coding (via HGNC). Outputs
+    `results/gwas_immune_disease_genes.long.tsv` (gene x disease), `.by_disease.tsv`, and a light
+    copy `inputs/gwas/gwas_immune_disease_genes.tsv`. Protein-coding non-MHC gene counts: SLE 412,
+    RA 444, allergy 1608, asthma 639, T1D 271. Top loci recover textbook biology (SLE STAT4/IRF5/
+    ETS1; asthma IL33/IL1RL1/TSLP; T1D INS/IL2RA/PTPN22).
+  - `15_gwas_TF_enrichment.py`. Intersects the curated GWAS genes (protein-coding non-MHC) with
+    the 4-group catalog and computes one-vs-rest Fisher OR per dup_class4 (per disease + union),
+    + the same headline contrasts as 13, merging lineage (12) / origin (05d) / IEI flag (13) for
+    a MONOGENIC-vs-POLYGENIC contrast. Inputs: `gwas_immune_disease_genes.long.tsv`,
+    `TF_dup_2x2_classification.tsv`, `inputs/hgnc_complete_set.txt`, `TF_ohnolog_alpha_beta.tsv`,
+    `TF_gene_origin_age_2R.full.tsv`, `TF_IEI_disease_genes.tsv`. Outputs
+    `results/TF_GWAS_disease_genes.tsv`, `results/TF_GWAS_enrichment.summary.tsv`,
+    `results/figures/TF_GWAS_disease_enrichment.{pdf,png}`.
+    RESULT (the monogenic->polygenic FLIP): 245/1153 (21%) paralogous TFs are GWAS genes.
+    clustered_cis_ohnolog is the MOST GWAS-enriched category (29.2%, OR=1.61, p=0.045) despite
+    being at BACKGROUND for monogenic IEI (3.8%) — buffering converts a monogenic dosage gene
+    into a polygenic risk locus. dispersed_ohnolog also enriched (26%, OR=1.67); ohnolog-vs-SSD
+    OR=2.06 (p=2e-6); dispersed_SSD depleted (OR=0.50). The GWAS-not-IEI clustered_cis_ohnolog
+    TFs are the ETS archetypes ETS1/FLI1/ERG (+STAT5A/BATF/EHF/ETV3) — lupus/allergy GWAS loci,
+    not Mendelian = the Vahedi autoimmunity pole. CAVEAT: nearest-gene mapping (not fine-mapped),
+    MHC excluded, enrichment within the paralogous-TF universe.
+
 ### How to run (from the iteration root)
 ```
 PY=/mnt/alvand/apps/anaconda2/envs/py3/bin/python3
@@ -272,6 +327,9 @@ $PY scripts/05c_TF_age_distribution_by_category.py         # duplication-age dis
 $PY scripts/05d_gene_origin_age_full_catalog.py            # gene-origin age, all 1153 TFs (biomart; ~10 min)
 $PY scripts/10b_cytokine_DEG_heatmaps_by_category.py [TOP_N]   # cytokine DEG heatmaps per category
 $PY scripts/12_alpha_beta_ohnolog_DEG_OR.py               # Part V: alpha/beta ohnolog DEG OR (Zhu 2026)
+$PY scripts/13_IEI_disease_gene_enrichment.py            # Part VI: monogenic immune-disease (IEI) enrichment
+$PY scripts/14_gwas_curate_immune_disease_genes.py       # Part VII: curate GWAS genes (5 complex diseases; reads iteration7 catalog)
+$PY scripts/15_gwas_TF_enrichment.py                     # Part VII: GWAS enrichment by category + monogenic-vs-polygenic flip
 ```
 
 ### CAVEATS to carry

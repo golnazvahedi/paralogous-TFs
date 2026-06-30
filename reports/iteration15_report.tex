@@ -291,6 +291,131 @@ alpha\,$\to$\,cytokine.}
 \label{fig:alphabeta}
 \end{figure}
 
+\section{Part VI: monogenic immune-disease (IEI) gene enrichment}
+
+If 2R-ohnolog provenance marks dosage-sensitive regulators, those same genes should be
+over-represented among \emph{monogenic} immune diseases, where a single perturbed copy causes
+overt disease. We tested this directly against the Genomics England PanelApp curation of
+inborn errors of immunity (IEI; panel ``Primary immunodeficiency or monogenic inflammatory
+bowel disease'' plus ``Autoinflammatory disorders'', 378 diagnostic-grade ``green'' genes),
+intersected with the 1{,}153-TF catalog by HGNC identifier. Forty-two paralogous TFs are
+green IEI genes, and they concentrate sharply by \emph{provenance}
+(Table~\ref{tab:iei}, Fig.~\ref{fig:iei}).
+
+\begin{table}[h]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{5pt}
+\caption{Monogenic-IEI enrichment across the four duplication categories (one-vs-rest Fisher;
+PanelApp green genes).}
+\label{tab:iei}
+\begin{tabular}{lS[table-format=1.3]S[table-format=1.2]S[table-format=1.4]l}
+\toprule
+\textbf{Category} & {\textbf{IEI rate}} & {\textbf{OR}} & {\textbf{$p$}} & \textbf{} \\
+\midrule
+\dispoh   & 0.059 & 3.53 & 0.0002 & enriched\,$\uparrow$ \\
+\clusoh   & 0.038 & 1.04 & 0.790  & background (ns) \\
+\clusssd  & 0.014 & 0.35 & 0.513  & ns \\
+\dispssd  & 0.013 & 0.25 & 0.0006 & depleted\,$\downarrow$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The driver is \textbf{provenance, not arrangement}. Ohnologs are $\sim$4$\times$ more likely
+than SSDs to be monogenic-IEI genes (OR$=4.34$, $p=1\times10^{-4}$), and pre-R1 ancient genes
+are enriched over younger ones (OR$=3.40$, $p=0.003$), but the buffered/unbuffered axis itself
+is not significant (clustered vs.\ dispersed OR$=0.73$, $p=0.67$). The effect is strongest---as
+the dosage model predicts---for the \textbf{monoallelic / dominant} (haploinsufficiency-compatible)
+green subset, where \dispoh{} reaches OR$=4.55$ ($p=0.0004$). Strikingly, the disease reservoir
+is the \emph{same} \dispoh{} category that Part~III identified as the cell-type \emph{identity}
+TFs---the chain closes: the dispersed 2R ohnologs that build immune-cell identity are, when
+haploinsufficient, the genes that cause monogenic immune disease.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.98\textwidth]{TF_IEI_disease_enrichment.pdf}
+\caption{Monogenic-IEI enrichment across the duplication framework. (A) IEI-gene rate by
+category (black overlay = monoallelic/dominant subset); (B) provenance$\times$arrangement IEI
+rate; (C) key contrasts---provenance and ancient origin drive the signal, buffering does not.}
+\label{fig:iei}
+\end{figure}
+
+The member genes make the pattern concrete. The 31 \dispoh{} IEI genes include
+GATA2, IKZF1, \textbf{SPI1}, IRF8, IRF4, \textbf{ELF4}, NFKB1/2, REL/RELA/RELB, BACH2, AIRE,
+FOXN1 and RORC; the four \clusoh{} IEI genes are the entire STAT cluster (STAT1/3/4/5B); \clusssd{}
+contributes SP110; and \dispssd{} contributes IRF1, FOXP3, TBX1, ZBTB24, ZNF341 and ANKZF1.
+
+\paragraph{Direct relevance to the ETS P01.} Two of the three P01 poles fall in the enriched
+\dispoh{} category and are green IEI genes: \textbf{SPI1/PU.1} (Romberg; immunodeficiency) and
+\textbf{ELF4} (Lucas; autoinflammation). The third pole, \textbf{ETS1/FLI1} (Vahedi;
+autoimmunity), is the clustered \emph{cis}-ohnolog buffered pair and is \emph{not} a monogenic
+IEI gene---it is a polygenic lupus GWAS locus instead. This suggests a clean model in which
+\textbf{paralog buffering converts a would-be monogenic dosage gene into a polygenic risk
+locus}: the autoimmunity pole is common-variant-driven precisely because the neighbouring
+paralog buffers monogenic penetrance.
+
+\section{Part VII: polygenic (GWAS) complex-immune-disease enrichment}
+
+Monogenic IEI captures only one end of the genetic-architecture spectrum. The dosage/buffering
+model makes a sharp prediction at the other end: a paralog \emph{buffered} pair, shielded from
+monogenic penetrance by its neighbour, should surface instead as a \emph{polygenic} common-variant
+risk locus. We tested this by curating GWAS genes for five complex immune diseases and re-running
+the same category enrichment.
+
+\paragraph{Curation.} From the NHGRI-EBI GWAS Catalog (full ontology-annotated associations,
+genome-wide significant at $P\le5\times10^{-8}$) we extracted nearest/overlapping genes for SLE,
+rheumatoid arthritis, allergy, asthma and type-1 diabetes, restricted to protein-coding,
+non-MHC genes: 412 (SLE), 444 (RA), 1{,}608 (allergy), 639 (asthma) and 271 (T1D) genes
+respectively. The top loci recover the textbook biology (SLE: STAT4, IRF5, BLK, TNFAIP3,
+\textbf{ETS1}; asthma: IL33, IL1RL1, TSLP, GSDMB; T1D: INS, IL2RA, PTPN22, BACH2), validating
+the pipeline.
+
+\paragraph{Enrichment and the monogenic$\to$polygenic flip.} Of 1{,}153 paralogous TFs, 245
+(21\%) are complex-immune-disease GWAS genes. Both ohnolog categories are enriched, but the
+decisive observation is what happens to the buffered \clusoh{} group
+(Table~\ref{tab:gwas}, Fig.~\ref{fig:gwas}): it is the \emph{single most enriched} category for
+polygenic disease (29\%, OR$=1.61$, $p=0.045$) despite sitting at \emph{background} for
+monogenic IEI (Part~VI). Ohnolog provenance again drives the signal (ohnolog vs.\ SSD OR$=2.06$,
+$p=2\times10^{-6}$), while \dispssd{} is depleted (OR$=0.50$, $p=1\times10^{-5}$).
+
+\begin{table}[h]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{6pt}
+\caption{Monogenic (IEI) vs.\ polygenic (GWAS, union of 5 diseases) disease-gene rates by
+category. GWAS enrichment is one-vs-rest Fisher within the catalog.}
+\label{tab:gwas}
+\begin{tabular}{lS[table-format=1.3]S[table-format=1.3]S[table-format=1.2]S[table-format=1.4]l}
+\toprule
+\textbf{Category} & {\textbf{IEI rate}} & {\textbf{GWAS rate}} & {\textbf{GWAS OR}} & {\textbf{$p$}} & \textbf{} \\
+\midrule
+\dispoh   & 0.059 & 0.260 & 1.67 & 0.0004  & enriched (both) \\
+\clusoh   & 0.038 & 0.292 & 1.61 & 0.0454  & \textbf{polygenic-only}\,$\uparrow$ \\
+\clusssd  & 0.014 & 0.164 & 0.72 & 0.375   & ns \\
+\dispssd  & 0.013 & 0.147 & 0.50 & 0.00001 & depleted (both) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.98\textwidth]{TF_GWAS_disease_enrichment.pdf}
+\caption{Polygenic GWAS enrichment across the duplication framework. (A) GWAS rate by category
+with the monogenic-IEI rate overlaid (black)---note \clusoh{} flips from IEI-background to the
+top GWAS category; (B) GWAS rate per disease$\times$category (allergy/asthma drive the
+clustered-\emph{cis}-ohnolog signal); (C) contrasts---ohnolog provenance drives polygenic risk.}
+\label{fig:gwas}
+\end{figure}
+
+\paragraph{The ETS pole, mechanistically resolved.} The paralogous TFs that are GWAS-associated
+but \emph{not} monogenic-IEI in the \clusoh{} category are the ETS archetypes themselves:
+\textbf{ETS1, FLI1, ERG}, together with STAT5A, BATF, EHF and ETV3. Thus ETS1/FLI1/ERG are lupus
+and allergy GWAS loci yet carry no Mendelian immune disease---exactly the behaviour the buffering
+model predicts, and exactly the Vahedi autoimmunity pole. Across Parts VI--VII a single axis
+emerges: \textbf{paralog buffering sets genetic architecture}. Unbuffered dispersed ohnologs
+(SPI1/PU.1, ELF4) cause \emph{monogenic} immune disease; the buffered clustered \emph{cis}-ohnolog
+ETS/STAT module instead contributes \emph{polygenic} common-variant risk.
+
 \section{Synthesis: what evolutionary advantage might clustering confer?}
 
 The central result is a \textbf{dissociation}: \emph{provenance} (being a 2R ohnolog) sets

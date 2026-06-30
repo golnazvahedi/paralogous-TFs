@@ -1,0 +1,6 @@
+disease	n_associations	n_studies	n_genes	n_genes_proteincoding_noMHC
+SLE_lupus	1145	74	606	412
+rheumatoid_arthritis	2738	102	701	444
+allergy	4394	448	2690	1608
+asthma	3835	163	962	639
+type_1_diabetes	1054	93	426	271

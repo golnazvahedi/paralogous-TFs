@@ -1,0 +1,653 @@
+hgnc_id	gene_symbol	confidence_level	mode_of_inheritance	panel	panel_id	panel_version
+HGNC:25070	ACD	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:124	ACP5	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:186	ADA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1839	ADA2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:195	ADAM17	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:225	ADAR	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:328	AGR2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:13203	AICDA	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:360	AIRE	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:362	AK2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:437	ALPI	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:20917	ALPK1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:25527	ANKZF1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:566	AP3B1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:704	ARPC1B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:708	ARPC5	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:795	ATM	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:868	ATP6AP1	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:914	B2M	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14078	BACH2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:989	BCL10	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1058	BLM	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14211	BLNK	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8549	BLOC1S6	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1133	BTK	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:28672	C17orf62	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1241	C1QA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1242	C1QB	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1245	C1QC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1246	C1R	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1247	C1S	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1248	C2	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:26799	C2orf69	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1318	C3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1323	C4A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1324	C4B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1331	C5	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1339	C6	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1346	C7	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1352	C8A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1353	C8B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1358	C9	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16393	CARD11	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16446	CARD14	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:16391	CARD9	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:27089	CARMIL2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1509	CASP8	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1542	CBLB	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29426	CCBE1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1633	CD19	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1677	CD247	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11922	CD27	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1673	CD3D	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1674	CD3E	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1675	CD3G	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1678	CD4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11919	CD40	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11935	CD40LG	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:6953	CD46	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2665	CD55	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1689	CD59	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11937	CD70	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1698	CD79A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1699	CD79B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1701	CD81	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1736	CDC42	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:14628	CDCA7	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1836	CEBPE	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2771	CFD	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4883	CFH	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5394	CFI	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8864	CFP	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:20626	CHD7	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:16920	CIB1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7067	CIITA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:30664	CLPB	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2214	COL7A1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2230	COPA	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:2252	CORO1A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2336	CR2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2348	CREBBP	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:2435	CSF2RA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2436	CSF2RB	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2439	CSF3R	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2505	CTLA4	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:2519	CTPS1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2528	CTSC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6027	CXCR2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2561	CXCR4	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:2577	CYBA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2578	CYBB	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	PID_IBD	398	9.18
+HGNC:15594	DBR1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17642	DCLRE1C	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2760	DEF6	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2876	DIAPH1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2890	DKC1	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:27030	DNAJC21	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2959	DNASE1L3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2960	DNASE2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2979	DNMT3B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23483	DOCK11	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:2988	DOCK2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:19191	DOCK8	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18648	DPP9	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3078	DUT	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25789	EFL1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3309	ELANE	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:3319	ELF4	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	PID_IBD	398	9.18
+HGNC:3373	EP300	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:29331	EPG5	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:26922	ERCC6L2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3518	EXTL3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3530	F12	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:3573	FADD	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11920	FAS	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11936	FASLG	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23109	FAT4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29002	FCHO1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15889	FERMT1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23151	FERMT3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29418	FNIP1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12765	FOXN1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6106	FOXP3	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:24861	G6PC3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4057	G6PD	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:4170	GATA1	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:4171	GATA2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:4237	GFI1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:28980	GINS1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4385	GNAI2	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:4688	GUCY2C	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:18437	HAVCR2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16915	HAX1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4861	HELLS	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5013	HMOX1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5163	HPS1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15844	HPS4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18817	HPS6	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14348	HTRA2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16931	HYOU1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5351	ICOS	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18873	IFIH1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5432	IFNAR1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5433	IFNAR2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5439	IFNGR1	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5440	IFNGR2	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5541	IGHM	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5870	IGLL1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5960	IKBKB	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5961	IKBKG	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:13176	IKZF1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:13177	IKZF2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:13178	IKZF3	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:5962	IL10	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5964	IL10RA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5965	IL10RB	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5970	IL12B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5971	IL12RB1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5985	IL17RA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18358	IL17RC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6000	IL1RN	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6006	IL21R	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:19100	IL23R	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6008	IL2RA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6009	IL2RB	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6010	IL2RG	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:15561	IL36RN	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6019	IL6R	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6021	IL6ST	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6023	IL7	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6024	IL7R	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17967	IRAK4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6116	IRF1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:21729	IRF2BP2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:6119	IRF4	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:6122	IRF7	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5358	IRF8	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4053	ISG15	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:13890	ITCH	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6155	ITGB2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6171	ITK	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6182	ITPR3	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:26926	JAGN1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6190	JAK1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:6193	JAK3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12637	KDM6A	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	PID_IBD	398	9.18
+HGNC:7132	KMT2A	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:7133	KMT2D	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:26789	LACC1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29796	LAMTOR2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18874	LAT	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6524	LCK	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6529	LCP2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6598	LIG1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6601	LIG4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14450	LPIN2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1742	LRBA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6735	LYN	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:1968	LYST	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:28880	MAGT1	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:6819	MALT1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6853	MAP3K14	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6947	MCM4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23357	MCTS1	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:3498	MECOM	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:6998	MEFV	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:24862	MOGS	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29619	MPEG1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:7373	MSN	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:7432	MTHFD1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7530	MVK	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7562	MYD88	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7603	MYO5B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29401	MYSM1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7652	NBN	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7660	NCF1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7661	NCF2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7662	NCF4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4862	NCKAP1L	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7774	NFAT5	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:7782	NFE2L2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:7794	NFKB1	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:7795	NFKB2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:7797	NFKBIA	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:25737	NHEJ1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14377	NHP2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16412	NLRC4	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:14374	NLRP1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:22938	NLRP12	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:16400	NLRP3	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:5331	NOD2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:7897	NPC1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7677	NSMCE3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:22208	NUDCD3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8086	OAS1	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:25896	ORAI1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25118	OTULIN	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8609	PARN	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8615	PAX1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8840	PEPD	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8907	PGM3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8983	PI4KA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8977	PIK3CD	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8978	PIK3CG	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8979	PIK3R1	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9066	PLCG2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9071	PLG	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:7892	PNP	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9173	POLA1	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:9175	POLD1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9177	POLE	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:20330	POMP	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:9360	PRF1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9369	PRIM1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9399	PRKCD	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9413	PRKDC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9538	PSMB10	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9545	PSMB8	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9580	PSTPIP1	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:21290	PTCRA	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9650	PTPN2	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:9666	PTPRC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9766	RAB27A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9802	RAC2	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9831	RAG1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9832	RAG2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9848	RANBP2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9878	RASGRP1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15864	RBCK1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9949	RECQL4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9954	REL	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9955	RELA	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:9956	RELB	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9986	RFX5	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9987	RFXANK	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9988	RFXAP	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10019	RIPK1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10031	RMRP	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18518	RNASEH2A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25671	RNASEH2B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:24116	RNASEH2C	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:26661	RNF168	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:34033	RNU7-1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10260	RORC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6502	RPSA	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:15888	RTEL1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1348	SAMD9	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:1349	SAMD9L	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:15925	SAMHD1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15975	SASH3	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:19440	SBDS	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18276	SEC61A1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:1228	SERPING1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10817	SGPL1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10820	SH2D1A	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:10898	SKIV2L	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23096	SLC29A3	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:20197	SLC35C1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4061	SLC37A4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17129	SLC39A4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4927	SLC39A7	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:30521	SLC46A1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11065	SLC7A7	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10955	SLCO2A1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11102	SMARCAL1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11107	SMARCD2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:32621	SNORA31	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:19383	SOCS1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:5401	SP110	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11241	SPI1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:15464	SPINK5	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:30227	SPPL2A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11301	SRP54	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11362	STAT1	3	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11363	STAT2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11364	STAT3	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:11365	STAT4	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:11367	STAT5B	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11368	STAT6	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:11386	STIM1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11408	STK4	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11429	STX11	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11445	STXBP2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11446	STXBP3	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11491	SYK	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:43	TAP1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:44	TAP2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11577	TAZ	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:11584	TBK1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11592	TBX1	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11633	TCF3	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11653	TCN2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25941	TET2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11763	TFRC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11766	TGFB1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11772	TGFBR1	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11773	TGFBR2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:18348	TICAM1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11849	TLR3	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15631	TLR7	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	PID_IBD	398	9.18
+HGNC:15632	TLR8	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	PID_IBD	398	9.18
+HGNC:18021	TMC6	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:20474	TMC8	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11866	TMEFF1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:27962	TMEM173	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11896	TNFAIP3	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11916	TNFRSF1A	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11924	TNFRSF9	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11990	TOP2B	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:12016	TPP2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12029	TRAC	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12033	TRAF3	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:1343	TRAF3IP2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12269	TREX1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16379	TRIM22	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17341	TRNT1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23639	TTC37	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:19750	TTC7A	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12440	TYK2	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23147	UNC13D	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:13481	UNC93B1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12572	UNG	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25792	USB1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12616	USP18	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2183	VPS13B	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14579	VPS45	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12731	WAS	3	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:12754	WDR1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12736	WIPF1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:592	XIAP	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	PID_IBD	398	9.18
+HGNC:12858	ZAP70	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:21143	ZBTB24	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15992	ZNF341	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29271	ZNFX1	3	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:484	ANGPT1	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:18971	AP1S3	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:568	AP3D1	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25567	ATAD3A	2	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:13222	BCL11B	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:17298	BRF2	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17057	CARD8	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:1500	CASP10	2	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1706	CD8A	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1037	CFB	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1884	CFTR	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:26169	CTC1	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17641	DCLRE1B	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15842	ERBIN	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:3619	FCGR3A	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3696	FGL2	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3766	FLT3LG	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18267	FMNL2	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:35123	FOXI3	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:3826	FPR1	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23218	GCC2	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18005	GIMAP5	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4662	GTF3A	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5234	HSPA1L	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:5716	IGKC	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16404	IL17F	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:5993	IL1R1	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:6005	IL21	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17290	IL27RA	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9853	IPO8	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6118	IRF3	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:6131	IRF9	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6150	ITGAV	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6179	ITPKB	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16951	IVNS1ABP	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:6224	KCNA5	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6407	KRAS	2	Unknown	PID_IBD	398	9.18
+HGNC:29623	MAN2B2	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6922	MBL2	2	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14334	MKL1	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7218	MPO	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17091	NCSTN	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:14378	NOP10	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7989	NRAS	2	Other - please specifiy in evaluation comments	PID_IBD	398	9.18
+HGNC:9065	PLCG1	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:20932	POLD3	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:30074	POLR3A	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:30076	POLR3C	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:30100	PSENEN	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9532	PSMA3	2		PID_IBD	398	9.18
+HGNC:9541	PSMB4	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9546	PSMB9	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9588	PTEN	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:30249	QSOX2	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29434	RC3H1	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17851	REXO2	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:20788	RHBDF2	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:686	RHOH	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16031	RNF31	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:34016	RNU4ATAC	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:34017	RNU6ATAC	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16941	SCGN	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:30402	SENP7	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:10937	SLC19A1	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11013	SLC30A2	2	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11073	SLC9A3	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11303	SRP72	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:11566	TAPBP	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11727	TERC	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11730	TERT	2	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11824	TINF2	2	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11908	TNFRSF11A	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17755	TNFRSF13C	2	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29859	ABI3	1	Unknown	PID_IBD	398	9.18
+HGNC:132	ACTB	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:463	AMFR	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:618	APOL1	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:26545	ARHGAP42	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:681	ARHGEF1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18318	ASXL1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16489	ATG4A	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:1100	BRCA1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1101	BRCA2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1354	C8G	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16422	CARD10	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17635	CD274	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1653	CD28	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4888	CFHR1	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4890	CFHR2	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16980	CFHR3	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16979	CFHR4	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:24668	CFHR5	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1974	CHUK	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2025	CLCN7	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:13164	CNBP	1	Other	PID_IBD	398	9.18
+HGNC:17213	COLEC11	1		PID_IBD	398	9.18
+HGNC:2236	COPG1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:28657	CRACR2A	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:2434	CSF2	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:15879	CTNNBL1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25866	CXorf36	1	Unknown	PID_IBD	398	9.18
+HGNC:11529	EPCAM	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3434	ERCC2	1	Unknown	PID_IBD	398	9.18
+HGNC:3435	ERCC3	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3436	ERCC4	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:12691	EZR	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:28467	FAAP24	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3587	FANCF	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25568	FANCI	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:23168	FANCM	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:24674	FBF1	1		PID_IBD	398	9.18
+HGNC:20442	FBRS	1	Unknown	PID_IBD	398	9.18
+HGNC:3613	FCGR1A	1		PID_IBD	398	9.18
+HGNC:3616	FCGR2A	1		PID_IBD	398	9.18
+HGNC:3618	FCGR2B	1		PID_IBD	398	9.18
+HGNC:3620	FCGR3B	1	Unknown	PID_IBD	398	9.18
+HGNC:3621	FCGRT	1		PID_IBD	398	9.18
+HGNC:3625	FCN3	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:3818	FOXM1	1	Unknown	PID_IBD	398	9.18
+HGNC:3827	FPR2	1		PID_IBD	398	9.18
+HGNC:3828	FPR3	1		PID_IBD	398	9.18
+HGNC:4092	GAD1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:21918	GIMAP6	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:21157	GTF2H5	1		PID_IBD	398	9.18
+HGNC:4840	HCK	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:14178	HS3ST6	1	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:17087	ICOSLG	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5438	IFNG	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5526	IGHG2	1		PID_IBD	398	9.18
+HGNC:5972	IL12RB2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:5981	IL17A	1		PID_IBD	398	9.18
+HGNC:5986	IL18	1		PID_IBD	398	9.18
+HGNC:5987	IL18BP	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14900	IL22	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15488	IL23A	1		PID_IBD	398	9.18
+HGNC:18969	IL31RA	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:15563	IL37	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6018	IL6	1	Unknown	PID_IBD	398	9.18
+HGNC:26956	INO80	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6112	IRAK1	1	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:6149	ITGAM	1	Unknown	PID_IBD	398	9.18
+HGNC:4161	LRRC32	1	Unknown	PID_IBD	398	9.18
+HGNC:19027	LRRC8A	1	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:30860	LSM11	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6740	LYZ	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:34390	MAP1LC3B2	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:6881	MAPK8	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:6901	MASP1	1		PID_IBD	398	9.18
+HGNC:6902	MASP2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:18043	MCM10	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:22962	MED13L	1	Unknown	PID_IBD	398	9.18
+HGNC:7090	MICA	1	Unknown	PID_IBD	398	9.18
+HGNC:7216	MPI	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:4975	MR1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7230	MRE11	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7315	MS4A1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7329	MSH6	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25532	MTPAP	1	Unknown	PID_IBD	398	9.18
+HGNC:3656	MYOF	1	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:15625	NBAS	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15671	NFKBID	1		PID_IBD	398	9.18
+HGNC:7873	NOS2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8109	ODC1	1	Unknown	PID_IBD	398	9.18
+HGNC:21652	OSTM1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:270	PARP1	1	Unknown	PID_IBD	398	9.18
+HGNC:8760	PDCD1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29017	PLEKHM1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9122	PMS2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9176	POLD2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9178	POLE2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15763	POLR3F	1	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:9211	POU2AF1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9508	PSEN1	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:24929	PSMG2	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9652	PTPN22	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9816	RAD50	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9857	RAP1B	1	Other	PID_IBD	398	9.18
+HGNC:9957	RELN	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9967	RET	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:9992	RGS10	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:672	RHOG	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:21574	SAMD3	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:16860	SART3	1	Unknown	PID_IBD	398	9.18
+HGNC:10727	SEMA3E	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:10825	SH3BP2	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:13867	SH3KBP1	1	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:14929	SIRT1	1	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	PID_IBD	398	9.18
+HGNC:15827	SLC13A4	1	Unknown	PID_IBD	398	9.18
+HGNC:14974	SNX10	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11366	STAT5A	1	Unknown	PID_IBD	398	9.18
+HGNC:26200	STN1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11599	TBX21	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11647	TCIRG1	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11784	THBD	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:17192	TIRAP	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11845	TLN1	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:18153	TNFRSF13B	1	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11918	TNFRSF4	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11926	TNFSF11	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11927	TNFSF12	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:11928	TNFSF13	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:11939	TNFSF9	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:16903	TNIP1	1	Unknown	PID_IBD	398	9.18
+HGNC:11982	TOM1	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:23303	TSPAN14	1	Unknown	PID_IBD	398	9.18
+HGNC:18598	TUBGCP3	1	Unknown	PID_IBD	398	9.18
+HGNC:12469	UBA1	1	Other	PID_IBD	398	9.18
+HGNC:12565	UNC119	1	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:25522	WRAP53	1	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:29913	ZC3HC1	1	Unknown	PID_IBD	398	9.18
+HGNC:12862	ZFP36	1	Unknown	PID_IBD	398	9.18
+HGNC:13098	ZNF34	1	Unknown	PID_IBD	398	9.18
+HGNC:591	BIRC3	0	BOTH monoallelic and biallelic (but BIALLELIC mutations cause a more SEVERE disease form), autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1683	CD48	0	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:13273	DUOX2	0	Unknown	PID_IBD	398	9.18
+HGNC:3697	FGR	0	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:28226	GINS4	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:49748	GTF3AP5	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:14552	IKBKE	0	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:6148	ITGAL	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6215	KARS	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:6730	LY9	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17156	LY96	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7545	MYB	0	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	PID_IBD	398	9.18
+HGNC:7775	NFATC1	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7776	NFATC2	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:7889	NOX1	0	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:8507	OSMR	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:8619	PAX5	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:9658	PTPN6	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:15848	SEPT6	0	X-LINKED: hemizygous mutation in males, biallelic mutations in females	PID_IBD	398	9.18
+HGNC:29605	SH2B3	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:25321	SHARPIN	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:17710	SIT1	0	BIALLELIC, autosomal or pseudoautosomal	PID_IBD	398	9.18
+HGNC:1839	ADA2	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:20917	ALPK1	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	autoinflammatory	1075	3.10
+HGNC:16446	CARD14	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:2230	COPA	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:3319	ELF4	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	autoinflammatory	1075	3.10
+HGNC:5961	IKBKG	3	X-LINKED: hemizygous mutation in males, monoallelic mutations in females may cause disease (may be less severe, later onset than males)	autoinflammatory	1075	3.10
+HGNC:6000	IL1RN	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:15561	IL36RN	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:14450	LPIN2	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:6998	MEFV	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:7530	MVK	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:16412	NLRC4	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:22938	NLRP12	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:16400	NLRP3	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:5331	NOD2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:25118	OTULIN	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9066	PLCG2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:20330	POMP	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	autoinflammatory	1075	3.10
+HGNC:9541	PSMB4	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9545	PSMB8	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9546	PSMB9	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:9580	PSTPIP1	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:15864	RBCK1	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9955	RELA	3	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	autoinflammatory	1075	3.10
+HGNC:10019	RIPK1	3	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:10825	SH3BP2	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:23096	SLC29A3	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:11584	TBK1	3	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:27962	TMEM173	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:11896	TNFAIP3	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:11916	TNFRSF1A	3	MONOALLELIC, autosomal or pseudoautosomal, imprinted status unknown	autoinflammatory	1075	3.10
+HGNC:12469	UBA1	3	Other	autoinflammatory	1075	3.10
+HGNC:5985	IL17RA	2	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:13890	ITCH	2	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:21378	OGFRL1	2	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9065	PLCG1	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	autoinflammatory	1075	3.10
+HGNC:9360	PRF1	2	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9538	PSMB10	2	BOTH monoallelic and biallelic, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:9642	PTPN1	2	MONOALLELIC, autosomal or pseudoautosomal, NOT imprinted	autoinflammatory	1075	3.10
+HGNC:16031	RNF31	2	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:186	ADA	1	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:14388	GP6	1	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:14334	MKL1	1	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10
+HGNC:10702	SEC23B	1	BIALLELIC, autosomal or pseudoautosomal	autoinflammatory	1075	3.10

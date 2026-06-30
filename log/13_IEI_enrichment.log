@@ -1,0 +1,29 @@
+[13] IEI green genes: 378 | green+amber: 451 | green monoallelic: 112
+[13] paralogous TFs that are GREEN IEI genes: 42/1153 (3.6%); monoallelic subset: 28
+[13] per-category IEI-green rate + one-vs-rest OR:
+                            test   n    rate1       OR    ci_lo    ci_hi        p
+    onevsrest__dispersed_ohnolog 524 0.059160 3.532731 1.757860 7.099647 0.000207
+onevsrest__clustered_cis_ohnolog 106 0.037736 1.041280 0.364302 2.976273 0.790286
+ onevsrest__clustered_SSD_tandem  73 0.013699 0.351965 0.047724 2.595716 0.513157
+        onevsrest__dispersed_SSD 450 0.013333 0.250375 0.104625 0.599165 0.000574
+[13] headline contrasts (IEI-green):
+                                      test    rate1    rate2       OR    ci_lo     ci_hi        p             note
+              onevsrest__dispersed_ohnolog 0.059160 0.017488 3.532731 1.757860  7.099647 0.000207 31/524 vs 11/629
+          onevsrest__clustered_cis_ohnolog 0.037736 0.036294 1.041280 0.364302  2.976273 0.790286 4/106 vs 38/1047
+           onevsrest__clustered_SSD_tandem 0.013699 0.037963 0.351965 0.047724  2.595716 0.513157  1/73 vs 41/1080
+                  onevsrest__dispersed_SSD 0.013333 0.051209 0.250375 0.104625  0.599165 0.000574  6/450 vs 36/703
+              onevsrest__dispersed_ohnolog 0.041985 0.009539 4.550465 1.831065 11.308572 0.000394  22/524 vs 6/629
+          onevsrest__clustered_cis_ohnolog 0.037736 0.022923 1.671569 0.568846  4.911945 0.317142 4/106 vs 24/1047
+           onevsrest__clustered_SSD_tandem 0.000000 0.025926 0.251223 0.015185  4.156343 0.252070  0/73 vs 28/1080
+                  onevsrest__dispersed_SSD 0.004444 0.036984 0.116243 0.027453  0.492196 0.000246  2/450 vs 26/703
+buffered_clustered_vs_unbuffered_dispersed 0.027933 0.037988 0.727710 0.282055  1.877513 0.665178  5/179 vs 37/974
+                            ohnolog_vs_SSD 0.055556 0.013384 4.336134 1.909699  9.845561 0.000104  35/630 vs 7/523
+                             alpha_vs_beta 0.061224 0.055556 1.108696 0.435592  2.821922 1.000000  21/343 vs 6/108
+                  preR1_ancient_vs_younger 0.048322 0.014706 3.401975 1.421137  8.143783 0.002808  36/745 vs 6/408
+[13] IEI-green paralogous TFs by category:
+  dispersed_ohnolog (31): AIRE, BACH2, CEBPE, ELF4, FOXN1, GATA1, GATA2, GFI1, IKZF1, IKZF2, IKZF3, IRF4, IRF7, IRF8, KMT2A, MECOM, MYSM1, NFAT5, NFE2L2, NFKB1, NFKB2, PAX1, REL, RELA, RELB, RFX5, RORC, SPI1, STAT2, STAT6, TCF3
+  clustered_cis_ohnolog (4): STAT1, STAT3, STAT4, STAT5B
+  clustered_SSD_tandem (1): SP110
+  dispersed_SSD (6): ANKZF1, FOXP3, IRF1, TBX1, ZBTB24, ZNF341
+[13] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_IEI_disease_enrichment.pdf/.png
+[13] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_IEI_disease_genes.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_IEI_enrichment.summary.tsv

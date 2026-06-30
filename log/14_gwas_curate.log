@@ -1,0 +1,22 @@
+[14] reading /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration7_05.20.2026/inputs/gwas_catalog_full.tsv (selected columns) ...
+[14] genome-wide-significant associations (P<=5e-8): 954325
+[14]   SLE_lupus: 1145 assoc, 74 studies
+[14]   rheumatoid_arthritis: 2738 assoc, 102 studies
+[14]   allergy: 4394 assoc, 448 studies
+[14]   asthma: 3835 assoc, 163 studies
+[14]   type_1_diabetes: 1054 assoc, 93 studies
+[14] per-disease summary:
+             disease  n_associations  n_studies  n_genes  n_genes_proteincoding_noMHC
+           SLE_lupus            1145         74      606                          412
+rheumatoid_arthritis            2738        102      701                          444
+             allergy            4394        448     2690                         1608
+              asthma            3835        163      962                          639
+     type_1_diabetes            1054         93      426                          271
+[14] union of curated GWAS genes: 3993 total | 2474 protein-coding non-MHC
+[14] top protein-coding non-MHC genes per disease (by n_assoc):
+  SLE_lupus: STAT4, BLK, IRF5, TNFSF4, ITGAM, FAM167A, WDFY4, TNFAIP3, TNIP1, ETS1, TNPO3, ATG5, TYK2, SMG7, NCF2
+  rheumatoid_arthritis: CCR6, STAT4, PTPN22, ANKRD55, TYK2, PADI4, IRF5, ARID5B, CTLA4, MAGI3, ICOS, PTPN2, BTNL2, IL2RA, CD40
+  allergy: EMSY, IL18R1, CLEC16A, IL1RL1, OVOL1, SMAD3, IL2RA, IL13, WDR36, RTEL1, CCR7, SMARCE1, IL7R, ETS1, FLG
+  asthma: IL1RL1, SMAD3, GSDMB, EMSY, TSLP, IL18R1, IL33, D2HGDH, CLEC16A, STAT6, RANBP6, LPP, ITGB8, RORA, IRF1
+  type_1_diabetes: PHTF1, RSBN1, INS, CLEC16A, IL2RA, ERBB3, PTPN22, ATXN2, PTPN2, TCF7L2, MGAT3, TAP2, CTLA4, BACH2, IFIH1
+[14] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/gwas_immune_disease_genes.long.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/gwas_immune_disease_genes.by_disease.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/inputs/gwas/gwas_immune_disease_genes.tsv

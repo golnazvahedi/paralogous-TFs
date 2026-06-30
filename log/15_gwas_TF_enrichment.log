@@ -1,0 +1,25 @@
+[15] paralogous TFs that are GWAS genes (any of 5, protein-coding non-MHC): 245/1153 (21.2%)
+[15] per-category GWAS rate + one-vs-rest OR (union of 5 diseases):
+                            test   n    rate1       OR    ci_lo    ci_hi        p
+    onevsrest__dispersed_ohnolog 524 0.259542 1.672184 1.258490 2.221868 0.000393
+onevsrest__clustered_cis_ohnolog 106 0.292453 1.608910 1.031397 2.509791 0.045351
+ onevsrest__clustered_SSD_tandem  73 0.164384 0.715120 0.378697 1.350412 0.374930
+        onevsrest__dispersed_SSD 450 0.146667 0.503142 0.368492 0.686995 0.000012
+[15] headline contrasts (GWAS union):
+                                      test    rate1    rate2       OR    ci_lo    ci_hi        p
+buffered_clustered_vs_unbuffered_dispersed 0.240223 0.207392 1.208358 0.829436 1.760388 0.321484
+                            ohnolog_vs_SSD 0.265079 0.149140 2.057789 1.526525 2.773945 0.000002
+                             alpha_vs_beta 0.279883 0.277778 1.010526 0.623692 1.637289 1.000000
+                  preR1_ancient_vs_younger 0.222819 0.193627 1.193984 0.884405 1.611928 0.259424
+[15] MONOGENIC (IEI) vs POLYGENIC (GWAS-any) rate by category:
+  dispersed_ohnolog: IEI 0.059 | GWAS 0.260
+  clustered_cis_ohnolog: IEI 0.038 | GWAS 0.292
+  clustered_SSD_tandem: IEI 0.014 | GWAS 0.164
+  dispersed_SSD: IEI 0.013 | GWAS 0.147
+[15] GWAS-only (polygenic, not monogenic-IEI) paralogous TFs: 223
+  dispersed_ohnolog (121): AHR, ARID3A, ARID5B, ARNT, ARNTL, ATF3, ATF6, ATF6B, BAZ2B, BNC1, BNC2, CAMTA1, CREB1, CREB5, CTCF, CUX2, DBX1, EBF2, EBF3, EGR2, ELF1, EMX2, EOMES, ESR1, ETV6, ETV7, FOSL1, FOSL2, FOXA3, FOXB1 ...
+  clustered_cis_ohnolog (27): BATF, CEBPA, CRX, EHF, ERG, ETS1, ETV3, FLI1, FOXQ1, IRX1, IRX3, JDP2, KLF12, KLF5, NR1D1, NR1D2, PBX1, PDX1, RARB, SIX1, SIX4, STAT5A, THRA, THRB, ZFP64, ZFPM1, ZNF217
+  clustered_SSD_tandem (11): FERD3L, GTF2I, GTF2IRD1, ZBTB1, ZBTB43, ZNF107, ZNF579, ZSCAN12, ZSCAN16, ZSCAN23, ZSCAN31
+  dispersed_SSD (64): ADNP2, AEBP2, ASCL2, BATF3, BCL6, BHLHE40, CASZ1, CREBL2, DEAF1, DMRTA1, DOT1L, ESR2, FOXP1, FOXP2, FOXP4, GLI2, GLI3, HHEX, HLX, IRF5, JAZF1, KLF2, MAX, MTF1, MYNN, NR3C1, OLIG3, OVOL1, PAX4, PHF21A ...
+[15] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_GWAS_disease_enrichment.pdf/.png
+[15] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_GWAS_disease_genes.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_GWAS_enrichment.summary.tsv
