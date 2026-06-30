@@ -1,0 +1,4 @@
+gene	origin_window	origin_window_label	deepest_ortholog_species	deepest_clade	n_species_with_ortholog	invertebrate_ortholog	cyclostome_ortholog	gnathostome_ortholog	in_scerevisiae	in_celegans	in_dmelanogaster	in_cintestinalis	in_csavignyi	in_eburgeri	in_pmarinus	in_cmilii	in_lchalumnae	in_drerio	in_xtropicalis	in_ggallus	in_mmusculus	dup_class4	TF_subfamily	cluster_id	youngest_paralog_node	age_category	n_paralogs
+BCL6	before_R1	before R1 (pre-2R ancient)	cintestinalis	Tunicata	8	True	False	True	0	0	0	1	1	0	0	1	1	1	1	1	1	dispersed_SSD	C2H2 ZF		Bilateria	pre2R_ancient	28
+IRF1	before_R1	before R1 (pre-2R ancient)	cintestinalis	Tunicata	8	True	False	True	0	0	0	1	1	0	0	1	1	1	1	1	1	dispersed_SSD	IRF		Chordata	pre2R_ancient	8
+KLF2	before_R1	before R1 (pre-2R ancient)	dmelanogaster	Protostomia	6	True	True	True	0	0	1	1	1	1	0	0	0	0	1	0	1	dispersed_SSD	C2H2 ZF		Bilateria	pre2R_ancient	22

@@ -1,0 +1,362 @@
+gene	n_events	n_celltypes	n_cytokines	n_up	n_down	dup_class4	TF_subfamily
+ETV7	200	21	17	169	31	dispersed_ohnolog	Ets
+STAT1	128	22	13	105	23	clustered_cis_ohnolog	STAT
+STAT2	99	19	10	80	19	dispersed_ohnolog	STAT
+IRF7	91	21	10	58	33	dispersed_ohnolog	IRF
+TRAFD1	83	21	9	69	14	dispersed_SSD	C2H2 ZF
+IRF4	79	18	14	69	10	dispersed_ohnolog	IRF
+NFIA	76	16	14	1	75	dispersed_ohnolog	SMAD
+BHLHE40	62	20	12	55	7	dispersed_SSD	bHLH
+BATF3	56	15	14	51	5	dispersed_SSD	bZIP
+NR4A3	53	11	21	44	9	dispersed_ohnolog	Nuclear receptor
+ARNT2	52	5	18	45	7	dispersed_ohnolog	bHLH
+EGR1	46	6	21	33	13	dispersed_ohnolog	C2H2 ZF
+HDX	45	13	7	42	3	dispersed_SSD	Homeodomain
+SP140	41	15	8	37	4	clustered_SSD_tandem	SAND
+HESX1	41	8	10	29	12	dispersed_SSD	Homeodomain
+TCF7	39	17	10	11	28	dispersed_ohnolog	HMG/Sox
+PPARG	39	4	17	26	13	dispersed_ohnolog	Nuclear receptor
+ZNF618	38	15	12	24	14	dispersed_SSD	C2H2 ZF
+TBX21	37	9	12	34	3	dispersed_ohnolog	T-box
+RUNX2	36	11	14	11	25	dispersed_ohnolog	Runt
+SOX5	35	9	15	27	8	dispersed_ohnolog	HMG/Sox
+MXD4	35	11	7	0	35	dispersed_ohnolog	bHLH
+NFIL3	35	13	10	35	0	dispersed_SSD	bZIP
+NR1H3	34	5	13	19	15	dispersed_ohnolog	Nuclear receptor
+GLIS3	34	6	14	8	26	dispersed_ohnolog	C2H2 ZF
+MXI1	33	13	10	1	32	dispersed_ohnolog	bHLH
+SETBP1	33	14	9	32	1	dispersed_SSD	AT hook
+ATF5	33	8	9	28	5	dispersed_ohnolog	bZIP
+NFXL1	33	4	12	9	24	dispersed_SSD	NFX
+SCML4	30	12	12	18	12	dispersed_ohnolog	AT hook
+ETS2	29	15	6	29	0	clustered_cis_ohnolog	Ets
+ZNF366	29	5	16	19	10	dispersed_SSD	C2H2 ZF
+XBP1	29	15	7	28	1	dispersed_SSD	bZIP
+FOS	28	4	11	17	11	clustered_cis_ohnolog	bZIP
+MAF	28	6	12	15	13	dispersed_ohnolog	bZIP
+KLF2	28	14	10	1	27	dispersed_SSD	C2H2 ZF
+ZNF804A	28	9	20	16	12	dispersed_SSD	C2H2 ZF
+EGR2	27	5	9	20	7	dispersed_ohnolog	C2H2 ZF
+IRF1	27	12	6	18	9	dispersed_SSD	IRF
+TSHZ2	26	9	15	20	6	clustered_cis_ohnolog	C2H2 ZF
+ZNF704	26	9	11	7	19	dispersed_ohnolog	C2H2 ZF
+VDR	25	13	8	25	0	dispersed_ohnolog	Nuclear receptor
+KLF10	25	13	9	24	1	dispersed_ohnolog	C2H2 ZF
+CREB5	25	6	14	10	15	dispersed_ohnolog	bZIP
+BCL6	25	13	8	22	3	dispersed_SSD	C2H2 ZF
+ARID5B	24	9	14	21	3	dispersed_ohnolog	ARID/BRIGHT
+BHLHE41	24	4	11	12	12	dispersed_SSD	bHLH
+HES4	24	4	9	23	1	dispersed_ohnolog	bHLH
+SREBF1	24	15	5	24	0	dispersed_ohnolog	bHLH
+ZNF831	23	14	9	9	14	dispersed_ohnolog	C2H2 ZF
+POU6F1	23	12	8	5	18	dispersed_SSD	Homeodomain; POU
+SP110	23	13	5	18	5	clustered_SSD_tandem	SAND
+ESR1	23	9	10	10	13	dispersed_ohnolog	Nuclear receptor
+BATF	23	13	8	23	0	clustered_cis_ohnolog	bZIP
+ZNF318	22	14	5	2	20	dispersed_SSD	C2H2 ZF
+MYBL1	22	5	17	22	0	dispersed_ohnolog	Myb/SANT
+AHR	22	11	4	21	1	dispersed_ohnolog	bHLH
+CEBPB	22	7	9	18	4	dispersed_ohnolog	bZIP
+ST18	22	4	13	1	21	dispersed_ohnolog	C2H2 ZF
+TCF7L1	22	3	9	22	0	dispersed_ohnolog	HMG/Sox
+KDM2B	22	11	5	0	22	dispersed_ohnolog	CxxC
+FOSL2	22	8	12	12	10	dispersed_ohnolog	bZIP
+PAX5	22	5	10	19	3	dispersed_ohnolog	Paired box
+THRA	21	13	4	1	20	clustered_cis_ohnolog	Nuclear receptor
+POU2F2	21	6	7	1	20	dispersed_ohnolog	Homeodomain; POU
+ZNF395	21	3	10	3	18	dispersed_ohnolog	C2H2 ZF
+KLF5	21	5	11	15	6	clustered_cis_ohnolog	C2H2 ZF
+ETV5	21	4	12	16	5	dispersed_ohnolog	Ets
+ZEB1	20	7	10	18	2	dispersed_ohnolog	C2H2 ZF; Homeodomain
+EPAS1	20	8	8	12	8	dispersed_ohnolog	bHLH
+MEF2C	20	6	7	2	18	dispersed_ohnolog	MADS box
+HIF1A	20	14	6	20	0	dispersed_ohnolog	bHLH
+IRF8	20	8	13	15	5	dispersed_ohnolog	IRF
+MAFB	19	6	12	16	3	dispersed_ohnolog	bZIP
+TRERF1	19	4	8	0	19	dispersed_ohnolog	C2H2 ZF; Myb/SANT
+ASCL2	19	4	8	13	6	dispersed_SSD	bHLH
+STAT4	19	7	7	19	0	clustered_cis_ohnolog	STAT
+MYCL	19	3	10	0	19	dispersed_ohnolog	bHLH
+NFATC2	19	6	10	18	1	dispersed_ohnolog	Rel
+LEF1	18	8	10	12	6	dispersed_ohnolog	HMG/Sox
+IKZF3	18	5	10	16	2	dispersed_ohnolog	C2H2 ZF
+TGIF1	18	12	5	4	14	dispersed_SSD	Homeodomain
+TFDP2	18	6	9	2	16	dispersed_ohnolog	E2F
+BACH2	18	6	12	15	3	dispersed_ohnolog	bZIP
+ESR2	18	5	9	2	16	dispersed_SSD	Nuclear receptor
+MAFF	18	4	9	17	1	dispersed_ohnolog	bZIP
+MYC	17	6	11	16	1	dispersed_ohnolog	bHLH
+EBF1	17	5	13	9	8	dispersed_ohnolog	EBF1
+MXD1	17	6	6	11	6	dispersed_ohnolog	bHLH
+AHRR	17	4	7	0	17	dispersed_ohnolog	bHLH
+BCL11B	17	5	12	14	3	dispersed_ohnolog	C2H2 ZF
+TFEC	17	8	9	13	4	dispersed_ohnolog	bHLH
+PRDM8	17	7	10	6	11	dispersed_SSD	C2H2 ZF
+SP100	16	12	4	14	2	clustered_SSD_tandem	SAND
+EBF4	16	3	13	12	4	dispersed_ohnolog	EBF1
+ZFHX3	16	5	7	4	12	dispersed_ohnolog	C2H2 ZF; Homeodomain
+ATF3	16	6	6	16	0	dispersed_ohnolog	bZIP
+FOSL1	16	5	8	16	0	dispersed_ohnolog	bZIP
+RUNX3	15	8	6	14	1	dispersed_ohnolog	Runt
+ZBTB16	15	6	9	3	12	dispersed_SSD	C2H2 ZF
+KLF6	15	10	3	15	0	dispersed_ohnolog	C2H2 ZF
+HMGA1	15	9	5	11	4	dispersed_SSD	AT hook
+ZNF521	15	2	14	0	15	dispersed_ohnolog	C2H2 ZF
+MSC	15	3	10	12	3	dispersed_ohnolog	bHLH
+NR3C2	14	4	9	12	2	dispersed_SSD	Nuclear receptor
+NFKB1	14	6	7	14	0	dispersed_ohnolog	Rel
+PPARD	14	5	7	5	9	dispersed_ohnolog	Nuclear receptor
+RORA	14	5	9	11	3	dispersed_ohnolog	Nuclear receptor
+RUNX1	14	11	3	11	3	dispersed_ohnolog	Runt
+PAX8	14	3	8	4	10	dispersed_ohnolog	Paired box
+PBX4	14	8	5	12	2	dispersed_ohnolog	Homeodomain
+PBX1	14	2	14	3	11	clustered_cis_ohnolog	Homeodomain
+IKZF2	14	8	5	12	2	dispersed_ohnolog	C2H2 ZF
+CEBPD	14	6	6	7	7	dispersed_ohnolog	bZIP
+HIVEP3	14	6	8	12	2	dispersed_ohnolog	C2H2 ZF
+BNC2	14	7	7	6	8	dispersed_ohnolog	C2H2 ZF
+BATF2	14	4	9	7	7	dispersed_SSD	bZIP
+EHF	13	3	9	7	6	clustered_cis_ohnolog	Ets
+MBNL2	13	7	9	1	12	dispersed_ohnolog	CCCH ZF
+ZBTB32	13	3	10	11	2	dispersed_SSD	C2H2 ZF
+TSHZ3	13	7	6	13	0	clustered_cis_ohnolog	C2H2 ZF
+JUN	13	5	10	10	3	dispersed_ohnolog	bZIP
+TSHZ1	13	6	4	3	10	dispersed_ohnolog	C2H2 ZF
+THRB	12	3	6	1	11	clustered_cis_ohnolog	Nuclear receptor
+DNMT1	12	7	7	6	6	dispersed_SSD	CxxC
+MYB	12	8	5	6	6	dispersed_ohnolog	Myb/SANT
+POU6F2	12	1	12	1	11	dispersed_SSD	Homeodomain; POU
+ARID5A	12	6	5	12	0	dispersed_ohnolog	ARID/BRIGHT
+MSANTD3	12	3	8	8	4	dispersed_SSD	MADF
+ZBTB46	12	5	8	4	8	dispersed_ohnolog	C2H2 ZF
+KLF7	12	6	5	2	10	dispersed_ohnolog	C2H2 ZF
+RELB	11	7	4	11	0	dispersed_ohnolog	Rel
+ZNF367	11	6	4	9	2	dispersed_SSD	C2H2 ZF
+RHOXF1	11	7	6	0	11	clustered_SSD_tandem	Homeodomain
+ZBTB20	11	8	4	0	11	dispersed_SSD	C2H2 ZF
+CEBPA	11	4	5	1	10	clustered_cis_ohnolog	bZIP
+TET1	10	4	5	0	10	dispersed_ohnolog	CxxC
+NFE2L3	10	7	4	7	3	dispersed_ohnolog	bZIP
+CASZ1	10	8	5	10	0	dispersed_SSD	C2H2 ZF
+ZFPM2	10	4	6	5	5	dispersed_ohnolog	C2H2 ZF
+FOXN2	10	4	5	7	3	dispersed_ohnolog	Forkhead
+TFDP1	10	7	5	8	2	dispersed_ohnolog	E2F
+ETS1	10	2	5	10	0	clustered_cis_ohnolog	Ets
+CREM	10	6	5	10	0	dispersed_ohnolog	bZIP
+SMAD3	10	6	5	3	7	dispersed_ohnolog	SMAD
+NCOA3	9	6	4	9	0	dispersed_ohnolog	bHLH
+SOX4	9	3	8	1	8	dispersed_ohnolog	HMG/Sox
+FOXC1	9	4	6	6	3	clustered_cis_ohnolog	Forkhead
+IKZF4	9	7	3	9	0	dispersed_ohnolog	C2H2 ZF
+ETV3	9	5	5	9	0	clustered_cis_ohnolog	Ets
+TCF7L2	9	4	5	7	2	dispersed_ohnolog	HMG/Sox
+FOXO1	9	5	7	2	7	dispersed_ohnolog	Forkhead
+FOXO3	9	4	5	8	1	dispersed_ohnolog	Forkhead
+MECOM	9	2	8	2	7	dispersed_ohnolog	C2H2 ZF
+TP63	9	2	9	2	7	dispersed_ohnolog	p53
+PRDM1	9	6	6	9	0	dispersed_ohnolog	C2H2 ZF
+L3MBTL4	9	5	6	5	4	dispersed_ohnolog	C2H2 ZF
+NFKB2	9	8	4	9	0	dispersed_ohnolog	Rel
+RBPJ	9	2	5	5	4	dispersed_SSD	CSL
+ZNF646	8	5	4	2	6	clustered_SSD_tandem	C2H2 ZF
+CXXC5	8	4	4	6	2	dispersed_ohnolog	CxxC
+ZNF516	8	5	3	8	0	clustered_SSD_tandem	C2H2 ZF
+GFI1	8	8	1	8	0	dispersed_ohnolog	C2H2 ZF
+RXRA	8	4	5	1	7	dispersed_ohnolog	Nuclear receptor
+MITF	8	3	5	6	2	dispersed_ohnolog	bHLH
+SNAI3	8	2	4	8	0	dispersed_ohnolog	C2H2 ZF
+ZBTB10	8	3	5	6	2	dispersed_ohnolog	C2H2 ZF
+NFIX	7	5	4	1	6	dispersed_ohnolog	SMAD
+INSM1	7	1	7	1	6	dispersed_ohnolog	C2H2 ZF
+PRRX2	7	4	3	7	0	dispersed_ohnolog	Homeodomain
+ZBED6	7	3	3	7	0	dispersed_SSD	BED ZF
+KLF4	7	4	5	4	3	dispersed_ohnolog	C2H2 ZF
+ZMAT1	7	5	4	0	7	dispersed_SSD	C2H2 ZF
+ZHX3	7	3	3	2	5	dispersed_SSD	Homeodomain
+FOXP4	7	4	4	2	5	dispersed_SSD	Forkhead
+ZNF697	7	3	4	7	0	dispersed_SSD	C2H2 ZF
+ZHX2	7	3	3	7	0	dispersed_SSD	Homeodomain
+SPIB	7	2	7	2	5	dispersed_SSD	Ets
+POU5F1B	7	4	4	1	6	dispersed_SSD	Homeodomain; POU
+BAZ2B	6	5	3	0	6	dispersed_ohnolog	MBD
+CUX2	6	5	3	5	1	dispersed_ohnolog	CUT; Homeodomain
+ARID3B	6	4	3	1	5	dispersed_ohnolog	ARID/BRIGHT
+ZNF652	6	3	4	0	6	dispersed_SSD	C2H2 ZF
+IRF5	6	3	4	5	1	dispersed_SSD	IRF
+NR1D2	6	4	4	0	6	clustered_cis_ohnolog	Nuclear receptor
+ZNF385A	6	4	4	2	4	dispersed_SSD	C2H2 ZF
+HIVEP2	6	2	3	6	0	dispersed_ohnolog	C2H2 ZF
+ZBED3	6	2	5	0	6	dispersed_SSD	BED ZF
+HHEX	6	1	6	0	6	dispersed_SSD	Homeodomain
+ZBTB18	6	4	4	0	6	dispersed_SSD	C2H2 ZF
+FOXP1	6	5	4	0	6	dispersed_SSD	Forkhead
+FOXM1	6	3	4	6	0	dispersed_SSD	Forkhead
+E2F7	6	3	4	6	0	dispersed_ohnolog	E2F
+MYBL2	6	3	5	6	0	dispersed_ohnolog	Myb/SANT
+ZNF107	6	3	2	6	0	clustered_SSD_tandem	C2H2 ZF
+ZNF438	5	4	3	0	5	dispersed_SSD	C2H2 ZF
+RFX2	5	4	2	4	1	dispersed_ohnolog	RFX
+ZBED1	5	3	2	0	5	dispersed_ohnolog	BED ZF
+ZNF827	5	4	4	4	1	dispersed_SSD	C2H2 ZF
+ZNF467	5	3	4	3	2	dispersed_SSD	C2H2 ZF
+ZNF600	5	3	2	0	5	dispersed_SSD	C2H2 ZF
+ZNF462	5	2	5	2	3	dispersed_ohnolog	C2H2 ZF
+ZNF385D	5	1	5	0	5	dispersed_ohnolog	C2H2 ZF
+ZNF365	5	4	3	5	0	dispersed_SSD	C2H2 ZF
+ZBTB43	5	3	2	5	0	clustered_SSD_tandem	C2H2 ZF
+SMAD1	5	3	4	3	2	dispersed_ohnolog	SMAD
+STAT5A	5	2	5	4	1	clustered_cis_ohnolog	STAT
+SLC2A4RG	5	3	2	5	0	dispersed_ohnolog	C2H2 ZF
+ZNF513	5	3	4	2	3	dispersed_ohnolog	C2H2 ZF
+ZNF362	5	3	3	0	5	dispersed_ohnolog	C2H2 ZF
+ZBTB4	5	3	2	0	5	dispersed_SSD	C2H2 ZF
+ZSCAN5A	5	3	2	0	5	clustered_SSD_tandem	C2H2 ZF
+HBP1	5	3	2	0	5	dispersed_SSD	HMG/Sox
+PLAGL2	5	5	3	5	0	dispersed_SSD	C2H2 ZF
+KLF9	5	3	4	3	2	dispersed_ohnolog	C2H2 ZF
+L3MBTL3	5	4	2	5	0	dispersed_ohnolog	C2H2 ZF
+JDP2	5	1	5	5	0	clustered_cis_ohnolog	bZIP
+HLF	5	2	4	0	5	dispersed_ohnolog	bZIP
+ETV3L	5	4	2	5	0	clustered_cis_ohnolog	Ets
+NFAT5	5	2	3	5	0	dispersed_ohnolog	Rel
+E2F2	5	3	4	5	0	dispersed_ohnolog	E2F
+E2F1	5	3	3	5	0	dispersed_ohnolog	E2F
+KLF3	5	4	2	0	5	dispersed_ohnolog	C2H2 ZF
+BCL11A	5	3	3	2	3	dispersed_ohnolog	C2H2 ZF
+ZNF683	4	2	3	0	4	dispersed_ohnolog	C2H2 ZF
+HES1	4	4	1	4	0	dispersed_ohnolog	bHLH
+RARB	4	1	4	0	4	clustered_cis_ohnolog	Nuclear receptor
+MZF1	4	2	2	0	4	dispersed_SSD	C2H2 ZF
+CREB3L2	4	2	2	0	4	dispersed_ohnolog	bZIP
+FOXP3	4	2	4	4	0	dispersed_SSD	Forkhead
+MTERF4	4	3	2	0	4	dispersed_SSD	mTERF
+MEIS1	4	1	4	0	4	dispersed_ohnolog	Homeodomain
+TCF4	4	3	2	1	3	dispersed_ohnolog	bHLH
+ZMAT4	4	1	4	0	4	dispersed_SSD	C2H2 ZF
+MEF2A	4	4	2	2	2	dispersed_ohnolog	MADS box
+ANKZF1	4	3	2	0	4	dispersed_SSD	C2H2 ZF
+MAZ	4	2	2	0	4	dispersed_SSD	C2H2 ZF
+USF2	4	2	2	0	4	dispersed_ohnolog	bHLH
+TRPS1	4	3	4	2	2	dispersed_SSD	GATA
+REPIN1	4	3	3	2	2	clustered_SSD_tandem	C2H2 ZF
+RARA	4	4	4	1	3	dispersed_ohnolog	Nuclear receptor
+FAM200B	4	2	2	0	4	dispersed_SSD	BED ZF
+DPF3	4	2	4	3	1	dispersed_ohnolog	C2H2 ZF
+AR	4	1	4	0	4	dispersed_SSD	Nuclear receptor
+CREBL2	4	3	3	1	3	dispersed_SSD	bZIP
+ZNF532	4	4	1	1	3	dispersed_ohnolog	C2H2 ZF
+ELF4	4	4	2	4	0	dispersed_ohnolog	Ets
+EGR3	4	3	2	4	0	dispersed_ohnolog	C2H2 ZF
+E2F8	4	2	4	4	0	dispersed_ohnolog	E2F
+ZBTB48	3	2	2	0	3	dispersed_SSD	C2H2 ZF
+IRF2	3	2	2	3	0	dispersed_SSD	IRF
+ZSCAN2	3	1	3	0	3	dispersed_ohnolog	C2H2 ZF
+KLF11	3	3	1	0	3	dispersed_ohnolog	C2H2 ZF
+ZSCAN18	3	2	2	0	3	clustered_SSD_tandem	C2H2 ZF
+ZNF608	3	2	3	0	3	dispersed_ohnolog	C2H2 ZF
+IRF9	3	3	1	0	3	dispersed_SSD	IRF
+CUX1	3	3	2	2	1	dispersed_ohnolog	CUT; Homeodomain
+ZNF574	3	1	3	0	3	dispersed_SSD	C2H2 ZF
+ZNF385C	3	2	3	1	2	dispersed_SSD	C2H2 ZF
+DDIT3	3	2	3	3	0	dispersed_SSD	bZIP
+KLF12	3	2	2	3	0	clustered_cis_ohnolog	C2H2 ZF
+ARID3A	3	1	3	0	3	dispersed_ohnolog	ARID/BRIGHT
+ZEB2	3	3	3	0	3	dispersed_ohnolog	C2H2 ZF; Homeodomain
+REL	3	2	3	3	0	dispersed_ohnolog	Rel
+ZBTB17	3	3	1	3	0	dispersed_SSD	C2H2 ZF
+E2F3	3	3	1	0	3	dispersed_ohnolog	E2F
+ZNF345	3	2	2	0	3	dispersed_SSD	C2H2 ZF
+AHDC1	3	3	1	3	0	dispersed_SSD	AT hook
+SOX13	3	2	2	0	3	dispersed_ohnolog	HMG/Sox
+TET3	3	3	1	3	0	dispersed_ohnolog	CxxC
+MYCN	3	1	3	1	2	dispersed_ohnolog	bHLH
+NR3C1	3	3	2	2	1	dispersed_SSD	Nuclear receptor
+PHF21A	3	3	2	2	1	dispersed_SSD	AT hook
+MTF1	3	3	1	3	0	dispersed_SSD	C2H2 ZF
+RFX8	3	1	3	0	3	dispersed_SSD	RFX
+RORB	3	3	2	3	0	dispersed_ohnolog	Nuclear receptor
+ZNF740	2	2	1	0	2	dispersed_SSD	C2H2 ZF
+ZNF121	2	2	1	0	2	dispersed_SSD	C2H2 ZF
+ZBTB8A	2	2	2	1	1	clustered_cis_ohnolog	C2H2 ZF
+ZC3H8	2	2	1	2	0	dispersed_SSD	CCCH ZF
+SREBF2	2	2	1	2	0	dispersed_ohnolog	bHLH
+ZFP64	2	2	1	0	2	clustered_cis_ohnolog	C2H2 ZF
+ETV6	2	1	2	2	0	dispersed_ohnolog	Ets
+EOMES	2	2	1	2	0	dispersed_ohnolog	T-box
+ELK1	2	2	1	2	0	dispersed_SSD	Ets
+PRDM16	2	2	2	1	1	dispersed_ohnolog	C2H2 ZF
+NPAS3	2	1	2	1	1	dispersed_ohnolog	bHLH
+FOXQ1	2	2	1	2	0	clustered_cis_ohnolog	Forkhead
+E2F6	2	2	1	0	2	dispersed_ohnolog	E2F
+NR6A1	2	2	2	2	0	clustered_cis_ohnolog	Nuclear receptor
+ZNF804B	2	1	2	0	2	dispersed_SSD	C2H2 ZF
+SETDB2	2	2	1	0	2	dispersed_SSD	MBD
+BHLHE22	2	1	2	2	0	dispersed_ohnolog	bHLH
+TFAP4	2	1	2	0	2	dispersed_SSD	bHLH
+ZNF16	2	2	1	0	2	dispersed_SSD	C2H2 ZF
+RELA	2	2	1	2	0	dispersed_ohnolog	Rel
+KDM5B	2	2	1	2	0	dispersed_SSD	ARID/BRIGHT
+TCFL5	2	1	2	0	2	dispersed_SSD	bHLH
+GTF2IRD1	2	2	1	0	2	clustered_SSD_tandem	GTF2I-like
+ZBTB22	2	1	2	2	0	dispersed_SSD	C2H2 ZF
+ZBTB24	2	2	1	2	0	dispersed_SSD	C2H2 ZF; AT hook
+IRF6	2	1	2	2	0	dispersed_SSD	IRF
+TP53	2	2	1	0	2	dispersed_ohnolog	p53
+SATB1	1	1	1	1	0	dispersed_SSD	CUT; Homeodomain
+ZSCAN30	1	1	1	1	0	clustered_SSD_tandem	C2H2 ZF
+DRGX	1	1	1	1	0	dispersed_SSD	Homeodomain
+ZNF512	1	1	1	0	1	dispersed_SSD	C2H2 ZF; BED ZF
+ZNF512B	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+TEAD1	1	1	1	1	0	dispersed_ohnolog	TEA
+DMTF1	1	1	1	0	1	dispersed_ohnolog	Myb/SANT
+PIN1	1	1	1	0	1	dispersed_SSD	MBD
+SGSM2	1	1	1	1	0	dispersed_ohnolog	BED ZF
+IRF3	1	1	1	0	1	dispersed_SSD	IRF
+ZNF598	1	1	1	0	1	dispersed_SSD	C2H2 ZF
+POU2F1	1	1	1	0	1	dispersed_ohnolog	Homeodomain; POU
+ZNF609	1	1	1	0	1	dispersed_ohnolog	C2H2 ZF
+ZNF821	1	1	1	0	1	dispersed_SSD	C2H2 ZF
+SALL4	1	1	1	1	0	clustered_cis_ohnolog	C2H2 ZF
+PPARA	1	1	1	1	0	dispersed_ohnolog	Nuclear receptor
+ZNF428	1	1	1	0	1	clustered_SSD_tandem	C2H2 ZF
+TEF	1	1	1	1	0	dispersed_SSD	bZIP
+PROX1	1	1	1	1	0	dispersed_ohnolog	Prospero
+BBX	1	1	1	0	1	dispersed_SSD	HMG/Sox
+MAX	1	1	1	0	1	dispersed_SSD	bHLH
+PRR12	1	1	1	0	1	dispersed_SSD	AT hook
+RARG	1	1	1	1	0	dispersed_ohnolog	Nuclear receptor
+JUND	1	1	1	1	0	dispersed_ohnolog	bZIP
+RFX7	1	1	1	0	1	dispersed_ohnolog	RFX
+SMAD5	1	1	1	0	1	dispersed_ohnolog	SMAD
+GLI4	1	1	1	1	0	clustered_cis_ohnolog	C2H2 ZF
+NR4A1	1	1	1	1	0	dispersed_ohnolog	Nuclear receptor
+MEF2D	1	1	1	0	1	dispersed_ohnolog	MADS box
+ZBTB45	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+ZBTB38	1	1	1	0	1	dispersed_SSD	C2H2 ZF
+SRF	1	1	1	1	0	dispersed_SSD	MADS box
+ZBTB7B	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+GTF2I	1	1	1	0	1	clustered_SSD_tandem	GTF2I-like
+FOXO4	1	1	1	0	1	dispersed_ohnolog	Forkhead
+FOXN3	1	1	1	0	1	dispersed_ohnolog	Forkhead
+GTF2IRD2	1	1	1	0	1	dispersed_SSD	GTF2I-like
+MTERF2	1	1	1	0	1	dispersed_SSD	mTERF
+SP140L	1	1	1	1	0	clustered_SSD_tandem	SAND
+MEOX1	1	1	1	0	1	dispersed_ohnolog	Homeodomain
+NFE2	1	1	1	0	1	dispersed_ohnolog	bZIP
+ELK3	1	1	1	1	0	dispersed_SSD	Ets
+KLF1	1	1	1	1	0	dispersed_ohnolog	C2H2 ZF
+ZBTB44	1	1	1	0	1	dispersed_ohnolog	C2H2 ZF
+ZNF217	1	1	1	1	0	clustered_cis_ohnolog	C2H2 ZF
+ZNF260	1	1	1	0	1	dispersed_SSD	C2H2 ZF
+ZNF275	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+ZNF280B	1	1	1	0	1	clustered_cis_ohnolog	C2H2 ZF
+ZNF292	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+HIC1	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+HIVEP1	1	1	1	1	0	dispersed_ohnolog	C2H2 ZF
+NR1D1	1	1	1	1	0	clustered_cis_ohnolog	Nuclear receptor
+ELF2	1	1	1	0	1	dispersed_ohnolog	Ets
+MBD2	1	1	1	1	0	dispersed_ohnolog	MBD
+HSF4	1	1	1	1	0	dispersed_ohnolog	HSF
+WT1	1	1	1	1	0	dispersed_SSD	C2H2 ZF
+SOX12	1	1	1	0	1	dispersed_ohnolog	HMG/Sox
+E2F5	1	1	1	1	0	dispersed_ohnolog	E2F

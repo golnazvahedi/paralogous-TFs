@@ -1,0 +1,12 @@
+[07c] 4-group catalog: 1153; PBMC-detectable: 1149
+[07c] reading /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/h5ad/human_pbmc.h5ad (backed) ...
+[07c] computing per-cell library size (chunked) ...
+[07c] low-expression filter EXPR_THR=1: 472/1149 TFs survive, 677 dropped
+[07c] universe after expression filter: 472
+[07c] DEG (z>2) overall: 252/472 = 53.4%
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_summary.zscore_z2_e1.pdf/.png
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.dispersed_ohnolog.zscore_z2_e1.pdf/.png  (n=223, DEG=133)
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.clustered_cis_ohnolog.zscore_z2_e1.pdf/.png  (n=27, DEG=14)
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.clustered_SSD_tandem.zscore_z2_e1.pdf/.png  (n=25, DEG=13)
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.dispersed_SSD.zscore_z2_e1.pdf/.png  (n=197, DEG=92)
+[07c] done.

@@ -1,0 +1,10 @@
+[10b] reading PBMC var_names (backed) from /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/h5ad/human_pbmc.h5ad ...
+[10b] cleaned 4-group catalog: 1153; PBMC-detectable: 1149
+[10b] cytokine DEG events for catalog TFs: 4533 across 24 cell types, 73 cytokines
+[10b] responders: 361/1149 = 31.4%
+[10b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_cytokine_DEG_summary.cytokine.pdf/.png
+[10b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_cytokine_DEG_heatmap.dispersed_ohnolog.cytokine.pdf/.png  (responders=196, shown=30)
+[10b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_cytokine_DEG_heatmap.clustered_cis_ohnolog.cytokine.pdf/.png  (responders=31, shown=30)
+[10b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_cytokine_DEG_heatmap.clustered_SSD_tandem.cytokine.pdf/.png  (responders=16, shown=16)
+[10b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_cytokine_DEG_heatmap.dispersed_SSD.cytokine.pdf/.png  (responders=118, shown=30)
+[10b] done.

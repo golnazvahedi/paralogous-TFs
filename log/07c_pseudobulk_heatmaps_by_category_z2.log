@@ -1,0 +1,10 @@
+[07c] 4-group catalog: 1153; PBMC-detectable (universe): 1149
+[07c] reading /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/h5ad/human_pbmc.h5ad (backed) ...
+[07c] computing per-cell library size (chunked) ...
+[07c] DEG (z>2) overall: 769/1149 = 66.9%
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_summary.zscore_z2.pdf/.png
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.dispersed_ohnolog.zscore_z2.pdf/.png  (n=523, DEG=381)
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.clustered_cis_ohnolog.zscore_z2.pdf/.png  (n=106, DEG=73)
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.clustered_SSD_tandem.zscore_z2.pdf/.png  (n=73, DEG=44)
+[07c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_pseudobulk_heatmap.dispersed_SSD.zscore_z2.pdf/.png  (n=447, DEG=271)
+[07c] done.

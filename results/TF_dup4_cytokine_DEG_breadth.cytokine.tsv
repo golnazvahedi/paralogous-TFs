@@ -1,0 +1,1150 @@
+gene	dup_class4	provenance	arrangement	TF_subfamily	cluster_id	breadth_CD14_Mono	breadth_CD16_Mono	breadth_Mono	breadth_cDC	breadth_pDC	breadth_Granulocyte	breadth_B_cell	breadth_Naive_B_cell	breadth_Intermediate_B_cell	breadth_Plasmablast	breadth_CD4_T_cell	breadth_CD4_Naive_T_cell	breadth_CD4_Memory_T_cell	breadth_Treg	breadth_CD8_T_cell	breadth_CD8_Naive_T_cell	breadth_CD8_Memory_T_cell	breadth_MAIT	breadth_NKT	breadth_NK	breadth_NK_CD56hi	breadth_NK_CD56low	breadth_ILC	breadth_HSPC	total_events	n_response_celltypes	is_responder
+AKAP8	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+AKAP8L	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FIZ1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+REPIN1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0027	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	True
+WIZ	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB25	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0003	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB26	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0004	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB34	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0005	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB43	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0005	2	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+ZBTB6	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0004	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF107	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0026	2	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	3	True
+ZNF138	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0026	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF165	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0065	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF174	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0061	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF236	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF24	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF396	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF397	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF428	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0018	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	True
+ZNF48	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0010	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF497	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0020	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF516	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0014	2	0	2	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	8	5	True
+ZNF576	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0018	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF579	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF580	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF581	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF625	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0015	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF646	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0011	0	2	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	8	5	True
+ZNF668	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0011	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF672	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0006	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF692	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0006	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF771	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0010	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF775	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0027	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF784	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF837	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0020	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF865	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0064	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN12	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN16	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0065	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN18	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0064	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	3	2	True
+ZSCAN23	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN30	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZSCAN31	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN32	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0061	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN5A	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063	2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+ZSCAN5B	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN5C	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMRT1	clustered_SSD_tandem	SSD	clustered	DM	clust0029	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMRT2	clustered_SSD_tandem	SSD	clustered	DM	clust0029	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMRT3	clustered_SSD_tandem	SSD	clustered	DM	clust0029	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXC2	clustered_SSD_tandem	SSD	clustered	Forkhead	clust0035	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXL1	clustered_SSD_tandem	SSD	clustered	Forkhead	clust0035	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GTF2I	clustered_SSD_tandem	SSD	clustered	GTF2I-like	clust0037	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+GTF2IRD1	clustered_SSD_tandem	SSD	clustered	GTF2I-like	clust0037	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+HSFY1	clustered_SSD_tandem	SSD	clustered	HSF	clust0038	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HSFY2	clustered_SSD_tandem	SSD	clustered	HSF	clust0038	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NANOG	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0042	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NANOGNB	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0042	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RHOXF1	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	2	2	1	0	2	11	7	True
+RHOXF2	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RHOXF2B	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP100	clustered_SSD_tandem	SSD	clustered	SAND	clust0060	2	0	1	2	0	2	0	0	0	0	1	1	2	0	1	1	1	1	0	0	0	0	0	1	16	12	True
+SP110	clustered_SSD_tandem	SSD	clustered	SAND	clust0060	2	0	2	3	0	3	0	0	0	0	1	0	2	1	1	0	2	2	1	0	1	0	0	2	23	13	True
+SP140	clustered_SSD_tandem	SSD	clustered	SAND	clust0060	8	3	7	3	1	0	0	0	0	0	2	4	2	2	2	3	1	1	0	1	0	1	0	0	41	15	True
+SP140L	clustered_SSD_tandem	SSD	clustered	SAND	clust0060	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+FERD3L	clustered_SSD_tandem	SSD	clustered	bHLH	clust0075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MESP1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0073	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MESP2	clustered_SSD_tandem	SSD	clustered	bHLH	clust0073	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OLIG1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0074	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OLIG2	clustered_SSD_tandem	SSD	clustered	bHLH	clust0074	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOHLH2	clustered_SSD_tandem	SSD	clustered	bHLH	clust0072	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TWIST1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFAP2B	clustered_cis_ohnolog	ohnolog	clustered	AP-2	clust0001	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFAP2D	clustered_cis_ohnolog	ohnolog	clustered	AP-2	clust0001	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLI4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+KLF12	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0008	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	True
+KLF5	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0008	0	0	0	7	0	1	0	0	0	0	4	5	4	0	0	0	0	0	0	0	0	0	0	0	21	5	True
+SALL4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+SP1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0007	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP2	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0013	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP6	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0013	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP7	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0007	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP8	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TSHZ2	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	5	1	4	0	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	5	0	2	1	26	9	True
+TSHZ3	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017	1	0	1	4	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	1	1	0	0	13	7	True
+ZBTB8A	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0002	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	True
+ZBTB8B	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0002	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP41	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP64	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+ZFPM1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0012	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZIC1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0024	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZIC2	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0009	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZIC4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0024	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZIC5	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0009	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF217	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZNF280A	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0022	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF280B	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0022	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZNF35	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF469	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0012	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF501	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF502	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF507	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF536	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF660	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF696	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EHF	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0031	3	0	3	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	3	True
+ELF5	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0031	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ERG	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0033	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ETS1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0032	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	2	True
+ETS2	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0033	1	2	1	3	0	0	0	0	0	0	2	2	2	1	2	2	2	0	1	4	1	3	0	0	29	15	True
+ETV3	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0030	3	0	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	9	5	True
+ETV3L	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0030	1	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	4	True
+FLI1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0032	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXC1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036	1	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	9	4	True
+FOXD2	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0034	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXE3	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0034	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXF2	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXQ1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+CDX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CRX	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0048	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DLX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0050	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DLX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0050	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DLX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DLX4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DLX5	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0053	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DLX6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0053	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GSX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0041	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0041	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRX4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRX5	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRX6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LBX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0040	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LMX1A	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0039	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0044	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0051	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0051	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0054	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-8	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0044	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX3-1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0054	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PBX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0039	0	0	0	13	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	14	2	True
+PDX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0049	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0049	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIX4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIX6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TLX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0040	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TPRX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0048	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MEF2B	clustered_cis_ohnolog	ohnolog	clustered	MADS box	clust0056	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR1D1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0057	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	True
+NR1D2	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	6	4	True
+NR5A1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0059	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR6A1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0059	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+RARB	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	4	1	True
+THRA	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0057	0	1	0	3	0	0	0	0	0	0	1	1	1	2	2	2	2	1	1	2	0	2	0	0	21	13	True
+THRB	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058	5	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	12	3	True
+STAT1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0068	2	1	1	7	0	1	1	1	1	1	9	9	11	8	9	9	10	8	11	6	5	8	0	9	128	22	True
+STAT3	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+STAT4	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0068	6	1	6	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	3	19	7	True
+STAT5A	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067	0	0	0	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	2	True
+STAT5B	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX2	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0070	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX3	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX4	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0070	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX5	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYF5	clustered_cis_ohnolog	ohnolog	clustered	bHLH	clust0071	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYF6	clustered_cis_ohnolog	ohnolog	clustered	bHLH	clust0071	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATF7	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0076	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BATF	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077	1	3	1	3	0	1	2	3	0	0	1	1	0	0	0	1	0	1	0	0	3	0	0	2	23	13	True
+CEBPA	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0078	4	2	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	4	True
+CEBPG	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0078	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOS	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077	9	9	9	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	4	True
+JDP2	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	True
+ARID3C	dispersed_SSD	SSD	dispersed	ARID/BRIGHT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KDM5B	dispersed_SSD	SSD	dispersed	ARID/BRIGHT		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+AHCTF1	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+AHDC1	dispersed_SSD	SSD	dispersed	AT hook		1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+AKNA	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ASH1L	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DNTTIP1	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DOT1L	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLYR1	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMGA1	dispersed_SSD	SSD	dispersed	AT hook		2	5	2	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	15	9	True
+HMGA2	dispersed_SSD	SSD	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PHF21A	dispersed_SSD	SSD	dispersed	AT hook		1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+PRR12	dispersed_SSD	SSD	dispersed	AT hook		0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+SETBP1	dispersed_SSD	SSD	dispersed	AT hook		3	0	0	2	0	1	1	1	0	0	0	0	2	0	2	0	2	4	3	3	4	3	0	2	33	14	True
+C11orf95	dispersed_SSD	SSD	dispersed	BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FAM200B	dispersed_SSD	SSD	dispersed	BED ZF		2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	True
+ZBED2	dispersed_SSD	SSD	dispersed	BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBED3	dispersed_SSD	SSD	dispersed	BED ZF		0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	6	2	True
+ZBED5	dispersed_SSD	SSD	dispersed	BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBED6	dispersed_SSD	SSD	dispersed	BED ZF		2	0	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	3	True
+ZBED9	dispersed_SSD	SSD	dispersed	BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+AEBP2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ANKZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0	4	3	True
+ATMIN	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BCL6	dispersed_SSD	SSD	dispersed	C2H2 ZF		3	0	3	0	1	0	3	2	3	0	1	2	0	0	1	2	0	0	1	1	2	0	0	0	25	13	True
+BCL6B	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CASZ1	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	0	2	1	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	1	10	8	True
+CCDC17	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CHAMP1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CPXCR1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+E4F1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EEA1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EGR4	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FAM170A	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLI1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLI2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLI3	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLIS2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HIC1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	True
+HIC2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HINFP	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IKZF5	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+JAZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KAT7	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KCMF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KIN	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF15	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF17	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF2	dispersed_SSD	SSD	dispersed	C2H2 ZF		3	0	2	2	0	0	1	7	1	0	0	1	0	1	1	0	2	0	2	2	1	2	0	0	28	14	True
+MAZ	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	True
+MTF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+MYNN	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	True
+OVOL1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OVOL2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OVOL3	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PEG3	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PLAG1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PLAGL1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PLAGL2	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	5	5	True
+PRDM12	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM13	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM14	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM15	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM5	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM6	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM8	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	1	3	1	0	5	0	4	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	17	7	True
+PRMT3	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RBSN	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+REST	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RLF	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RREB1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SCRT1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SCRT2	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP5	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TRAFD1	dispersed_SSD	SSD	dispersed	C2H2 ZF		3	3	3	1	0	2	1	1	1	0	7	7	7	4	6	8	5	4	5	3	2	6	0	4	83	21	True
+VEZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+WT1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+ZBTB11	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB12	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB14	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB16	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	1	0	0	0	7	0	0	0	0	0	1	1	0	0	0	4	0	0	0	1	0	15	6	True
+ZBTB17	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+ZBTB18	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	2	0	0	0	6	4	True
+ZBTB20	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	2	2	1	0	0	11	8	True
+ZBTB21	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB22	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	True
+ZBTB3	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB32	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	8	0	0	2	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	3	True
+ZBTB33	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB37	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB38	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+ZBTB39	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB4	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+ZBTB40	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB41	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB42	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB45	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZBTB47	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB48	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	True
+ZBTB7A	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB7B	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	True
+ZBTB7C	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB9	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFAT	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP62	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP91	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFX	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFY	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZMAT1	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	1	1	0	0	2	7	5	True
+ZMAT4	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	4	1	True
+ZNF117	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF121	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+ZNF131	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF134	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF146	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF148	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF16	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+ZNF200	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF207	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF219	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF22	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF232	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF239	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF260	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZNF275	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	True
+ZNF276	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF281	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF292	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZNF318	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	1	1	2	0	0	0	0	1	0	3	3	2	2	0	1	1	2	0	1	0	1	0	0	22	14	True
+ZNF319	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF32	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF322	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF326	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF329	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF335	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF341	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF345	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	3	2	True
+ZNF346	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF358	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF365	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	4	True
+ZNF366	dispersed_SSD	SSD	dispersed	C2H2 ZF		13	1	12	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	29	5	True
+ZNF367	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	4	2	0	0	11	6	True
+ZNF385A	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	1	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	4	True
+ZNF385C	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	True
+ZNF391	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF407	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF408	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF410	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF414	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF415	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF438	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	4	True
+ZNF444	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF449	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF451	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF467	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	0	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+ZNF474	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF488	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF491	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF493	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF511	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF512B	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	True
+ZNF518A	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF518B	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF526	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF574	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	True
+ZNF575	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF594	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF598	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	True
+ZNF600	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	0	0	5	3	True
+ZNF618	dispersed_SSD	SSD	dispersed	C2H2 ZF		7	2	7	6	1	1	0	1	0	0	1	1	3	0	1	1	2	0	0	1	3	0	0	0	38	15	True
+ZNF619	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF628	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF639	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF644	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF648	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF652	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	3	True
+ZNF654	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF655	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF664	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF678	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF691	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF697	dispersed_SSD	SSD	dispersed	C2H2 ZF		4	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	3	True
+ZNF706	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF710	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF711	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF721	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF740	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	2	2	True
+ZNF750	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF768	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF770	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF787	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF80	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF800	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF804A	dispersed_SSD	SSD	dispersed	C2H2 ZF		1	1	1	2	8	7	1	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	9	True
+ZNF804B	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	True
+ZNF821	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZNF827	dispersed_SSD	SSD	dispersed	C2H2 ZF		2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	4	True
+ZNF83	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF830	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF835	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF841	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF843	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF853	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF883	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN10	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN20	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN21	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN22	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN26	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN29	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN4	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZSCAN9	dispersed_SSD	SSD	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PATZ1	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB24	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+ZNF524	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF653	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF277	dispersed_SSD	SSD	dispersed	C2H2 ZF; BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF512	dispersed_SSD	SSD	dispersed	C2H2 ZF; BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+ZC3H8	dispersed_SSD	SSD	dispersed	CCCH ZF		0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+ZGPAT	dispersed_SSD	SSD	dispersed	CCCH ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CENPB	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+JRK	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+JRKL	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD1	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD2	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD3	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD4	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD5	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD6	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TIGD7	dispersed_SSD	SSD	dispersed	CENPB		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RBPJ	dispersed_SSD	SSD	dispersed	CSL		4	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	2	True
+RBPJL	dispersed_SSD	SSD	dispersed	CSL		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SATB1	dispersed_SSD	SSD	dispersed	CUT; Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	True
+SATB2	dispersed_SSD	SSD	dispersed	CUT; Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CXXC1	dispersed_SSD	SSD	dispersed	CxxC		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DNMT1	dispersed_SSD	SSD	dispersed	CxxC		3	0	3	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	1	12	7	True
+DMRTA1	dispersed_SSD	SSD	dispersed	DM		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMRTA2	dispersed_SSD	SSD	dispersed	DM		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMRTB1	dispersed_SSD	SSD	dispersed	DM		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMRTC2	dispersed_SSD	SSD	dispersed	DM		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ELK1	dispersed_SSD	SSD	dispersed	Ets		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+ELK3	dispersed_SSD	SSD	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	True
+ELK4	dispersed_SSD	SSD	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ETV2	dispersed_SSD	SSD	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FEV	dispersed_SSD	SSD	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GABPA	dispersed_SSD	SSD	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SPDEF	dispersed_SSD	SSD	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SPIB	dispersed_SSD	SSD	dispersed	Ets		0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	7	2	True
+FOXD1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD4	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD4L3	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD4L4	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD4L5	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD4L6	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXE1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXG1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXH1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXJ1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXL2	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXM1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	2	6	3	True
+FOXP1	dispersed_SSD	SSD	dispersed	Forkhead		0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	0	0	6	5	True
+FOXP2	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXP3	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	2	True
+FOXP4	dispersed_SSD	SSD	dispersed	Forkhead		2	0	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	7	4	True
+FOXS1	dispersed_SSD	SSD	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TRPS1	dispersed_SSD	SSD	dispersed	GATA		0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	3	True
+ZGLP1	dispersed_SSD	SSD	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GTF2IRD2	dispersed_SSD	SSD	dispersed	GTF2I-like		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	True
+GTF2IRD2B	dispersed_SSD	SSD	dispersed	GTF2I-like		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BBX	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+CIC	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HBP1	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	0	0	0	5	3	True
+HMGN3	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX15	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX30	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX6	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SRY	dispersed_SSD	SSD	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HSF5	dispersed_SSD	SSD	dispersed	HSF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HSFX1	dispersed_SSD	SSD	dispersed	HSF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HSFX2	dispersed_SSD	SSD	dispersed	HSF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ADNP	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ADNP2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ANHX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ARGFX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ARX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BARX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BARX2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BSX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMBX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DPRX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DRGX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+DUX4	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DUXA	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ESX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GBX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GBX2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GSC	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GSC2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HDX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	1	0	0	0	0	0	0	5	5	6	5	5	5	4	1	3	1	2	2	0	0	45	13	True
+HESX1	dispersed_SSD	SSD	dispersed	Homeodomain		8	8	8	8	0	0	3	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	41	8	True
+HHEX	dispersed_SSD	SSD	dispersed	Homeodomain		0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	1	True
+HLX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMBOX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HOMEZ	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ISX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LEUTX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MKX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MNX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MSX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MSX2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NANOGP8	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX1-1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX1-2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX6-2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NOBOX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NOTO	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OTP	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PROP1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TGIF1	dispersed_SSD	SSD	dispersed	Homeodomain		1	0	1	0	0	0	1	2	1	0	2	0	1	1	2	0	2	2	0	0	0	0	0	2	18	12	True
+TGIF2	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TGIF2LX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TGIF2LY	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+UNCX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+VENTX	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZHX1	dispersed_SSD	SSD	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZHX2	dispersed_SSD	SSD	dispersed	Homeodomain		3	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	3	True
+ZHX3	dispersed_SSD	SSD	dispersed	Homeodomain		3	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	3	True
+POU1F1	dispersed_SSD	SSD	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU3F4	dispersed_SSD	SSD	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU5F1	dispersed_SSD	SSD	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU5F1B	dispersed_SSD	SSD	dispersed	Homeodomain; POU		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	4	0	0	0	7	4	True
+POU5F2	dispersed_SSD	SSD	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU6F1	dispersed_SSD	SSD	dispersed	Homeodomain; POU		2	1	2	5	0	0	0	1	0	0	1	0	1	0	3	1	2	3	1	0	0	0	0	0	23	12	True
+POU6F2	dispersed_SSD	SSD	dispersed	Homeodomain; POU		0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	1	True
+PAX4	dispersed_SSD	SSD	dispersed	Homeodomain; Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PAX6	dispersed_SSD	SSD	dispersed	Homeodomain; Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRF1	dispersed_SSD	SSD	dispersed	IRF		1	0	1	0	1	0	0	0	1	0	4	4	3	3	1	4	0	0	0	0	1	0	0	3	27	12	True
+IRF2	dispersed_SSD	SSD	dispersed	IRF		2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	True
+IRF3	dispersed_SSD	SSD	dispersed	IRF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+IRF5	dispersed_SSD	SSD	dispersed	IRF		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	6	3	True
+IRF6	dispersed_SSD	SSD	dispersed	IRF		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	True
+IRF9	dispersed_SSD	SSD	dispersed	IRF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	3	3	True
+MSANTD1	dispersed_SSD	SSD	dispersed	MADF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MSANTD3	dispersed_SSD	SSD	dispersed	MADF		4	0	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	3	True
+NAIF1	dispersed_SSD	SSD	dispersed	MADF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SRF	dispersed_SSD	SSD	dispersed	MADS box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	True
+MBD6	dispersed_SSD	SSD	dispersed	MBD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PIN1	dispersed_SSD	SSD	dispersed	MBD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+SETDB1	dispersed_SSD	SSD	dispersed	MBD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SETDB2	dispersed_SSD	SSD	dispersed	MBD		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+CDC5L	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MSANTD4	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYPOP	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SNAPC4	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TERB1	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TERF1	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TERF2	dispersed_SSD	SSD	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFX1	dispersed_SSD	SSD	dispersed	NFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFXL1	dispersed_SSD	SSD	dispersed	NFX		11	10	10	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	4	True
+AR	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	True
+ESR2	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	1	0	5	4	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	18	5	True
+NR1H2	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR1I3	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2E1	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2E3	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2F6	dispersed_SSD	SSD	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR3C1	dispersed_SSD	SSD	dispersed	Nuclear receptor		1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+NR3C2	dispersed_SSD	SSD	dispersed	Nuclear receptor		5	0	5	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	14	4	True
+RFX4	dispersed_SSD	SSD	dispersed	RFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RFX6	dispersed_SSD	SSD	dispersed	RFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RFX8	dispersed_SSD	SSD	dispersed	RFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	1	True
+DEAF1	dispersed_SSD	SSD	dispersed	SAND		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SMAD4	dispersed_SSD	SSD	dispersed	SMAD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX1	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX10	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX15	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX18	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX20	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX22	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX6	dispersed_SSD	SSD	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBPL1	dispersed_SSD	SSD	dispersed	TBP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TEAD2	dispersed_SSD	SSD	dispersed	TEA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP1	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP10	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP11	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP12	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP2	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP3	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP4	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP5	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP6	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP7	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP8	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+THAP9	dispersed_SSD	SSD	dispersed	THAP finger		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ASCL1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ASCL2	dispersed_SSD	SSD	dispersed	bHLH		6	3	6	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	4	True
+ASCL5	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATOH1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATOH7	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATOH8	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BHLHA15	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BHLHA9	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BHLHE40	dispersed_SSD	SSD	dispersed	bHLH		3	9	3	3	0	1	1	3	0	0	4	2	4	3	4	4	3	3	1	2	2	2	0	5	62	20	True
+BHLHE41	dispersed_SSD	SSD	dispersed	bHLH		10	3	10	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	4	True
+FIGLA	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HELT	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HES2	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HES3	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HES5	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HES6	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HES7	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LYL1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MAX	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+MLX	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MNT	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MSGN1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NCOA1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NEUROD1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NHLH1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NHLH2	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NPAS4	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OLIG3	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PTF1A	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SCX	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOHLH1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TAL1	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TAL2	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF15	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCFL5	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	True
+TFAP4	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	True
+TWIST2	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+USF3	dispersed_SSD	SSD	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BATF2	dispersed_SSD	SSD	dispersed	bZIP		4	1	3	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	4	True
+BATF3	dispersed_SSD	SSD	dispersed	bZIP		12	4	11	10	0	0	1	0	1	0	1	1	2	2	2	2	0	2	0	0	3	0	0	2	56	15	True
+CREBL2	dispersed_SSD	SSD	dispersed	bZIP		2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	True
+CREBZF	dispersed_SSD	SSD	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DDIT3	dispersed_SSD	SSD	dispersed	bZIP		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	2	True
+NFIL3	dispersed_SSD	SSD	dispersed	bZIP		4	1	4	3	1	0	2	2	2	0	0	0	0	1	0	0	0	0	1	4	6	4	0	0	35	13	True
+TEF	dispersed_SSD	SSD	dispersed	bZIP		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+XBP1	dispersed_SSD	SSD	dispersed	bZIP		1	0	0	1	0	0	2	3	1	0	2	2	2	1	4	2	3	0	2	1	0	2	0	0	29	15	True
+MTERF1	dispersed_SSD	SSD	dispersed	mTERF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MTERF2	dispersed_SSD	SSD	dispersed	mTERF		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+MTERF3	dispersed_SSD	SSD	dispersed	mTERF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MTERF4	dispersed_SSD	SSD	dispersed	mTERF		0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	0	0	0	0	0	0	4	3	True
+TFAP2A	dispersed_ohnolog	ohnolog	dispersed	AP-2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFAP2C	dispersed_ohnolog	ohnolog	dispersed	AP-2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFAP2E	dispersed_ohnolog	ohnolog	dispersed	AP-2		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ARID3A	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	True
+ARID3B	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	6	4	True
+ARID5A	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		3	1	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3	12	6	True
+ARID5B	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		4	0	4	0	6	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	1	4	0	1	24	9	True
+CBX2	dispersed_ohnolog	ohnolog	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PHF20	dispersed_ohnolog	ohnolog	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SCML4	dispersed_ohnolog	ohnolog	dispersed	AT hook		6	0	6	0	3	0	1	1	0	0	0	0	1	2	0	0	1	1	0	2	4	0	0	2	30	12	True
+SRCAP	dispersed_ohnolog	ohnolog	dispersed	AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SGSM2	dispersed_ohnolog	ohnolog	dispersed	BED ZF		0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZBED1	dispersed_ohnolog	ohnolog	dispersed	BED ZF		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+ZBED4	dispersed_ohnolog	ohnolog	dispersed	BED ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BCL11A	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+BCL11B	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		6	0	5	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	17	5	True
+BNC1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BNC2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	2	2	0	1	14	7	True
+CTCF	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CTCFL	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DPF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DPF3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	0	4	2	True
+DZIP1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EGR1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		18	5	19	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	46	6	True
+EGR2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		9	5	9	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	27	5	True
+EGR3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	True
+FEZF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FEZF2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GFI1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	1	0	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	0	0	0	0	8	8	True
+GFI1B	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLIS1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GLIS3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		7	12	7	1	0	0	0	0	0	0	0	0	0	0	0	5	0	2	0	0	0	0	0	0	34	6	True
+GTF3A	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HIVEP1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+HIVEP2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	2	True
+HIVEP3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		5	2	4	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	6	True
+IKZF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IKZF2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		4	0	4	1	0	0	1	1	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	14	8	True
+IKZF3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		6	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	2	18	5	True
+IKZF4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	1	0	0	0	0	0	0	1	1	1	0	1	2	0	2	0	0	0	0	0	0	9	7	True
+INSM1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	1	True
+INSM2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+KLF10	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	1	0	5	0	0	2	2	0	0	0	0	2	1	1	0	1	3	2	1	3	1	0	0	25	13	True
+KLF11	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+KLF13	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF14	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF16	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	1	1	0	0	5	4	True
+KLF4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		1	1	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	4	True
+KLF6	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	2	2	1	0	0	0	1	0	0	1	2	0	0	0	2	0	1	0	0	0	0	0	1	15	10	True
+KLF7	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		1	2	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	2	3	2	0	0	12	6	True
+KLF8	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KLF9	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	5	3	True
+L3MBTL1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+L3MBTL3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	2	0	0	0	0	0	0	0	0	5	4	True
+L3MBTL4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		3	1	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	5	True
+MECOM	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	9	2	True
+MYT1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYT1L	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OSR1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OSR2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	2	0	0	0	0	1	0	2	1	1	0	0	0	0	0	0	0	2	0	0	0	9	6	True
+PRDM10	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRDM16	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	True
+PRDM4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SALL1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SALL2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SALL3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SLC2A4RG	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+SNAI1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SNAI2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SNAI3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		4	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	2	True
+SP3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SP9	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ST18	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		10	0	9	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	22	4	True
+TSHZ1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		3	1	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	13	6	True
+YY1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+YY2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB10	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		3	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	8	3	True
+ZBTB2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB44	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	True
+ZBTB46	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		3	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	1	0	12	5	True
+ZBTB49	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZBTB5	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFP42	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFPM2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	0	2	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	4	True
+ZIC3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF142	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF143	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF280C	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF280D	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF296	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF362	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+ZNF384	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF385B	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF385D	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	1	True
+ZNF395	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		10	1	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	3	True
+ZNF423	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF462	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	5	2	True
+ZNF503	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF513	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	5	3	True
+ZNF521	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	11	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	2	True
+ZNF532	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	4	True
+ZNF572	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF592	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF608	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	2	True
+ZNF609	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ZNF623	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF629	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF683	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0	0	4	2	True
+ZNF687	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF70	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF703	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF704	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		2	1	2	6	0	1	0	0	0	0	0	0	5	0	0	0	0	1	0	0	4	0	0	4	26	9	True
+ZNF71	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF76	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF774	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZNF831	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		4	0	3	1	2	0	1	1	0	0	1	0	1	0	0	1	0	2	0	2	1	2	0	1	23	14	True
+ZSCAN2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	True
+ZXDA	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZXDB	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZXDC	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZEB1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		7	1	7	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	20	7	True
+ZEB2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	True
+ZFHX3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		3	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	16	5	True
+ZFHX4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TRERF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Myb/SANT		7	3	7	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	4	True
+ZNF541	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MBNL2	dispersed_ohnolog	ohnolog	dispersed	CCCH ZF		4	2	2	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	2	0	0	0	0	13	7	True
+CAMTA1	dispersed_ohnolog	ohnolog	dispersed	CG-1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CAMTA2	dispersed_ohnolog	ohnolog	dispersed	CG-1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CUX1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	True
+CUX2	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		0	0	0	0	1	0	0	0	0	0	1	1	0	0	1	2	0	0	0	0	0	0	0	0	6	5	True
+ONECUT1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ONECUT2	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ONECUT3	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CXXC4	dispersed_ohnolog	ohnolog	dispersed	CxxC		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CXXC5	dispersed_ohnolog	ohnolog	dispersed	CxxC		3	0	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	8	4	True
+FBXL19	dispersed_ohnolog	ohnolog	dispersed	CxxC		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KDM2A	dispersed_ohnolog	ohnolog	dispersed	CxxC		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KDM2B	dispersed_ohnolog	ohnolog	dispersed	CxxC		0	0	0	0	0	0	1	1	0	0	2	1	2	0	2	2	2	0	1	4	0	4	0	0	22	11	True
+TET1	dispersed_ohnolog	ohnolog	dispersed	CxxC		0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	0	4	0	0	10	4	True
+TET3	dispersed_ohnolog	ohnolog	dispersed	CxxC		0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	3	3	True
+KMT2A	dispersed_ohnolog	ohnolog	dispersed	CxxC; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+KMT2B	dispersed_ohnolog	ohnolog	dispersed	CxxC; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+E2F1	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	1	5	3	True
+E2F2	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	1	5	3	True
+E2F3	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	3	3	True
+E2F4	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+E2F5	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	True
+E2F6	dispersed_ohnolog	ohnolog	dispersed	E2F		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+E2F7	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	1	6	3	True
+E2F8	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	4	2	True
+TFDP1	dispersed_ohnolog	ohnolog	dispersed	E2F		0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	2	2	2	0	0	10	7	True
+TFDP2	dispersed_ohnolog	ohnolog	dispersed	E2F		3	7	3	0	0	2	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	18	6	True
+TFDP3	dispersed_ohnolog	ohnolog	dispersed	E2F		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EBF1	dispersed_ohnolog	ohnolog	dispersed	EBF1		2	0	1	9	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	17	5	True
+EBF2	dispersed_ohnolog	ohnolog	dispersed	EBF1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EBF3	dispersed_ohnolog	ohnolog	dispersed	EBF1		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EBF4	dispersed_ohnolog	ohnolog	dispersed	EBF1		0	0	0	9	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	16	3	True
+ELF1	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ELF2	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ELF4	dispersed_ohnolog	ohnolog	dispersed	Ets		1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	4	4	True
+ERF	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ETV1	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ETV4	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ETV5	dispersed_ohnolog	ohnolog	dispersed	Ets		5	10	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	4	True
+ETV6	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	2	1	True
+ETV7	dispersed_ohnolog	ohnolog	dispersed	Ets		12	6	12	10	0	1	9	9	6	0	14	14	12	9	10	10	10	10	11	11	8	11	0	5	200	21	True
+SPI1	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SPIC	dispersed_ohnolog	ohnolog	dispersed	Ets		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXA1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXA2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXA3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXB1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXB2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXD4L1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXF1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXI1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXI2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXI3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXJ2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXJ3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXK1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXK2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXN1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXN2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		3	0	3	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	4	True
+FOXN3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+FOXN4	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXO1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		1	4	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	5	True
+FOXO3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		4	0	3	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	4	True
+FOXO4	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+FOXO6	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXR1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOXR2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATA1	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATA2	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATA3	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATA4	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATA5	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATA6	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATAD2A	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GATAD2B	dispersed_ohnolog	ohnolog	dispersed	GATA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GCM1	dispersed_ohnolog	ohnolog	dispersed	GCM		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GCM2	dispersed_ohnolog	ohnolog	dispersed	GCM		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GRHL1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GRHL2	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GRHL3	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFCP2	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFCP2L1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+UBP1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMG20A	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMG20B	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LEF1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		5	0	5	1	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	1	1	18	8	True
+SOX1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX10	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX11	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX12	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	True
+SOX13	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	3	2	True
+SOX14	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX17	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX18	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX2	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX21	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX3	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX4	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	1	9	3	True
+SOX5	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		8	1	8	5	2	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	5	35	9	True
+SOX7	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX8	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SOX9	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF7	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		5	0	5	3	1	0	0	0	0	0	2	2	1	0	2	2	3	2	2	2	3	2	1	1	39	17	True
+TCF7L1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		9	4	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	3	True
+TCF7L2	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		5	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	9	4	True
+HSF1	dispersed_ohnolog	ohnolog	dispersed	HSF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HSF2	dispersed_ohnolog	ohnolog	dispersed	HSF		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HSF4	dispersed_ohnolog	ohnolog	dispersed	HSF		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+ALX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ALX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ALX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BARHL1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BARHL2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CDX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CDX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DBX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DBX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EMX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EMX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EN1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EN2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EVX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EVX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GSX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HMX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HNF1A	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HNF1B	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ISL1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ISL2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LBX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX5	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX6	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX8	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LHX9	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LMX1B	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MEIS1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	True
+MEIS2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MEIS3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MEOX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	True
+MEOX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MIXL1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX2-5	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX3-2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX6-1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NKX6-3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OTX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+OTX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PBX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PBX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PBX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		3	0	3	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	3	1	0	1	14	8	True
+PHOX2A	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PHOX2B	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PITX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PITX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PITX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PKNOX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PKNOX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRRX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PRRX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	1	0	0	0	0	0	0	1	3	0	0	0	2	0	0	0	0	0	0	0	0	7	4	True
+RAX	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RAX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SEBOX	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SHOX	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SHOX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIX5	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TLX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TLX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+VAX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+VAX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+VSX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+VSX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ZFHX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU2F1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+POU2F2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		6	6	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	21	6	True
+POU2F3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU3F1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU3F2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU3F3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU4F1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU4F2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+POU4F3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PAX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PAX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PAX7	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+IRF4	dispersed_ohnolog	ohnolog	dispersed	IRF		5	1	4	1	1	0	0	0	0	0	6	7	4	3	7	9	5	6	4	4	4	6	0	2	79	18	True
+IRF7	dispersed_ohnolog	ohnolog	dispersed	IRF		5	4	5	5	0	1	4	4	2	0	5	5	5	4	6	5	6	4	5	4	3	5	0	4	91	21	True
+IRF8	dispersed_ohnolog	ohnolog	dispersed	IRF		1	0	1	9	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	2	1	3	20	8	True
+MEF2A	dispersed_ohnolog	ohnolog	dispersed	MADS box		1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	True
+MEF2C	dispersed_ohnolog	ohnolog	dispersed	MADS box		4	5	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0	20	6	True
+MEF2D	dispersed_ohnolog	ohnolog	dispersed	MADS box		0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+BAZ2B	dispersed_ohnolog	ohnolog	dispersed	MBD		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	1	6	5	True
+MBD2	dispersed_ohnolog	ohnolog	dispersed	MBD		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+MBD3	dispersed_ohnolog	ohnolog	dispersed	MBD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MBD4	dispersed_ohnolog	ohnolog	dispersed	MBD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BAZ2A	dispersed_ohnolog	ohnolog	dispersed	MBD; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MECP2	dispersed_ohnolog	ohnolog	dispersed	MBD; AT hook		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+DMTF1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+MYB	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		0	0	0	1	0	0	0	0	0	0	1	1	0	3	2	2	0	1	0	0	1	0	0	0	12	8	True
+MYBL1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		4	0	3	1	11	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	22	5	True
+MYBL2	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0	0	2	6	3	True
+MYSM1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TTF1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYRF	dispersed_ohnolog	ohnolog	dispersed	Ndt80/PhoG		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYRFL	dispersed_ohnolog	ohnolog	dispersed	Ndt80/PhoG		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ESR1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		7	2	6	0	1	0	0	0	0	0	1	1	2	0	1	2	0	0	0	0	0	0	0	0	23	9	True
+ESRRA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ESRRB	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ESRRG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HNF4A	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HNF4G	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR1H3	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		10	8	9	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	5	True
+NR1H4	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR1I2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2C1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2C2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2F1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR2F2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR4A1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+NR4A2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NR4A3	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		11	12	11	1	3	1	4	3	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	53	11	True
+NR5A2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PGR	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PPARA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	True
+PPARD	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		4	4	4	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	14	5	True
+PPARG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		13	7	12	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	39	4	True
+RARA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	4	4	True
+RARG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+RORA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		5	0	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	14	5	True
+RORB	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	3	3	True
+RORC	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RXRA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	2	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	8	4	True
+RXRB	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RXRG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+VDR	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		1	1	1	4	0	0	2	1	2	0	0	0	1	1	0	0	0	1	0	1	6	0	0	3	25	13	True
+PAX1	dispersed_ohnolog	ohnolog	dispersed	Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PAX5	dispersed_ohnolog	ohnolog	dispersed	Paired box		6	5	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	22	5	True
+PAX8	dispersed_ohnolog	ohnolog	dispersed	Paired box		6	0	6	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	3	True
+PAX9	dispersed_ohnolog	ohnolog	dispersed	Paired box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LCOR	dispersed_ohnolog	ohnolog	dispersed	Pipsqueak		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+LCORL	dispersed_ohnolog	ohnolog	dispersed	Pipsqueak		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+PROX1	dispersed_ohnolog	ohnolog	dispersed	Prospero		0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+PROX2	dispersed_ohnolog	ohnolog	dispersed	Prospero		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RFX1	dispersed_ohnolog	ohnolog	dispersed	RFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RFX2	dispersed_ohnolog	ohnolog	dispersed	RFX		2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	4	True
+RFX3	dispersed_ohnolog	ohnolog	dispersed	RFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RFX5	dispersed_ohnolog	ohnolog	dispersed	RFX		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+RFX7	dispersed_ohnolog	ohnolog	dispersed	RFX		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+NFAT5	dispersed_ohnolog	ohnolog	dispersed	Rel		3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	2	True
+NFATC1	dispersed_ohnolog	ohnolog	dispersed	Rel		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFATC2	dispersed_ohnolog	ohnolog	dispersed	Rel		7	2	7	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	19	6	True
+NFATC3	dispersed_ohnolog	ohnolog	dispersed	Rel		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFATC4	dispersed_ohnolog	ohnolog	dispersed	Rel		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFKB1	dispersed_ohnolog	ohnolog	dispersed	Rel		2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	3	0	5	14	6	True
+NFKB2	dispersed_ohnolog	ohnolog	dispersed	Rel		0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	1	0	1	1	2	0	1	9	8	True
+REL	dispersed_ohnolog	ohnolog	dispersed	Rel		2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	2	True
+RELA	dispersed_ohnolog	ohnolog	dispersed	Rel		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+RELB	dispersed_ohnolog	ohnolog	dispersed	Rel		0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	1	0	0	2	1	0	3	0	0	11	7	True
+RUNX1	dispersed_ohnolog	ohnolog	dispersed	Runt		2	0	0	1	0	0	1	1	2	0	1	1	1	0	1	2	0	0	0	0	1	0	0	0	14	11	True
+RUNX2	dispersed_ohnolog	ohnolog	dispersed	Runt		6	8	6	7	0	0	1	0	2	0	0	1	0	0	1	2	0	0	0	0	1	1	0	0	36	11	True
+RUNX3	dispersed_ohnolog	ohnolog	dispersed	Runt		3	3	3	0	0	0	0	0	1	0	1	1	0	0	0	2	0	0	0	0	0	0	0	1	15	8	True
+AIRE	dispersed_ohnolog	ohnolog	dispersed	SAND		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GMEB1	dispersed_ohnolog	ohnolog	dispersed	SAND		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+GMEB2	dispersed_ohnolog	ohnolog	dispersed	SAND		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SKOR2	dispersed_ohnolog	ohnolog	dispersed	SAND		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFIA	dispersed_ohnolog	ohnolog	dispersed	SMAD		13	7	12	5	1	0	0	0	0	0	3	6	3	0	3	4	3	3	4	4	0	4	0	1	76	16	True
+NFIB	dispersed_ohnolog	ohnolog	dispersed	SMAD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFIC	dispersed_ohnolog	ohnolog	dispersed	SMAD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFIX	dispersed_ohnolog	ohnolog	dispersed	SMAD		1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	0	0	0	7	5	True
+SMAD1	dispersed_ohnolog	ohnolog	dispersed	SMAD		2	0	1	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	True
+SMAD3	dispersed_ohnolog	ohnolog	dispersed	SMAD		1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	10	6	True
+SMAD5	dispersed_ohnolog	ohnolog	dispersed	SMAD		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+SMAD9	dispersed_ohnolog	ohnolog	dispersed	SMAD		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+STAT2	dispersed_ohnolog	ohnolog	dispersed	STAT		4	1	4	5	0	0	1	0	1	0	8	8	7	7	6	7	6	5	7	5	5	7	0	5	99	19	True
+STAT6	dispersed_ohnolog	ohnolog	dispersed	STAT		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EOMES	dispersed_ohnolog	ohnolog	dispersed	T-box		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	2	True
+MGA	dispersed_ohnolog	ohnolog	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBR1	dispersed_ohnolog	ohnolog	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX19	dispersed_ohnolog	ohnolog	dispersed	T-box		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBX21	dispersed_ohnolog	ohnolog	dispersed	T-box		0	0	0	6	1	0	6	3	8	0	2	0	4	6	0	0	0	1	0	0	0	0	0	0	37	9	True
+TBP	dispersed_ohnolog	ohnolog	dispersed	TBP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TBPL2	dispersed_ohnolog	ohnolog	dispersed	TBP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TEAD1	dispersed_ohnolog	ohnolog	dispersed	TEA		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+TEAD3	dispersed_ohnolog	ohnolog	dispersed	TEA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TEAD4	dispersed_ohnolog	ohnolog	dispersed	TEA		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+AHR	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	1	0	0	0	1	0	0	0	0	2	3	1	0	3	3	3	2	0	2	0	0	0	1	22	11	True
+AHRR	dispersed_ohnolog	ohnolog	dispersed	bHLH		3	7	3	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	4	True
+ARNT	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ARNT2	dispersed_ohnolog	ohnolog	dispersed	bHLH		17	14	17	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	52	5	True
+ARNTL	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ARNTL2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ASCL3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ASCL4	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BHLHE22	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	True
+BHLHE23	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CLOCK	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+EPAS1	dispersed_ohnolog	ohnolog	dispersed	bHLH		4	2	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	2	1	0	0	20	8	True
+HAND1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HAND2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HES1	dispersed_ohnolog	ohnolog	dispersed	bHLH		1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	True
+HES4	dispersed_ohnolog	ohnolog	dispersed	bHLH		6	8	6	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	4	True
+HEY1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HEY2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HEYL	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+HIF1A	dispersed_ohnolog	ohnolog	dispersed	bHLH		2	2	2	1	0	0	0	0	0	0	0	0	0	1	1	0	1	3	1	1	2	1	1	1	20	14	True
+HIF3A	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MITF	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	2	0	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	3	True
+MLXIP	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MLXIPL	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MSC	dispersed_ohnolog	ohnolog	dispersed	bHLH		6	0	4	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	3	True
+MXD1	dispersed_ohnolog	ohnolog	dispersed	bHLH		5	3	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	17	6	True
+MXD3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MXD4	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	5	0	6	0	0	0	0	0	0	0	0	2	0	2	0	3	1	2	4	4	4	0	2	35	11	True
+MXI1	dispersed_ohnolog	ohnolog	dispersed	bHLH		5	4	5	0	1	0	2	3	0	0	0	0	1	0	2	0	3	2	1	2	0	2	0	0	33	13	True
+MYC	dispersed_ohnolog	ohnolog	dispersed	bHLH		3	6	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	3	0	0	0	17	6	True
+MYCL	dispersed_ohnolog	ohnolog	dispersed	bHLH		5	9	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	3	True
+MYCN	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	1	True
+MYOD1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MYOG	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NCOA2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NCOA3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	1	0	0	0	0	0	0	1	2	0	0	0	2	0	0	0	0	1	2	0	0	9	6	True
+NEUROD2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NEUROD4	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NEUROD6	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NEUROG1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NEUROG2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NEUROG3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NPAS1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NPAS2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NPAS3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	True
+SIM1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SIM2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+SREBF1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	1	0	0	2	2	2	0	1	1	1	1	0	1	2	3	2	2	1	2	0	0	24	15	True
+SREBF2	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	2	2	True
+TCF12	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF21	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF23	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF24	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TCF4	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	4	3	True
+TFE3	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFEB	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TFEC	dispersed_ohnolog	ohnolog	dispersed	bHLH		3	3	3	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	1	17	8	True
+USF1	dispersed_ohnolog	ohnolog	dispersed	bHLH		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+USF2	dispersed_ohnolog	ohnolog	dispersed	bHLH		2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	True
+ATF1	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATF2	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATF3	dispersed_ohnolog	ohnolog	dispersed	bZIP		3	2	3	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	16	6	True
+ATF4	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATF5	dispersed_ohnolog	ohnolog	dispersed	bZIP		8	6	7	7	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	33	8	True
+ATF6	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+ATF6B	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BACH1	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+BACH2	dispersed_ohnolog	ohnolog	dispersed	bZIP		5	2	5	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	18	6	True
+CEBPB	dispersed_ohnolog	ohnolog	dispersed	bZIP		3	1	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	7	3	0	0	22	7	True
+CEBPD	dispersed_ohnolog	ohnolog	dispersed	bZIP		2	4	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	14	6	True
+CEBPE	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CREB1	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CREB3	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CREB3L1	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CREB3L2	dispersed_ohnolog	ohnolog	dispersed	bZIP		2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	2	True
+CREB3L3	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CREB3L4	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+CREB5	dispersed_ohnolog	ohnolog	dispersed	bZIP		5	5	5	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	25	6	True
+CREM	dispersed_ohnolog	ohnolog	dispersed	bZIP		3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	3	0	0	10	6	True
+DBP	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOSB	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+FOSL1	dispersed_ohnolog	ohnolog	dispersed	bZIP		5	0	5	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	16	5	True
+FOSL2	dispersed_ohnolog	ohnolog	dispersed	bZIP		3	2	3	9	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	2	22	8	True
+HLF	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	2	5	2	True
+JUN	dispersed_ohnolog	ohnolog	dispersed	bZIP		2	2	2	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	13	5	True
+JUNB	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+JUND	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	True
+MAF	dispersed_ohnolog	ohnolog	dispersed	bZIP		10	5	10	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	28	6	True
+MAFA	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MAFB	dispersed_ohnolog	ohnolog	dispersed	bZIP		2	2	2	7	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	19	6	True
+MAFF	dispersed_ohnolog	ohnolog	dispersed	bZIP		5	7	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	18	4	True
+MAFG	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+MAFK	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFE2	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	True
+NFE2L1	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFE2L2	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+NFE2L3	dispersed_ohnolog	ohnolog	dispersed	bZIP		1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	2	0	2	0	0	10	7	True
+NRL	dispersed_ohnolog	ohnolog	dispersed	bZIP		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False
+TP53	dispersed_ohnolog	ohnolog	dispersed	p53		1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	True
+TP63	dispersed_ohnolog	ohnolog	dispersed	p53		0	0	0	7	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	2	True
+TP73	dispersed_ohnolog	ohnolog	dispersed	p53		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	False

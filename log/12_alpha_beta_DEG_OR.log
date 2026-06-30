@@ -1,0 +1,20 @@
+[12] alpha/beta lineage map: 22521 chicken symbols (17973 alpha / 4548 beta)
+[12] detectable paralogous TFs: 1149; ohnolog-provenance: 629; with alpha/beta label: 451 (343 alpha / 108 beta)
+[12] summary:
+         modality                    test   n     rate       OR    ci_lo    ci_hi        p               note
+    PBMC_identity             rate__alpha 343 0.262391      NaN      NaN      NaN      NaN             90/343
+    PBMC_identity              rate__beta 108 0.324074      NaN      NaN      NaN      NaN             35/108
+    PBMC_identity       rate__all_ohnolog 629 0.265501      NaN      NaN      NaN      NaN            167/629
+    PBMC_identity rate__dispersed_SSD_ref 447 0.192394      NaN      NaN      NaN      NaN             86/447
+    PBMC_identity           alpha_vs_beta 451      NaN 0.741954 0.464042 1.186305 0.219399   90/343 vs 35/108
+    PBMC_identity           alpha_vs_rest 343      NaN 1.282665 0.956799 1.719515 0.107914  90/343 vs 175/806
+    PBMC_identity            beta_vs_rest 108      NaN 1.690590 1.101123 2.595618 0.021962 35/108 vs 230/1041
+cytokine_response             rate__alpha 343 0.361516      NaN      NaN      NaN      NaN            124/343
+cytokine_response              rate__beta 108 0.370370      NaN      NaN      NaN      NaN             40/108
+cytokine_response       rate__all_ohnolog 629 0.360890      NaN      NaN      NaN      NaN            227/629
+cytokine_response rate__dispersed_SSD_ref 447 0.263982      NaN      NaN      NaN      NaN            118/447
+cytokine_response           alpha_vs_beta 451      NaN 0.962557 0.614741 1.507166 0.908830  124/343 vs 40/108
+cytokine_response           alpha_vs_rest 343      NaN 1.359382 1.040464 1.776052 0.026304 124/343 vs 237/806
+cytokine_response            beta_vs_rest 108      NaN 1.319406 0.873776 1.992310 0.192310 40/108 vs 321/1041
+[12] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_alpha_beta_DEG_OR.pdf/.png
+[12] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_ohnolog_alpha_beta.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_alpha_beta_DEG_OR.summary.tsv

@@ -1,0 +1,6 @@
+[05c] TFs: 1153 across 4 categories
+[05c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_age_distribution_by_category.tsv
+[05c] Kruskal-Wallis on youngest-paralog-node rank across 4 categories: H=12.37, p=6.23e-03
+[05c] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_age_distribution_by_category.pdf/.png
+scripts/05c_TF_age_distribution_by_category.py:181: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout(rect=(0, 0.05, 1, 0.97))

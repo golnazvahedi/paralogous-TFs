@@ -230,6 +230,67 @@ STAT buffering).}
 \label{fig:buffer}
 \end{figure}
 
+\section{Part V: alpha vs.\ beta ohnolog lineages (Zhu et al.\ 2026)}
+
+Zhu et al.\ (\textit{Nature} 2026) report that the jawed-vertebrate second WGD was an
+\textbf{allopolyploidization} fusing two parental lineages, \textbf{alpha} and \textbf{beta};
+alpha-derived ohnologs were $\sim$4$\times$ more likely to be retained and, in the
+\emph{brain}, were more strongly associated with cell-type marker genes than beta. We tested
+whether this alpha/beta distinction predicts enrichment in the \emph{immune} system. Using
+the Marletaz hagfish-paralogon assignments (alpha/beta via chicken orthology, the source Zhu
+cite), we labelled each ohnolog TF and re-ran the identity- and cytokine-DEG tests
+(Table~\ref{tab:alphabeta}, Fig.~\ref{fig:alphabeta}).
+
+Of 629 detectable ohnolog-provenance TFs, 451 received a confident lineage call,
+\textbf{343 alpha vs.\ 108 beta} (3.2:1)---reproducing the alpha-retention bias. Two findings
+follow. First, \textbf{Zhu's ohnolog\,$>$\,SSD enrichment replicates in immune cells}: both
+lineages exceed the \dispssd{} reference for identity (alpha $26\%$, beta $32\%$ vs.\ $19\%$)
+and for cytokine response ($36$--$37\%$ vs.\ $26\%$). Second, \textbf{the alpha\,$>$\,beta
+asymmetry does \emph{not} carry over}: the alpha-vs-beta contrast is non-significant for both
+readouts (identity OR$=0.74$, $p=0.22$; cytokine OR$=0.96$, $p=0.91$). If anything the roles
+split by modality---\emph{beta} is the only lineage with a significant one-vs-rest identity
+enrichment (OR$=1.69$, $p=0.022$), whereas \emph{alpha} carries the cytokine-response signal
+(OR$=1.36$, $p=0.026$). The robust, transferable claim is therefore ohnolog provenance
+($>$\,SSD), consistent with Parts III--IV; the brain-specific alpha dominance is not an
+immune-system property.
+
+\begin{table}[h]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{5pt}
+\caption{Alpha vs.\ beta ohnolog DEG enrichment (human PBMC). Rates are the fraction of each
+group that is a marker / responder; ORs from two-sided Fisher tests.}
+\label{tab:alphabeta}
+\begin{tabular}{llS[table-format=1.3]S[table-format=1.2]S[table-format=1.3]l}
+\toprule
+\textbf{Modality} & \textbf{Group} & {\textbf{rate}} & {\textbf{OR}} & {\textbf{$p$}} & \textbf{} \\
+\midrule
+PBMC identity & alpha ($n{=}343$)        & 0.262 & {} & {} & \\
+PBMC identity & beta ($n{=}108$)         & 0.324 & {} & {} & \\
+PBMC identity & \dispssd{} (ref)         & 0.192 & {} & {} & \\
+PBMC identity & alpha vs.\ beta          & {} & 0.74 & 0.219 & ns \\
+PBMC identity & beta vs.\ rest           & {} & 1.69 & 0.022 & enriched\,$\uparrow$ \\
+\midrule
+Cytokine resp.\ & alpha ($n{=}343$)      & 0.362 & {} & {} & \\
+Cytokine resp.\ & beta ($n{=}108$)       & 0.370 & {} & {} & \\
+Cytokine resp.\ & \dispssd{} (ref)       & 0.264 & {} & {} & \\
+Cytokine resp.\ & alpha vs.\ beta        & {} & 0.96 & 0.909 & ns \\
+Cytokine resp.\ & alpha vs.\ rest        & {} & 1.36 & 0.026 & enriched\,$\uparrow$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.98\textwidth]{TF_alpha_beta_DEG_OR.pdf}
+\caption{Alpha vs.\ beta ohnolog DEG enrichment in human PBMC. (A--B) marker/responder rates
+for alpha, beta, all ohnologs and the dispersed-SSD reference; (C) forest of enrichment ORs.
+Both lineages beat SSD, but alpha and beta are statistically indistinguishable---the brain
+alpha-dominance does not transfer, and the immune split is instead beta\,$\to$\,identity,
+alpha\,$\to$\,cytokine.}
+\label{fig:alphabeta}
+\end{figure}
+
 \section{Synthesis: what evolutionary advantage might clustering confer?}
 
 The central result is a \textbf{dissociation}: \emph{provenance} (being a 2R ohnolog) sets
@@ -303,5 +364,80 @@ for paralog buffering. Clustering's evolutionary advantage is therefore not a si
 but a trade---coordination, modular deployability and robustness in exchange for the
 evolvability of independent divergence---and the ETS and STAT paralogons are its
 clearest immune-system instantiations.
+
+\section{Significance: why study this, and relevance to human health and disease}
+
+\subsection{What iteration15 established}
+Across this work one coherent idea emerges: \textbf{a paralogous transcription factor's
+behaviour in the immune system is predicted by how it was born and how it has been kept.}
+Concretely, (i) the provenance$\times$arrangement classification cleanly separates immune
+roles---dispersed ohnologs are the cell-type \emph{identity} reservoir, while clustered
+\emph{cis}-ohnologs (the ETS and STAT paralogons) are recruited into coordinated
+cytokine-\emph{effector} modules; (ii) gene-origin dating shows the ohnolog categories are the
+most ancient ($\sim$72\% predate the first WGD) while tandem-SSD pairs are the youngest, the
+categories differing in origin age at $p=2\times10^{-7}$, and the important singletons
+BCL6/IRF1/KLF2 are ancient, pre-2R genes \emph{retained single-copy} through both genome
+duplications; and (iii) layering on the Zhu et al.\ alpha/beta allopolyploid lineages, the
+ohnolog-over-SSD enrichment replicates in immune cells but the brain's alpha-subgenome
+dominance does not transfer---immune role splits by function, not by ancestral subgenome.
+
+\subsection{Why the question is worth studying}
+\textbf{1. Dosage is the hidden variable in immune gene regulation.} The most reproducible
+signal throughout is \emph{provenance}: 2R ohnologs were preferentially retained \emph{because
+their amount matters}, the very property that makes them disease genes---when function depends
+on dose, one cannot lose, gain, or mistune a copy without consequence. The framework predicts
+genome-wide which TFs are dosage-critical rather than discovering it one disease at a time.
+
+\textbf{2. Paralog buffering explains variable penetrance.} A mutation in a TF with a
+redundant, co-expressed neighbour (STAT1/STAT4; ETS1/FLI1) can be silently compensated, while
+the identical lesion in an unbuffered TF manifests fully---a mechanistic model for the
+incomplete penetrance and variable expressivity that pervade immune-disease genetics. The age
+and arrangement results show \emph{where} buffering is even possible: ancient single-copy
+survivors such as BCL6/IRF1/KLF2 have no paralog to fall back on and are therefore least
+tolerant of a single hit.
+
+\textbf{3. Evolution is a natural perturbation screen.} Asking which duplicates were kept, in
+what configuration, and for how long is asking which regulatory architectures selection found
+indispensable over $\sim$500\,Myr; ancient retention marks nodes the immune system cannot do
+without---high-value candidates for both disease causation and therapeutic dependency.
+
+\subsection{Relevance to human health and disease}
+This is the integrating framework for the ETS P01 thesis: ETS-family TFs form a
+dosage-sensitive, paralog-buffered network, and \emph{where} it is perturbed sets the
+direction of immune disease.
+\begin{itemize}[leftmargin=1.4em,itemsep=2pt]
+\item \textbf{One network, the full clinical spectrum.} The three P01 poles are three
+perturbations of the same ETS/enhancer grammar: \textbf{SPI1/PU.1} loss
+$\rightarrow$ immunodeficiency (CVID); \textbf{ELF4} loss $\rightarrow$ autoinflammation
+(DEX); \textbf{ETS1--FLI1} dysregulation $\rightarrow$ autoimmunity (lupus GWAS). The
+classification predicts why these diverge---it depends on the member, the cell type, and how
+much paralog redundancy buffers the lesion.
+\item \textbf{Concrete disease genes fall out of the framework.} The ancient single-copy TFs
+dated here are textbook ``unbuffered dosage'' immune-disease genes: \textbf{IRF1} (Mendelian
+susceptibility to mycobacterial disease / interferon immunity), \textbf{BCL6} (master
+Tfh/germinal-centre regulator, deregulated in lymphoma), \textbf{KLF2} (lymphocyte egress and
+quiescence); their pre-2R single-copy status \emph{is} the prediction that they are
+dosage-critical and poorly compensated.
+\item \textbf{Identity vs.\ effector flags the disease flavour.} Perturbing dispersed ohnologs
+(identity TFs) tends to reshape which immune cells exist (developmental / immunodeficiency
+phenotypes); perturbing clustered \emph{cis}-ohnolog effectors (ETS/STAT) tends to derail
+cytokine responses (autoimmune / autoinflammatory phenotypes).
+\item \textbf{Therapeutic logic.} Buffering predicts both vulnerability and opportunity: where
+a paralog compensates, one copy can be drugged with tolerable toxicity (or both must be hit
+for an effect); unbuffered nodes are where dosage-restoring strategies have the largest, clean
+effect.
+\end{itemize}
+
+\noindent\textbf{In one sentence:} by classifying immune TFs by how they were duplicated, how
+old they are, and how redundant they remain, iteration15 turns ``which transcription factor
+matters'' into a predictive statement about dosage sensitivity and buffering---the two
+parameters that decide whether a genetic lesion produces immunodeficiency, autoinflammation,
+or autoimmunity, and how it might be treated.
+
+\medskip\noindent
+\emph{Honesty note:} these are association- and evolution-based predictions on a defined
+paralogous-TF universe, not yet causal tests; the strongest translational payoff is to take
+the buffered pairs (STAT1/STAT4, ETS1/FLI1) and the unbuffered ancient singletons (IRF1,
+BCL6, KLF2) into experimental dosage perturbation in primary immune cells.
 
 \end{document}

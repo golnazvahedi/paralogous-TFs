@@ -1,0 +1,1150 @@
+gene	dup_class4	provenance	arrangement	TF_subfamily	cluster_id	lineage	is_pbmc_marker	is_cytokine_responder
+AKAP8	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016		False	False
+AKAP8L	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016		False	False
+FIZ1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019		False	False
+REPIN1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0027		True	True
+WIZ	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016		False	False
+ZBTB1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0003		False	False
+ZBTB25	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0003		False	False
+ZBTB26	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0004		False	False
+ZBTB34	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0005		False	False
+ZBTB43	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0005		True	True
+ZBTB6	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0004		False	False
+ZNF107	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0026		True	True
+ZNF138	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0026		False	False
+ZNF165	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0065		False	False
+ZNF174	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0061		False	False
+ZNF236	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0014		False	False
+ZNF24	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062		False	False
+ZNF396	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062		False	False
+ZNF397	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062		True	False
+ZNF428	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0018		True	True
+ZNF48	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0010		False	False
+ZNF497	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0020		False	False
+ZNF516	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0014		True	True
+ZNF576	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0018		False	False
+ZNF579	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019		False	False
+ZNF580	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019		False	False
+ZNF581	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019		False	False
+ZNF625	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0015		False	False
+ZNF646	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0011		False	True
+ZNF668	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0011		False	False
+ZNF672	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0006		True	False
+ZNF692	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0006		False	False
+ZNF771	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0010		False	False
+ZNF775	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0027		False	False
+ZNF784	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019		False	False
+ZNF837	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0020		False	False
+ZNF865	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019		False	False
+ZSCAN1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0064		False	False
+ZSCAN12	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066		False	False
+ZSCAN16	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0065		False	False
+ZSCAN18	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0064		True	True
+ZSCAN23	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066		False	False
+ZSCAN30	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062		False	True
+ZSCAN31	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066		False	False
+ZSCAN32	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0061		False	False
+ZSCAN5A	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063		False	True
+ZSCAN5B	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063		False	False
+ZSCAN5C	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063		False	False
+DMRT1	clustered_SSD_tandem	SSD	clustered	DM	clust0029		False	False
+DMRT2	clustered_SSD_tandem	SSD	clustered	DM	clust0029		False	False
+DMRT3	clustered_SSD_tandem	SSD	clustered	DM	clust0029		False	False
+FOXC2	clustered_SSD_tandem	SSD	clustered	Forkhead	clust0035		False	False
+FOXL1	clustered_SSD_tandem	SSD	clustered	Forkhead	clust0035		False	False
+GTF2I	clustered_SSD_tandem	SSD	clustered	GTF2I-like	clust0037		True	True
+GTF2IRD1	clustered_SSD_tandem	SSD	clustered	GTF2I-like	clust0037		False	True
+HSFY1	clustered_SSD_tandem	SSD	clustered	HSF	clust0038		False	False
+HSFY2	clustered_SSD_tandem	SSD	clustered	HSF	clust0038		False	False
+NANOG	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0042		False	False
+NANOGNB	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0042		False	False
+RHOXF1	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055		False	True
+RHOXF2	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055		False	False
+RHOXF2B	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055		False	False
+SP100	clustered_SSD_tandem	SSD	clustered	SAND	clust0060		False	True
+SP110	clustered_SSD_tandem	SSD	clustered	SAND	clust0060		True	True
+SP140	clustered_SSD_tandem	SSD	clustered	SAND	clust0060		True	True
+SP140L	clustered_SSD_tandem	SSD	clustered	SAND	clust0060		True	True
+FERD3L	clustered_SSD_tandem	SSD	clustered	bHLH	clust0075		False	False
+MESP1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0073		False	False
+MESP2	clustered_SSD_tandem	SSD	clustered	bHLH	clust0073		False	False
+OLIG1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0074		False	False
+OLIG2	clustered_SSD_tandem	SSD	clustered	bHLH	clust0074		False	False
+SOHLH2	clustered_SSD_tandem	SSD	clustered	bHLH	clust0072		False	False
+TWIST1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0075		False	False
+TFAP2B	clustered_cis_ohnolog	ohnolog	clustered	AP-2	clust0001		False	False
+TFAP2D	clustered_cis_ohnolog	ohnolog	clustered	AP-2	clust0001	alpha	False	False
+GLI4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028		False	True
+KLF12	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0008	alpha	True	True
+KLF5	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0008	alpha	False	True
+SALL4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	beta	False	True
+SP1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0007	beta	True	False
+SP2	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0013	beta	False	False
+SP4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0025		False	False
+SP6	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0013	beta	False	False
+SP7	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0007	alpha	False	False
+SP8	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0025	alpha	False	False
+TSHZ2	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	beta	True	True
+TSHZ3	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017	alpha	False	True
+ZBTB8A	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0002		True	True
+ZBTB8B	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0002		False	False
+ZFP41	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028		False	False
+ZFP64	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	beta	False	True
+ZFPM1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0012	alpha	False	False
+ZIC1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0024	alpha	False	False
+ZIC2	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0009	alpha	False	False
+ZIC4	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0024	alpha	False	False
+ZIC5	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0009	alpha	False	False
+ZNF217	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021	beta	False	True
+ZNF280A	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0022		False	False
+ZNF280B	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0022		False	True
+ZNF35	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023		False	False
+ZNF469	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0012		False	False
+ZNF501	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023		False	False
+ZNF502	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023		False	False
+ZNF507	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017	alpha	False	False
+ZNF536	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017	alpha	False	False
+ZNF660	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023		False	False
+ZNF696	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028		False	False
+EHF	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0031	alpha	True	True
+ELF5	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0031	alpha	False	False
+ERG	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0033	beta	True	False
+ETS1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0032	beta	True	True
+ETS2	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0033	beta	True	True
+ETV3	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0030	beta	True	True
+ETV3L	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0030	beta	False	True
+FLI1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0032	beta	False	False
+FOXC1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036		False	True
+FOXD2	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0034		False	False
+FOXE3	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0034	alpha	False	False
+FOXF2	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036	alpha	False	False
+FOXQ1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036		False	True
+CDX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043	alpha	False	False
+CRX	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0048		False	False
+DLX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0050	alpha	False	False
+DLX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0050	alpha	False	False
+DLX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0047	beta	False	False
+DLX4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0047		False	False
+DLX5	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0053		False	False
+DLX6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0053	alpha	False	False
+GSX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043	alpha	False	False
+HMX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0041	alpha	False	False
+HMX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0041	alpha	False	False
+IRX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052	alpha	False	False
+IRX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052		False	False
+IRX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046	alpha	False	False
+IRX4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052		False	False
+IRX5	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046	alpha	False	False
+IRX6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046	alpha	False	False
+LBX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0040	alpha	False	False
+LMX1A	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0039	alpha	False	False
+NKX2-1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0044	alpha	False	False
+NKX2-2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0051	alpha	False	False
+NKX2-4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0051	alpha	False	False
+NKX2-6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0054	beta	False	False
+NKX2-8	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0044	alpha	False	False
+NKX3-1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0054		False	False
+PBX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0039	alpha	True	True
+PDX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043	alpha	False	False
+SIX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045	alpha	False	False
+SIX2	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0049	alpha	False	False
+SIX3	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0049	alpha	False	False
+SIX4	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045	alpha	False	False
+SIX6	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045	alpha	False	False
+TLX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0040	alpha	False	False
+TPRX1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0048		False	False
+MEF2B	clustered_cis_ohnolog	ohnolog	clustered	MADS box	clust0056		False	False
+NR1D1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0057		False	True
+NR1D2	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058	alpha	False	True
+NR5A1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0059	alpha	False	False
+NR6A1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0059	alpha	False	True
+RARB	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058	alpha	False	True
+THRA	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0057	alpha	False	True
+THRB	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058	alpha	False	True
+STAT1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0068	alpha	True	True
+STAT3	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067	beta	False	False
+STAT4	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0068	alpha	True	True
+STAT5A	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067	beta	True	True
+STAT5B	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067	beta	False	False
+TBX2	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0070	alpha	False	False
+TBX3	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0069	alpha	False	False
+TBX4	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0070	alpha	False	False
+TBX5	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0069	alpha	False	False
+MYF5	clustered_cis_ohnolog	ohnolog	clustered	bHLH	clust0071	alpha	False	False
+MYF6	clustered_cis_ohnolog	ohnolog	clustered	bHLH	clust0071	alpha	False	False
+ATF7	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0076		False	False
+BATF	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077	alpha	False	True
+CEBPA	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0078	alpha	True	True
+CEBPG	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0078	alpha	True	False
+FOS	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077		True	True
+JDP2	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077	alpha	True	True
+ARID3C	dispersed_SSD	SSD	dispersed	ARID/BRIGHT			False	False
+KDM5B	dispersed_SSD	SSD	dispersed	ARID/BRIGHT			True	True
+AHCTF1	dispersed_SSD	SSD	dispersed	AT hook			False	False
+AHDC1	dispersed_SSD	SSD	dispersed	AT hook			False	True
+AKNA	dispersed_SSD	SSD	dispersed	AT hook			True	False
+ASH1L	dispersed_SSD	SSD	dispersed	AT hook			False	False
+DNTTIP1	dispersed_SSD	SSD	dispersed	AT hook			True	False
+DOT1L	dispersed_SSD	SSD	dispersed	AT hook			False	False
+GLYR1	dispersed_SSD	SSD	dispersed	AT hook			False	False
+HMGA1	dispersed_SSD	SSD	dispersed	AT hook			True	True
+HMGA2	dispersed_SSD	SSD	dispersed	AT hook			True	False
+PHF21A	dispersed_SSD	SSD	dispersed	AT hook			True	True
+PRR12	dispersed_SSD	SSD	dispersed	AT hook			False	True
+SETBP1	dispersed_SSD	SSD	dispersed	AT hook			True	True
+C11orf95	dispersed_SSD	SSD	dispersed	BED ZF			False	False
+FAM200B	dispersed_SSD	SSD	dispersed	BED ZF			True	True
+ZBED2	dispersed_SSD	SSD	dispersed	BED ZF			False	False
+ZBED3	dispersed_SSD	SSD	dispersed	BED ZF			True	True
+ZBED5	dispersed_SSD	SSD	dispersed	BED ZF			False	False
+ZBED6	dispersed_SSD	SSD	dispersed	BED ZF			False	True
+ZBED9	dispersed_SSD	SSD	dispersed	BED ZF			False	False
+AEBP2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ANKZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ATMIN	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+BCL6	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+BCL6B	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+CASZ1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+CCDC17	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+CHAMP1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+CPXCR1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+E4F1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+EEA1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+EGR4	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+FAM170A	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+GLI1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+GLI2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+GLI3	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+GLIS2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+GZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+HIC1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+HIC2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+HINFP	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+IKZF5	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+JAZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+KAT7	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+KCMF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+KIN	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+KLF15	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+KLF17	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+KLF2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+MAZ	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+MTF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+MYNN	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+MZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+OVOL1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+OVOL2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+OVOL3	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PEG3	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PLAG1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PLAGL1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+PLAGL2	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+PRDM12	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PRDM13	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PRDM14	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PRDM15	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PRDM2	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+PRDM5	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PRDM6	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PRDM8	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+PRMT3	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+RBSN	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+REST	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+RLF	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+RREB1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+SCRT1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+SCRT2	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+SP5	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+TRAFD1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+VEZF1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+WT1	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZBTB11	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB12	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB14	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB16	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB17	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZBTB18	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB20	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB21	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB22	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZBTB3	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB32	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB33	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZBTB37	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB38	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB39	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB4	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZBTB40	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB41	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB42	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB45	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZBTB47	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB48	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB7A	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZBTB7B	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZBTB7C	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZBTB9	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZFAT	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZFP62	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZFP91	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZFX	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZFY	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZMAT1	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZMAT4	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF117	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF121	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF131	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF134	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF146	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF148	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF16	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF200	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF207	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF219	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF22	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF232	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF239	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF260	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF275	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZNF276	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF281	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF292	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF318	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZNF319	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF32	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF322	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF326	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF329	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF335	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF341	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF345	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF346	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF358	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF365	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF366	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZNF367	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF385A	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZNF385C	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF391	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF407	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF408	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF410	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF414	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF415	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF438	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF444	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF449	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF451	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF467	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZNF474	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF488	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF491	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF493	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF511	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF512B	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF518A	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF518B	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF526	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF574	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF575	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF594	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF598	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF600	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	True
+ZNF618	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF619	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF628	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF639	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF644	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF648	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF652	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF654	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF655	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF664	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF678	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF691	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF697	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF706	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF710	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF711	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF721	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF740	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF750	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF768	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF770	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF787	dispersed_SSD	SSD	dispersed	C2H2 ZF			True	False
+ZNF80	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF800	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF804A	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF804B	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF821	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF827	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	True
+ZNF83	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF830	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF835	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF841	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF843	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF853	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZNF883	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN10	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN20	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN21	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN22	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN26	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN29	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN4	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+ZSCAN9	dispersed_SSD	SSD	dispersed	C2H2 ZF			False	False
+PATZ1	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook			False	False
+ZBTB24	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook			False	True
+ZNF524	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook			True	False
+ZNF653	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook			False	False
+ZNF277	dispersed_SSD	SSD	dispersed	C2H2 ZF; BED ZF			False	False
+ZNF512	dispersed_SSD	SSD	dispersed	C2H2 ZF; BED ZF			True	True
+ZC3H8	dispersed_SSD	SSD	dispersed	CCCH ZF			False	True
+ZGPAT	dispersed_SSD	SSD	dispersed	CCCH ZF			False	False
+CENPB	dispersed_SSD	SSD	dispersed	CENPB			False	False
+JRK	dispersed_SSD	SSD	dispersed	CENPB			False	False
+JRKL	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD1	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD2	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD3	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD4	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD5	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD6	dispersed_SSD	SSD	dispersed	CENPB			False	False
+TIGD7	dispersed_SSD	SSD	dispersed	CENPB			False	False
+RBPJ	dispersed_SSD	SSD	dispersed	CSL			True	True
+RBPJL	dispersed_SSD	SSD	dispersed	CSL			False	False
+SATB1	dispersed_SSD	SSD	dispersed	CUT; Homeodomain			True	True
+SATB2	dispersed_SSD	SSD	dispersed	CUT; Homeodomain			False	False
+CXXC1	dispersed_SSD	SSD	dispersed	CxxC			False	False
+DNMT1	dispersed_SSD	SSD	dispersed	CxxC			False	True
+DMRTA1	dispersed_SSD	SSD	dispersed	DM			False	False
+DMRTA2	dispersed_SSD	SSD	dispersed	DM			False	False
+DMRTB1	dispersed_SSD	SSD	dispersed	DM			False	False
+DMRTC2	dispersed_SSD	SSD	dispersed	DM			False	False
+ELK1	dispersed_SSD	SSD	dispersed	Ets			False	True
+ELK3	dispersed_SSD	SSD	dispersed	Ets			True	True
+ELK4	dispersed_SSD	SSD	dispersed	Ets			False	False
+ETV2	dispersed_SSD	SSD	dispersed	Ets			False	False
+FEV	dispersed_SSD	SSD	dispersed	Ets			False	False
+GABPA	dispersed_SSD	SSD	dispersed	Ets			False	False
+SPDEF	dispersed_SSD	SSD	dispersed	Ets			False	False
+SPIB	dispersed_SSD	SSD	dispersed	Ets			True	True
+FOXD1	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXD4	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXD4L3	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXD4L4	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXD4L5	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXD4L6	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXE1	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXG1	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXH1	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXJ1	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXL2	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXM1	dispersed_SSD	SSD	dispersed	Forkhead			False	True
+FOXP1	dispersed_SSD	SSD	dispersed	Forkhead			False	True
+FOXP2	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+FOXP3	dispersed_SSD	SSD	dispersed	Forkhead			False	True
+FOXP4	dispersed_SSD	SSD	dispersed	Forkhead			False	True
+FOXS1	dispersed_SSD	SSD	dispersed	Forkhead			False	False
+TRPS1	dispersed_SSD	SSD	dispersed	GATA			True	True
+ZGLP1	dispersed_SSD	SSD	dispersed	GATA			False	False
+GTF2IRD2	dispersed_SSD	SSD	dispersed	GTF2I-like			False	True
+GTF2IRD2B	dispersed_SSD	SSD	dispersed	GTF2I-like			False	False
+BBX	dispersed_SSD	SSD	dispersed	HMG/Sox			False	True
+CIC	dispersed_SSD	SSD	dispersed	HMG/Sox			True	False
+HBP1	dispersed_SSD	SSD	dispersed	HMG/Sox			False	True
+HMGN3	dispersed_SSD	SSD	dispersed	HMG/Sox			True	False
+SOX15	dispersed_SSD	SSD	dispersed	HMG/Sox			False	False
+SOX30	dispersed_SSD	SSD	dispersed	HMG/Sox			False	False
+SOX6	dispersed_SSD	SSD	dispersed	HMG/Sox			False	False
+SRY	dispersed_SSD	SSD	dispersed	HMG/Sox			False	False
+HSF5	dispersed_SSD	SSD	dispersed	HSF			False	False
+HSFX1	dispersed_SSD	SSD	dispersed	HSF			False	False
+HSFX2	dispersed_SSD	SSD	dispersed	HSF			False	False
+ADNP	dispersed_SSD	SSD	dispersed	Homeodomain			True	False
+ADNP2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+ANHX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+ARGFX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+ARX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+BARX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+BARX2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+BSX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+DMBX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+DPRX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+DRGX	dispersed_SSD	SSD	dispersed	Homeodomain			False	True
+DUX4	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+DUXA	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+ESX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+GBX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+GBX2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+GSC	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+GSC2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+HDX	dispersed_SSD	SSD	dispersed	Homeodomain			False	True
+HESX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	True
+HHEX	dispersed_SSD	SSD	dispersed	Homeodomain			True	True
+HLX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+HMBOX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+HOMEZ	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+ISX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+LEUTX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+MKX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+MNX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+MSX1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+MSX2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+NANOGP8	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+NKX1-1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+NKX1-2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+NKX6-2	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+NOBOX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+NOTO	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+OTP	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+PROP1	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+TGIF1	dispersed_SSD	SSD	dispersed	Homeodomain			False	True
+TGIF2	dispersed_SSD	SSD	dispersed	Homeodomain			True	False
+TGIF2LX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+TGIF2LY	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+UNCX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+VENTX	dispersed_SSD	SSD	dispersed	Homeodomain			False	False
+ZHX1	dispersed_SSD	SSD	dispersed	Homeodomain			True	False
+ZHX2	dispersed_SSD	SSD	dispersed	Homeodomain			False	True
+ZHX3	dispersed_SSD	SSD	dispersed	Homeodomain			False	True
+POU1F1	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	False
+POU3F4	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	False
+POU5F1	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	False
+POU5F1B	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	True
+POU5F2	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	False
+POU6F1	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	True
+POU6F2	dispersed_SSD	SSD	dispersed	Homeodomain; POU			False	True
+PAX4	dispersed_SSD	SSD	dispersed	Homeodomain; Paired box			False	False
+PAX6	dispersed_SSD	SSD	dispersed	Homeodomain; Paired box			False	False
+IRF1	dispersed_SSD	SSD	dispersed	IRF			True	True
+IRF2	dispersed_SSD	SSD	dispersed	IRF			False	True
+IRF3	dispersed_SSD	SSD	dispersed	IRF			False	True
+IRF5	dispersed_SSD	SSD	dispersed	IRF			True	True
+IRF6	dispersed_SSD	SSD	dispersed	IRF			False	True
+IRF9	dispersed_SSD	SSD	dispersed	IRF			False	True
+MSANTD1	dispersed_SSD	SSD	dispersed	MADF			False	False
+MSANTD3	dispersed_SSD	SSD	dispersed	MADF			True	True
+NAIF1	dispersed_SSD	SSD	dispersed	MADF			False	False
+SRF	dispersed_SSD	SSD	dispersed	MADS box			True	True
+MBD6	dispersed_SSD	SSD	dispersed	MBD			True	False
+PIN1	dispersed_SSD	SSD	dispersed	MBD			True	True
+SETDB1	dispersed_SSD	SSD	dispersed	MBD			False	False
+SETDB2	dispersed_SSD	SSD	dispersed	MBD			False	True
+CDC5L	dispersed_SSD	SSD	dispersed	Myb/SANT			False	False
+MSANTD4	dispersed_SSD	SSD	dispersed	Myb/SANT			False	False
+MYPOP	dispersed_SSD	SSD	dispersed	Myb/SANT			False	False
+SNAPC4	dispersed_SSD	SSD	dispersed	Myb/SANT			False	False
+TERB1	dispersed_SSD	SSD	dispersed	Myb/SANT			False	False
+TERF1	dispersed_SSD	SSD	dispersed	Myb/SANT			True	False
+TERF2	dispersed_SSD	SSD	dispersed	Myb/SANT			True	False
+NFX1	dispersed_SSD	SSD	dispersed	NFX			True	False
+NFXL1	dispersed_SSD	SSD	dispersed	NFX			True	True
+AR	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	True
+ESR2	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	True
+NR1H2	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	False
+NR1I3	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	False
+NR2E1	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	False
+NR2E3	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	False
+NR2F6	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	False
+NR3C1	dispersed_SSD	SSD	dispersed	Nuclear receptor			True	True
+NR3C2	dispersed_SSD	SSD	dispersed	Nuclear receptor			False	True
+RFX4	dispersed_SSD	SSD	dispersed	RFX			False	False
+RFX6	dispersed_SSD	SSD	dispersed	RFX			False	False
+RFX8	dispersed_SSD	SSD	dispersed	RFX			False	True
+DEAF1	dispersed_SSD	SSD	dispersed	SAND			False	False
+SMAD4	dispersed_SSD	SSD	dispersed	SMAD			False	False
+TBX1	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBX10	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBX15	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBX18	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBX20	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBX22	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBX6	dispersed_SSD	SSD	dispersed	T-box			False	False
+TBPL1	dispersed_SSD	SSD	dispersed	TBP			False	False
+TEAD2	dispersed_SSD	SSD	dispersed	TEA			False	False
+THAP1	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP10	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP11	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP12	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP2	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP3	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP4	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP5	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP6	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP7	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP8	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+THAP9	dispersed_SSD	SSD	dispersed	THAP finger			False	False
+ASCL1	dispersed_SSD	SSD	dispersed	bHLH			False	False
+ASCL2	dispersed_SSD	SSD	dispersed	bHLH			True	True
+ASCL5	dispersed_SSD	SSD	dispersed	bHLH			False	False
+ATOH1	dispersed_SSD	SSD	dispersed	bHLH			False	False
+ATOH7	dispersed_SSD	SSD	dispersed	bHLH			False	False
+ATOH8	dispersed_SSD	SSD	dispersed	bHLH			False	False
+BHLHA15	dispersed_SSD	SSD	dispersed	bHLH			False	False
+BHLHA9	dispersed_SSD	SSD	dispersed	bHLH			False	False
+BHLHE40	dispersed_SSD	SSD	dispersed	bHLH			True	True
+BHLHE41	dispersed_SSD	SSD	dispersed	bHLH			True	True
+FIGLA	dispersed_SSD	SSD	dispersed	bHLH			False	False
+HELT	dispersed_SSD	SSD	dispersed	bHLH			False	False
+HES2	dispersed_SSD	SSD	dispersed	bHLH			False	False
+HES3	dispersed_SSD	SSD	dispersed	bHLH			False	False
+HES5	dispersed_SSD	SSD	dispersed	bHLH			False	False
+HES6	dispersed_SSD	SSD	dispersed	bHLH			False	False
+HES7	dispersed_SSD	SSD	dispersed	bHLH			False	False
+LYL1	dispersed_SSD	SSD	dispersed	bHLH			True	False
+MAX	dispersed_SSD	SSD	dispersed	bHLH			True	True
+MLX	dispersed_SSD	SSD	dispersed	bHLH			True	False
+MNT	dispersed_SSD	SSD	dispersed	bHLH			True	False
+MSGN1	dispersed_SSD	SSD	dispersed	bHLH			False	False
+NCOA1	dispersed_SSD	SSD	dispersed	bHLH			True	False
+NEUROD1	dispersed_SSD	SSD	dispersed	bHLH			False	False
+NHLH1	dispersed_SSD	SSD	dispersed	bHLH			False	False
+NHLH2	dispersed_SSD	SSD	dispersed	bHLH			False	False
+NPAS4	dispersed_SSD	SSD	dispersed	bHLH			False	False
+OLIG3	dispersed_SSD	SSD	dispersed	bHLH			False	False
+PTF1A	dispersed_SSD	SSD	dispersed	bHLH			False	False
+SCX	dispersed_SSD	SSD	dispersed	bHLH			False	False
+SOHLH1	dispersed_SSD	SSD	dispersed	bHLH			False	False
+TAL1	dispersed_SSD	SSD	dispersed	bHLH			True	False
+TAL2	dispersed_SSD	SSD	dispersed	bHLH			False	False
+TCF15	dispersed_SSD	SSD	dispersed	bHLH			False	False
+TCFL5	dispersed_SSD	SSD	dispersed	bHLH			False	True
+TFAP4	dispersed_SSD	SSD	dispersed	bHLH			False	True
+TWIST2	dispersed_SSD	SSD	dispersed	bHLH			False	False
+USF3	dispersed_SSD	SSD	dispersed	bHLH			False	False
+BATF2	dispersed_SSD	SSD	dispersed	bZIP			False	True
+BATF3	dispersed_SSD	SSD	dispersed	bZIP			True	True
+CREBL2	dispersed_SSD	SSD	dispersed	bZIP			False	True
+CREBZF	dispersed_SSD	SSD	dispersed	bZIP			False	False
+DDIT3	dispersed_SSD	SSD	dispersed	bZIP			False	True
+NFIL3	dispersed_SSD	SSD	dispersed	bZIP			True	True
+TEF	dispersed_SSD	SSD	dispersed	bZIP			False	True
+XBP1	dispersed_SSD	SSD	dispersed	bZIP			True	True
+MTERF1	dispersed_SSD	SSD	dispersed	mTERF			False	False
+MTERF2	dispersed_SSD	SSD	dispersed	mTERF			True	True
+MTERF3	dispersed_SSD	SSD	dispersed	mTERF			False	False
+MTERF4	dispersed_SSD	SSD	dispersed	mTERF			False	True
+TFAP2A	dispersed_ohnolog	ohnolog	dispersed	AP-2		alpha	False	False
+TFAP2C	dispersed_ohnolog	ohnolog	dispersed	AP-2		beta	False	False
+TFAP2E	dispersed_ohnolog	ohnolog	dispersed	AP-2		beta	False	False
+ARID3A	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		beta	True	True
+ARID3B	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		alpha	True	True
+ARID5A	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		beta	True	True
+ARID5B	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT		alpha	True	True
+CBX2	dispersed_ohnolog	ohnolog	dispersed	AT hook		alpha	True	False
+PHF20	dispersed_ohnolog	ohnolog	dispersed	AT hook		beta	False	False
+SCML4	dispersed_ohnolog	ohnolog	dispersed	AT hook		alpha	True	True
+SRCAP	dispersed_ohnolog	ohnolog	dispersed	AT hook		beta	False	False
+SGSM2	dispersed_ohnolog	ohnolog	dispersed	BED ZF		alpha	False	True
+ZBED1	dispersed_ohnolog	ohnolog	dispersed	BED ZF			False	True
+ZBED4	dispersed_ohnolog	ohnolog	dispersed	BED ZF		alpha	True	False
+BCL11A	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+BCL11B	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+BNC1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+BNC2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+CTCF	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+CTCFL	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+DPF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+DPF3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+DZIP1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+EGR1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	True	True
+EGR2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+EGR3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+FEZF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+FEZF2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+GFI1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+GFI1B	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	False
+GLIS1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+GLIS3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+GTF3A	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+HIVEP1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+HIVEP2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+HIVEP3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	True
+IKZF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+IKZF2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+IKZF3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	True	True
+IKZF4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	True
+INSM1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+INSM2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+KLF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+KLF10	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+KLF11	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+KLF13	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+KLF14	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+KLF16	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	False
+KLF3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+KLF4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+KLF6	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+KLF7	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+KLF8	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	True	False
+KLF9	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+L3MBTL1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+L3MBTL3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+L3MBTL4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+MECOM	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+MYT1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+MYT1L	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+OSR1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+OSR2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+PRDM1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+PRDM10	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+PRDM16	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+PRDM4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+SALL1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+SALL2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+SALL3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+SLC2A4RG	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	True
+SNAI1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+SNAI2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+SNAI3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+SP3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	False
+SP9	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+ST18	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+TSHZ1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+YY1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+YY2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZBTB10	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+ZBTB2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZBTB44	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+ZBTB46	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+ZBTB49	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZBTB5	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZFP2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZFP3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZFP42	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZFPM2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+ZIC3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+ZNF142	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+ZNF143	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF280C	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF280D	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	False
+ZNF296	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	False
+ZNF362	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+ZNF384	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+ZNF385B	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+ZNF385D	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+ZNF395	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			True	True
+ZNF423	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+ZNF462	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+ZNF503	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	False
+ZNF513	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+ZNF521	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	True	True
+ZNF532	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+ZNF572	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF592	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	False
+ZNF608	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+ZNF609	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+ZNF623	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF629	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF683	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+ZNF687	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+ZNF70	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF703	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		beta	False	False
+ZNF704	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF		alpha	False	True
+ZNF71	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF76	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF774	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZNF831	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+ZSCAN2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	True
+ZXDA	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZXDB	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZXDC	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF			False	False
+ZEB1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		alpha	True	True
+ZEB2	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		alpha	True	True
+ZFHX3	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		alpha	True	True
+ZFHX4	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain		alpha	False	False
+TRERF1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Myb/SANT		alpha	True	True
+ZNF541	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Myb/SANT		alpha	False	False
+MBNL2	dispersed_ohnolog	ohnolog	dispersed	CCCH ZF		alpha	True	True
+CAMTA1	dispersed_ohnolog	ohnolog	dispersed	CG-1		alpha	True	False
+CAMTA2	dispersed_ohnolog	ohnolog	dispersed	CG-1		alpha	False	False
+CUX1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		alpha	True	True
+CUX2	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		alpha	True	True
+ONECUT1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		alpha	False	False
+ONECUT2	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		alpha	False	False
+ONECUT3	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain		beta	False	False
+CXXC4	dispersed_ohnolog	ohnolog	dispersed	CxxC			False	False
+CXXC5	dispersed_ohnolog	ohnolog	dispersed	CxxC		beta	True	True
+FBXL19	dispersed_ohnolog	ohnolog	dispersed	CxxC			False	False
+KDM2A	dispersed_ohnolog	ohnolog	dispersed	CxxC			False	False
+KDM2B	dispersed_ohnolog	ohnolog	dispersed	CxxC		alpha	True	True
+TET1	dispersed_ohnolog	ohnolog	dispersed	CxxC		alpha	False	True
+TET3	dispersed_ohnolog	ohnolog	dispersed	CxxC		beta	True	True
+KMT2A	dispersed_ohnolog	ohnolog	dispersed	CxxC; AT hook		beta	False	False
+KMT2B	dispersed_ohnolog	ohnolog	dispersed	CxxC; AT hook			False	False
+E2F1	dispersed_ohnolog	ohnolog	dispersed	E2F		beta	False	True
+E2F2	dispersed_ohnolog	ohnolog	dispersed	E2F			False	True
+E2F3	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	True	True
+E2F4	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	False	False
+E2F5	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	True	True
+E2F6	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	False	True
+E2F7	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	False	True
+E2F8	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	False	True
+TFDP1	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	False	True
+TFDP2	dispersed_ohnolog	ohnolog	dispersed	E2F		alpha	True	True
+TFDP3	dispersed_ohnolog	ohnolog	dispersed	E2F			False	False
+EBF1	dispersed_ohnolog	ohnolog	dispersed	EBF1		beta	True	True
+EBF2	dispersed_ohnolog	ohnolog	dispersed	EBF1		beta	False	False
+EBF3	dispersed_ohnolog	ohnolog	dispersed	EBF1		alpha	False	False
+EBF4	dispersed_ohnolog	ohnolog	dispersed	EBF1			False	True
+ELF1	dispersed_ohnolog	ohnolog	dispersed	Ets		alpha	False	False
+ELF2	dispersed_ohnolog	ohnolog	dispersed	Ets			False	True
+ELF4	dispersed_ohnolog	ohnolog	dispersed	Ets			False	True
+ERF	dispersed_ohnolog	ohnolog	dispersed	Ets			False	False
+ETV1	dispersed_ohnolog	ohnolog	dispersed	Ets		alpha	False	False
+ETV4	dispersed_ohnolog	ohnolog	dispersed	Ets		beta	False	False
+ETV5	dispersed_ohnolog	ohnolog	dispersed	Ets			False	True
+ETV6	dispersed_ohnolog	ohnolog	dispersed	Ets		alpha	True	True
+ETV7	dispersed_ohnolog	ohnolog	dispersed	Ets			False	True
+SPI1	dispersed_ohnolog	ohnolog	dispersed	Ets		alpha	True	False
+SPIC	dispersed_ohnolog	ohnolog	dispersed	Ets		alpha	False	False
+FOXA1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXA2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXA3	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXB1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXB2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXD3	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXD4L1	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXF1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXI1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		beta	False	False
+FOXI2	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXI3	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXJ2	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXJ3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXK1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXK2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXN1	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXN2	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	True
+FOXN3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	True
+FOXN4	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	False	False
+FOXO1	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	True
+FOXO3	dispersed_ohnolog	ohnolog	dispersed	Forkhead		alpha	True	True
+FOXO4	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	True
+FOXO6	dispersed_ohnolog	ohnolog	dispersed	Forkhead		beta	False	False
+FOXR1	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+FOXR2	dispersed_ohnolog	ohnolog	dispersed	Forkhead			False	False
+GATA1	dispersed_ohnolog	ohnolog	dispersed	GATA			False	False
+GATA2	dispersed_ohnolog	ohnolog	dispersed	GATA		alpha	True	False
+GATA3	dispersed_ohnolog	ohnolog	dispersed	GATA		alpha	True	False
+GATA4	dispersed_ohnolog	ohnolog	dispersed	GATA			False	False
+GATA5	dispersed_ohnolog	ohnolog	dispersed	GATA		beta	False	False
+GATA6	dispersed_ohnolog	ohnolog	dispersed	GATA		alpha	False	False
+GATAD2A	dispersed_ohnolog	ohnolog	dispersed	GATA		beta	False	False
+GATAD2B	dispersed_ohnolog	ohnolog	dispersed	GATA		beta	False	False
+GCM1	dispersed_ohnolog	ohnolog	dispersed	GCM		alpha	False	False
+GCM2	dispersed_ohnolog	ohnolog	dispersed	GCM		alpha	False	False
+GRHL1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead			False	False
+GRHL2	dispersed_ohnolog	ohnolog	dispersed	Grainyhead			False	False
+GRHL3	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		beta	False	False
+TFCP2	dispersed_ohnolog	ohnolog	dispersed	Grainyhead			False	False
+TFCP2L1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		alpha	False	False
+UBP1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead		alpha	False	False
+HMG20A	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+HMG20B	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		beta	True	False
+LEF1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox			True	True
+SOX1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+SOX10	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		beta	False	False
+SOX11	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox			False	False
+SOX12	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		beta	True	True
+SOX13	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		beta	False	True
+SOX14	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+SOX17	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+SOX18	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		beta	False	False
+SOX2	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+SOX21	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+SOX3	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		beta	False	False
+SOX4	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	True	True
+SOX5	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	True
+SOX7	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox			False	False
+SOX8	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+SOX9	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	False	False
+TCF7	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox			True	True
+TCF7L1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox			False	True
+TCF7L2	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox		alpha	True	True
+HSF1	dispersed_ohnolog	ohnolog	dispersed	HSF		alpha	False	False
+HSF2	dispersed_ohnolog	ohnolog	dispersed	HSF		alpha	False	False
+HSF4	dispersed_ohnolog	ohnolog	dispersed	HSF		alpha	False	True
+ALX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+ALX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+ALX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+BARHL1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+BARHL2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+CDX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+CDX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+DBX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+DBX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+EMX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+EMX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+EN1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+EN2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+EVX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+EVX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+GSX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+HMX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+HNF1A	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+HNF1B	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+ISL1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+ISL2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LBX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LHX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+LHX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LHX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LHX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LHX5	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+LHX6	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LHX8	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LHX9	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+LMX1B	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+MEIS1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	True	True
+MEIS2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+MEIS3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+MEOX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	True
+MEOX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+MIXL1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	True	False
+NKX2-3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+NKX2-5	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+NKX3-2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+NKX6-1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+NKX6-3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+OTX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+OTX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+PBX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			True	False
+PBX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	True	False
+PBX4	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	True
+PHOX2A	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+PHOX2B	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+PITX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+PITX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+PITX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+PKNOX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+PKNOX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+PRRX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+PRRX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	True
+RAX	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+RAX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+SEBOX	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+SHOX	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+SHOX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+SIX5	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+TLX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+TLX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		beta	False	False
+VAX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+VAX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+VSX1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+VSX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain		alpha	False	False
+ZFHX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain			False	False
+POU2F1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		beta	True	True
+POU2F2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU			True	True
+POU2F3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		beta	False	False
+POU3F1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU			False	False
+POU3F2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		alpha	False	False
+POU3F3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		alpha	False	False
+POU4F1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		alpha	False	False
+POU4F2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU			False	False
+POU4F3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU		beta	False	False
+PAX2	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box		alpha	False	False
+PAX3	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box		alpha	False	False
+PAX7	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box		alpha	False	False
+IRF4	dispersed_ohnolog	ohnolog	dispersed	IRF		alpha	True	True
+IRF7	dispersed_ohnolog	ohnolog	dispersed	IRF			True	True
+IRF8	dispersed_ohnolog	ohnolog	dispersed	IRF		alpha	True	True
+MEF2A	dispersed_ohnolog	ohnolog	dispersed	MADS box		alpha	True	True
+MEF2C	dispersed_ohnolog	ohnolog	dispersed	MADS box		alpha	True	True
+MEF2D	dispersed_ohnolog	ohnolog	dispersed	MADS box		beta	True	True
+BAZ2B	dispersed_ohnolog	ohnolog	dispersed	MBD		alpha	True	True
+MBD2	dispersed_ohnolog	ohnolog	dispersed	MBD			True	True
+MBD3	dispersed_ohnolog	ohnolog	dispersed	MBD		beta	False	False
+MBD4	dispersed_ohnolog	ohnolog	dispersed	MBD			True	False
+BAZ2A	dispersed_ohnolog	ohnolog	dispersed	MBD; AT hook		beta	False	False
+MECP2	dispersed_ohnolog	ohnolog	dispersed	MBD; AT hook			False	False
+DMTF1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		alpha	False	True
+MYB	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		alpha	True	True
+MYBL1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT			True	True
+MYBL2	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		beta	True	True
+MYSM1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT		alpha	False	False
+TTF1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT			False	False
+MYRF	dispersed_ohnolog	ohnolog	dispersed	Ndt80/PhoG		alpha	False	False
+MYRFL	dispersed_ohnolog	ohnolog	dispersed	Ndt80/PhoG		alpha	False	False
+ESR1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	True
+ESRRA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor			True	False
+ESRRB	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+ESRRG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+HNF4A	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		beta	False	False
+HNF4G	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR1H3	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	True
+NR1H4	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR1I2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR2C1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR2C2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR2F1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR2F2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+NR4A1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor			True	True
+NR4A2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	True	False
+NR4A3	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	True
+NR5A2	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+PGR	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+PPARA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		beta	True	True
+PPARD	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		beta	False	True
+PPARG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		beta	False	True
+RARA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	True	True
+RARG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor			False	True
+RORA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	True	True
+RORB	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	True
+RORC	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		beta	False	False
+RXRA	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	True	True
+RXRB	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor			False	False
+RXRG	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	False	False
+VDR	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor		alpha	True	True
+PAX1	dispersed_ohnolog	ohnolog	dispersed	Paired box		alpha	False	False
+PAX5	dispersed_ohnolog	ohnolog	dispersed	Paired box			True	True
+PAX8	dispersed_ohnolog	ohnolog	dispersed	Paired box			False	True
+PAX9	dispersed_ohnolog	ohnolog	dispersed	Paired box		alpha	False	False
+LCOR	dispersed_ohnolog	ohnolog	dispersed	Pipsqueak		alpha	False	False
+LCORL	dispersed_ohnolog	ohnolog	dispersed	Pipsqueak		alpha	True	False
+PROX1	dispersed_ohnolog	ohnolog	dispersed	Prospero		alpha	False	True
+PROX2	dispersed_ohnolog	ohnolog	dispersed	Prospero		alpha	False	False
+RFX1	dispersed_ohnolog	ohnolog	dispersed	RFX			False	False
+RFX2	dispersed_ohnolog	ohnolog	dispersed	RFX		beta	False	True
+RFX3	dispersed_ohnolog	ohnolog	dispersed	RFX		alpha	True	False
+RFX5	dispersed_ohnolog	ohnolog	dispersed	RFX		beta	True	False
+RFX7	dispersed_ohnolog	ohnolog	dispersed	RFX		alpha	True	True
+NFAT5	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	False	True
+NFATC1	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	False	False
+NFATC2	dispersed_ohnolog	ohnolog	dispersed	Rel		beta	True	True
+NFATC3	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	True	False
+NFATC4	dispersed_ohnolog	ohnolog	dispersed	Rel			False	False
+NFKB1	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	True	True
+NFKB2	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	True	True
+REL	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	True	True
+RELA	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	False	True
+RELB	dispersed_ohnolog	ohnolog	dispersed	Rel		alpha	True	True
+RUNX1	dispersed_ohnolog	ohnolog	dispersed	Runt		alpha	True	True
+RUNX2	dispersed_ohnolog	ohnolog	dispersed	Runt		alpha	True	True
+RUNX3	dispersed_ohnolog	ohnolog	dispersed	Runt		beta	True	True
+AIRE	dispersed_ohnolog	ohnolog	dispersed	SAND		alpha	False	False
+GMEB1	dispersed_ohnolog	ohnolog	dispersed	SAND		beta	False	False
+GMEB2	dispersed_ohnolog	ohnolog	dispersed	SAND		beta	False	False
+SKOR2	dispersed_ohnolog	ohnolog	dispersed	SAND			False	False
+NFIA	dispersed_ohnolog	ohnolog	dispersed	SMAD		alpha	True	True
+NFIB	dispersed_ohnolog	ohnolog	dispersed	SMAD		alpha	False	False
+NFIC	dispersed_ohnolog	ohnolog	dispersed	SMAD		beta	True	False
+NFIX	dispersed_ohnolog	ohnolog	dispersed	SMAD			True	True
+SMAD1	dispersed_ohnolog	ohnolog	dispersed	SMAD			False	True
+SMAD3	dispersed_ohnolog	ohnolog	dispersed	SMAD		alpha	False	True
+SMAD5	dispersed_ohnolog	ohnolog	dispersed	SMAD		beta	True	True
+SMAD9	dispersed_ohnolog	ohnolog	dispersed	SMAD		alpha	False	False
+STAT2	dispersed_ohnolog	ohnolog	dispersed	STAT			True	True
+STAT6	dispersed_ohnolog	ohnolog	dispersed	STAT			True	False
+EOMES	dispersed_ohnolog	ohnolog	dispersed	T-box		alpha	True	True
+MGA	dispersed_ohnolog	ohnolog	dispersed	T-box		beta	False	False
+TBR1	dispersed_ohnolog	ohnolog	dispersed	T-box			False	False
+TBX19	dispersed_ohnolog	ohnolog	dispersed	T-box		alpha	False	False
+TBX21	dispersed_ohnolog	ohnolog	dispersed	T-box			True	True
+TBP	dispersed_ohnolog	ohnolog	dispersed	TBP		alpha	False	False
+TBPL2	dispersed_ohnolog	ohnolog	dispersed	TBP			False	False
+TEAD1	dispersed_ohnolog	ohnolog	dispersed	TEA		alpha	False	True
+TEAD3	dispersed_ohnolog	ohnolog	dispersed	TEA			False	False
+TEAD4	dispersed_ohnolog	ohnolog	dispersed	TEA		alpha	False	False
+AHR	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	True
+AHRR	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	True
+ARNT	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	True	False
+ARNT2	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+ARNTL	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+ARNTL2	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+ASCL3	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+ASCL4	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+BHLHE22	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+BHLHE23	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+CLOCK	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+EPAS1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+HAND1	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+HAND2	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+HES1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+HES4	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+HEY1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+HEY2	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+HEYL	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+HIF1A	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	True
+HIF3A	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+MITF	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+MLXIP	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	False
+MLXIPL	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+MSC	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	True
+MXD1	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	True	True
+MXD3	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+MXD4	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	True
+MXI1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	True
+MYC	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	True
+MYCL	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	True	True
+MYCN	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	True
+MYOD1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+MYOG	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+NCOA2	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	False
+NCOA3	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	True	True
+NEUROD2	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+NEUROD4	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+NEUROD6	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+NEUROG1	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	False	False
+NEUROG2	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+NEUROG3	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+NPAS1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+NPAS2	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+NPAS3	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+SIM1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+SIM2	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	False
+SREBF1	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+SREBF2	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	False	True
+TCF12	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	False
+TCF21	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+TCF23	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+TCF24	dispersed_ohnolog	ohnolog	dispersed	bHLH			False	False
+TCF3	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	False
+TCF4	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	True
+TFE3	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	False
+TFEB	dispersed_ohnolog	ohnolog	dispersed	bHLH		beta	True	False
+TFEC	dispersed_ohnolog	ohnolog	dispersed	bHLH		alpha	True	True
+USF1	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	False
+USF2	dispersed_ohnolog	ohnolog	dispersed	bHLH			True	True
+ATF1	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	False
+ATF2	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	False	False
+ATF3	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+ATF4	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	True	False
+ATF5	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	True
+ATF6	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	False
+ATF6B	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	False
+BACH1	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	False
+BACH2	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+CEBPB	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	True	True
+CEBPD	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+CEBPE	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	False
+CREB1	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	False	False
+CREB3	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	False
+CREB3L1	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	False	False
+CREB3L2	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+CREB3L3	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	False	False
+CREB3L4	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	False
+CREB5	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	True
+CREM	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+DBP	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	False
+FOSB	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	False
+FOSL1	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	True
+FOSL2	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+HLF	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	False	True
+JUN	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	True
+JUNB	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	False
+JUND	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	False	True
+MAF	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	True
+MAFA	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	False	False
+MAFB	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	True	True
+MAFF	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	True	True
+MAFG	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	False
+MAFK	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	False	False
+NFE2	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	True
+NFE2L1	dispersed_ohnolog	ohnolog	dispersed	bZIP		beta	False	False
+NFE2L2	dispersed_ohnolog	ohnolog	dispersed	bZIP		alpha	True	False
+NFE2L3	dispersed_ohnolog	ohnolog	dispersed	bZIP			True	True
+NRL	dispersed_ohnolog	ohnolog	dispersed	bZIP			False	False
+TP53	dispersed_ohnolog	ohnolog	dispersed	p53		alpha	False	True
+TP63	dispersed_ohnolog	ohnolog	dispersed	p53		alpha	False	True
+TP73	dispersed_ohnolog	ohnolog	dispersed	p53		alpha	False	False

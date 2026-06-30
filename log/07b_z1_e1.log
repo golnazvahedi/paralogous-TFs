@@ -1,0 +1,31 @@
+[07b] cleaned 4-group catalog: 1153; PBMC-detectable: 1149
+[07b] reading /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/h5ad/human_pbmc.h5ad (backed) for expression ...
+[07b] computing per-cell library size (chunked) ...
+[07b] low-expression filter EXPR_THR=1 (sum of mean linear CP10K over cell types): 472/1149 TFs survive, 677 dropped
+[07b] universe after expression filter: 472
+[07b] z-score DEG (z>1 in >=1 cell type): 470/472 TFs = 99.6%
+[07b] per-category one-vs-rest (z-score DEG):
+                            test   n  marker_rate       OR    ci_lo     ci_hi   p  fdr
+    onevsrest__dispersed_ohnolog 223     0.995516 0.895161 0.055659 14.396953 1.0  1.0
+onevsrest__clustered_cis_ohnolog  27     1.000000 0.310034 0.014526  6.617232 1.0  1.0
+ onevsrest__clustered_SSD_tandem  25     1.000000 0.286195 0.013385  6.119333 1.0  1.0
+        onevsrest__dispersed_SSD 197     0.994924 0.715328 0.044470 11.506397 1.0  1.0
+[07b] key contrasts + factorial:
+                                             test           OR    ci_lo     ci_hi        p                                             note
+pair__within_clustered__cis_ohnolog_vs_SSD_tandem 1.078431e+00 0.020623 56.394302 1.000000                                   27/27 vs 25/25
+           pair__within_dispersed__ohnolog_vs_SSD 1.132653e+00 0.070373 18.230032 1.000000                               222/223 vs 196/197
+     pair__within_ohnolog__clustered_vs_dispersed 3.707865e-01 0.014740  9.327476 1.000000                                 27/27 vs 222/223
+         pair__within_SSD__clustered_vs_dispersed 3.893130e-01 0.015444  9.813645 1.000000                                 25/25 vs 196/197
+                         marginal__ohnolog_vs_SSD 1.126697e+00 0.070055 18.120811 1.000000                               249/250 vs 221/222
+                 marginal__clustered_vs_dispersed 6.272401e-01 0.029707 13.243725 1.000000                                 52/52 vs 418/420
+                                   logit__ohnolog 1.132653e+00 0.070377 18.229101 0.929981 adjusted OR (provenance x arrangement factorial)
+                                 logit__clustered 1.176665e+07 0.000000       inf 0.998648 adjusted OR (provenance x arrangement factorial)
+                         logit__ohnolog:clustered 8.120059e+00 0.000000       inf 0.999944 adjusted OR (provenance x arrangement factorial)
+[07b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_DEG_OR.zscore_z1_e1.pdf/.png
+[07b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dup4_DEG_OR.zscore_z1_e1.summary.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dup4_DEG_OR.zscore_z1_e1.by_celltype.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dup4_DEG_OR.zscore_z1_e1.per_TF.tsv
+scripts/07b_human_pbmc_dup4_DEG_OR_zscore.py:157: RuntimeWarning: invalid value encountered in true_divide
+  Z = np.where(sd > 0, (expr - mu) / sd, 0.0)
+/mnt/alvand/apps/anaconda2/envs/py3/lib/python3.7/site-packages/statsmodels/base/model.py:568: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+  ConvergenceWarning)
+/mnt/alvand/apps/anaconda2/envs/py3/lib/python3.7/site-packages/pandas/core/arraylike.py:364: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)

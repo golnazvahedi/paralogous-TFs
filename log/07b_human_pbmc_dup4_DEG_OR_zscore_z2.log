@@ -1,0 +1,25 @@
+[07b] cleaned 4-group catalog: 1153; PBMC-detectable (universe): 1149
+[07b] reading /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/h5ad/human_pbmc.h5ad (backed) for expression ...
+[07b] computing per-cell library size (chunked) ...
+[07b] z-score DEG (z>2 in >=1 cell type): 769/1149 TFs = 66.9%
+[07b] per-category one-vs-rest (z-score DEG):
+                            test   n  marker_rate       OR    ci_lo    ci_hi        p      fdr
+    onevsrest__dispersed_ohnolog 523     0.728489 1.645818 1.280031 2.116135 0.000095 0.000380
+onevsrest__clustered_cis_ohnolog 106     0.688679 1.102882 0.716829 1.696847 0.745274 0.745274
+ onevsrest__clustered_SSD_tandem  73     0.602740 0.734554 0.451892 1.194024 0.246959 0.329279
+        onevsrest__dispersed_SSD 447     0.606264 0.630750 0.491181 0.809978 0.000318 0.000635
+[07b] key contrasts + factorial:
+                                             test       OR    ci_lo    ci_hi        p                                             note
+pair__within_clustered__cis_ohnolog_vs_SSD_tandem 1.457989 0.781538 2.719936 0.264896                                  73/106 vs 44/73
+           pair__within_dispersed__ohnolog_vs_SSD 1.742529 1.329622 2.283662 0.000067                               381/523 vs 271/447
+     pair__within_ohnolog__clustered_vs_dispersed 0.824465 0.523571 1.298283 0.407216                                73/106 vs 381/523
+         pair__within_SSD__clustered_vs_dispersed 0.985367 0.594230 1.633961 1.000000                                 44/73 vs 271/447
+                         marginal__ohnolog_vs_SSD 1.688345 1.317929 2.162868 0.000041                               454/629 vs 315/520
+                 marginal__clustered_vs_dispersed 0.920394 0.657860 1.287698 0.665637                               117/179 vs 652/970
+                                   logit__ohnolog 1.742529 1.329628 2.283651 0.000057 adjusted OR (provenance x arrangement factorial)
+                                 logit__clustered 0.985367 0.594235 1.633945 0.954443 adjusted OR (provenance x arrangement factorial)
+                         logit__ohnolog:clustered 0.836709 0.424035 1.650998 0.607174 adjusted OR (provenance x arrangement factorial)
+[07b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dup4_DEG_OR.zscore_z2.pdf/.png
+[07b] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dup4_DEG_OR.zscore_z2.summary.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dup4_DEG_OR.zscore_z2.by_celltype.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dup4_DEG_OR.zscore_z2.per_TF.tsv
+scripts/07b_human_pbmc_dup4_DEG_OR_zscore.py:145: RuntimeWarning: invalid value encountered in true_divide
+  Z = np.where(sd > 0, (expr - mu) / sd, 0.0)

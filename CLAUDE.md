@@ -190,6 +190,68 @@ HEADLINE (reproduced from iteration14, expected here):
     buffering lives in specific cis-ohnolog pairs (STAT); amplification is the SSD-tandem
     (SAND) signature.
 
+########################################## Extensions added 2026-06-30 (beyond the core four parts) ##########################################
+
+These scripts were added on top of the canonical 01–11 pipeline; they READ its outputs and
+do not alter the four-part results above. Numbered with letter suffixes to stay out of the
+core sequence.
+
+  - `05b_gene_origin_age_2R.py` — GENE-ORIGIN (phylostratigraphic) age of SELECTED TFs vs the
+    two WGD rounds (R1/R2). For each gene, finds the deepest Ensembl-Compara ortholog on a
+    species ladder straddling 2R (yeast/worm/fly/tunicate | R1 | hagfish/lamprey | R2 |
+    elephant-shark…mouse) and brackets origin: before_R1 (invertebrate ortholog) /
+    R1_to_R2 (cyclostome only) / after_R2 (gnathostome only). Distinct from script 05's
+    `youngest_paralog_node`, which is PARALOG-duplication age, not gene origin. Args = gene
+    symbols (default BCL6 IRF1 KLF2 — all came out before_R1, i.e. pre-2R ancient singletons
+    retained single-copy). Outputs `results/TF_gene_origin_age_2R.{tsv,full per-species matrix}`,
+    figure, cache `results/intermediate/gene_origin_orthologs.tsv`.
+  - `05c_TF_age_distribution_by_category.py` — distribution of DUPLICATION age
+    (`youngest_paralog_node`, binned into evolutionary epochs) across the 4 dup_class4
+    categories. Outputs `results/TF_age_distribution_by_category.tsv` + figure. Result:
+    categories differ (Kruskal-Wallis p=0.006); ohnologs most ancient, clustered_SSD_tandem
+    youngest.
+  - `05d_gene_origin_age_full_catalog.py` — full-catalog version of 05b: the ortholog-ladder
+    phylostratigraphy run on ALL 1,153 TFs (13 chunked biomart queries; own cache
+    `results/intermediate/gene_origin_orthologs.full.tsv`), then gene-origin window
+    distribution per dup_class4. Outputs `results/TF_gene_origin_age_2R.full.tsv`,
+    `results/TF_gene_origin_age_by_category.tsv`, figure. Result: chi-square p=2.2e-7;
+    dispersed_ohnolog most pre-R1 (72%), clustered_SSD_tandem youngest (52% pre-R1, 30%
+    after R2), cis-ohnolog most enriched in the R1–R2 window (24%).
+  - `10b_cytokine_DEG_heatmaps_by_category.py` — cytokine-dictionary DEG heatmaps per
+    dup_class4 in the iteration14 two-panel style (TF×cell-type breadth + TF×cytokine breadth,
+    discrete-count viridis, TF-subfamily sidebar). Outputs
+    `results/figures/TF_dup4_cytokine_DEG_{summary,heatmap.<cat>}.cytokine.*` +
+    `results/TF_dup4_cytokine_DEG_{breadth,category_means,ranking}.cytokine.tsv`.
+
+########################################## Part V — Alpha vs beta ohnolog DEG enrichment (Zhu et al. 2026) ##########################################
+
+  - `12_alpha_beta_ohnolog_DEG_OR.py`. THE LAST ANALYSIS. Following Zhu et al. (Nature 2026,
+    `inputs/Zhu_Nature_2026.pdf`): the jawed-vertebrate 2R WGD was an ALLOPOLYPLOIDIZATION
+    fusing two parental lineages, ALPHA and BETA; alpha-derived ohnologs were ~4x more
+    retained and (in BRAIN) more marker-associated. We reproduce the alpha/beta split on our
+    ohnolog TFs and ask the project's question in IMMUNE cells.
+    SOURCE/MAPPING: Marletaz hagfish paralogons table, downloaded to
+    `inputs/marletaz_paralogons/Vert_Evt_OGrrA.txt` (col `1R` = alpha1/alpha2/beta1/beta2 per
+    orthogroup per species). Collapse alpha1/2→alpha, beta1/2→beta; assign each human ohnolog
+    TF a lineage by (1) CHICKEN gene-symbol orthology (Zhu's stated method) then (2) an
+    orthogroup-level fallback for the unmapped (the two agree 100% where both apply).
+    Universe = ohnolog-provenance TFs ∩ PBMC var_names. Markers = PBMC identity (script 07
+    source) and cytokine-response (script 09/10 source). Stats: alpha & beta marker-rates,
+    the ALPHA-vs-BETA Fisher OR (headline), and alpha/beta one-vs-rest vs the detectable
+    paralogous-TF background; dispersed_SSD shown as reference.
+    Inputs: `TF_dup_2x2_classification.tsv`, `inputs/marletaz_paralogons/Vert_Evt_OGrrA.txt`,
+    `human_pbmc.h5ad` (var_names), `results/intermediate/deg/human_markers.major_lineage.top.tsv`,
+    `results/intermediate/human_cytokine_dict_DEGs.tsv`. Outputs:
+    `results/TF_ohnolog_alpha_beta.tsv` (per-TF lineage + flags),
+    `results/TF_alpha_beta_DEG_OR.summary.tsv`, `results/figures/TF_alpha_beta_DEG_OR.{pdf,png}`.
+    RESULT: 451/629 detectable ohnolog TFs labeled = 343 alpha / 108 beta (3.2:1, reproduces
+    the alpha-retention bias). Zhu's OHNOLOG>SSD enrichment REPLICATES in PBMC (both lineages
+    beat dispersed_SSD: identity alpha 26% / beta 32% vs SSD 19%; cytokine 36–37% vs 26%), but
+    the ALPHA>BETA asymmetry DOES NOT — alpha-vs-beta ns for both modalities. Reversed split
+    instead: beta edges IDENTITY (beta-vs-rest OR 1.69, p=0.022; alpha-vs-rest ns) while alpha
+    edges CYTOKINE response (alpha-vs-rest OR 1.36, p=0.026; beta-vs-rest ns). The robust
+    claim is ohnolog>SSD; the within-ohnolog alpha/beta contrasts are trends (beta n small).
+
 ### How to run (from the iteration root)
 ```
 PY=/mnt/alvand/apps/anaconda2/envs/py3/bin/python3
@@ -204,6 +266,12 @@ $PY scripts/08_human_spleen_dup4_DEG_OR.py      # spleen identity OR, 4 groups
 $PY scripts/09_human_cytokine_dict_standardize.py
 $PY scripts/10_human_cytokine_dup4_DEG_OR.py    # cytokine-response OR, 4 groups
 $PY scripts/11_cytokine_dosage_buffering_by_category.py   # cytokine dosage buffering, 4 groups
+# --- extensions (2026-06-30; read core outputs, need internet for biomart in 05b/05d) ---
+$PY scripts/05b_gene_origin_age_2R.py [GENE ...]           # gene-origin age vs R1/R2 (selected genes)
+$PY scripts/05c_TF_age_distribution_by_category.py         # duplication-age distribution by category (offline)
+$PY scripts/05d_gene_origin_age_full_catalog.py            # gene-origin age, all 1153 TFs (biomart; ~10 min)
+$PY scripts/10b_cytokine_DEG_heatmaps_by_category.py [TOP_N]   # cytokine DEG heatmaps per category
+$PY scripts/12_alpha_beta_ohnolog_DEG_OR.py               # Part V: alpha/beta ohnolog DEG OR (Zhu 2026)
 ```
 
 ### CAVEATS to carry

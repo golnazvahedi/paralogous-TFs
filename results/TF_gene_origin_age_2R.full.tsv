@@ -1,0 +1,1154 @@
+gene	origin_window	deepest_ortholog_species	deepest_clade	n_species_with_ortholog	invertebrate_ortholog	cyclostome_ortholog	gnathostome_ortholog	in_scerevisiae	in_celegans	in_dmelanogaster	in_cintestinalis	in_csavignyi	in_eburgeri	in_pmarinus	in_cmilii	in_lchalumnae	in_drerio	in_xtropicalis	in_ggallus	in_mmusculus	dup_class4	provenance	arrangement	TF_subfamily	cluster_id
+ADNP	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+ADNP2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+AEBP2	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+AHCTF1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+AHDC1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+AHR	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+AHRR	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+AIRE	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SAND	
+AKAP8	R1_to_R2	eburgeri	Cyclostomata	4	False	True	True	0	0	0	0	0	1	0	0	1	0	0	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016
+AKAP8L	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016
+AKNA	before_R1	cintestinalis	Tunicata	4	True	False	True	0	0	0	1	0	0	0	0	0	0	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+ALX1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+ALX3	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+ALX4	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+ANHX	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	1	1	1	1	1	1	0	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+ANKZF1	before_R1	scerevisiae	Fungi	9	True	True	True	1	1	0	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+AR	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+ARGFX	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+ARID3A	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT	
+ARID3B	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT	
+ARID3C	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	ARID/BRIGHT	
+ARID5A	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	1	0	0	1	1	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT	
+ARID5B	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	0	0	0	1	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	ARID/BRIGHT	
+ARNT	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ARNT2	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ARNTL	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ARNTL2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ARX	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+ASCL1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+ASCL2	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	0	0	0	1	0	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+ASCL3	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	0	1	0	0	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ASCL4	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	1	0	0	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ASCL5	before_R1	celegans	Protostomia	3	True	False	True	0	1	1	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+ASH1L	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+ATF1	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF2	before_R1	scerevisiae	Fungi	11	True	True	True	1	1	0	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF3	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF4	before_R1	celegans	Protostomia	7	True	False	True	0	1	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF5	before_R1	celegans	Protostomia	5	True	False	True	0	1	0	1	0	0	0	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF6	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF6B	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	1	1	1	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+ATF7	before_R1	scerevisiae	Fungi	9	True	True	True	1	1	0	1	0	0	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0076
+ATMIN	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ATOH1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+ATOH7	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+ATOH8	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	1	0	1	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+BACH1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+BACH2	before_R1	cintestinalis	Tunicata	7	True	False	True	0	0	0	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+BARHL1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+BARHL2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+BARX1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+BARX2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+BATF	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077
+BATF2	before_R1	dmelanogaster	Protostomia	4	True	False	True	0	0	1	1	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	bZIP	
+BATF3	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bZIP	
+BAZ2A	before_R1	scerevisiae	Fungi	10	True	False	True	1	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MBD; AT hook	
+BAZ2B	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MBD	
+BBX	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+BCL11A	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+BCL11B	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+BCL6	before_R1	cintestinalis	Tunicata	7	True	False	True	0	0	0	1	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+BCL6B	R1_to_R2	eburgeri	Cyclostomata	3	False	True	True	0	0	0	0	0	1	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+BHLHA15	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+BHLHA9	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+BHLHE22	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	1	1	0	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+BHLHE23	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+BHLHE40	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	1	1	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+BHLHE41	before_R1	scerevisiae	Fungi	10	True	True	True	1	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+BNC1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+BNC2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+BSX	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	1	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+C11orf95	after_R2	drerio	Actinopterygii	3	False	False	True	0	0	0	0	0	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	BED ZF	
+CAMTA1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CG-1	
+CAMTA2	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	CG-1	
+CASZ1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+CBX2	before_R1	celegans	Protostomia	7	True	True	True	0	1	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	AT hook	
+CCDC17	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+CDC5L	before_R1	scerevisiae	Fungi	12	True	True	True	1	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+CDX1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+CDX2	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	1	0	0	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043
+CDX4	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+CEBPA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0078
+CEBPB	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CEBPD	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	1	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CEBPE	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CEBPG	before_R1	cintestinalis	Tunicata	3	True	False	True	0	0	0	1	0	0	0	0	0	0	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0078
+CENPB	before_R1	scerevisiae	Fungi	5	True	True	True	1	0	0	0	0	1	0	1	0	0	1	0	1	dispersed_SSD	SSD	dispersed	CENPB	
+CHAMP1	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+CIC	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	0	1	1	1	0	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+CLOCK	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+CPXCR1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+CREB1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREB3	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREB3L1	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREB3L2	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREB3L3	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREB3L4	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	1	0	0	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREB5	before_R1	scerevisiae	Fungi	9	True	True	True	1	1	0	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CREBL2	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bZIP	
+CREBZF	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bZIP	
+CREM	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+CRX	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	1	0	0	1	1	0	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0048
+CTCF	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+CTCFL	before_R1	dmelanogaster	Protostomia	4	True	False	True	0	0	1	1	0	0	0	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+CUX1	before_R1	scerevisiae	Fungi	11	True	True	True	1	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain	
+CUX2	before_R1	scerevisiae	Fungi	9	True	False	True	1	1	1	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain	
+CXXC1	before_R1	cintestinalis	Tunicata	5	True	True	True	0	0	0	1	0	1	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	CxxC	
+CXXC4	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+CXXC5	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+DBP	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+DBX1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+DBX2	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+DDIT3	after_R2	drerio	Actinopterygii	3	False	False	True	0	0	0	0	0	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	bZIP	
+DEAF1	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	1	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	SAND	
+DLX1	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	0	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0050
+DLX2	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0050
+DLX3	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0047
+DLX4	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	1	1	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0047
+DLX5	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0053
+DLX6	before_R1	cintestinalis	Tunicata	9	True	True	True	0	0	0	1	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0053
+DMBX1	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+DMRT1	before_R1	celegans	Protostomia	6	True	True	True	0	1	0	0	0	1	0	1	0	1	1	0	1	clustered_SSD_tandem	SSD	clustered	DM	clust0029
+DMRT2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	DM	clust0029
+DMRT3	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	0	0	1	0	1	1	1	1	1	1	clustered_SSD_tandem	SSD	clustered	DM	clust0029
+DMRTA1	before_R1	celegans	Protostomia	4	True	False	True	0	1	0	0	0	0	0	1	0	0	1	0	1	dispersed_SSD	SSD	dispersed	DM	
+DMRTA2	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	DM	
+DMRTB1	before_R1	celegans	Protostomia	4	True	False	True	0	1	0	0	0	0	0	0	0	0	1	1	1	dispersed_SSD	SSD	dispersed	DM	
+DMRTC2	before_R1	celegans	Protostomia	2	True	False	True	0	1	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	DM	
+DMTF1	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT	
+DNMT1	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	CxxC	
+DNTTIP1	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	1	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+DOT1L	before_R1	scerevisiae	Fungi	11	True	True	True	1	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+DPF1	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	1	1	0	1	0	1	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+DPF3	before_R1	scerevisiae	Fungi	8	True	False	True	1	1	1	0	0	0	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+DPRX	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+DRGX	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+DUX4	after_R2	drerio	Actinopterygii	3	False	False	True	0	0	0	0	0	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+DUXA	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+DZIP1	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+E2F1	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F2	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	1	1	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F3	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F4	before_R1	csavignyi	Tunicata	9	True	True	True	0	0	0	0	1	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F5	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F6	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F7	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E2F8	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+E4F1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+EBF1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	EBF1	
+EBF2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	1	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	EBF1	
+EBF3	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	EBF1	
+EBF4	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	EBF1	
+EEA1	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+EGR1	before_R1	scerevisiae	Fungi	6	True	False	True	1	1	0	0	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+EGR2	before_R1	scerevisiae	Fungi	6	True	False	True	1	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+EGR3	before_R1	scerevisiae	Fungi	7	True	True	True	1	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+EGR4	before_R1	scerevisiae	Fungi	9	True	True	True	1	1	0	1	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+EHF	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0031
+ELF1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ELF2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ELF4	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ELF5	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0031
+ELK1	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	Ets	
+ELK3	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	Ets	
+ELK4	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Ets	
+EMX1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+EMX2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+EN1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+EN2	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+EOMES	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	T-box	
+EPAS1	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+ERF	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ERG	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0033
+ESR1	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+ESR2	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+ESRRA	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	1	1	0	0	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+ESRRB	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+ESRRG	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	0	1	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+ESX1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+ETS1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0032
+ETS2	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	1	0	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0033
+ETV1	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ETV2	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Ets	
+ETV3	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	1	0	0	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0030
+ETV3L	before_R1	csavignyi	Tunicata	5	True	False	True	0	0	0	0	1	0	0	1	0	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0030
+ETV4	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ETV5	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	1	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ETV6	R1_to_R2	pmarinus	Cyclostomata	5	False	True	True	0	0	0	0	0	0	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+ETV7	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	0	dispersed_ohnolog	ohnolog	dispersed	Ets	
+EVX1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+EVX2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+FAM170A	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+FAM200B	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	BED ZF	
+FBXL19	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	1	1	0	0	1	1	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+FERD3L	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0075
+FEV	R1_to_R2	pmarinus	Cyclostomata	6	False	True	True	0	0	0	0	0	0	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Ets	
+FEZF1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+FEZF2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+FIGLA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+FIZ1	before_R1	dmelanogaster	Protostomia	2	True	False	True	0	0	1	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019
+FLI1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Ets	clust0032
+FOS	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	0	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077
+FOSB	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	1	0	0	1	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+FOSL1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	1	1	1	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+FOSL2	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+FOXA1	after_R2	drerio	Actinopterygii	3	False	False	True	0	0	0	0	0	0	0	0	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXA2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXA3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXB1	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXB2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXC1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	1	1	1	0	1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036
+FOXC2	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	1	1	0	0	1	1	1	clustered_SSD_tandem	SSD	clustered	Forkhead	clust0035
+FOXD1	R1_to_R2	eburgeri	Cyclostomata	3	False	True	True	0	0	0	0	0	1	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXD2	before_R1	dmelanogaster	Protostomia	5	True	True	True	0	0	1	0	0	1	0	1	0	0	1	0	1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0034
+FOXD3	R1_to_R2	eburgeri	Cyclostomata	4	False	True	True	0	0	0	0	0	1	0	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXD4	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXD4L1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXD4L3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXD4L4	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXD4L5	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXD4L6	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXE1	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXE3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0034
+FOXF1	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXF2	R1_to_R2	eburgeri	Cyclostomata	3	False	True	True	0	0	0	0	0	1	0	0	0	1	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036
+FOXG1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXH1	before_R1	cintestinalis	Tunicata	6	True	True	True	0	0	0	1	0	1	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXI1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXI2	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	1	1	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXI3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXJ1	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXJ2	after_R2	xtropicalis	Amphibia	3	False	False	True	0	0	0	0	0	0	0	0	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXJ3	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	1	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXK1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXK2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXL1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	Forkhead	clust0035
+FOXL2	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXM1	before_R1	cintestinalis	Tunicata	7	True	False	True	0	0	0	1	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXN1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXN2	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXN3	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXN4	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXO1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXO3	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXO4	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXO6	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXP1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXP2	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXP3	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXP4	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Forkhead	
+FOXQ1	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Forkhead	clust0036
+FOXR1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXR2	after_R2	lchalumnae	Sarcopterygii	4	False	False	True	0	0	0	0	0	0	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Forkhead	
+FOXS1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Forkhead	
+GABPA	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Ets	
+GATA1	before_R1	scerevisiae	Fungi	7	True	False	True	1	1	1	1	0	0	0	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATA2	before_R1	scerevisiae	Fungi	12	True	True	True	1	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATA3	before_R1	scerevisiae	Fungi	11	True	True	True	1	1	1	1	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATA4	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATA5	before_R1	scerevisiae	Fungi	8	True	False	True	1	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATA6	before_R1	scerevisiae	Fungi	9	True	True	True	1	1	1	1	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATAD2A	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GATAD2B	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GATA	
+GBX1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+GBX2	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+GCM1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GCM	
+GCM2	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	GCM	
+GFI1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+GFI1B	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+GLI1	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+GLI2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	1	1	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+GLI3	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	0	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+GLI4	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028
+GLIS1	R1_to_R2	pmarinus	Cyclostomata	6	False	True	True	0	0	0	0	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+GLIS2	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+GLIS3	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+GLYR1	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+GMEB1	before_R1	celegans	Protostomia	7	True	False	True	0	1	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SAND	
+GMEB2	before_R1	celegans	Protostomia	10	True	True	True	0	1	0	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SAND	
+GRHL1	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead	
+GRHL2	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead	
+GRHL3	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead	
+GSC	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+GSC2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+GSX1	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043
+GSX2	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+GTF2I	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	clustered_SSD_tandem	SSD	clustered	GTF2I-like	clust0037
+GTF2IRD1	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	clustered_SSD_tandem	SSD	clustered	GTF2I-like	clust0037
+GTF2IRD2	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	GTF2I-like	
+GTF2IRD2B	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	GTF2I-like	
+GTF3A	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+GZF1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+HAND1	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	1	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HAND2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HBP1	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+HDX	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+HELT	before_R1	scerevisiae	Fungi	10	True	True	True	1	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+HES1	before_R1	scerevisiae	Fungi	10	True	True	True	1	0	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HES2	before_R1	scerevisiae	Fungi	9	True	False	True	1	0	1	1	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+HES3	before_R1	scerevisiae	Fungi	7	True	False	True	1	0	1	1	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+HES4	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	0	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HES5	before_R1	scerevisiae	Fungi	6	True	True	True	1	0	1	0	1	1	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+HES6	before_R1	scerevisiae	Fungi	7	True	False	True	1	0	1	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+HES7	before_R1	scerevisiae	Fungi	6	True	False	True	1	0	1	1	0	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+HESX1	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+HEY1	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HEY2	before_R1	scerevisiae	Fungi	8	True	False	True	1	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HEYL	before_R1	scerevisiae	Fungi	8	True	True	True	1	0	1	1	0	1	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HHEX	after_R2	cmilii	Chondrichthyes	2	False	False	True	0	0	0	0	0	0	0	1	0	0	1	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+HIC1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+HIC2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+HIF1A	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HIF3A	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	1	0	0	0	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+HINFP	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+HIVEP1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+HIVEP2	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+HIVEP3	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+HLF	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+HLX	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+HMBOX1	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+HMG20A	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+HMG20B	before_R1	celegans	Protostomia	7	True	False	True	0	1	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+HMGA1	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+HMGA2	after_R2	drerio	Actinopterygii	2	False	False	True	0	0	0	0	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	AT hook	
+HMGN3	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+HMX1	before_R1	celegans	Protostomia	7	True	True	True	0	1	0	0	0	1	1	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+HMX2	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0041
+HMX3	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0041
+HNF1A	before_R1	cintestinalis	Tunicata	4	True	False	True	0	0	0	1	0	0	0	0	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+HNF1B	before_R1	csavignyi	Tunicata	9	True	True	True	0	0	0	0	1	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+HNF4A	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+HNF4G	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+HOMEZ	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+HSF1	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	1	1	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HSF	
+HSF2	before_R1	scerevisiae	Fungi	10	True	False	True	1	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HSF	
+HSF4	before_R1	scerevisiae	Fungi	11	True	True	True	1	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HSF	
+HSF5	before_R1	scerevisiae	Fungi	7	True	False	True	1	1	1	1	0	0	0	1	0	0	0	1	1	dispersed_SSD	SSD	dispersed	HSF	
+HSFX1	before_R1	scerevisiae	Fungi	4	True	False	False	1	1	1	1	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	HSF	
+HSFX2	before_R1	scerevisiae	Fungi	3	True	False	False	1	1	1	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	HSF	
+HSFY1	before_R1	scerevisiae	Fungi	7	True	False	True	1	1	1	1	0	0	0	1	0	0	0	1	1	clustered_SSD_tandem	SSD	clustered	HSF	clust0038
+HSFY2	before_R1	scerevisiae	Fungi	7	True	False	True	1	1	1	1	0	0	0	1	0	0	0	1	1	clustered_SSD_tandem	SSD	clustered	HSF	clust0038
+IKZF1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+IKZF2	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+IKZF3	before_R1	dmelanogaster	Protostomia	6	True	True	True	0	0	1	0	0	0	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+IKZF4	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+IKZF5	before_R1	cintestinalis	Tunicata	9	True	True	True	0	0	0	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+INSM1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+INSM2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+IRF1	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	IRF	
+IRF2	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	0	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	IRF	
+IRF3	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	IRF	
+IRF4	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	IRF	
+IRF5	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	IRF	
+IRF6	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	IRF	
+IRF7	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	1	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	IRF	
+IRF8	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	IRF	
+IRF9	before_R1	csavignyi	Tunicata	3	True	False	True	0	0	0	0	1	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	IRF	
+IRX1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052
+IRX2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052
+IRX3	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046
+IRX4	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0052
+IRX5	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046
+IRX6	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0046
+ISL1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+ISL2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+ISX	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+JAZF1	before_R1	scerevisiae	Fungi	8	True	True	True	1	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+JDP2	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	1	0	1	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	bZIP	clust0077
+JRK	before_R1	scerevisiae	Fungi	6	True	True	True	1	0	0	0	0	1	0	1	1	0	1	0	1	dispersed_SSD	SSD	dispersed	CENPB	
+JRKL	before_R1	scerevisiae	Fungi	3	True	True	True	1	0	0	0	0	0	1	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	CENPB	
+JUN	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+JUNB	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	0	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+JUND	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+KAT7	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+KCMF1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+KDM2A	before_R1	celegans	Protostomia	6	True	True	True	0	1	0	0	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+KDM2B	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+KDM5B	before_R1	scerevisiae	Fungi	9	True	False	True	1	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	ARID/BRIGHT	
+KIN	before_R1	scerevisiae	Fungi	11	True	True	True	1	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+KLF1	before_R1	dmelanogaster	Protostomia	3	True	False	True	0	0	1	1	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF10	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF11	before_R1	csavignyi	Tunicata	7	True	True	True	0	0	0	0	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF12	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0008
+KLF13	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF14	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF15	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+KLF16	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	1	0	0	0	1	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF17	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+KLF2	before_R1	dmelanogaster	Protostomia	5	True	True	True	0	0	1	1	0	1	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+KLF3	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF4	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF5	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	0	0	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0008
+KLF6	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF7	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF8	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KLF9	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+KMT2A	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	0	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC; AT hook	
+KMT2B	before_R1	scerevisiae	Fungi	5	True	False	True	1	1	1	0	1	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	CxxC; AT hook	
+L3MBTL1	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+L3MBTL3	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	0	1	0	0	1	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+L3MBTL4	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	1	1	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+LBX1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0040
+LBX2	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	1	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LCOR	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	1	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Pipsqueak	
+LCORL	after_R2	cmilii	Chondrichthyes	3	False	False	True	0	0	0	0	0	0	0	1	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Pipsqueak	
+LEF1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+LEUTX	before_R1	dmelanogaster	Protostomia	1	True	False	False	0	0	1	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+LHX1	after_R2	lchalumnae	Sarcopterygii	4	False	False	True	0	0	0	0	0	0	0	0	1	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX3	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX4	R1_to_R2	pmarinus	Cyclostomata	6	False	True	True	0	0	0	0	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX5	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX6	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX8	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LHX9	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LMX1A	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0039
+LMX1B	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+LYL1	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+MAF	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	1	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+MAFA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+MAFB	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+MAFF	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	1	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+MAFG	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	1	0	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+MAFK	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+MAX	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+MAZ	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	0	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+MBD2	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MBD	
+MBD3	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MBD	
+MBD4	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MBD	
+MBD6	before_R1	dmelanogaster	Protostomia	6	True	True	True	0	0	1	1	0	0	1	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	MBD	
+MBNL2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CCCH ZF	
+MECOM	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+MECP2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MBD; AT hook	
+MEF2A	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MADS box	
+MEF2B	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	1	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	MADS box	clust0056
+MEF2C	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MADS box	
+MEF2D	R1_to_R2	pmarinus	Cyclostomata	5	False	True	True	0	0	0	0	0	0	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	MADS box	
+MEIS1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+MEIS2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+MEIS3	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+MEOX1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+MEOX2	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	1	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+MESP1	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0073
+MESP2	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0073
+MGA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	T-box	
+MITF	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MIXL1	after_R2	drerio	Actinopterygii	3	False	False	True	0	0	0	0	0	0	0	0	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+MKX	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+MLX	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	1	1	1	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+MLXIP	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MLXIPL	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MNT	before_R1	celegans	Protostomia	10	True	True	True	0	1	0	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+MNX1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+MSANTD1	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	MADF	
+MSANTD3	after_R2	lchalumnae	Sarcopterygii	4	False	False	True	0	0	0	0	0	0	0	0	1	0	1	1	1	dispersed_SSD	SSD	dispersed	MADF	
+MSANTD4	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+MSC	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	1	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MSGN1	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+MSX1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+MSX2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+MTERF1	before_R1	dmelanogaster	Protostomia	6	True	True	True	0	0	1	0	0	0	1	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	mTERF	
+MTERF2	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	mTERF	
+MTERF3	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	mTERF	
+MTERF4	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	mTERF	
+MTF1	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	1	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+MXD1	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	1	0	0	1	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MXD3	before_R1	celegans	Protostomia	6	True	False	True	0	1	0	0	1	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MXD4	before_R1	celegans	Protostomia	7	True	False	True	0	1	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MXI1	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MYB	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT	
+MYBL1	before_R1	scerevisiae	Fungi	10	True	True	True	1	0	1	1	1	1	1	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT	
+MYBL2	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	0	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT	
+MYC	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MYCL	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MYCN	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MYF5	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	bHLH	clust0071
+MYF6	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	bHLH	clust0071
+MYNN	after_R2	lchalumnae	Sarcopterygii	4	False	False	True	0	0	0	0	0	0	0	0	1	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+MYOD1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MYOG	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+MYPOP	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+MYRF	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ndt80/PhoG	
+MYRFL	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ndt80/PhoG	
+MYSM1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT	
+MYT1	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+MYT1L	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+MZF1	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+NAIF1	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	MADF	
+NANOG	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	0	0	0	0	0	1	0	1	1	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0042
+NANOGNB	before_R1	celegans	Protostomia	4	True	False	True	0	1	1	0	1	0	0	0	0	1	0	0	0	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0042
+NANOGP8	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	1	0	0	0	0	1	0	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+NCOA1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	0	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+NCOA2	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NCOA3	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NEUROD1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+NEUROD2	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NEUROD4	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NEUROD6	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NEUROG1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NEUROG2	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	1	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NEUROG3	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NFAT5	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFATC1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFATC2	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFATC3	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFATC4	after_R2	lchalumnae	Sarcopterygii	4	False	False	True	0	0	0	0	0	0	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFE2	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+NFE2L1	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+NFE2L2	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+NFE2L3	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+NFIA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+NFIB	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+NFIC	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+NFIL3	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bZIP	
+NFIX	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+NFKB1	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFKB2	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	0	0	0	0	0	1	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+NFX1	before_R1	scerevisiae	Fungi	12	True	True	True	1	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	NFX	
+NFXL1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	NFX	
+NHLH1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+NHLH2	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+NKX1-1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+NKX1-2	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	1	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+NKX2-1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0044
+NKX2-2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0051
+NKX2-3	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+NKX2-4	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0051
+NKX2-5	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+NKX2-6	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	1	1	1	0	0	0	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0054
+NKX2-8	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0044
+NKX3-1	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	0	0	0	0	0	1	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0054
+NKX3-2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+NKX6-1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+NKX6-2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+NKX6-3	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+NOBOX	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	0	1	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+NOTO	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	0	1	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+NPAS1	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	1	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NPAS2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NPAS3	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+NPAS4	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	0	1	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+NR1D1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0057
+NR1D2	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058
+NR1H2	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	0	1	0	0	1	0	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR1H3	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR1H4	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR1I2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR1I3	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	0	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR2C1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR2C2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR2E1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR2E3	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR2F1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR2F2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	1	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR2F6	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR3C1	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR3C2	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Nuclear receptor	
+NR4A1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR4A2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR4A3	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR5A1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0059
+NR5A2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+NR6A1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0059
+NRL	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	1	0	0	0	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	bZIP	
+OLIG1	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	1	0	0	0	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0074
+OLIG2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	1	1	0	0	1	1	1	1	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0074
+OLIG3	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+ONECUT1	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain	
+ONECUT2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain	
+ONECUT3	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CUT; Homeodomain	
+OSR1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+OSR2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+OTP	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+OTX1	after_R2	lchalumnae	Sarcopterygii	5	False	False	True	0	0	0	0	0	0	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+OTX2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+OVOL1	before_R1	dmelanogaster	Protostomia	4	True	True	True	0	0	1	0	0	0	1	1	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+OVOL2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+OVOL3	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PATZ1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook	
+PAX1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Paired box	
+PAX2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box	
+PAX3	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box	
+PAX4	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; Paired box	
+PAX5	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Paired box	
+PAX6	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; Paired box	
+PAX7	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; Paired box	
+PAX8	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Paired box	
+PAX9	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Paired box	
+PBX1	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	1	1	0	1	0	0	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0039
+PBX2	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	1	1	0	1	1	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PBX3	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PBX4	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	0	0	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PDX1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0043
+PEG3	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PGR	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+PHF20	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	AT hook	
+PHF21A	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+PHOX2A	before_R1	celegans	Protostomia	7	True	True	True	0	1	0	1	0	1	0	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PHOX2B	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PIN1	before_R1	scerevisiae	Fungi	9	True	True	True	1	1	1	0	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	MBD	
+PITX1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PITX2	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PITX3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PKNOX1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PKNOX2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PLAG1	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PLAGL1	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	0	0	1	1	0	0	1	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PLAGL2	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	0	1	0	0	1	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+POU1F1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+POU2F1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU2F2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU2F3	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU3F1	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU3F2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU3F3	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	0	1	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU3F4	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	0	1	0	0	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+POU4F1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU4F2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU4F3	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain; POU	
+POU5F1	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+POU5F1B	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+POU5F2	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+POU6F1	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+POU6F2	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain; POU	
+PPARA	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+PPARD	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+PPARG	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+PRDM1	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+PRDM10	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+PRDM12	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM13	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM14	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM15	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM16	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+PRDM2	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM4	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+PRDM5	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM6	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRDM8	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PRMT3	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+PROP1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+PROX1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Prospero	
+PROX2	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Prospero	
+PRR12	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	AT hook	
+PRRX1	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PRRX2	R1_to_R2	eburgeri	Cyclostomata	4	False	True	True	0	0	0	0	0	1	0	1	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+PTF1A	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+RARA	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RARB	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	1	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058
+RARG	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RAX	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+RAX2	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+RBPJ	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	CSL	
+RBPJL	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	1	0	1	0	1	1	dispersed_SSD	SSD	dispersed	CSL	
+RBSN	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+REL	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+RELA	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	1	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+RELB	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	1	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Rel	
+REPIN1	before_R1	celegans	Protostomia	3	True	False	True	0	1	1	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0027
+REST	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+RFX1	before_R1	dmelanogaster	Protostomia	4	True	False	True	0	0	1	1	0	0	0	0	0	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	RFX	
+RFX2	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	RFX	
+RFX3	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	RFX	
+RFX4	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	RFX	
+RFX5	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	RFX	
+RFX6	before_R1	celegans	Protostomia	7	True	False	True	0	1	0	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	RFX	
+RFX7	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	RFX	
+RFX8	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	1	0	0	1	1	1	0	1	1	dispersed_SSD	SSD	dispersed	RFX	
+RHOXF1	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055
+RHOXF2	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055
+RHOXF2B	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	Homeodomain	clust0055
+RLF	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+RORA	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RORB	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RORC	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RREB1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+RUNX1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Runt	
+RUNX2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Runt	
+RUNX3	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Runt	
+RXRA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RXRB	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	1	0	0	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+RXRG	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+SALL1	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SALL2	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	1	0	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SALL3	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SALL4	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021
+SATB1	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	CUT; Homeodomain	
+SATB2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	CUT; Homeodomain	
+SCML4	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	AT hook	
+SCRT1	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	0	1	0	0	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+SCRT2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+SCX	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+SEBOX	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+SETBP1	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	AT hook	
+SETDB1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	MBD	
+SETDB2	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	MBD	
+SGSM2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	BED ZF	
+SHOX	R1_to_R2	eburgeri	Cyclostomata	4	False	True	True	0	0	0	0	0	1	0	0	0	1	1	1	0	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+SHOX2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+SIM1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+SIM2	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+SIX1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045
+SIX2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	1	1	0	1	0	1	1	0	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0049
+SIX3	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0049
+SIX4	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045
+SIX5	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	1	0	1	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+SIX6	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0045
+SKOR2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SAND	
+SLC2A4RG	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	1	0	0	0	1	0	0	1	1	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SMAD1	before_R1	cintestinalis	Tunicata	6	True	False	True	0	0	0	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+SMAD3	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+SMAD4	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	SMAD	
+SMAD5	before_R1	celegans	Protostomia	9	True	True	True	0	1	0	1	0	1	1	1	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+SMAD9	before_R1	celegans	Protostomia	2	True	False	False	0	1	1	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	SMAD	
+SNAI1	before_R1	celegans	Protostomia	6	True	True	True	0	1	0	0	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SNAI2	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	1	0	0	0	1	0	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SNAI3	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	1	0	0	1	0	0	1	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SNAPC4	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+SOHLH1	after_R2	cmilii	Chondrichthyes	2	False	False	True	0	0	0	0	0	0	0	1	0	0	0	0	1	dispersed_SSD	SSD	dispersed	bHLH	
+SOHLH2	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0072
+SOX1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	0	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX10	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX11	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX12	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	1	1	0	0	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX13	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX14	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX15	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	1	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+SOX17	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX18	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	1	1	0	1	1	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX21	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX3	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	1	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX30	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+SOX4	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX5	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX6	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+SOX7	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX8	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SOX9	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+SP1	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0007
+SP100	before_R1	celegans	Protostomia	8	True	True	True	0	1	0	1	0	1	1	1	1	1	0	0	1	clustered_SSD_tandem	SSD	clustered	SAND	clust0060
+SP110	before_R1	celegans	Protostomia	4	True	False	True	0	1	0	1	0	0	0	1	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	SAND	clust0060
+SP140	before_R1	celegans	Protostomia	3	True	False	True	0	1	0	1	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	SAND	clust0060
+SP140L	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	1	1	1	1	0	1	1	0	0	clustered_SSD_tandem	SSD	clustered	SAND	clust0060
+SP2	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0013
+SP3	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SP4	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0025
+SP5	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+SP6	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	1	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0013
+SP7	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	1	1	0	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0007
+SP8	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	0	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0025
+SP9	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	0	1	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+SPDEF	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Ets	
+SPI1	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+SPIB	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	1	1	1	0	1	dispersed_SSD	SSD	dispersed	Ets	
+SPIC	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Ets	
+SRCAP	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	1	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	AT hook	
+SREBF1	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+SREBF2	before_R1	csavignyi	Tunicata	8	True	True	True	0	0	0	0	1	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+SRF	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	0	1	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	MADS box	
+SRY	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	1	1	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	HMG/Sox	
+ST18	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+STAT1	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0068
+STAT2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	STAT	
+STAT3	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067
+STAT4	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0068
+STAT5A	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067
+STAT5B	before_R1	cintestinalis	Tunicata	9	True	True	True	0	0	0	1	1	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	STAT	clust0067
+STAT6	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	STAT	
+T	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	T-box	
+TAL1	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+TAL2	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+TBP	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	TBP	
+TBPL1	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	TBP	
+TBPL2	before_R1	scerevisiae	Fungi	7	True	False	True	1	0	0	0	1	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	TBP	
+TBR1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	T-box	
+TBX1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	T-box	
+TBX10	before_R1	celegans	Protostomia	4	True	True	False	0	1	1	1	0	1	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	T-box	
+TBX15	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	T-box	
+TBX18	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	T-box	
+TBX19	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	0	0	0	0	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	T-box	
+TBX2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0070
+TBX20	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	T-box	
+TBX21	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	T-box	
+TBX22	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	T-box	
+TBX3	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0069
+TBX4	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0070
+TBX5	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	T-box	clust0069
+TBX6	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	0	1	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	T-box	
+TCF12	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TCF15	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+TCF21	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TCF23	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	0	0	1	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TCF24	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TCF3	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TCF4	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	0	1	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TCF7	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+TCF7L1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+TCF7L2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	HMG/Sox	
+TCFL5	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+TEAD1	before_R1	scerevisiae	Fungi	11	True	True	True	1	0	1	1	1	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	TEA	
+TEAD2	before_R1	scerevisiae	Fungi	4	True	False	True	1	0	1	1	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	TEA	
+TEAD3	before_R1	scerevisiae	Fungi	7	True	False	True	1	1	0	0	0	0	0	1	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	TEA	
+TEAD4	before_R1	scerevisiae	Fungi	6	True	False	True	1	0	1	0	1	0	0	0	1	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	TEA	
+TEF	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bZIP	
+TERB1	R1_to_R2	pmarinus	Cyclostomata	7	False	True	True	0	0	0	0	0	0	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+TERF1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+TERF2	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
+TET1	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+TET3	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	CxxC	
+TFAP2A	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	AP-2	
+TFAP2B	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	AP-2	clust0001
+TFAP2C	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	AP-2	
+TFAP2D	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	AP-2	clust0001
+TFAP2E	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	AP-2	
+TFAP4	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+TFCP2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead	
+TFCP2L1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead	
+TFDP1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+TFDP2	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	E2F	
+TFDP3	before_R1	celegans	Protostomia	4	True	False	False	0	1	1	1	1	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	E2F	
+TFE3	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TFEB	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TFEC	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+TGIF1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	1	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+TGIF2	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+TGIF2LX	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	1	0	1	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+TGIF2LY	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	1	1	1	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+THAP1	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP10	before_R1	celegans	Protostomia	4	True	False	True	0	1	1	1	0	0	0	0	0	1	0	0	0	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP11	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP12	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP2	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	1	1	1	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP3	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	1	1	1	0	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP4	before_R1	celegans	Protostomia	7	True	True	True	0	1	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP5	after_R2	ggallus	Aves	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	0	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP6	before_R1	dmelanogaster	Protostomia	6	True	True	True	0	0	1	1	1	1	0	0	0	1	1	0	0	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP7	before_R1	dmelanogaster	Protostomia	8	True	False	True	0	0	1	1	1	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP8	before_R1	dmelanogaster	Protostomia	2	True	False	False	0	0	1	1	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	THAP finger	
+THAP9	before_R1	cintestinalis	Tunicata	4	True	True	True	0	0	0	1	0	1	0	0	0	0	1	1	0	dispersed_SSD	SSD	dispersed	THAP finger	
+THRA	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	0	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0057
+THRB	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Nuclear receptor	clust0058
+TIGD1	before_R1	scerevisiae	Fungi	7	True	True	True	1	0	0	0	1	1	0	1	1	1	1	0	0	dispersed_SSD	SSD	dispersed	CENPB	
+TIGD2	before_R1	scerevisiae	Fungi	6	True	True	True	1	0	0	0	1	1	0	1	0	0	1	0	1	dispersed_SSD	SSD	dispersed	CENPB	
+TIGD3	before_R1	scerevisiae	Fungi	3	True	False	True	1	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_SSD	SSD	dispersed	CENPB	
+TIGD4	before_R1	scerevisiae	Fungi	4	True	True	True	1	0	0	0	0	1	0	1	0	0	0	0	1	dispersed_SSD	SSD	dispersed	CENPB	
+TIGD5	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	CENPB	
+TIGD6	before_R1	scerevisiae	Fungi	5	True	True	True	1	0	0	0	0	1	0	1	0	1	1	0	0	dispersed_SSD	SSD	dispersed	CENPB	
+TIGD7	before_R1	scerevisiae	Fungi	3	True	True	True	1	0	0	0	0	1	0	1	0	0	0	0	0	dispersed_SSD	SSD	dispersed	CENPB	
+TLX1	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0040
+TLX2	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+TLX3	before_R1	cintestinalis	Tunicata	6	True	True	True	0	0	0	1	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+TP53	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	1	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	p53	
+TP63	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	p53	
+TP73	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	p53	
+TPRX1	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_cis_ohnolog	ohnolog	clustered	Homeodomain	clust0048
+TRAFD1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+TRERF1	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Myb/SANT	
+TRPS1	before_R1	scerevisiae	Fungi	12	True	True	True	1	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	GATA	
+TSHZ1	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	1	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+TSHZ2	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	1	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021
+TSHZ3	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017
+TTF1	before_R1	scerevisiae	Fungi	9	True	True	True	1	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Myb/SANT	
+TWIST1	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	1	0	1	1	0	0	0	1	1	1	clustered_SSD_tandem	SSD	clustered	bHLH	clust0075
+TWIST2	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	1	1	0	1	1	1	0	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+UBP1	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	1	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	Grainyhead	
+UNCX	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+USF1	before_R1	cintestinalis	Tunicata	6	True	True	True	0	0	0	1	0	1	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+USF2	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	0	1	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	bHLH	
+USF3	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	bHLH	
+VAX1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+VAX2	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+VDR	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Nuclear receptor	
+VENTX	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	1	0	0	0	1	0	1	0	1	0	dispersed_SSD	SSD	dispersed	Homeodomain	
+VEZF1	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+VSX1	before_R1	celegans	Protostomia	6	True	False	True	0	1	0	0	0	0	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+VSX2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+WIZ	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	1	1	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0016
+WT1	before_R1	scerevisiae	Fungi	8	True	True	True	1	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+XBP1	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	0	1	1	dispersed_SSD	SSD	dispersed	bZIP	
+YY1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+YY2	before_R1	celegans	Protostomia	3	True	False	True	0	1	1	0	0	0	0	0	1	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBED1	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	0	dispersed_ohnolog	ohnolog	dispersed	BED ZF	
+ZBED2	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	BED ZF	
+ZBED3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	BED ZF	
+ZBED4	after_R2	lchalumnae	Sarcopterygii	5	False	False	True	0	0	0	0	0	0	0	0	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	BED ZF	
+ZBED5	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	BED ZF	
+ZBED6	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	1	0	0	0	1	0	1	0	1	dispersed_SSD	SSD	dispersed	BED ZF	
+ZBED9	R1_to_R2	eburgeri	Cyclostomata	3	False	True	True	0	0	0	0	0	1	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	BED ZF	
+ZBTB1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0003
+ZBTB10	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBTB11	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB12	after_R2	lchalumnae	Sarcopterygii	4	False	False	True	0	0	0	0	0	0	0	0	1	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB14	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB16	R1_to_R2	eburgeri	Cyclostomata	8	False	True	True	0	0	0	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB17	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB18	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBTB20	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB21	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB22	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB24	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook	
+ZBTB25	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0003
+ZBTB26	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0004
+ZBTB3	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB32	after_R2	drerio	Actinopterygii	2	False	False	True	0	0	0	0	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB33	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB34	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0005
+ZBTB37	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB38	before_R1	celegans	Protostomia	5	True	False	True	0	1	0	0	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB39	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB4	before_R1	celegans	Protostomia	3	True	False	True	0	1	0	0	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB40	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB41	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB42	after_R2	drerio	Actinopterygii	2	False	False	True	0	0	0	0	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB43	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	0	1	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0005
+ZBTB44	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBTB45	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB46	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBTB47	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB48	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB49	R1_to_R2	pmarinus	Cyclostomata	6	False	True	True	0	0	0	0	0	0	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBTB5	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	0	0	0	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZBTB6	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0004
+ZBTB7A	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	0	0	0	0	1	0	0	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB7B	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB7C	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZBTB8A	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0002
+ZBTB8B	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0002
+ZBTB9	after_R2	lchalumnae	Sarcopterygii	3	False	False	True	0	0	0	0	0	0	0	0	1	0	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZC3H8	before_R1	celegans	Protostomia	3	True	False	True	0	1	0	1	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	CCCH ZF	
+ZEB1	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain	
+ZEB2	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain	
+ZFAT	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZFHX2	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	0	0	0	0	0	0	1	1	0	1	dispersed_ohnolog	ohnolog	dispersed	Homeodomain	
+ZFHX3	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain	
+ZFHX4	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Homeodomain	
+ZFP2	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZFP3	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZFP41	before_R1	celegans	Protostomia	7	True	True	True	0	1	0	1	0	1	0	1	0	1	0	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028
+ZFP42	before_R1	celegans	Protostomia	4	True	False	True	0	1	1	1	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZFP62	before_R1	dmelanogaster	Protostomia	2	True	False	True	0	0	1	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZFP64	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021
+ZFP91	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZFPM1	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0012
+ZFPM2	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZFX	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	1	0	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZFY	after_R2	cmilii	Chondrichthyes	3	False	False	True	0	0	0	0	0	0	0	1	1	0	0	1	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZGLP1	before_R1	scerevisiae	Fungi	7	True	False	True	1	1	1	0	1	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	GATA	
+ZGPAT	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	CCCH ZF	
+ZHX1	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+ZHX2	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+ZHX3	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	Homeodomain	
+ZIC1	before_R1	cintestinalis	Tunicata	7	True	True	True	0	0	0	1	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0024
+ZIC2	after_R2	cmilii	Chondrichthyes	6	False	False	True	0	0	0	0	0	0	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0009
+ZIC3	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZIC4	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	0	0	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0024
+ZIC5	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0009
+ZMAT1	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZMAT4	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	1	0	0	1	1	0	1	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF107	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	1	1	0	1	1	1	1	1	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0026
+ZNF117	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF121	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF131	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF134	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	1	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF138	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0026
+ZNF142	R1_to_R2	pmarinus	Cyclostomata	7	False	True	True	0	0	0	0	0	0	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF143	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF146	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF148	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF16	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF165	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0065
+ZNF174	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0061
+ZNF200	before_R1	celegans	Protostomia	4	True	False	True	0	1	1	0	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF207	before_R1	celegans	Protostomia	10	True	True	True	0	1	0	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF217	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0021
+ZNF219	before_R1	celegans	Protostomia	5	True	False	True	0	1	1	1	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF22	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	1	0	1	1	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF232	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF236	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0014
+ZNF239	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF24	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062
+ZNF260	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF275	R1_to_R2	eburgeri	Cyclostomata	2	False	True	True	0	0	0	0	0	1	0	0	0	1	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF276	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF277	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF; BED ZF	
+ZNF280A	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0022
+ZNF280B	R1_to_R2	pmarinus	Cyclostomata	2	False	True	True	0	0	0	0	0	0	1	0	0	0	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0022
+ZNF280C	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF280D	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF281	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF292	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF296	after_R2	drerio	Actinopterygii	2	False	False	True	0	0	0	0	0	0	0	0	0	1	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF318	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF319	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF32	R1_to_R2	eburgeri	Cyclostomata	2	False	True	True	0	0	0	0	0	1	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF322	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF326	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF329	before_R1	dmelanogaster	Protostomia	2	True	False	True	0	0	1	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF335	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	0	1	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF341	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF345	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF346	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF35	before_R1	dmelanogaster	Protostomia	2	True	False	True	0	0	1	0	0	0	0	0	0	0	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023
+ZNF358	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF362	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF365	before_R1	cintestinalis	Tunicata	8	True	True	True	0	0	0	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF366	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF367	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF384	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF385A	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	1	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF385B	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	1	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF385C	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	1	1	0	1	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF385D	before_R1	dmelanogaster	Protostomia	4	True	False	True	0	0	1	1	0	0	0	0	0	1	1	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF391	R1_to_R2	eburgeri	Cyclostomata	3	False	True	True	0	0	0	0	0	1	0	1	0	0	0	1	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF395	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	1	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF396	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062
+ZNF397	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062
+ZNF407	before_R1	csavignyi	Tunicata	8	True	True	True	0	0	0	0	1	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF408	after_R2	cmilii	Chondrichthyes	4	False	False	True	0	0	0	0	0	0	0	1	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF410	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF414	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF415	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF423	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	0	0	1	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF428	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0018
+ZNF438	before_R1	celegans	Protostomia	6	True	False	True	0	1	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF444	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF449	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF451	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF462	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF467	after_R2	ggallus	Aves	2	False	False	True	0	0	0	0	0	0	0	0	0	0	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF469	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0012
+ZNF474	before_R1	celegans	Protostomia	4	True	False	True	0	1	1	1	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF48	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	1	0	0	0	1	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0010
+ZNF488	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF491	before_R1	dmelanogaster	Protostomia	2	True	False	True	0	0	1	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF493	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF497	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	1	0	1	0	1	0	1	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0020
+ZNF501	R1_to_R2	eburgeri	Cyclostomata	3	False	True	True	0	0	0	0	0	1	0	1	0	0	0	1	0	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023
+ZNF502	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023
+ZNF503	before_R1	celegans	Protostomia	9	True	True	True	0	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF507	R1_to_R2	pmarinus	Cyclostomata	6	False	True	True	0	0	0	0	0	0	1	1	0	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017
+ZNF511	before_R1	dmelanogaster	Protostomia	8	True	True	True	0	0	1	0	0	1	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF512	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	0	1	1	1	1	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF; BED ZF	
+ZNF512B	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF513	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF516	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0014
+ZNF518A	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF518B	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	0	0	1	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF521	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	0	0	0	0	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF524	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook	
+ZNF526	after_R2	drerio	Actinopterygii	3	False	False	True	0	0	0	0	0	0	0	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF532	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF536	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	0	1	1	1	1	1	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0017
+ZNF541	before_R1	celegans	Protostomia	7	True	False	True	0	1	1	1	0	0	0	1	0	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF; Myb/SANT	
+ZNF572	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF574	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	0	0	0	0	0	1	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF575	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF576	before_R1	celegans	Protostomia	4	True	True	True	0	1	1	0	0	0	1	0	0	1	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0018
+ZNF579	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019
+ZNF580	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019
+ZNF581	after_R2	xtropicalis	Amphibia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019
+ZNF592	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF594	before_R1	dmelanogaster	Protostomia	2	True	False	True	0	0	1	0	0	0	0	0	0	1	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF598	before_R1	scerevisiae	Fungi	10	True	True	True	1	1	1	1	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF600	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF608	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	1	1	0	0	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF609	before_R1	dmelanogaster	Protostomia	7	True	True	True	0	0	1	0	0	1	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF618	before_R1	dmelanogaster	Protostomia	6	True	False	True	0	0	1	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF619	before_R1	dmelanogaster	Protostomia	1	True	False	False	0	0	1	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF623	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF625	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0015
+ZNF628	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF629	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF639	before_R1	dmelanogaster	Protostomia	5	True	False	True	0	0	1	0	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF644	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF645	before_R1	dmelanogaster	Protostomia	6	True	True	True	0	0	1	0	0	0	1	1	0	1	1	1	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF646	after_R2	xtropicalis	Amphibia	3	False	False	True	0	0	0	0	0	0	0	0	0	0	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0011
+ZNF648	before_R1	dmelanogaster	Protostomia	3	True	False	True	0	0	1	0	0	0	0	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF652	before_R1	celegans	Protostomia	8	True	False	True	0	1	1	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF653	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	1	0	0	1	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF; AT hook	
+ZNF654	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF655	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF660	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0023
+ZNF664	before_R1	dmelanogaster	Protostomia	3	True	False	True	0	0	1	0	1	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF668	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0011
+ZNF672	before_R1	csavignyi	Tunicata	5	True	False	True	0	0	0	0	1	0	0	1	0	0	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0006
+ZNF678	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF683	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF687	before_R1	cintestinalis	Tunicata	5	True	False	True	0	0	0	1	0	0	0	0	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF691	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF692	R1_to_R2	eburgeri	Cyclostomata	4	False	True	True	0	0	0	0	0	1	0	0	0	0	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0006
+ZNF696	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_cis_ohnolog	ohnolog	clustered	C2H2 ZF	clust0028
+ZNF697	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF70	before_R1	dmelanogaster	Protostomia	1	True	False	False	0	0	1	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF703	before_R1	celegans	Protostomia	9	True	False	True	0	1	1	1	1	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF704	R1_to_R2	eburgeri	Cyclostomata	7	False	True	True	0	0	0	0	0	1	1	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF706	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	1	0	1	1	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF71	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF710	before_R1	dmelanogaster	Protostomia	4	True	False	True	0	0	1	0	0	0	0	0	0	1	1	1	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF711	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF721	before_R1	dmelanogaster	Protostomia	4	True	True	True	0	0	1	0	1	1	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF740	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF750	R1_to_R2	eburgeri	Cyclostomata	6	False	True	True	0	0	0	0	0	1	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF76	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	1	1	0	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF768	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF770	before_R1	celegans	Protostomia	7	True	True	True	0	1	1	0	0	1	1	0	0	1	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF771	before_R1	cintestinalis	Tunicata	5	True	True	True	0	0	0	1	0	1	0	0	0	1	1	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0010
+ZNF774	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF775	before_R1	dmelanogaster	Protostomia	6	True	True	True	0	0	1	0	1	1	0	0	0	0	1	1	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0027
+ZNF784	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019
+ZNF787	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF80	before_R1	dmelanogaster	Protostomia	1	True	False	False	0	0	1	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF800	before_R1	dmelanogaster	Protostomia	9	True	True	True	0	0	1	0	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF804A	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF804B	after_R2	drerio	Actinopterygii	4	False	False	True	0	0	0	0	0	0	0	0	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF821	before_R1	dmelanogaster	Protostomia	7	True	False	True	0	0	1	0	0	0	0	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF827	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF83	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF830	before_R1	celegans	Protostomia	8	True	True	True	0	1	1	0	0	1	1	1	1	0	0	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF831	after_R2	cmilii	Chondrichthyes	5	False	False	True	0	0	0	0	0	0	0	1	0	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZNF835	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF837	R1_to_R2	eburgeri	Cyclostomata	5	False	True	True	0	0	0	0	0	1	1	0	0	1	1	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0020
+ZNF841	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF843	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF853	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZNF865	before_R1	dmelanogaster	Protostomia	4	True	False	True	0	0	1	0	0	0	0	0	0	1	1	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0019
+ZNF883	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN1	before_R1	celegans	Protostomia	5	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0064
+ZSCAN10	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN12	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066
+ZSCAN16	after_R2	xtropicalis	Amphibia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0065
+ZSCAN18	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0064
+ZSCAN2	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZSCAN20	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN21	after_R2	xtropicalis	Amphibia	2	False	False	True	0	0	0	0	0	0	0	0	0	0	1	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN22	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN23	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066
+ZSCAN26	after_R2	mmusculus	Mammalia	1	False	False	True	0	0	0	0	0	0	0	0	0	0	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN29	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN30	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0062
+ZSCAN31	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0066
+ZSCAN32	before_R1	celegans	Protostomia	3	True	False	True	0	1	1	0	0	0	0	0	0	0	1	0	0	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0061
+ZSCAN4	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZSCAN5A	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063
+ZSCAN5B	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063
+ZSCAN5C	before_R1	celegans	Protostomia	6	True	True	True	0	1	1	0	0	1	1	0	0	1	0	0	1	clustered_SSD_tandem	SSD	clustered	C2H2 ZF	clust0063
+ZSCAN9	human_only			0	False	False	False	0	0	0	0	0	0	0	0	0	0	0	0	0	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZUFSP	before_R1	celegans	Protostomia	6	True	False	True	0	1	1	0	0	0	0	1	0	0	1	1	1	dispersed_SSD	SSD	dispersed	C2H2 ZF	
+ZXDA	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZXDB	before_R1	celegans	Protostomia	10	True	True	True	0	1	1	0	1	1	1	1	1	1	1	1	0	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZXDC	before_R1	celegans	Protostomia	11	True	True	True	0	1	1	1	0	1	1	1	1	1	1	1	1	dispersed_ohnolog	ohnolog	dispersed	C2H2 ZF	
+ZZZ3	before_R1	dmelanogaster	Protostomia	10	True	True	True	0	0	1	1	0	1	1	1	1	1	1	1	1	dispersed_SSD	SSD	dispersed	Myb/SANT	
