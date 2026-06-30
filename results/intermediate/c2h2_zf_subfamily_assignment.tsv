@@ -1,0 +1,748 @@
+gene_symbol	ensembl_id	match_method	in_hgnc_C2H2	has_KRAB	has_SCAN	has_BTB	C2H2_subfamily
+AC008770.3	ENSG00000267179	not_in_hgnc	False	False	False	False	C2H2 ZF (other)
+AC092835.1	ENSG00000233757	ensembl_id	True	True	False	False	KRAB-ZNF
+AC138696.1	ENSG00000264668	not_in_hgnc	False	False	False	False	C2H2 ZF (other)
+AEBP2	ENSG00000139154	ensembl_id	True	False	False	False	C2H2 ZF (other)
+AKAP8	ENSG00000105127	ensembl_id	False	False	False	False	C2H2 ZF (other)
+AKAP8L	ENSG00000011243	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ANKZF1	ENSG00000163516	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ATMIN	ENSG00000166454	ensembl_id	True	False	False	False	C2H2 ZF (other)
+BCL11A	ENSG00000119866	ensembl_id	True	False	False	False	C2H2 ZF (other)
+BCL11B	ENSG00000127152	ensembl_id	True	False	False	False	C2H2 ZF (other)
+BCL6	ENSG00000113916	ensembl_id	True	False	False	True	BTB-ZNF
+BCL6B	ENSG00000161940	ensembl_id	True	False	False	True	BTB-ZNF
+BNC1	ENSG00000169594	ensembl_id	True	False	False	False	C2H2 ZF (other)
+BNC2	ENSG00000173068	ensembl_id	True	False	False	False	C2H2 ZF (other)
+CASZ1	ENSG00000130940	ensembl_id	True	False	False	False	C2H2 ZF (other)
+CCDC17	ENSG00000159588	ensembl_id	False	False	False	False	C2H2 ZF (other)
+CHAMP1	ENSG00000198824	ensembl_id	True	False	False	False	C2H2 ZF (other)
+CPXCR1	ENSG00000147183	ensembl_id	True	False	False	False	C2H2 ZF (other)
+CTCF	ENSG00000102974	ensembl_id	True	False	False	False	C2H2 ZF (other)
+CTCFL	ENSG00000124092	ensembl_id	True	False	False	False	C2H2 ZF (other)
+DPF1	ENSG00000011332	ensembl_id	True	False	False	False	C2H2 ZF (other)
+DPF3	ENSG00000205683	ensembl_id	True	False	False	False	C2H2 ZF (other)
+DZIP1	ENSG00000134874	ensembl_id	True	False	False	False	C2H2 ZF (other)
+E4F1	ENSG00000167967	ensembl_id	True	False	False	False	C2H2 ZF (other)
+EEA1	ENSG00000102189	ensembl_id	True	False	False	False	C2H2 ZF (other)
+EGR1	ENSG00000120738	ensembl_id	True	False	False	False	C2H2 ZF (other)
+EGR2	ENSG00000122877	ensembl_id	True	False	False	False	C2H2 ZF (other)
+EGR3	ENSG00000179388	ensembl_id	True	False	False	False	C2H2 ZF (other)
+EGR4	ENSG00000135625	ensembl_id	True	False	False	False	C2H2 ZF (other)
+FAM170A	ENSG00000164334	ensembl_id	False	False	False	False	C2H2 ZF (other)
+FEZF1	ENSG00000128610	ensembl_id	True	False	False	False	C2H2 ZF (other)
+FEZF2	ENSG00000153266	ensembl_id	True	False	False	False	C2H2 ZF (other)
+FIZ1	ENSG00000179943	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GFI1	ENSG00000162676	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GFI1B	ENSG00000165702	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLI1	ENSG00000111087	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLI2	ENSG00000074047	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLI3	ENSG00000106571	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLI4	ENSG00000250571	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLIS1	ENSG00000174332	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLIS2	ENSG00000126603	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GLIS3	ENSG00000107249	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GTF3A	ENSG00000122034	ensembl_id	True	False	False	False	C2H2 ZF (other)
+GZF1	ENSG00000125812	ensembl_id	True	False	False	True	BTB-ZNF
+HIC1	ENSG00000177374	ensembl_id	True	False	False	True	BTB-ZNF
+HIC2	ENSG00000169635	ensembl_id	True	False	False	True	BTB-ZNF
+HINFP	ENSG00000172273	ensembl_id	True	False	False	False	C2H2 ZF (other)
+HIVEP1	ENSG00000095951	ensembl_id	True	False	False	False	C2H2 ZF (other)
+HIVEP2	ENSG00000010818	ensembl_id	True	False	False	False	C2H2 ZF (other)
+HIVEP3	ENSG00000127124	ensembl_id	True	False	False	False	C2H2 ZF (other)
+HKR1	ENSG00000181666	ensembl_id	True	True	False	False	KRAB-ZNF
+IKZF1	ENSG00000185811	ensembl_id	True	False	False	False	C2H2 ZF (other)
+IKZF2	ENSG00000030419	ensembl_id	True	False	False	False	C2H2 ZF (other)
+IKZF3	ENSG00000161405	ensembl_id	True	False	False	False	C2H2 ZF (other)
+IKZF4	ENSG00000123411	ensembl_id	True	False	False	False	C2H2 ZF (other)
+IKZF5	ENSG00000095574	ensembl_id	True	False	False	False	C2H2 ZF (other)
+INSM1	ENSG00000173404	ensembl_id	True	False	False	False	C2H2 ZF (other)
+INSM2	ENSG00000168348	ensembl_id	True	False	False	False	C2H2 ZF (other)
+JAZF1	ENSG00000153814	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KAT7	ENSG00000136504	ensembl_id	False	False	False	False	C2H2 ZF (other)
+KCMF1	ENSG00000176407	ensembl_id	False	False	False	False	C2H2 ZF (other)
+KIN	ENSG00000151657	ensembl_id	False	False	False	False	C2H2 ZF (other)
+KLF1	ENSG00000105610	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF10	ENSG00000155090	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF11	ENSG00000172059	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF12	ENSG00000118922	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF13	ENSG00000169926	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF14	ENSG00000266265	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF15	ENSG00000163884	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF16	ENSG00000129911	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF17	ENSG00000171872	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF2	ENSG00000127528	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF3	ENSG00000109787	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF4	ENSG00000136826	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF5	ENSG00000102554	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF6	ENSG00000067082	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF7	ENSG00000118263	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF8	ENSG00000102349	ensembl_id	True	False	False	False	C2H2 ZF (other)
+KLF9	ENSG00000119138	ensembl_id	True	False	False	False	C2H2 ZF (other)
+L3MBTL1	ENSG00000185513	ensembl_id	False	False	False	False	C2H2 ZF (other)
+L3MBTL3	ENSG00000198945	ensembl_id	False	False	False	False	C2H2 ZF (other)
+L3MBTL4	ENSG00000154655	ensembl_id	False	False	False	False	C2H2 ZF (other)
+MAZ	ENSG00000103495	ensembl_id	True	False	False	False	C2H2 ZF (other)
+MECOM	ENSG00000085276	ensembl_id	True	False	False	False	C2H2 ZF (other)
+MTF1	ENSG00000188786	ensembl_id	True	False	False	False	C2H2 ZF (other)
+MYNN	ENSG00000085274	ensembl_id	True	False	False	True	BTB-ZNF
+MYT1	ENSG00000196132	ensembl_id	False	False	False	False	C2H2 ZF (other)
+MYT1L	ENSG00000186487	ensembl_id	False	False	False	False	C2H2 ZF (other)
+MZF1	ENSG00000099326	ensembl_id	True	False	True	False	SCAN-ZNF
+OSR1	ENSG00000143867	ensembl_id	True	False	False	False	C2H2 ZF (other)
+OSR2	ENSG00000164920	ensembl_id	True	False	False	False	C2H2 ZF (other)
+OVOL1	ENSG00000172818	ensembl_id	True	False	False	False	C2H2 ZF (other)
+OVOL2	ENSG00000125850	ensembl_id	True	False	False	False	C2H2 ZF (other)
+OVOL3	ENSG00000105261	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PEG3	ENSG00000198300	ensembl_id	True	False	True	False	SCAN-ZNF
+PLAG1	ENSG00000181690	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PLAGL1	ENSG00000118495	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PLAGL2	ENSG00000126003	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM1	ENSG00000057657	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM10	ENSG00000170325	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM12	ENSG00000130711	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM13	ENSG00000112238	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM14	ENSG00000147596	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM15	ENSG00000141956	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM16	ENSG00000142611	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM2	ENSG00000116731	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM4	ENSG00000110851	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM5	ENSG00000138738	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM6	ENSG00000061455	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM8	ENSG00000152784	ensembl_id	True	False	False	False	C2H2 ZF (other)
+PRDM9	ENSG00000164256	ensembl_id	True	True	False	False	KRAB-ZNF
+PRMT3	ENSG00000185238	ensembl_id	True	False	False	False	C2H2 ZF (other)
+RBAK	ENSG00000146587	ensembl_id	True	True	False	False	KRAB-ZNF
+RBSN	ENSG00000131381	ensembl_id	True	False	False	False	C2H2 ZF (other)
+REPIN1	ENSG00000214022	ensembl_id	True	False	False	False	C2H2 ZF (other)
+REST	ENSG00000084093	ensembl_id	True	False	False	False	C2H2 ZF (other)
+RLF	ENSG00000117000	ensembl_id	True	False	False	False	C2H2 ZF (other)
+RREB1	ENSG00000124782	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SALL1	ENSG00000103449	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SALL2	ENSG00000165821	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SALL3	ENSG00000256463	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SALL4	ENSG00000101115	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SCRT1	ENSG00000261678	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SCRT2	ENSG00000215397	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SLC2A4RG	ENSG00000125520	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SNAI1	ENSG00000124216	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SNAI2	ENSG00000019549	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SNAI3	ENSG00000185669	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP1	ENSG00000185591	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP2	ENSG00000167182	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP3	ENSG00000172845	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP4	ENSG00000105866	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP5	ENSG00000204335	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP6	ENSG00000189120	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP7	ENSG00000170374	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP8	ENSG00000164651	ensembl_id	True	False	False	False	C2H2 ZF (other)
+SP9	ENSG00000217236	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ST18	ENSG00000147488	ensembl_id	False	False	False	False	C2H2 ZF (other)
+TRAFD1	ENSG00000135148	ensembl_id	False	False	False	False	C2H2 ZF (other)
+TSHZ1	ENSG00000179981	ensembl_id	True	False	False	False	C2H2 ZF (other)
+TSHZ2	ENSG00000182463	ensembl_id	True	False	False	False	C2H2 ZF (other)
+TSHZ3	ENSG00000121297	ensembl_id	True	False	False	False	C2H2 ZF (other)
+VEZF1	ENSG00000136451	ensembl_id	True	False	False	False	C2H2 ZF (other)
+WIZ	ENSG00000011451	ensembl_id	True	False	False	False	C2H2 ZF (other)
+WT1	ENSG00000184937	ensembl_id	True	False	False	False	C2H2 ZF (other)
+YY1	ENSG00000100811	ensembl_id	True	False	False	False	C2H2 ZF (other)
+YY2	ENSG00000230797	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZBTB1	ENSG00000126804	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB10	ENSG00000205189	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB11	ENSG00000066422	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB12	ENSG00000204366	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB14	ENSG00000198081	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB16	ENSG00000109906	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB17	ENSG00000116809	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB18	ENSG00000179456	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB2	ENSG00000181472	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB20	ENSG00000181722	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB21	ENSG00000173276	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB22	ENSG00000236104	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB25	ENSG00000089775	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB26	ENSG00000171448	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB3	ENSG00000185670	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB32	ENSG00000011590	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB33	ENSG00000177485	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB34	ENSG00000177125	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB37	ENSG00000185278	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB38	ENSG00000177311	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB39	ENSG00000166860	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB4	ENSG00000174282	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB40	ENSG00000184677	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB41	ENSG00000177888	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB42	ENSG00000179627	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB43	ENSG00000169155	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB44	ENSG00000196323	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB45	ENSG00000119574	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB46	ENSG00000130584	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB47	ENSG00000114853	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB48	ENSG00000204859	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB49	ENSG00000168826	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB5	ENSG00000168795	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB6	ENSG00000186130	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB7A	ENSG00000178951	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB7B	ENSG00000160685	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB7C	ENSG00000184828	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB8A	ENSG00000160062	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB8B	ENSG00000273274	ensembl_id	True	False	False	True	BTB-ZNF
+ZBTB9	ENSG00000213588	ensembl_id	True	False	False	True	BTB-ZNF
+ZFAT	ENSG00000066827	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP1	ENSG00000184517	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP14	ENSG00000142065	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP2	ENSG00000198939	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP28	ENSG00000196867	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP3	ENSG00000180787	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP30	ENSG00000120784	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP37	ENSG00000136866	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP41	ENSG00000181638	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP42	ENSG00000179059	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP57	ENSG00000204644	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP62	ENSG00000196670	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP64	ENSG00000020256	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP69	ENSG00000187815	ensembl_id	True	True	True	False	KRAB-ZNF
+ZFP69B	ENSG00000187801	ensembl_id	True	True	True	False	KRAB-ZNF
+ZFP82	ENSG00000181007	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP90	ENSG00000184939	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFP91	ENSG00000186660	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFP92	ENSG00000189420	ensembl_id	True	True	False	False	KRAB-ZNF
+ZFPM1	ENSG00000179588	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFPM2	ENSG00000169946	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFX	ENSG00000005889	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZFY	ENSG00000067646	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZIC1	ENSG00000152977	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZIC2	ENSG00000043355	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZIC3	ENSG00000156925	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZIC4	ENSG00000174963	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZIC5	ENSG00000139800	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZIK1	ENSG00000171649	ensembl_id	True	True	False	False	KRAB-ZNF
+ZIM2	ENSG00000269699	ensembl_id	True	True	False	False	KRAB-ZNF
+ZIM3	ENSG00000141946	ensembl_id	True	True	False	False	KRAB-ZNF
+ZKSCAN1	ENSG00000106261	ensembl_id	True	True	True	False	KRAB-ZNF
+ZKSCAN2	ENSG00000155592	ensembl_id	True	True	True	False	KRAB-ZNF
+ZKSCAN3	ENSG00000189298	ensembl_id	True	True	True	False	KRAB-ZNF
+ZKSCAN4	ENSG00000187626	ensembl_id	True	True	True	False	KRAB-ZNF
+ZKSCAN5	ENSG00000196652	ensembl_id	True	True	True	False	KRAB-ZNF
+ZKSCAN7	ENSG00000196345	ensembl_id	True	True	True	False	KRAB-ZNF
+ZKSCAN8	ENSG00000198315	ensembl_id	True	True	True	False	KRAB-ZNF
+ZMAT1	ENSG00000166432	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZMAT4	ENSG00000165061	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF10	ENSG00000256223	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF100	ENSG00000197020	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF101	ENSG00000181896	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF107	ENSG00000196247	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF112	ENSG00000062370	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF114	ENSG00000178150	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF117	ENSG00000152926	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF12	ENSG00000164631	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF121	ENSG00000197961	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF124	ENSG00000196418	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF131	ENSG00000172262	ensembl_id	True	False	False	True	BTB-ZNF
+ZNF132	ENSG00000131849	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF133	ENSG00000125846	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF134	ENSG00000213762	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF135	ENSG00000176293	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF136	ENSG00000196646	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF138	ENSG00000197008	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF14	ENSG00000105708	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF140	ENSG00000196387	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF141	ENSG00000131127	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF142	ENSG00000115568	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF143	ENSG00000166478	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF146	ENSG00000167635	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF148	ENSG00000163848	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF154	ENSG00000179909	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF155	ENSG00000204920	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF157	ENSG00000147117	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF16	ENSG00000170631	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF160	ENSG00000170949	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF165	ENSG00000197279	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF169	ENSG00000175787	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF17	ENSG00000186272	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF174	ENSG00000103343	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF175	ENSG00000105497	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF177	ENSG00000188629	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF18	ENSG00000154957	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF180	ENSG00000167384	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF181	ENSG00000197841	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF182	ENSG00000147118	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF184	ENSG00000096654	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF189	ENSG00000136870	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF19	ENSG00000157429	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF195	ENSG00000005801	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF197	ENSG00000186448	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF2	ENSG00000275111	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF20	ENSG00000132010	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF200	ENSG00000010539	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF202	ENSG00000166261	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF205	ENSG00000122386	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF207	ENSG00000010244	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF208	ENSG00000160321	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF211	ENSG00000121417	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF212	ENSG00000170260	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF213	ENSG00000085644	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF214	ENSG00000149050	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF215	ENSG00000149054	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF217	ENSG00000171940	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF219	ENSG00000165804	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF22	ENSG00000165512	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF221	ENSG00000159905	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF222	ENSG00000159885	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF223	ENSG00000178386	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF224	ENSG00000267680	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF225	ENSG00000256294	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF226	ENSG00000167380	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF227	ENSG00000131115	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF229	ENSG00000278318	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF23	ENSG00000167377	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF230	ENSG00000159882	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF232	ENSG00000167840	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF233	ENSG00000159915	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF234	ENSG00000263002	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF235	ENSG00000159917	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF236	ENSG00000130856	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF239	ENSG00000196793	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF24	ENSG00000172466	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF248	ENSG00000198105	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF25	ENSG00000175395	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF250	ENSG00000196150	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF251	ENSG00000198169	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF253	ENSG00000256771	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF254	ENSG00000213096	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF256	ENSG00000152454	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF257	ENSG00000197134	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF26	ENSG00000198393	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF260	ENSG00000254004	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF263	ENSG00000006194	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF264	ENSG00000083844	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF266	ENSG00000174652	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF267	ENSG00000185947	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF268	ENSG00000090612	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF273	ENSG00000198039	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF274	ENSG00000171606	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF275	ENSG00000063587	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF276	ENSG00000158805	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF28	ENSG00000198538	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF280A	ENSG00000169548	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF280B	ENSG00000275004	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF280C	ENSG00000056277	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF280D	ENSG00000137871	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF281	ENSG00000162702	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF282	ENSG00000170265	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF283	ENSG00000167637	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF284	ENSG00000186026	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF285	ENSG00000267508	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF286A	ENSG00000187607	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF286B	ENSG00000249459	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF287	ENSG00000141040	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF292	ENSG00000188994	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF296	ENSG00000170684	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF3	ENSG00000166526	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF30	ENSG00000168661	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF300	ENSG00000145908	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF302	ENSG00000089335	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF304	ENSG00000131845	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF311	ENSG00000197935	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF316	ENSG00000205903	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF317	ENSG00000130803	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF318	ENSG00000171467	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF319	ENSG00000166188	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF32	ENSG00000169740	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF320	ENSG00000182986	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF322	ENSG00000181315	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF324	ENSG00000083812	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF324B	ENSG00000249471	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF326	ENSG00000162664	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF329	ENSG00000181894	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF331	ENSG00000130844	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF333	ENSG00000160961	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF334	ENSG00000198185	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF335	ENSG00000198026	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF337	ENSG00000130684	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF33A	ENSG00000189180	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF33B	ENSG00000196693	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF34	ENSG00000196378	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF341	ENSG00000131061	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF343	ENSG00000088876	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF345	ENSG00000251247	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF346	ENSG00000113761	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF347	ENSG00000197937	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF35	ENSG00000169981	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF350	ENSG00000256683	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF354A	ENSG00000169131	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF354B	ENSG00000178338	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF354C	ENSG00000177932	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF358	ENSG00000198816	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF362	ENSG00000160094	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF365	ENSG00000138311	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF366	ENSG00000178175	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF367	ENSG00000165244	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF37A	ENSG00000075407	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF382	ENSG00000161298	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF383	ENSG00000188283	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF384	ENSG00000126746	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF385A	ENSG00000161642	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF385B	ENSG00000144331	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF385C	ENSG00000187595	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF385D	ENSG00000151789	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF391	ENSG00000124613	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF394	ENSG00000160908	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF395	ENSG00000186918	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF396	ENSG00000186496	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF397	ENSG00000186812	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF398	ENSG00000197024	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF404	ENSG00000176222	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF407	ENSG00000215421	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF408	ENSG00000175213	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF41	ENSG00000147124	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF410	ENSG00000119725	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF414	ENSG00000133250	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF415	ENSG00000170954	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF416	ENSG00000083817	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF417	ENSG00000173480	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF418	ENSG00000196724	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF419	ENSG00000105136	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF420	ENSG00000197050	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF423	ENSG00000102935	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF425	ENSG00000204947	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF426	ENSG00000130818	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF428	ENSG00000131116	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF429	ENSG00000197013	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF43	ENSG00000198521	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF430	ENSG00000118620	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF431	ENSG00000196705	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF432	ENSG00000256087	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF433	ENSG00000197647	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF436	ENSG00000125945	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF438	ENSG00000183621	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF439	ENSG00000171291	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF44	ENSG00000197857	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF440	ENSG00000171295	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF441	ENSG00000197044	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF442	ENSG00000198342	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF443	ENSG00000180855	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF444	ENSG00000167685	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF445	ENSG00000185219	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF446	ENSG00000083838	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF449	ENSG00000173275	ensembl_id	True	False	True	False	SCAN-ZNF
+ZNF45	ENSG00000124459	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF451	ENSG00000112200	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF454	ENSG00000178187	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF460	ENSG00000197714	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF461	ENSG00000197808	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF462	ENSG00000148143	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF467	ENSG00000181444	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF468	ENSG00000204604	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF469	ENSG00000225614	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF470	ENSG00000197016	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF471	ENSG00000196263	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF473	ENSG00000142528	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF474	ENSG00000164185	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF479	ENSG00000185177	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF48	ENSG00000180035	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF480	ENSG00000198464	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF483	ENSG00000173258	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF484	ENSG00000127081	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF485	ENSG00000198298	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF486	ENSG00000256229	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF487	ENSG00000243660	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF488	ENSG00000265763	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF490	ENSG00000188033	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF491	ENSG00000177599	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF492	ENSG00000229676	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF493	ENSG00000196268	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF496	ENSG00000162714	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF497	ENSG00000174586	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF500	ENSG00000103199	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF501	ENSG00000186446	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF502	ENSG00000196653	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF503	ENSG00000165655	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF506	ENSG00000081665	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF507	ENSG00000168813	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF510	ENSG00000081386	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF511	ENSG00000198546	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF512B	ENSG00000196700	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF513	ENSG00000163795	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF514	ENSG00000144026	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF516	ENSG00000101493	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF517	ENSG00000197363	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF518A	ENSG00000177853	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF518B	ENSG00000178163	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF519	ENSG00000175322	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF521	ENSG00000198795	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF525	ENSG00000203326	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF526	ENSG00000167625	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF527	ENSG00000189164	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF528	ENSG00000167555	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF529	ENSG00000186020	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF530	ENSG00000183647	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF532	ENSG00000074657	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF534	ENSG00000198633	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF536	ENSG00000198597	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF540	ENSG00000171817	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF543	ENSG00000178229	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF544	ENSG00000198131	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF546	ENSG00000187187	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF547	ENSG00000152433	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF548	ENSG00000188785	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF549	ENSG00000121406	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF550	ENSG00000251369	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF551	ENSG00000204519	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF552	ENSG00000178935	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF554	ENSG00000172006	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF555	ENSG00000186300	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF556	ENSG00000172000	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF557	ENSG00000130544	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF558	ENSG00000167785	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF559	ENSG00000188321	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF560	ENSG00000198028	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF561	ENSG00000171469	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF562	ENSG00000171466	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF563	ENSG00000188868	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF564	ENSG00000249709	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF565	ENSG00000196357	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF566	ENSG00000186017	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF567	ENSG00000189042	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF568	ENSG00000198453	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF569	ENSG00000196437	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF57	ENSG00000171970	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF570	ENSG00000171827	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF571	ENSG00000180479	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF572	ENSG00000180938	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF573	ENSG00000189144	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF574	ENSG00000105732	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF575	ENSG00000176472	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF576	ENSG00000124444	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF577	ENSG00000161551	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF578	ENSG00000258405	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF579	ENSG00000218891	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF580	ENSG00000213015	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF581	ENSG00000171425	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF582	ENSG00000018869	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF583	ENSG00000198440	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF584	ENSG00000171574	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF585A	ENSG00000196967	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF585B	ENSG00000245680	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF586	ENSG00000083828	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF587	ENSG00000198466	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF587B	ENSG00000269343	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF589	ENSG00000164048	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF592	ENSG00000166716	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF594	ENSG00000180626	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF595	ENSG00000272602	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF596	ENSG00000172748	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF597	ENSG00000167981	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF598	ENSG00000167962	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF599	ENSG00000153896	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF600	ENSG00000189190	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF605	ENSG00000196458	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF606	ENSG00000166704	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF607	ENSG00000198182	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF608	ENSG00000168916	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF609	ENSG00000180357	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF610	ENSG00000167554	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF611	ENSG00000213020	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF613	ENSG00000176024	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF614	ENSG00000142556	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF615	ENSG00000197619	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF616	ENSG00000204611	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF618	ENSG00000157657	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF619	ENSG00000177873	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF620	ENSG00000177842	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF621	ENSG00000172888	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF623	ENSG00000183309	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF624	ENSG00000197566	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF625	ENSG00000257591	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF626	ENSG00000188171	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF627	ENSG00000198551	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF628	ENSG00000197483	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF629	ENSG00000102870	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF630	ENSG00000221994	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF639	ENSG00000121864	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF641	ENSG00000167528	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF644	ENSG00000122482	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF645	ENSG00000175809	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF646	ENSG00000167395	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF648	ENSG00000179930	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF649	ENSG00000198093	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF652	ENSG00000198740	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF654	ENSG00000175105	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF655	ENSG00000197343	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF658	ENSG00000274349	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF66	ENSG00000160229	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF660	ENSG00000144792	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF662	ENSG00000182983	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF664	ENSG00000179195	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF665	ENSG00000197497	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF667	ENSG00000198046	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF668	ENSG00000167394	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF669	ENSG00000188295	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF670	ENSG00000277462	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF671	ENSG00000083814	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF672	ENSG00000171161	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF674	ENSG00000251192	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF675	ENSG00000197372	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF676	ENSG00000196109	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF677	ENSG00000197928	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF678	ENSG00000181450	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF679	ENSG00000197123	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF680	ENSG00000173041	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF681	ENSG00000196172	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF682	ENSG00000197124	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF683	ENSG00000176083	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF684	ENSG00000117010	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF687	ENSG00000143373	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF688	ENSG00000229809	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF689	ENSG00000156853	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF69	ENSG00000198429	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF691	ENSG00000164011	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF692	ENSG00000171163	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF695	ENSG00000197472	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF696	ENSG00000185730	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF697	ENSG00000143067	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF699	ENSG00000196110	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF7	ENSG00000147789	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF70	ENSG00000187792	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF700	ENSG00000196757	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF701	ENSG00000167562	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF703	ENSG00000183779	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF704	ENSG00000164684	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF705A	ENSG00000196946	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF705B	ENSG00000215356	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF705D	ENSG00000215343	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF705E	ENSG00000214534	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF705G	ENSG00000215372	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF706	ENSG00000120963	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF707	ENSG00000181135	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF708	ENSG00000182141	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF709	ENSG00000242852	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF71	ENSG00000197951	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF710	ENSG00000140548	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF711	ENSG00000147180	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF713	ENSG00000178665	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF714	ENSG00000160352	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF716	ENSG00000182111	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF717	ENSG00000227124	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF718	ENSG00000250312	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF721	ENSG00000182903	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF724	ENSG00000196081	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF726	ENSG00000213967	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF727	ENSG00000214652	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF728	ENSG00000269067	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF729	ENSG00000196350	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF730	ENSG00000183850	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF732	ENSG00000186777	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF735	ENSG00000223614	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF736	ENSG00000234444	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF737	ENSG00000237440	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF74	ENSG00000185252	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF740	ENSG00000139651	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF746	ENSG00000181220	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF747	ENSG00000169955	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF749	ENSG00000186230	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF750	ENSG00000141579	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF75A	ENSG00000162086	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF75D	ENSG00000186376	ensembl_id	True	True	True	False	KRAB-ZNF
+ZNF76	ENSG00000065029	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF761	ENSG00000160336	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF763	ENSG00000197054	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF764	ENSG00000169951	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF765	ENSG00000196417	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF766	ENSG00000196214	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF768	ENSG00000169957	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF77	ENSG00000175691	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF770	ENSG00000198146	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF771	ENSG00000179965	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF772	ENSG00000197128	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF773	ENSG00000152439	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF774	ENSG00000196391	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF775	ENSG00000196456	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF776	ENSG00000152443	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF777	ENSG00000196453	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF778	ENSG00000170100	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF780A	ENSG00000197782	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF780B	ENSG00000128000	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF781	ENSG00000196381	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF782	ENSG00000196597	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF783	ENSG00000204946	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF784	ENSG00000179922	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF785	ENSG00000197162	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF786	ENSG00000197362	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF787	ENSG00000142409	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF788	ENSG00000214189	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF789	ENSG00000198556	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF79	ENSG00000196152	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF790	ENSG00000197863	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF791	ENSG00000173875	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF792	ENSG00000180884	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF793	ENSG00000188227	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF799	ENSG00000196466	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF8	ENSG00000278129	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF80	ENSG00000174255	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF800	ENSG00000048405	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF804A	ENSG00000170396	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF804B	ENSG00000182348	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF805	ENSG00000204524	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF808	ENSG00000198482	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF81	ENSG00000197779	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF813	ENSG00000198346	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF814	ENSG00000204514	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF816	ENSG00000180257	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF821	ENSG00000102984	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF823	ENSG00000197933	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF827	ENSG00000151612	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF829	ENSG00000185869	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF83	ENSG00000167766	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF830	ENSG00000198783	ensembl_id	False	False	False	False	C2H2 ZF (other)
+ZNF831	ENSG00000124203	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF835	ENSG00000127903	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF836	ENSG00000196267	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF837	ENSG00000152475	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF84	ENSG00000198040	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF841	ENSG00000197608	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF843	ENSG00000176723	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF844	ENSG00000223547	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF845	ENSG00000213799	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF846	ENSG00000196605	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF85	ENSG00000105750	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF850	ENSG00000267041	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF852	ENSG00000178917	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF853	ENSG00000236609	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF860	ENSG00000197385	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF865	ENSG00000261221	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF878	ENSG00000257446	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF879	ENSG00000234284	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF880	ENSG00000221923	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF883	ENSG00000228623	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZNF888	ENSG00000213793	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF891	ENSG00000214029	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF90	ENSG00000213988	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF91	ENSG00000167232	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF92	ENSG00000146757	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF93	ENSG00000184635	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF98	ENSG00000197360	ensembl_id	True	True	False	False	KRAB-ZNF
+ZNF99	ENSG00000213973	ensembl_id	True	True	False	False	KRAB-ZNF
+ZSCAN1	ENSG00000152467	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN10	ENSG00000130182	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN12	ENSG00000158691	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN16	ENSG00000196812	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN18	ENSG00000121413	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN2	ENSG00000176371	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN20	ENSG00000121903	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN21	ENSG00000166529	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN22	ENSG00000182318	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN23	ENSG00000187987	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN25	ENSG00000197037	ensembl_id	True	True	True	False	KRAB-ZNF
+ZSCAN26	ENSG00000197062	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN29	ENSG00000140265	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN30	ENSG00000186814	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN31	ENSG00000235109	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN32	ENSG00000140987	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN4	ENSG00000180532	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN5A	ENSG00000131848	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN5B	ENSG00000197213	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN5C	ENSG00000204532	ensembl_id	True	False	True	False	SCAN-ZNF
+ZSCAN9	ENSG00000137185	ensembl_id	True	False	True	False	SCAN-ZNF
+ZUFSP	ENSG00000153975	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZXDA	ENSG00000198205	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZXDB	ENSG00000198455	ensembl_id	True	False	False	False	C2H2 ZF (other)
+ZXDC	ENSG00000070476	ensembl_id	True	False	False	False	C2H2 ZF (other)

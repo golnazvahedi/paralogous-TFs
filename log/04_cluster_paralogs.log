@@ -1,0 +1,34 @@
+GENCODE genes parsed (main chroms): 63150
+  protein_coding: 20036 | lncRNA: 19370
+paralogous TFs to place: 1558  | families (fine): 59
+mapped to GENCODE: 1556  (by ensembl_id 1555, by symbol 1) | unmapped: 2
+  unmapped written to intermediate/unmapped_members.tsv: DUX1, DUX3 
+
+=== FULL (KRAB/HOX retained) catalog ===
+  clusters (>=2 members): 134
+  clustered members: 507
+  singleton members: 1049
+  clusters with >=1 lncRNA between members: 88
+  wrote clustered_paralogs.full.tsv + singleton_paralogs.full.tsv
+
+removing KRAB-ZNF (354) + HOX (39) = 393 mapped members before clustering
+  members remaining after KRAB/HOX removal: 1163 (of 1556)
+
+=== KRAB/HOX-EXCLUDED (canonical) catalog ===
+  clusters (>=2 members): 78
+  clustered members: 184
+  singleton members: 979
+  clusters with >=1 lncRNA between members: 44
+  wrote clustered_paralogs.noKRABHOX.tsv + singleton_paralogs.noKRABHOX.tsv
+
+families contributing the most clusters (KRAB/HOX-excluded):
+    C2H2 ZF (other)      23 clusters
+    Homeodomain          17 clusters
+    SCAN-ZNF             6 clusters
+    bHLH                 5 clusters
+    BTB-ZNF              4 clusters
+    Ets                  4 clusters
+    Nuclear receptor     3 clusters
+    bZIP                 3 clusters
+    Forkhead             3 clusters
+    STAT                 2 clusters

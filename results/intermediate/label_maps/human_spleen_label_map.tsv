@@ -1,0 +1,20 @@
+author_label	major_lineage	Freq
+B naive	B	71444
+B intermediate	B	58225
+B memory	B	43502
+CD8 TEM	CD8 T	31189
+CD4 TCM	CD4 T	27440
+NK	NK	27224
+CD14 Mono	monocyte	22067
+CD4 Naive	CD4 T	10426
+CD8 Naive	CD8 T	9038
+gdT	other T	7921
+CD4 TEM	CD4 T	4039
+CD8 TCM	CD8 T	2883
+CD4 CTL	CD4 T	2709
+NK_CD56bright	NK	2467
+Treg	CD4 T	2452
+MAIT	other T	2444
+Plasmablast	plasma	1611
+CD16 Mono	monocyte	1287
+ILC	ILC	487

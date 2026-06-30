@@ -1,0 +1,20 @@
+gene	cluster_id	TF_subfamily	dup_class4
+GLI4	clust0028	C2H2 ZF	clustered_cis_ohnolog
+KLF5	clust0008	C2H2 ZF	clustered_cis_ohnolog
+ZFP41	clust0028	C2H2 ZF	clustered_cis_ohnolog
+ZFP64	clust0021	C2H2 ZF	clustered_cis_ohnolog
+ZNF217	clust0021	C2H2 ZF	clustered_cis_ohnolog
+ZNF469	clust0012	C2H2 ZF	clustered_cis_ohnolog
+ZNF501	clust0023	C2H2 ZF	clustered_cis_ohnolog
+ZNF507	clust0017	C2H2 ZF	clustered_cis_ohnolog
+ZNF536	clust0017	C2H2 ZF	clustered_cis_ohnolog
+ELF5	clust0031	Ets	clustered_cis_ohnolog
+ERG	clust0033	Ets	clustered_cis_ohnolog
+FLI1	clust0032	Ets	clustered_cis_ohnolog
+FOXC1	clust0036	Forkhead	clustered_cis_ohnolog
+FOXE3	clust0034	Forkhead	clustered_cis_ohnolog
+FOXQ1	clust0036	Forkhead	clustered_cis_ohnolog
+PDX1	clust0043	Homeodomain	clustered_cis_ohnolog
+TPRX1	clust0048	Homeodomain	clustered_cis_ohnolog
+NR6A1	clust0059	Nuclear receptor	clustered_cis_ohnolog
+BATF	clust0077	bZIP	clustered_cis_ohnolog

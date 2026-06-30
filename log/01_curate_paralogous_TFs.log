@@ -1,0 +1,30 @@
+# Curate paralogous TFs from Lambert et al. 2018 Table S1
+source: /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/inputs/1-s2.0-S0092867418301065-mmc2.xlsx
+raw sheet shape: (2767, 32)
+column indices -> ID=0 Name=1 DBD=2 Is TF?=3
+total Lambert entries (rows with a gene symbol): 2765
+Is TF? value counts:
+    'Yes': 1639
+    'No': 1126
+entries with Is TF? == 'Yes': 1639
+of those, with a usable DBD family label: 1570 (dropped 69 with missing/Unknown DBD)
+wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/lambert_isTF_yes.tsv
+wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/paralogous_TFs.tsv
+wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/paralogous_TF_family_summary.tsv
+
+=== summary ===
+curated TFs (Is TF?=Yes, DBD known): 1570
+paralogous TFs (family size >= 2):   1563
+singleton TFs (family size == 1):    7
+number of multi-member DBD families: 57
+largest families:
+    C2H2 ZF: 747
+    Homeodomain: 196
+    bHLH: 108
+    bZIP: 54
+    Forkhead: 49
+    Nuclear receptor: 46
+    HMG/Sox: 30
+    Ets: 27
+    T-box: 17
+    AT hook: 16

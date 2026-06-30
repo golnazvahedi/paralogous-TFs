@@ -1,0 +1,1101 @@
+gene	genomic_class	arrangement	provenance	dup_class4	TF_subfamily	in_lambert	hgnc_locus_type	is_ohnolog	is_ohnolog_relaxed	ohnolog_rescue_via_cluster	cluster_id	n_ohnolog_partners	ohnolog_dup_time	youngest_paralog_node	age_category	is_marker	n_marker_celltypes
+AKAP8	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0016	0			no_paralog_node	False	0
+AKAP8L	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0016	0			no_paralog_node	False	0
+FIZ1	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0019	0		Bilateria	pre2R_ancient	False	0
+REPIN1	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0027	0			no_paralog_node	False	0
+WIZ	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0016	0		Bilateria	pre2R_ancient	False	0
+ZBTB1	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0003	0		Opisthokonta	pre2R_ancient	False	0
+ZBTB25	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0003	0		Bilateria	pre2R_ancient	False	0
+ZBTB26	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0004	0		Bilateria	pre2R_ancient	False	0
+ZBTB34	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0005	0		Bilateria	pre2R_ancient	False	0
+ZBTB43	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0005	0		Bilateria	pre2R_ancient	False	0
+ZBTB6	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0004	0		Bilateria	pre2R_ancient	False	0
+ZNF107	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0026	0		Bilateria	pre2R_ancient	False	0
+ZNF138	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0026	0		Simiiformes	post2R_young	False	0
+ZNF165	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0065	0		Vertebrata	2R_vertebrata	False	0
+ZNF174	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0061	0		Bilateria	pre2R_ancient	False	0
+ZNF236	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0014	0			no_paralog_node	False	0
+ZNF24	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0062	0		Vertebrata	2R_vertebrata	False	0
+ZNF396	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0062	0		Vertebrata	2R_vertebrata	False	0
+ZNF397	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0062	0		Vertebrata	2R_vertebrata	False	0
+ZNF428	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0018	0			no_paralog_node	False	0
+ZNF48	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0010	0		Bilateria	pre2R_ancient	False	0
+ZNF497	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0020	0		Bilateria	pre2R_ancient	False	0
+ZNF516	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0014	0		Bilateria	pre2R_ancient	True	1
+ZNF576	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0018	0		Bilateria	pre2R_ancient	False	0
+ZNF579	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0019	0		Bilateria	pre2R_ancient	False	0
+ZNF580	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0019	0		Bilateria	pre2R_ancient	False	0
+ZNF581	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0019	0		Bilateria	pre2R_ancient	False	0
+ZNF625	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0015	0		Bilateria	pre2R_ancient	False	0
+ZNF646	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0011	0		Bilateria	pre2R_ancient	False	0
+ZNF668	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0011	0		Bilateria	pre2R_ancient	False	0
+ZNF672	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0006	0		Bilateria	pre2R_ancient	False	0
+ZNF692	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0006	0		Opisthokonta	pre2R_ancient	False	0
+ZNF771	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0010	0		Bilateria	pre2R_ancient	False	0
+ZNF775	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0027	0		Bilateria	pre2R_ancient	False	0
+ZNF784	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0019	0		Bilateria	pre2R_ancient	False	0
+ZNF837	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0020	0		Bilateria	pre2R_ancient	False	0
+ZNF865	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0019	0		Bilateria	pre2R_ancient	False	0
+ZSCAN1	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0064	0		Bilateria	pre2R_ancient	False	0
+ZSCAN12	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0066	0		Vertebrata	2R_vertebrata	False	0
+ZSCAN16	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0065	0		Vertebrata	2R_vertebrata	False	0
+ZSCAN18	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0064	0		Bilateria	pre2R_ancient	False	0
+ZSCAN23	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0066	0		Vertebrata	2R_vertebrata	False	0
+ZSCAN30	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0062	0		Vertebrata	2R_vertebrata	False	0
+ZSCAN31	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0066	0		Vertebrata	2R_vertebrata	False	0
+ZSCAN32	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0061	0		Bilateria	pre2R_ancient	False	0
+ZSCAN5A	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0063	0		Catarrhini	post2R_young	False	0
+ZSCAN5B	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0063	0		Bilateria	pre2R_ancient	False	0
+ZSCAN5C	clustered	clustered	SSD	clustered_SSD_tandem	C2H2 ZF	True	gene with protein product	False	False	False	clust0063	0		Catarrhini	post2R_young	False	0
+DMRT1	clustered	clustered	SSD	clustered_SSD_tandem	DM	True	gene with protein product	False	False	False	clust0029	0		Bilateria	pre2R_ancient	False	0
+DMRT2	clustered	clustered	SSD	clustered_SSD_tandem	DM	True	gene with protein product	False	False	False	clust0029	0		Bilateria	pre2R_ancient	False	0
+DMRT3	clustered	clustered	SSD	clustered_SSD_tandem	DM	True	gene with protein product	False	False	False	clust0029	0		Bilateria	pre2R_ancient	False	0
+FOXC2	clustered	clustered	SSD	clustered_SSD_tandem	Forkhead	True	gene with protein product	False	False	False	clust0035	0		Opisthokonta	pre2R_ancient	False	0
+GTF2I	clustered	clustered	SSD	clustered_SSD_tandem	GTF2I-like	True	gene with protein product	False	False	False	clust0037	0		Bilateria	pre2R_ancient	False	0
+GTF2IRD1	clustered	clustered	SSD	clustered_SSD_tandem	GTF2I-like	True	gene with protein product	False	False	False	clust0037	0		Bilateria	pre2R_ancient	False	0
+HSFY1	clustered	clustered	SSD	clustered_SSD_tandem	HSF	True	gene with protein product	False	False	False	clust0038	0		Homo sapiens	post2R_young	False	0
+HSFY2	clustered	clustered	SSD	clustered_SSD_tandem	HSF	True	gene with protein product	False	False	False	clust0038	0		Homo sapiens	post2R_young	False	0
+NANOG	clustered	clustered	SSD	clustered_SSD_tandem	Homeodomain	True	gene with protein product	False	False	False	clust0042	0		Hominoidea	post2R_young	False	0
+NANOGNB	clustered	clustered	SSD	clustered_SSD_tandem	Homeodomain	True	gene with protein product	False	False	False	clust0042	0		Bilateria	pre2R_ancient	False	0
+RHOXF1	clustered	clustered	SSD	clustered_SSD_tandem	Homeodomain	True	gene with protein product	False	False	False	clust0055	0		Bilateria	pre2R_ancient	False	0
+RHOXF2	clustered	clustered	SSD	clustered_SSD_tandem	Homeodomain	True	gene with protein product	False	False	False	clust0055	0		Homo sapiens	post2R_young	False	0
+RHOXF2B	clustered	clustered	SSD	clustered_SSD_tandem	Homeodomain	True	gene with protein product	False	False	False	clust0055	0		Homo sapiens	post2R_young	False	0
+SP100	clustered	clustered	SSD	clustered_SSD_tandem	SAND	True	gene with protein product	False	False	False	clust0060	0		Bilateria	pre2R_ancient	True	1
+SP110	clustered	clustered	SSD	clustered_SSD_tandem	SAND	True	gene with protein product	False	False	False	clust0060	0		Bilateria	pre2R_ancient	True	1
+SP140	clustered	clustered	SSD	clustered_SSD_tandem	SAND	True	gene with protein product	False	False	False	clust0060	0		Bilateria	pre2R_ancient	True	1
+SP140L	clustered	clustered	SSD	clustered_SSD_tandem	SAND	True	gene with protein product	False	False	False	clust0060	0		Bilateria	pre2R_ancient	True	1
+MESP1	clustered	clustered	SSD	clustered_SSD_tandem	bHLH	True	gene with protein product	False	False	False	clust0073	0		Eutheria	post2R_young	False	0
+MESP2	clustered	clustered	SSD	clustered_SSD_tandem	bHLH	True	gene with protein product	False	False	False	clust0073	0		Eutheria	post2R_young	False	0
+OLIG1	clustered	clustered	SSD	clustered_SSD_tandem	bHLH	True	gene with protein product	False	False	False	clust0074	0		Bilateria	pre2R_ancient	False	0
+OLIG2	clustered	clustered	SSD	clustered_SSD_tandem	bHLH	True	gene with protein product	False	False	False	clust0074	0		Bilateria	pre2R_ancient	False	0
+SOHLH2	clustered	clustered	SSD	clustered_SSD_tandem	bHLH	True	gene with protein product	False	False	False	clust0072	0			no_paralog_node	False	0
+TWIST1	clustered	clustered	SSD	clustered_SSD_tandem	bHLH	True	gene with protein product	False	False	False	clust0075	0		Bilateria	pre2R_ancient	False	0
+TFAP2B	clustered	clustered	ohnolog	clustered_cis_ohnolog	AP-2	True	gene with protein product	True	True	False	clust0001	3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+TFAP2D	clustered	clustered	ohnolog	clustered_cis_ohnolog	AP-2	True	gene with protein product	True	True	False	clust0001	3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+GLI4	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0028	0		Bilateria	pre2R_ancient	False	0
+KLF12	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0008	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF5	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0008	0		Bilateria	pre2R_ancient	False	0
+SALL4	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0021	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP1	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0007	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP2	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0013	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP4	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0025	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP6	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0013	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP7	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0007	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP8	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0025	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TSHZ2	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0021	2	Vertebrata		no_paralog_node	False	0
+TSHZ3	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0017	2	Vertebrata		no_paralog_node	False	0
+ZBTB8A	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0002	5	Vertebrata		no_paralog_node	False	0
+ZBTB8B	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0002	4	Vertebrata	Euteleostomi	2R_vertebrata	False	0
+ZFP41	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0028	0		Bilateria	pre2R_ancient	False	0
+ZFP64	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0021	0		Bilateria	pre2R_ancient	False	0
+ZFPM1	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0012	1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ZIC1	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0024	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZIC2	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0009	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZIC4	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0024	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZIC5	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0009	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF217	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0021	0		Bilateria	pre2R_ancient	False	0
+ZNF280A	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0022	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF280B	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0022	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF35	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0023	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF469	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0012	0			no_paralog_node	False	0
+ZNF501	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0023	0		Mammalia	post2R_young	False	0
+ZNF502	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0023	4	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF507	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0017	0		Bilateria	pre2R_ancient	False	0
+ZNF536	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	False	True	clust0017	0		Bilateria	pre2R_ancient	False	0
+ZNF660	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0023	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF696	clustered	clustered	ohnolog	clustered_cis_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False	clust0028	2	Vertebrata	Eutheria	post2R_young	False	0
+EHF	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	True	False	clust0031	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ELF5	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	False	True	clust0031	0		Bilateria	pre2R_ancient	False	0
+ERG	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	False	True	clust0033	0		Bilateria	pre2R_ancient	False	0
+ETS1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	True	False	clust0032	1	Vertebrata	Bilateria	pre2R_ancient	True	4
+ETS2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	True	False	clust0033	1	Vertebrata	Bilateria	pre2R_ancient	True	1
+ETV3	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	True	False	clust0030	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ETV3L	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	True	False	clust0030	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+FLI1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Ets	True	gene with protein product	True	False	True	clust0032	0		Bilateria	pre2R_ancient	False	0
+FOXC1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Forkhead	True	gene with protein product	True	False	True	clust0036	0		Opisthokonta	pre2R_ancient	False	0
+FOXD2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Forkhead	True	gene with protein product	True	True	False	clust0034	1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXE3	clustered	clustered	ohnolog	clustered_cis_ohnolog	Forkhead	True	gene with protein product	True	False	True	clust0034	0		Opisthokonta	pre2R_ancient	False	0
+FOXQ1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Forkhead	True	gene with protein product	True	False	True	clust0036	0		Opisthokonta	pre2R_ancient	False	0
+CDX2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0043	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+CRX	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0048	2	Older	Bilateria	pre2R_ancient	False	0
+DLX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0050	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DLX2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0050	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DLX3	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0047	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DLX4	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0047	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DLX5	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0053	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DLX6	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0053	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+HMX2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0041	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+HMX3	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0041	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+IRX3	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0046	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+IRX4	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0052	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+IRX5	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0046	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+IRX6	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0046	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+LBX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0040	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LMX1A	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0039	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX2-2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0051	1	Older	Bilateria	pre2R_ancient	False	0
+NKX2-4	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0051	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX2-6	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0054	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX3-1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0054	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PBX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0039	3	Vertebrata	Euteleostomi	2R_vertebrata	False	0
+PDX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	False	True	clust0043	0		Bilateria	pre2R_ancient	False	0
+SIX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0045	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SIX3	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0049	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SIX4	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0045	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SIX6	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0045	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TLX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	True	False	clust0040	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TPRX1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Homeodomain	True	gene with protein product	True	False	True	clust0048	0		Catarrhini	post2R_young	False	0
+MEF2B	clustered	clustered	ohnolog	clustered_cis_ohnolog	MADS box	True	gene with protein product	True	True	False	clust0056	3	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+NR1D1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False	clust0057	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR1D2	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False	clust0058	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR5A1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False	clust0059	1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NR6A1	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	False	True	clust0059	0			no_paralog_node	False	0
+RARB	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False	clust0058	2	Vertebrata	Bilateria	pre2R_ancient	False	0
+THRA	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False	clust0057	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+THRB	clustered	clustered	ohnolog	clustered_cis_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False	clust0058	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+STAT1	clustered	clustered	ohnolog	clustered_cis_ohnolog	STAT	True	gene with protein product	True	True	False	clust0068	5	Vertebrata	Vertebrata	2R_vertebrata	True	1
+STAT3	clustered	clustered	ohnolog	clustered_cis_ohnolog	STAT	True	gene with protein product	True	True	False	clust0067	4	Vertebrata	Vertebrata	2R_vertebrata	False	0
+STAT4	clustered	clustered	ohnolog	clustered_cis_ohnolog	STAT	True	gene with protein product	True	True	False	clust0068	5	Vertebrata	Vertebrata	2R_vertebrata	True	4
+STAT5A	clustered	clustered	ohnolog	clustered_cis_ohnolog	STAT	True	gene with protein product	True	True	False	clust0067	4	Vertebrata	Euteleostomi	2R_vertebrata	False	0
+STAT5B	clustered	clustered	ohnolog	clustered_cis_ohnolog	STAT	True	gene with protein product	True	True	False	clust0067	4	Vertebrata	Euteleostomi	2R_vertebrata	True	1
+TBX2	clustered	clustered	ohnolog	clustered_cis_ohnolog	T-box	True	gene with protein product	True	True	False	clust0070	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBX3	clustered	clustered	ohnolog	clustered_cis_ohnolog	T-box	True	gene with protein product	True	True	False	clust0069	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBX4	clustered	clustered	ohnolog	clustered_cis_ohnolog	T-box	True	gene with protein product	True	True	False	clust0070	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBX5	clustered	clustered	ohnolog	clustered_cis_ohnolog	T-box	True	gene with protein product	True	True	False	clust0069	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+MYF6	clustered	clustered	ohnolog	clustered_cis_ohnolog	bHLH	True	gene with protein product	True	True	False	clust0071	2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ATF7	clustered	clustered	ohnolog	clustered_cis_ohnolog	bZIP	True	gene with protein product	True	True	False	clust0076	2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+BATF	clustered	clustered	ohnolog	clustered_cis_ohnolog	bZIP	True	gene with protein product	True	False	True	clust0077	0		Bilateria	pre2R_ancient	False	0
+CEBPA	clustered	clustered	ohnolog	clustered_cis_ohnolog	bZIP	True	gene with protein product	True	True	False	clust0078	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+CEBPG	clustered	clustered	ohnolog	clustered_cis_ohnolog	bZIP	True	gene with protein product	True	True	False	clust0078	1	Vertebrata	Bilateria	pre2R_ancient	False	0
+FOS	clustered	clustered	ohnolog	clustered_cis_ohnolog	bZIP	True	gene with protein product	True	True	False	clust0077	3	Vertebrata	Bilateria	pre2R_ancient	False	0
+JDP2	clustered	clustered	ohnolog	clustered_cis_ohnolog	bZIP	True	gene with protein product	True	True	False	clust0077	1	Vertebrata	Bilateria	pre2R_ancient	True	1
+ARID3C	singleton	dispersed	SSD	dispersed_SSD	ARID/BRIGHT	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+KDM5B	singleton	dispersed	SSD	dispersed_SSD	ARID/BRIGHT	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+AHCTF1	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	True	1
+AHDC1	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+AKNA	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	True	1
+ASH1L	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+DNTTIP1	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+DOT1L	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+GLYR1	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HMGA1	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+HMGA2	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+PHF21A	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+PRR12	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+SETBP1	singleton	dispersed	SSD	dispersed_SSD	AT hook	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	True	1
+C11orf95	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+FAM200B	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBED2	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZBED3	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZBED5	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBED6	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBED9	singleton	dispersed	SSD	dispersed_SSD	BED ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+AEBP2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ANKZF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ATMIN	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+BCL6	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	2
+BCL6B	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+CASZ1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+CCDC17	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+CHAMP1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+CPXCR1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+E4F1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+EEA1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+EGR4	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FAM170A	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+GLI1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GLI2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GLI3	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GLIS2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GZF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HIC1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+HIC2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+HINFP	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+IKZF5	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+JAZF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	True	1
+KAT7	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+KCMF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+KIN	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+KLF15	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+KLF17	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+KLF2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MAZ	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+MTF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+MYNN	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MZF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+OVOL1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+OVOL2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+OVOL3	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PEG3	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PLAG1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PLAGL1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+PLAGL2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PRDM12	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PRDM13	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PRDM14	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+PRDM15	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PRDM2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+PRDM5	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PRDM6	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+PRDM8	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+PRMT3	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+RBSN	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+REST	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+RLF	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+RREB1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+SCRT1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+SCRT2	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+SP5	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TRAFD1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+VEZF1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+WT1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB11	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB12	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB14	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB16	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	True	3
+ZBTB17	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB18	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB20	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB21	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB22	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZBTB3	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB32	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB33	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB37	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB38	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+ZBTB39	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB4	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB40	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZBTB41	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB42	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB45	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB47	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB48	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB7A	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB7B	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZBTB7C	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB9	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZFAT	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+ZFP62	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZFP91	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZFX	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Boreoeutheria	post2R_young	False	0
+ZFY	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Boreoeutheria	post2R_young	False	0
+ZMAT1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZMAT4	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF117	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Primates	post2R_young	False	0
+ZNF121	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF131	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF134	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Eutheria	post2R_young	False	0
+ZNF146	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF148	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF16	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF200	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF207	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF219	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF22	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF232	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZNF239	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF260	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF275	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+ZNF276	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF281	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF292	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF318	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF319	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF32	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+ZNF322	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF326	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF329	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF335	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF341	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF345	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF346	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF358	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF365	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF366	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF367	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF385A	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF385C	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF391	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Mammalia	post2R_young	False	0
+ZNF407	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF408	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF410	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF414	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF415	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF438	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+ZNF444	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF449	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZNF451	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF467	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF474	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF488	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF491	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Catarrhini	post2R_young	False	0
+ZNF493	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Primates	post2R_young	False	0
+ZNF511	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF512B	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF518A	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF518B	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF526	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF574	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF575	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF594	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Boreoeutheria	post2R_young	False	0
+ZNF598	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF600	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Catarrhini	post2R_young	False	0
+ZNF618	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+ZNF619	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF628	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF639	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF644	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF648	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF652	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF654	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF655	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF664	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Amniota	post2R_young	False	0
+ZNF678	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Simiiformes	post2R_young	False	0
+ZNF691	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF697	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF706	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	True	1
+ZNF710	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+ZNF711	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF721	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZNF740	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF750	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+ZNF768	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF770	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF787	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+ZNF80	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF800	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF804A	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	True	2
+ZNF804B	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZNF821	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF827	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+ZNF83	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Euarchontoglires	post2R_young	False	0
+ZNF830	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF835	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF841	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF843	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF853	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Mammalia	post2R_young	False	0
+ZNF883	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZSCAN10	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZSCAN20	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZSCAN21	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZSCAN22	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZSCAN26	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZSCAN29	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZSCAN4	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZSCAN9	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+PATZ1	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF; AT hook	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZBTB24	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF; AT hook	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF524	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF; AT hook	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZNF653	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF; AT hook	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ZNF277	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF; BED ZF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ZNF512	singleton	dispersed	SSD	dispersed_SSD	C2H2 ZF; BED ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZC3H8	singleton	dispersed	SSD	dispersed_SSD	CCCH ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZGPAT	singleton	dispersed	SSD	dispersed_SSD	CCCH ZF	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+CENPB	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+JRK	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+JRKL	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TIGD1	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TIGD2	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TIGD3	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TIGD4	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TIGD5	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+TIGD6	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TIGD7	singleton	dispersed	SSD	dispersed_SSD	CENPB	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+RBPJ	singleton	dispersed	SSD	dispersed_SSD	CSL	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	True	1
+RBPJL	singleton	dispersed	SSD	dispersed_SSD	CSL	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+SATB1	singleton	dispersed	SSD	dispersed_SSD	CUT; Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+SATB2	singleton	dispersed	SSD	dispersed_SSD	CUT; Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+CXXC1	singleton	dispersed	SSD	dispersed_SSD	CxxC	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DNMT1	singleton	dispersed	SSD	dispersed_SSD	CxxC	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DMRTA1	singleton	dispersed	SSD	dispersed_SSD	DM	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DMRTA2	singleton	dispersed	SSD	dispersed_SSD	DM	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DMRTB1	singleton	dispersed	SSD	dispersed_SSD	DM	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DMRTC2	singleton	dispersed	SSD	dispersed_SSD	DM	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ELK1	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ELK3	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ELK4	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ETV2	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+FEV	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GABPA	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+SPDEF	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+SPIB	singleton	dispersed	SSD	dispersed_SSD	Ets	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+FOXD1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+FOXD4	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Homininae	post2R_young	False	0
+FOXD4L3	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Homo sapiens	post2R_young	False	0
+FOXD4L4	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Homo sapiens	post2R_young	False	0
+FOXD4L5	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Homo sapiens	post2R_young	False	0
+FOXE1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXG1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+FOXH1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXJ1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXL2	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXM1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXP1	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXP2	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+FOXP3	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+FOXP4	singleton	dispersed	SSD	dispersed_SSD	Forkhead	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TRPS1	singleton	dispersed	SSD	dispersed_SSD	GATA	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	True	1
+ZGLP1	singleton	dispersed	SSD	dispersed_SSD	GATA	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+GTF2IRD2	singleton	dispersed	SSD	dispersed_SSD	GTF2I-like	True	gene with protein product	False	False	False		0		Homo sapiens	post2R_young	False	0
+GTF2IRD2B	singleton	dispersed	SSD	dispersed_SSD	GTF2I-like	True	gene with protein product	False	False	False		0		Homo sapiens	post2R_young	False	0
+BBX	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+CIC	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HBP1	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+HMGN3	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+SOX15	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+SOX30	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+SOX6	singleton	dispersed	SSD	dispersed_SSD	HMG/Sox	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HSF5	singleton	dispersed	SSD	dispersed_SSD	HSF	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+ADNP	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ADNP2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ANHX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ARGFX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ARX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+BARX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+BARX2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+BSX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DMBX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DPRX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DRGX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+DUXA	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ESX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GBX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+GSC	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+GSC2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HDX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HESX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HHEX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+HLX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HMBOX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+HOMEZ	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ISX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+LEUTX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+MKX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MNX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+MSX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MSX2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NANOGP8	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Hominoidea	post2R_young	False	0
+NKX1-1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NKX6-2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NOBOX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NOTO	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Euteleostomi	2R_vertebrata	False	0
+OTP	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PROP1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TGIF1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TGIF2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+UNCX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+VENTX	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ZHX1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+ZHX2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	True	1
+ZHX3	singleton	dispersed	SSD	dispersed_SSD	Homeodomain	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+POU1F1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+POU3F4	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+POU5F1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Hominidae	post2R_young	False	0
+POU5F1B	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Hominidae	post2R_young	False	0
+POU5F2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+POU6F1	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+POU6F2	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; POU	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+PAX6	singleton	dispersed	SSD	dispersed_SSD	Homeodomain; Paired box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+IRF1	singleton	dispersed	SSD	dispersed_SSD	IRF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	True	1
+IRF2	singleton	dispersed	SSD	dispersed_SSD	IRF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+IRF3	singleton	dispersed	SSD	dispersed_SSD	IRF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+IRF5	singleton	dispersed	SSD	dispersed_SSD	IRF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+IRF6	singleton	dispersed	SSD	dispersed_SSD	IRF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+IRF9	singleton	dispersed	SSD	dispersed_SSD	IRF	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+MSANTD1	singleton	dispersed	SSD	dispersed_SSD	MADF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+MSANTD3	singleton	dispersed	SSD	dispersed_SSD	MADF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+NAIF1	singleton	dispersed	SSD	dispersed_SSD	MADF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+SRF	singleton	dispersed	SSD	dispersed_SSD	MADS box	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+MBD6	singleton	dispersed	SSD	dispersed_SSD	MBD	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+PIN1	singleton	dispersed	SSD	dispersed_SSD	MBD	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+SETDB1	singleton	dispersed	SSD	dispersed_SSD	MBD	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+SETDB2	singleton	dispersed	SSD	dispersed_SSD	MBD	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	True	1
+CDC5L	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+MSANTD4	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+MYPOP	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+SNAPC4	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TERB1	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+TERF1	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+TERF2	singleton	dispersed	SSD	dispersed_SSD	Myb/SANT	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+NFX1	singleton	dispersed	SSD	dispersed_SSD	NFX	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+NFXL1	singleton	dispersed	SSD	dispersed_SSD	NFX	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+AR	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ESR2	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR1H2	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR1I3	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR2E1	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR2E3	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR2F6	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR3C1	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NR3C2	singleton	dispersed	SSD	dispersed_SSD	Nuclear receptor	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+RFX4	singleton	dispersed	SSD	dispersed_SSD	RFX	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+RFX6	singleton	dispersed	SSD	dispersed_SSD	RFX	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+RFX8	singleton	dispersed	SSD	dispersed_SSD	RFX	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+DEAF1	singleton	dispersed	SSD	dispersed_SSD	SAND	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+SMAD4	singleton	dispersed	SSD	dispersed_SSD	SMAD	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX1	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX10	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX15	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX18	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX20	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX22	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBX6	singleton	dispersed	SSD	dispersed_SSD	T-box	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TBPL1	singleton	dispersed	SSD	dispersed_SSD	TBP	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+TEAD2	singleton	dispersed	SSD	dispersed_SSD	TEA	True	gene with protein product	False	False	False		0		Chordata	pre2R_ancient	False	0
+THAP1	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP10	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP11	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+THAP12	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP2	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP3	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP4	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+THAP5	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+THAP6	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP7	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP8	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+THAP9	singleton	dispersed	SSD	dispersed_SSD	THAP finger	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+ASCL1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ASCL2	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ASCL5	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ATOH7	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+ATOH8	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+BHLHA15	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+BHLHE40	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+BHLHE41	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	True	1
+FIGLA	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+HES2	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+HES5	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+HES6	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+HES7	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Opisthokonta	pre2R_ancient	False	0
+LYL1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MAX	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+MLX	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MNT	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+MSGN1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+NCOA1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	True	2
+NEUROD1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NHLH1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+NPAS4	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+SCX	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TAL1	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TAL2	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TCF15	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TCFL5	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+TFAP4	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+TWIST2	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+USF3	singleton	dispersed	SSD	dispersed_SSD	bHLH	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+BATF2	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+BATF3	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+CREBL2	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+CREBZF	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+DDIT3	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+NFIL3	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	True	1
+TEF	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0		Bilateria	pre2R_ancient	False	0
+XBP1	singleton	dispersed	SSD	dispersed_SSD	bZIP	True	gene with protein product	False	False	False		0			no_paralog_node	True	1
+MTERF1	singleton	dispersed	SSD	dispersed_SSD	mTERF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+MTERF2	singleton	dispersed	SSD	dispersed_SSD	mTERF	True	gene with protein product	False	False	False		0		Vertebrata	2R_vertebrata	False	0
+MTERF3	singleton	dispersed	SSD	dispersed_SSD	mTERF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+MTERF4	singleton	dispersed	SSD	dispersed_SSD	mTERF	True	gene with protein product	False	False	False		0			no_paralog_node	False	0
+TFAP2A	singleton	dispersed	ohnolog	dispersed_ohnolog	AP-2	True	gene with protein product	True	True	False		4	Vertebrata	Vertebrata	2R_vertebrata	False	0
+TFAP2C	singleton	dispersed	ohnolog	dispersed_ohnolog	AP-2	True	gene with protein product	True	True	False		4	Vertebrata	Vertebrata	2R_vertebrata	False	0
+TFAP2E	singleton	dispersed	ohnolog	dispersed_ohnolog	AP-2	True	gene with protein product	True	True	False		4	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ARID3A	singleton	dispersed	ohnolog	dispersed_ohnolog	ARID/BRIGHT	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+ARID3B	singleton	dispersed	ohnolog	dispersed_ohnolog	ARID/BRIGHT	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ARID5A	singleton	dispersed	ohnolog	dispersed_ohnolog	ARID/BRIGHT	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ARID5B	singleton	dispersed	ohnolog	dispersed_ohnolog	ARID/BRIGHT	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CBX2	singleton	dispersed	ohnolog	dispersed_ohnolog	AT hook	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+PHF20	singleton	dispersed	ohnolog	dispersed_ohnolog	AT hook	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SCML4	singleton	dispersed	ohnolog	dispersed_ohnolog	AT hook	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	5
+SRCAP	singleton	dispersed	ohnolog	dispersed_ohnolog	AT hook	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+SGSM2	singleton	dispersed	ohnolog	dispersed_ohnolog	BED ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ZBED1	singleton	dispersed	ohnolog	dispersed_ohnolog	BED ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZBED4	singleton	dispersed	ohnolog	dispersed_ohnolog	BED ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+BCL11A	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+BCL11B	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	3
+BNC1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+BNC2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	True	1
+CTCF	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CTCFL	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+DPF1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+DPF3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+DZIP1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EGR1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+EGR2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+EGR3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FEZF1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GFI1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GFI1B	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GLIS1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GLIS3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GTF3A	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+HIVEP1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+HIVEP2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+HIVEP3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+IKZF1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+IKZF2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	4
+IKZF3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+IKZF4	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+INSM2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF10	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF11	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		5	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF13	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		5	Vertebrata	Bilateria	pre2R_ancient	True	1
+KLF14	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF16	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+KLF4	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+KLF6	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF7	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+KLF8	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+KLF9	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		5	Vertebrata	Bilateria	pre2R_ancient	True	1
+L3MBTL1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+L3MBTL3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+L3MBTL4	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+MECOM	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+MYT1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MYT1L	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+OSR1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+OSR2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PRDM1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+PRDM10	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+PRDM16	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PRDM4	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SALL2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+SALL3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+SLC2A4RG	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SNAI1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+SNAI3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+SP3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SP9	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ST18	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TSHZ1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata		no_paralog_node	False	0
+YY1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Younger	Bilateria	pre2R_ancient	False	0
+YY2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Younger	Bilateria	pre2R_ancient	False	0
+ZBTB10	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		5	Vertebrata		no_paralog_node	False	0
+ZBTB2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		6	Vertebrata		no_paralog_node	False	0
+ZBTB44	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		4	Chordata	Chordata	pre2R_ancient	False	0
+ZBTB46	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		5	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZBTB49	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZBTB5	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZFP2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZFP3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZFP42	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Younger	Bilateria	pre2R_ancient	False	0
+ZFPM2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ZNF142	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF143	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ZNF280C	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF280D	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF296	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ZNF362	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ZNF384	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ZNF385B	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF385D	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF395	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF423	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF462	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF503	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ZNF513	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF521	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF532	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF572	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Younger	Bilateria	pre2R_ancient	False	0
+ZNF592	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF608	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	False	0
+ZNF609	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	True	1
+ZNF623	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF629	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		14	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF683	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF687	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF70	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF703	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ZNF704	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF71	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF76	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ZNF774	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		14	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZNF831	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	2
+ZSCAN2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		4	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZXDA	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Hominoidea	post2R_young	False	0
+ZXDB	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Hominoidea	post2R_young	False	0
+ZXDC	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZEB1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF; Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ZEB2	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF; Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	True	2
+ZFHX3	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF; Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+ZFHX4	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF; Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TRERF1	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF; Myb/SANT	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	4
+ZNF541	singleton	dispersed	ohnolog	dispersed_ohnolog	C2H2 ZF; Myb/SANT	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MBNL2	singleton	dispersed	ohnolog	dispersed_ohnolog	CCCH ZF	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	True	1
+CAMTA1	singleton	dispersed	ohnolog	dispersed_ohnolog	CG-1	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CAMTA2	singleton	dispersed	ohnolog	dispersed_ohnolog	CG-1	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CUX1	singleton	dispersed	ohnolog	dispersed_ohnolog	CUT; Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+CUX2	singleton	dispersed	ohnolog	dispersed_ohnolog	CUT; Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ONECUT1	singleton	dispersed	ohnolog	dispersed_ohnolog	CUT; Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ONECUT2	singleton	dispersed	ohnolog	dispersed_ohnolog	CUT; Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ONECUT3	singleton	dispersed	ohnolog	dispersed_ohnolog	CUT; Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+CXXC4	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+CXXC5	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	True	1
+FBXL19	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+KDM2A	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+KDM2B	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+TET1	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	False	0
+TET3	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	True	1
+KMT2A	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC; AT hook	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+KMT2B	singleton	dispersed	ohnolog	dispersed_ohnolog	CxxC; AT hook	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+E2F1	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+E2F2	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+E2F3	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+E2F4	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+E2F5	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+E2F6	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+E2F7	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+E2F8	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TFDP1	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TFDP2	singleton	dispersed	ohnolog	dispersed_ohnolog	E2F	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+EBF1	singleton	dispersed	ohnolog	dispersed_ohnolog	EBF1	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	True	1
+EBF2	singleton	dispersed	ohnolog	dispersed_ohnolog	EBF1	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+EBF3	singleton	dispersed	ohnolog	dispersed_ohnolog	EBF1	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+EBF4	singleton	dispersed	ohnolog	dispersed_ohnolog	EBF1	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ELF1	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ELF2	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+ELF4	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ERF	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ETV1	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ETV4	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ETV5	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ETV6	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+ETV7	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SPI1	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+SPIC	singleton	dispersed	ohnolog	dispersed_ohnolog	Ets	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+FOXA1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXA3	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXB1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXD3	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		2	Vertebrata	Euteleostomi	2R_vertebrata	False	0
+FOXD4L1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Catarrhini	post2R_young	False	0
+FOXF1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXI1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+FOXI3	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXJ2	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXJ3	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXK1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXK2	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXN1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXN2	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	True	1
+FOXN3	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	False	0
+FOXN4	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		3	Vertebrata	Chordata	pre2R_ancient	False	0
+FOXO1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		3	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXO3	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		3	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+FOXO4	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		3	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXO6	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		3	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXR1	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+FOXR2	singleton	dispersed	ohnolog	dispersed_ohnolog	Forkhead	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATA1	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATA2	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATA3	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATA4	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATA5	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATA6	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+GATAD2A	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+GATAD2B	singleton	dispersed	ohnolog	dispersed_ohnolog	GATA	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+GCM1	singleton	dispersed	ohnolog	dispersed_ohnolog	GCM	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+GCM2	singleton	dispersed	ohnolog	dispersed_ohnolog	GCM	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+GRHL1	singleton	dispersed	ohnolog	dispersed_ohnolog	Grainyhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+GRHL2	singleton	dispersed	ohnolog	dispersed_ohnolog	Grainyhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+GRHL3	singleton	dispersed	ohnolog	dispersed_ohnolog	Grainyhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TFCP2	singleton	dispersed	ohnolog	dispersed_ohnolog	Grainyhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+TFCP2L1	singleton	dispersed	ohnolog	dispersed_ohnolog	Grainyhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+UBP1	singleton	dispersed	ohnolog	dispersed_ohnolog	Grainyhead	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+HMG20A	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+HMG20B	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LEF1	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	2
+SOX1	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX10	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX11	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX12	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX13	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX17	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX18	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX2	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX4	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX5	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+SOX7	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX8	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SOX9	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TCF7	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	3
+TCF7L1	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+TCF7L2	singleton	dispersed	ohnolog	dispersed_ohnolog	HMG/Sox	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+HSF1	singleton	dispersed	ohnolog	dispersed_ohnolog	HSF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HSF2	singleton	dispersed	ohnolog	dispersed_ohnolog	HSF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HSF4	singleton	dispersed	ohnolog	dispersed_ohnolog	HSF	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ALX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ALX3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ALX4	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+BARHL1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+BARHL2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CDX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+CDX4	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DBX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	False	0
+DBX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	False	0
+EMX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EMX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EN1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EN2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EVX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EVX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GSX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+HMX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+HNF1A	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+HNF1B	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ISL2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+LBX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX4	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX5	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX6	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX8	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LHX9	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LMX1B	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+MEIS1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MEIS2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+MEIS3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Hominidae	post2R_young	False	0
+MEOX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+MEOX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+MIXL1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX2-3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX2-5	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX3-2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX6-1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NKX6-3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+OTX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Older	Bilateria	pre2R_ancient	False	0
+OTX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Older	Bilateria	pre2R_ancient	False	0
+PBX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+PBX3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		3	Vertebrata	Euteleostomi	2R_vertebrata	False	0
+PBX4	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+PHOX2A	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PHOX2B	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PITX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Bilateria	Bilateria	pre2R_ancient	False	0
+PITX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Older	Bilateria	pre2R_ancient	False	0
+PITX3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Older	Bilateria	pre2R_ancient	False	0
+PKNOX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PKNOX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PRRX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PRRX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+RAX	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+RAX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SEBOX	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SHOX	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SHOX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SIX5	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TLX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+VAX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+VSX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+VSX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ZFHX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU2F1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU2F2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+POU2F3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU3F1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU3F2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU3F3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU4F1	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+POU4F3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; POU	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+PAX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; Paired box	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+PAX3	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; Paired box	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PAX7	singleton	dispersed	ohnolog	dispersed_ohnolog	Homeodomain; Paired box	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+IRF4	singleton	dispersed	ohnolog	dispersed_ohnolog	IRF	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	True	1
+IRF7	singleton	dispersed	ohnolog	dispersed_ohnolog	IRF	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	False	0
+IRF8	singleton	dispersed	ohnolog	dispersed_ohnolog	IRF	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	True	1
+MEF2A	singleton	dispersed	ohnolog	dispersed_ohnolog	MADS box	True	gene with protein product	True	True	False		4	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+MEF2C	singleton	dispersed	ohnolog	dispersed_ohnolog	MADS box	True	gene with protein product	True	True	False		4	Vertebrata	Opisthokonta	pre2R_ancient	True	2
+MEF2D	singleton	dispersed	ohnolog	dispersed_ohnolog	MADS box	True	gene with protein product	True	True	False		4	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+BAZ2B	singleton	dispersed	ohnolog	dispersed_ohnolog	MBD	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	True	2
+MBD2	singleton	dispersed	ohnolog	dispersed_ohnolog	MBD	True	gene with protein product	True	True	False		6	Vertebrata	Vertebrata	2R_vertebrata	True	1
+MBD3	singleton	dispersed	ohnolog	dispersed_ohnolog	MBD	True	gene with protein product	True	True	False		6	Vertebrata	Vertebrata	2R_vertebrata	False	0
+MBD4	singleton	dispersed	ohnolog	dispersed_ohnolog	MBD	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+BAZ2A	singleton	dispersed	ohnolog	dispersed_ohnolog	MBD; AT hook	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+MECP2	singleton	dispersed	ohnolog	dispersed_ohnolog	MBD; AT hook	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+DMTF1	singleton	dispersed	ohnolog	dispersed_ohnolog	Myb/SANT	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+MYB	singleton	dispersed	ohnolog	dispersed_ohnolog	Myb/SANT	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+MYBL1	singleton	dispersed	ohnolog	dispersed_ohnolog	Myb/SANT	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	True	3
+MYBL2	singleton	dispersed	ohnolog	dispersed_ohnolog	Myb/SANT	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+MYSM1	singleton	dispersed	ohnolog	dispersed_ohnolog	Myb/SANT	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+TTF1	singleton	dispersed	ohnolog	dispersed_ohnolog	Myb/SANT	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+MYRF	singleton	dispersed	ohnolog	dispersed_ohnolog	Ndt80/PhoG	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+MYRFL	singleton	dispersed	ohnolog	dispersed_ohnolog	Ndt80/PhoG	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+ESR1	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+ESRRA	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ESRRB	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+ESRRG	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+HNF4A	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+HNF4G	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR1H3	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR1H4	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR1I2	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR2C1	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR2C2	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR2F1	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR2F2	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NR4A1	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NR4A2	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NR4A3	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NR5A2	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+PGR	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PPARA	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+PPARD	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+PPARG	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RARA	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RARG	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RORA	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	5
+RORB	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RORC	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RXRA	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+RXRB	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RXRG	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+VDR	singleton	dispersed	ohnolog	dispersed_ohnolog	Nuclear receptor	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PAX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Paired box	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+PAX5	singleton	dispersed	ohnolog	dispersed_ohnolog	Paired box	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+PAX8	singleton	dispersed	ohnolog	dispersed_ohnolog	Paired box	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+PAX9	singleton	dispersed	ohnolog	dispersed_ohnolog	Paired box	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+LCOR	singleton	dispersed	ohnolog	dispersed_ohnolog	Pipsqueak	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+LCORL	singleton	dispersed	ohnolog	dispersed_ohnolog	Pipsqueak	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	True	1
+PROX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Prospero	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+PROX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Prospero	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+RFX1	singleton	dispersed	ohnolog	dispersed_ohnolog	RFX	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+RFX2	singleton	dispersed	ohnolog	dispersed_ohnolog	RFX	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+RFX3	singleton	dispersed	ohnolog	dispersed_ohnolog	RFX	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+RFX5	singleton	dispersed	ohnolog	dispersed_ohnolog	RFX	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+RFX7	singleton	dispersed	ohnolog	dispersed_ohnolog	RFX	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+NFAT5	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+NFATC1	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		4	Vertebrata	Bilateria	pre2R_ancient	True	1
+NFATC2	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		4	Vertebrata	Bilateria	pre2R_ancient	True	1
+NFATC3	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+NFATC4	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		4	Vertebrata	Bilateria	pre2R_ancient	False	0
+NFKB1	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+NFKB2	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+REL	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RELA	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RELB	singleton	dispersed	ohnolog	dispersed_ohnolog	Rel	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+RUNX1	singleton	dispersed	ohnolog	dispersed_ohnolog	Runt	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+RUNX2	singleton	dispersed	ohnolog	dispersed_ohnolog	Runt	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+RUNX3	singleton	dispersed	ohnolog	dispersed_ohnolog	Runt	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	3
+AIRE	singleton	dispersed	ohnolog	dispersed_ohnolog	SAND	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+GMEB1	singleton	dispersed	ohnolog	dispersed_ohnolog	SAND	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+GMEB2	singleton	dispersed	ohnolog	dispersed_ohnolog	SAND	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+SKOR2	singleton	dispersed	ohnolog	dispersed_ohnolog	SAND	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NFIA	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	True	1
+NFIB	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		3	Vertebrata	Chordata	pre2R_ancient	False	0
+NFIC	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		3	Vertebrata	Chordata	pre2R_ancient	False	0
+NFIX	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+SMAD1	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SMAD3	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+SMAD5	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+SMAD9	singleton	dispersed	ohnolog	dispersed_ohnolog	SMAD	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+STAT2	singleton	dispersed	ohnolog	dispersed_ohnolog	STAT	True	gene with protein product	True	True	False		5	Vertebrata	Vertebrata	2R_vertebrata	True	1
+STAT6	singleton	dispersed	ohnolog	dispersed_ohnolog	STAT	True	gene with protein product	True	True	False		5	Vertebrata	Vertebrata	2R_vertebrata	False	0
+EOMES	singleton	dispersed	ohnolog	dispersed_ohnolog	T-box	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MGA	singleton	dispersed	ohnolog	dispersed_ohnolog	T-box	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBR1	singleton	dispersed	ohnolog	dispersed_ohnolog	T-box	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBX19	singleton	dispersed	ohnolog	dispersed_ohnolog	T-box	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBX21	singleton	dispersed	ohnolog	dispersed_ohnolog	T-box	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+TBP	singleton	dispersed	ohnolog	dispersed_ohnolog	TBP	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+TBPL2	singleton	dispersed	ohnolog	dispersed_ohnolog	TBP	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+TEAD1	singleton	dispersed	ohnolog	dispersed_ohnolog	TEA	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+TEAD3	singleton	dispersed	ohnolog	dispersed_ohnolog	TEA	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TEAD4	singleton	dispersed	ohnolog	dispersed_ohnolog	TEA	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+AHR	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	True	2
+AHRR	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Chordata	pre2R_ancient	False	0
+ARNT	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ARNT2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ARNTL	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ARNTL2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ASCL3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ASCL4	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+BHLHE22	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CLOCK	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+EPAS1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+HAND1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+HAND2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+HES1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HES4	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HEY1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HEY2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HEYL	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+HIF1A	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+HIF3A	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MITF	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+MLXIP	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+MLXIPL	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+MSC	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+MXD1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+MXD3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+MXD4	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+MXI1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+MYC	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	False	0
+MYCL	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	False	0
+MYCN	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Chordata	pre2R_ancient	False	0
+MYOG	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NCOA2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NCOA3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Vertebrata	2R_vertebrata	True	2
+NEUROD2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NEUROD4	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NEUROG2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NEUROG3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NPAS1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NPAS2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+NPAS3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SIM1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SIM2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+SREBF1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+SREBF2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+TCF12	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+TCF21	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TCF23	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TCF24	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+TCF3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+TCF4	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+TFE3	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+TFEB	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+TFEC	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+USF1	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+USF2	singleton	dispersed	ohnolog	dispersed_ohnolog	bHLH	True	gene with protein product	True	True	False		1	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ATF1	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+ATF2	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	False	0
+ATF3	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+ATF4	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	True	1
+ATF5	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata		no_paralog_node	False	0
+ATF6	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+ATF6B	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+BACH1	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		4	Vertebrata	Bilateria	pre2R_ancient	True	1
+BACH2	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+CEBPB	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+CEBPD	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		4	Vertebrata	Bilateria	pre2R_ancient	True	2
+CEBPE	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+CREB1	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+CREB3	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+CREB3L1	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+CREB3L2	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	True	1
+CREB3L3	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+CREB3L4	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+CREB5	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Opisthokonta	pre2R_ancient	True	1
+CREM	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+DBP	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+FOSB	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+FOSL1	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+FOSL2	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+HLF	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		1	Vertebrata	Bilateria	pre2R_ancient	False	0
+JUN	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+JUNB	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	True	1
+JUND	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MAF	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+MAFA	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+MAFB	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	True	1
+MAFF	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MAFG	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+MAFK	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		2	Vertebrata	Bilateria	pre2R_ancient	False	0
+NFE2	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		4	Vertebrata	Chordata	pre2R_ancient	False	0
+NFE2L1	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		5	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NFE2L2	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		5	Vertebrata	Chordata	pre2R_ancient	True	1
+NFE2L3	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Vertebrata	2R_vertebrata	False	0
+NRL	singleton	dispersed	ohnolog	dispersed_ohnolog	bZIP	True	gene with protein product	True	True	False		3	Vertebrata	Bilateria	pre2R_ancient	False	0
+TP53	singleton	dispersed	ohnolog	dispersed_ohnolog	p53	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+TP63	singleton	dispersed	ohnolog	dispersed_ohnolog	p53	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0
+TP73	singleton	dispersed	ohnolog	dispersed_ohnolog	p53	True	gene with protein product	True	True	False		2	Vertebrata	Vertebrata	2R_vertebrata	False	0

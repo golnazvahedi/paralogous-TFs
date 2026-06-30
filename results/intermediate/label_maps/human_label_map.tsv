@@ -1,0 +1,31 @@
+author_label	major_lineage	n_cells
+CD14 Mono	monocyte	42690
+CD4 Naive	CD4 T	17479
+NK	NK	17173
+CD4 TCM	CD4 T	14889
+CD8 TEM	CD8 T	11727
+CD8 Naive	CD8 T	10768
+B naive	B	7718
+CD16 Mono	monocyte	6320
+CD4 TEM	CD4 T	4282
+gdT	other T	3649
+B memory	B	3285
+CD8 TCM	CD8 T	2883
+MAIT	other T	2784
+Treg	CD4 T	2507
+cDC2	cDC2	2501
+B intermediate	B	2431
+Platelet	platelet	2293
+CD4 CTL	CD4 T	1736
+NK_CD56bright	NK	943
+pDC	pDC	861
+NK Proliferating	NK	548
+Plasmablast	plasma	366
+dnT	other T	356
+HSPC	progenitor	329
+cDC1	cDC1	151
+ILC	ILC	132
+CD4 Proliferating	CD4 T	108
+CD8 Proliferating	CD8 T	91
+Eryth	erythrocyte	83
+ASDC	DC_other	76
