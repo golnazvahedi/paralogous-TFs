@@ -1,0 +1,18 @@
+# Large reference inputs (not version-controlled; see inputs/README.md for sources)
+inputs/gencode.v45.basic.annotation.gtf.gz
+inputs/hgnc_complete_set.txt
+inputs/1-s2.0-S0092867418301065-mmc2.xlsx
+
+# Soft-linked large data (resolve to /mnt/alvand chain; multi-GB, not pushable)
+inputs/pbmc/
+inputs/human_cytokine_dict/
+results/intermediate/h5ad/
+
+# Caches
+.pybiomart.sqlite
+**/__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+._*

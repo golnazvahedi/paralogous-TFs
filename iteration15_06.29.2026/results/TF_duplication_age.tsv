@@ -1,0 +1,1164 @@
+gene	cls	ensembl_id	is_ohnolog_strict	is_ohnolog_interm	is_ohnolog_relaxed	n_ohnolog_partners	ohnolog_dup_time	youngest_node_rank	youngest_paralog_node	n_paralogs	has_2R_window_paralog	dup_mode	age_category
+TFAP2D	clustered		True	True	True	3	Vertebrata	16.0	Vertebrata	4	True	WGD_ohnolog	2R_vertebrata
+TFAP2B	clustered		True	True	True	3	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZBTB8B	clustered		True	True	True	4	Vertebrata	15.0	Euteleostomi	1	True	WGD_ohnolog	2R_vertebrata
+ZBTB8A	clustered		True	True	True	5	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+ZBTB25	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ZBTB1	clustered		False	False	False	0		19.0	Opisthokonta	36	False	tandem	pre2R_ancient
+ZBTB6	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ZBTB26	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ZBTB43	clustered		False	False	False	0		18.0	Bilateria	4	False	tandem	pre2R_ancient
+ZBTB34	clustered		False	False	False	0		18.0	Bilateria	36	False	tandem	pre2R_ancient
+ZNF672	clustered		False	False	False	0		18.0	Bilateria	176	False	tandem	pre2R_ancient
+ZNF692	clustered		False	False	False	0		19.0	Opisthokonta	36	False	tandem	pre2R_ancient
+SP7	clustered		False	True	True	2	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+SP1	clustered		False	True	True	2	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+KLF5	clustered		False	False	False	0		18.0	Bilateria	22	False	tandem	pre2R_ancient
+KLF12	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZIC5	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+ZIC2	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZNF48	clustered		False	False	False	0		18.0	Bilateria	36	False	tandem	pre2R_ancient
+ZNF771	clustered		False	False	False	0		18.0	Bilateria	36	False	tandem	pre2R_ancient
+ZNF668	clustered		False	False	False	0		18.0	Bilateria	4	False	tandem	pre2R_ancient
+ZNF646	clustered		False	False	False	0		18.0	Bilateria	50	False	tandem	pre2R_ancient
+ZNF469	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+ZFPM1	clustered		False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+SP6	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+SP2	clustered		False	True	True	2	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+ZNF516	clustered		False	False	False	0		18.0	Bilateria	14	False	tandem	pre2R_ancient
+ZNF236	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+ZNF788	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+ZNF625	clustered		False	False	False	0		18.0	Bilateria	50	False	tandem	pre2R_ancient
+AKAP8	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+AKAP8L	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+WIZ	clustered		False	False	False	0		18.0	Bilateria	50	False	tandem	pre2R_ancient
+ZNF536	clustered		False	False	False	0		18.0	Bilateria	14	False	tandem	pre2R_ancient
+TSHZ3	clustered		True	True	True	2	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+ZNF507	clustered		False	False	False	0		18.0	Bilateria	50	False	tandem	pre2R_ancient
+ZNF576	clustered		False	False	False	0		18.0	Bilateria	29	False	tandem	pre2R_ancient
+ZNF428	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+ZNF579	clustered		False	False	False	0		18.0	Bilateria	4	False	tandem	pre2R_ancient
+FIZ1	clustered		False	False	False	0		18.0	Bilateria	2	False	tandem	pre2R_ancient
+ZNF865	clustered		False	False	False	0		18.0	Bilateria	7	False	tandem	pre2R_ancient
+ZNF784	clustered		False	False	False	0		18.0	Bilateria	50	False	tandem	pre2R_ancient
+ZNF580	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ZNF581	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ZNF497	clustered		False	False	False	0		18.0	Bilateria	36	False	tandem	pre2R_ancient
+ZNF837	clustered		False	False	False	0		18.0	Bilateria	38	False	tandem	pre2R_ancient
+SALL4	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZFP64	clustered		False	False	False	0		18.0	Bilateria	1	False	tandem	pre2R_ancient
+TSHZ2	clustered		True	True	True	2	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+ZNF217	clustered		False	False	False	0		18.0	Bilateria	14	False	tandem	pre2R_ancient
+ZNF280B	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF280A	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF660	clustered		False	False	True	2	Vertebrata	18.0	Bilateria	38	False	WGD_ohnolog	pre2R_ancient
+ZNF35	clustered		False	False	True	2	Vertebrata	18.0	Bilateria	62	False	WGD_ohnolog	pre2R_ancient
+ZNF502	clustered		False	True	True	4	Vertebrata	18.0	Bilateria	176	False	WGD_ohnolog	pre2R_ancient
+ZNF501	clustered		False	False	False	0		11.0	Mammalia	176	False	tandem	post2R_young
+ZIC4	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+ZIC1	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+SP8	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+SP4	clustered		False	True	True	2	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+ZNF107	clustered		False	False	False	0		18.0	Bilateria	36	False	tandem	pre2R_ancient
+ZNF138	clustered		False	False	False	0		5.0	Simiiformes	176	False	tandem	post2R_young
+REPIN1	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+ZNF775	clustered		False	False	False	0		18.0	Bilateria	176	False	tandem	pre2R_ancient
+ZFP41	clustered		False	False	False	0		18.0	Bilateria	18	False	tandem	pre2R_ancient
+AC138696.1	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+GLI4	clustered		False	False	False	0		18.0	Bilateria	176	False	tandem	pre2R_ancient
+ZNF696	clustered		False	False	True	2	Vertebrata	9.0	Eutheria	176	False	WGD_ohnolog	post2R_young
+DMRT1	clustered		False	False	False	0		18.0	Bilateria	8	False	tandem	pre2R_ancient
+DMRT3	clustered		False	False	False	0		18.0	Bilateria	8	False	tandem	pre2R_ancient
+DMRT2	clustered		False	False	False	0		18.0	Bilateria	8	False	tandem	pre2R_ancient
+ETV3L	clustered		False	False	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ETV3	clustered		False	False	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ELF5	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+EHF	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ETS1	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+FLI1	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ERG	clustered		False	False	False	0		18.0	Bilateria	28	False	tandem	pre2R_ancient
+ETS2	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+FOXE3	clustered		False	False	False	0		19.0	Opisthokonta	41	False	tandem	pre2R_ancient
+FOXD2	clustered		True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXC2	clustered		False	False	False	0		19.0	Opisthokonta	41	False	tandem	pre2R_ancient
+FOXL1	clustered		False	False	False	0		19.0	Opisthokonta	41	False	tandem	pre2R_ancient
+FOXQ1	clustered		False	False	False	0		19.0	Opisthokonta	41	False	tandem	pre2R_ancient
+FOXF2	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+FOXC1	clustered		False	False	False	0		19.0	Opisthokonta	41	False	tandem	pre2R_ancient
+GTF2IRD1	clustered		False	False	False	0		18.0	Bilateria	18	False	tandem	pre2R_ancient
+GTF2I	clustered		False	False	False	0		18.0	Bilateria	18	False	tandem	pre2R_ancient
+HSFY1	clustered		False	False	False	0		0.0	Homo sapiens	9	False	tandem	post2R_young
+HSFY2	clustered		False	False	False	0		0.0	Homo sapiens	9	False	tandem	post2R_young
+PBX1	clustered		True	True	True	3	Vertebrata	15.0	Euteleostomi	13	True	WGD_ohnolog	2R_vertebrata
+LMX1A	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+TLX1	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	42	False	WGD_ohnolog	pre2R_ancient
+LBX1	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+HMX3	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+HMX2	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+NANOGNB	clustered		False	False	False	0		18.0	Bilateria	4	False	tandem	pre2R_ancient
+NANOG	clustered		False	False	False	0		3.0	Hominoidea	9	False	tandem	post2R_young
+GSX1	clustered		True	True	True	1	Vertebrata	15.0	Euteleostomi	1	True	WGD_ohnolog	2R_vertebrata
+PDX1	clustered		False	False	False	0		18.0	Bilateria	42	False	tandem	pre2R_ancient
+CDX2	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+NKX2-1	clustered		False	False	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+NKX2-8	clustered		False	True	True	1	Older	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+SIX6	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+SIX1	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+SIX4	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+IRX3	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+IRX5	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+IRX6	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+DLX4	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+DLX3	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+TPRX1	clustered		False	False	False	0		4.0	Catarrhini	1	False	tandem	post2R_young
+CRX	clustered		True	True	True	2	Older	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+SIX3	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+SIX2	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+DLX1	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+DLX2	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+NKX2-4	clustered		False	False	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+NKX2-2	clustered		False	True	True	1	Older	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+IRX4	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+IRX2	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+IRX1	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+DLX6	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+DLX5	clustered		True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+NKX3-1	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+NKX2-6	clustered		False	True	True	2	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+RHOXF2B	clustered		False	False	False	0		0.0	Homo sapiens	51	False	tandem	post2R_young
+RHOXF1	clustered		False	False	False	0		18.0	Bilateria	51	False	tandem	pre2R_ancient
+RHOXF2	clustered		False	False	False	0		0.0	Homo sapiens	51	False	tandem	post2R_young
+MEF2B	clustered		True	True	True	3	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+BORCS8-MEF2B	clustered		True	True	True	3	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+THRA	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR1D1	clustered		False	False	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR1D2	clustered		False	False	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+THRB	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+RARB	clustered		False	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR5A1	clustered		True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+NR6A1	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+SP110	clustered		False	False	False	0		18.0	Bilateria	20	False	tandem	pre2R_ancient
+SP140	clustered		False	False	False	0		18.0	Bilateria	20	False	tandem	pre2R_ancient
+SP140L	clustered		False	False	False	0		18.0	Bilateria	20	False	tandem	pre2R_ancient
+SP100	clustered		False	False	False	0		18.0	Bilateria	20	False	tandem	pre2R_ancient
+ZSCAN32	clustered		False	False	False	0		18.0	Bilateria	29	False	tandem	pre2R_ancient
+ZNF174	clustered		False	False	False	0		18.0	Bilateria	29	False	tandem	pre2R_ancient
+ZNF397	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZSCAN30	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZNF24	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZNF396	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZSCAN5B	clustered		False	False	False	0		18.0	Bilateria	29	False	tandem	pre2R_ancient
+ZSCAN5C	clustered		False	False	False	0		4.0	Catarrhini	29	False	tandem	post2R_young
+ZSCAN5A	clustered		False	False	False	0		4.0	Catarrhini	29	False	tandem	post2R_young
+ZSCAN1	clustered		False	False	False	0		18.0	Bilateria	29	False	tandem	pre2R_ancient
+ZSCAN18	clustered		False	False	False	0		18.0	Bilateria	29	False	tandem	pre2R_ancient
+ZNF165	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZSCAN16	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZSCAN31	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZSCAN12	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+ZSCAN23	clustered		False	False	False	0		16.0	Vertebrata	30	True	tandem	2R_vertebrata
+STAT5B	clustered		True	True	True	4	Vertebrata	15.0	Euteleostomi	6	True	WGD_ohnolog	2R_vertebrata
+STAT5A	clustered		False	True	True	4	Vertebrata	15.0	Euteleostomi	6	True	WGD_ohnolog	2R_vertebrata
+STAT3	clustered		True	True	True	4	Vertebrata	16.0	Vertebrata	6	True	WGD_ohnolog	2R_vertebrata
+STAT1	clustered		True	True	True	5	Vertebrata	16.0	Vertebrata	5	True	WGD_ohnolog	2R_vertebrata
+STAT4	clustered		True	True	True	5	Vertebrata	16.0	Vertebrata	5	True	WGD_ohnolog	2R_vertebrata
+TBX5	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX3	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX2	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX4	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+MYF6	clustered		True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+MYF5	clustered		True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+SOHLH2	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+CCDC169-SOHLH2	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+MESP1	clustered		False	False	False	0		9.0	Eutheria	1	False	tandem	post2R_young
+MESP2	clustered		False	False	False	0		9.0	Eutheria	1	False	tandem	post2R_young
+OLIG2	clustered		False	False	False	0		18.0	Bilateria	15	False	tandem	pre2R_ancient
+OLIG1	clustered		False	False	False	0		18.0	Bilateria	15	False	tandem	pre2R_ancient
+TWIST1	clustered		False	False	False	0		18.0	Bilateria	13	False	tandem	pre2R_ancient
+FERD3L	clustered		False	False	False	0		18.0	Bilateria	13	False	tandem	pre2R_ancient
+AC023509.3	clustered		False	False	False	0				0	False	tandem	no_paralog_node
+ATF7	clustered		True	True	True	2	Vertebrata	19.0	Opisthokonta	2	False	WGD_ohnolog	pre2R_ancient
+FOS	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+JDP2	clustered		True	True	True	1	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+BATF	clustered		False	False	False	0		18.0	Bilateria	8	False	tandem	pre2R_ancient
+CEBPA	clustered		True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+CEBPG	clustered		False	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+TFAP2E	singleton	ENSG00000116819	True	True	True	4	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+TFAP2C	singleton	ENSG00000087510	True	True	True	4	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+TFAP2A	singleton	ENSG00000137203	True	True	True	4	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+KDM5B	singleton	ENSG00000117139	False	False	False	0		19.0	Opisthokonta	10	False	SSD_dispersed	pre2R_ancient
+ARID5B	singleton	ENSG00000150347	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+ARID3B	singleton	ENSG00000179361	True	True	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ARID3A	singleton	ENSG00000116017	True	True	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ARID5A	singleton	ENSG00000196843	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+ARID3C	singleton	ENSG00000205143	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+AHDC1	singleton	ENSG00000126705	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ASH1L	singleton	ENSG00000116539	False	False	False	0		19.0	Opisthokonta	19	False	SSD_dispersed	pre2R_ancient
+AHCTF1	singleton	ENSG00000153207	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PHF21A	singleton	ENSG00000135365	False	False	False	0		18.0	Bilateria	5	False	SSD_dispersed	pre2R_ancient
+HMGA2	singleton	ENSG00000149948	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+GLYR1	singleton	ENSG00000140632	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+SRCAP	singleton	ENSG00000080603	True	True	True	2	Vertebrata	19.0	Opisthokonta	30	False	WGD_ohnolog	pre2R_ancient
+CBX2	singleton	ENSG00000173894	True	True	True	2	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+SETBP1	singleton	ENSG00000152217	False	False	False	0		19.0	Opisthokonta	19	False	SSD_dispersed	pre2R_ancient
+DOT1L	singleton	ENSG00000104885	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PRR12	singleton	ENSG00000126464	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PHF20	singleton	ENSG00000025293	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+DNTTIP1	singleton	ENSG00000101457	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+HMGA1	singleton	ENSG00000137309	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+SCML4	singleton	ENSG00000146285	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+AKNA	singleton	ENSG00000106948	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZBED6	singleton	ENSG00000257315	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+ZBED5	singleton	ENSG00000236287	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+C11orf95	singleton	ENSG00000188070	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+SGSM2	singleton	ENSG00000141258	True	True	True	1	Vertebrata	19.0	Opisthokonta	45	False	WGD_ohnolog	pre2R_ancient
+ZBED4	singleton	ENSG00000100426	False	False	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZBED2	singleton	ENSG00000177494	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+FAM200B	singleton	ENSG00000237765	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+ZBED3	singleton	ENSG00000132846	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZBED9	singleton	ENSG00000232040	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+ZBED1	singleton	ENSG00000214717	False	False	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZBTB48	singleton	ENSG00000204859	False	False	False	0		18.0	Bilateria	36	False	SSD_dispersed	pre2R_ancient
+ZBTB17	singleton	ENSG00000116809	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZBTB40	singleton	ENSG00000184677	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZBTB7B	singleton	ENSG00000160685	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ZBTB37	singleton	ENSG00000185278	False	False	False	0		18.0	Bilateria	36	False	SSD_dispersed	pre2R_ancient
+ZBTB41	singleton	ENSG00000177888	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZBTB18	singleton	ENSG00000179456	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB3	singleton	ENSG00000185670	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ZBTB16	singleton	ENSG00000109906	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB44	singleton	ENSG00000196323	False	True	True	4	Chordata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+ZBTB39	singleton	ENSG00000166860	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+ZBTB42	singleton	ENSG00000179627	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+HIC1	singleton	ENSG00000177374	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+BCL6B	singleton	ENSG00000161940	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ZBTB4	singleton	ENSG00000174282	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+ZBTB14	singleton	ENSG00000198081	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ZBTB7C	singleton	ENSG00000184828	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB7A	singleton	ENSG00000178951	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ZBTB32	singleton	ENSG00000011590	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB45	singleton	ENSG00000119574	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+GZF1	singleton	ENSG00000125812	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZBTB46	singleton	ENSG00000130584	True	True	True	5	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZBTB21	singleton	ENSG00000173276	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+HIC2	singleton	ENSG00000169635	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB47	singleton	ENSG00000114853	False	False	False	0		18.0	Bilateria	6	False	SSD_dispersed	pre2R_ancient
+ZBTB11	singleton	ENSG00000066422	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+ZBTB20	singleton	ENSG00000181722	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB38	singleton	ENSG00000177311	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+MYNN	singleton	ENSG00000085274	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+BCL6	singleton	ENSG00000113916	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ZBTB49	singleton	ENSG00000168826	False	False	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF131	singleton	ENSG00000172262	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZBTB12	singleton	ENSG00000204366	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ZBTB22	singleton	ENSG00000236104	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZBTB9	singleton	ENSG00000213588	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZBTB2	singleton	ENSG00000181472	False	False	True	6	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+ZBTB10	singleton	ENSG00000205189	True	True	True	5	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+ZBTB5	singleton	ENSG00000168795	False	False	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+ZBTB33	singleton	ENSG00000177485	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+PRDM16	singleton	ENSG00000142611	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+CASZ1	singleton	ENSG00000130940	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PRDM2	singleton	ENSG00000116731	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZNF683	singleton	ENSG00000176083	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF362	singleton	ENSG00000160094	True	True	True	1	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+MTF1	singleton	ENSG00000188786	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+RLF	singleton	ENSG00000117000	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+HIVEP3	singleton	ENSG00000127124	False	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZNF691	singleton	ENSG00000164011	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+KLF17	singleton	ENSG00000171872	False	False	False	0		18.0	Bilateria	22	False	SSD_dispersed	pre2R_ancient
+CCDC17	singleton	ENSG00000159588	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+GLIS1	singleton	ENSG00000174332	True	True	True	1	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZNF326	singleton	ENSG00000162664	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF644	singleton	ENSG00000122482	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+GFI1	singleton	ENSG00000162676	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF697	singleton	ENSG00000143067	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZNF687	singleton	ENSG00000143373	True	True	True	2	Vertebrata	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+ZNF648	singleton	ENSG00000179930	False	False	False	0		18.0	Bilateria	5	False	SSD_dispersed	pre2R_ancient
+ZNF281	singleton	ENSG00000162702	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF678	singleton	ENSG00000181450	False	False	False	0		5.0	Simiiformes	176	False	SSD_dispersed	post2R_young
+KLF6	singleton	ENSG00000067082	True	True	True	1	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+KIN	singleton	ENSG00000151657	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF438	singleton	ENSG00000183621	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+ZNF239	singleton	ENSG00000196793	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF32	singleton	ENSG00000169740	False	False	False	0		15.0	Euteleostomi	176	True	SSD_dispersed	2R_vertebrata
+ZNF22	singleton	ENSG00000165512	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+ZNF488	singleton	ENSG00000265763	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF365	singleton	ENSG00000138311	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+EGR2	singleton	ENSG00000122877	True	True	True	2	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+ZNF503	singleton	ENSG00000165655	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZNF518A	singleton	ENSG00000177853	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+IKZF5	singleton	ENSG00000095574	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+ZNF511	singleton	ENSG00000198546	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF143	singleton	ENSG00000166478	True	True	True	1	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+PRMT3	singleton	ENSG00000185238	False	False	False	0		19.0	Opisthokonta	7	False	SSD_dispersed	pre2R_ancient
+WT1	singleton	ENSG00000184937	False	False	False	0		19.0	Opisthokonta	4	False	SSD_dispersed	pre2R_ancient
+ZNF408	singleton	ENSG00000175213	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZFP91	singleton	ENSG00000186660	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+OVOL1	singleton	ENSG00000172818	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZNF705E	singleton	ENSG00000214534	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+HINFP	singleton	ENSG00000172273	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PRDM10	singleton	ENSG00000170325	False	True	True	1	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+ZNF384	singleton	ENSG00000126746	True	True	True	1	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+AEBP2	singleton	ENSG00000139154	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+ZNF740	singleton	ENSG00000139651	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ZNF385A	singleton	ENSG00000161642	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+IKZF4	singleton	ENSG00000123411	True	True	True	3	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+GLI1	singleton	ENSG00000111087	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+EEA1	singleton	ENSG00000102189	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PRDM4	singleton	ENSG00000110851	False	True	True	1	Vertebrata	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+TRAFD1	singleton	ENSG00000135148	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF664	singleton	ENSG00000179195	False	False	False	0		12.0	Amniota	5	True	SSD_dispersed	post2R_young
+GTF3A	singleton	ENSG00000122034	True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+DZIP1	singleton	ENSG00000134874	False	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+CHAMP1	singleton	ENSG00000198824	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF219	singleton	ENSG00000165804	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+SALL2	singleton	ENSG00000165821	True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+INSM2	singleton	ENSG00000168348	False	False	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+DPF3	singleton	ENSG00000205683	True	True	True	2	Vertebrata	19.0	Opisthokonta	9	False	WGD_ohnolog	pre2R_ancient
+ZNF410	singleton	ENSG00000119725	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+BCL11B	singleton	ENSG00000127152	True	True	True	2	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+YY1	singleton	ENSG00000100811	True	True	True	2	Younger	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+KLF13	singleton	ENSG00000169926	True	True	True	5	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZNF770	singleton	ENSG00000198146	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZNF280D	singleton	ENSG00000137871	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF609	singleton	ENSG00000180357	True	True	True	1	Vertebrata	17.0	Chordata	1	False	WGD_ohnolog	pre2R_ancient
+BNC1	singleton	ENSG00000169594	False	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZNF592	singleton	ENSG00000166716	True	True	True	2	Vertebrata	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+ZNF710	singleton	ENSG00000140548	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+ZNF774	singleton	ENSG00000196391	False	True	True	14	Vertebrata	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+ZNF598	singleton	ENSG00000167962	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+E4F1	singleton	ENSG00000167967	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+ZNF200	singleton	ENSG00000010539	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+GLIS2	singleton	ENSG00000126603	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+MAZ	singleton	ENSG00000103495	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF768	singleton	ENSG00000169957	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+ZNF629	singleton	ENSG00000102870	False	False	True	14	Vertebrata	18.0	Bilateria	176	False	WGD_ohnolog	pre2R_ancient
+ZNF843	singleton	ENSG00000176723	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF423	singleton	ENSG00000102935	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+SALL1	singleton	ENSG00000103449	True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZNF319	singleton	ENSG00000166188	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+CTCF	singleton	ENSG00000102974	True	True	True	1	Vertebrata	18.0	Bilateria	36	False	WGD_ohnolog	pre2R_ancient
+ZNF821	singleton	ENSG00000102984	False	False	False	0		18.0	Bilateria	11	False	SSD_dispersed	pre2R_ancient
+ATMIN	singleton	ENSG00000166454	False	False	False	0		19.0	Opisthokonta	3	False	SSD_dispersed	pre2R_ancient
+SNAI3	singleton	ENSG00000185669	True	True	True	2	Vertebrata	19.0	Opisthokonta	35	False	WGD_ohnolog	pre2R_ancient
+ZNF276	singleton	ENSG00000158805	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZFP3	singleton	ENSG00000180787	False	False	True	2	Vertebrata	18.0	Bilateria	176	False	WGD_ohnolog	pre2R_ancient
+ZNF594	singleton	ENSG00000180626	False	False	False	0		8.0	Boreoeutheria	36	False	SSD_dispersed	post2R_young
+ZNF286B	singleton	ENSG00000249459	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF207	singleton	ENSG00000010244	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF830	singleton	ENSG00000198783	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+IKZF3	singleton	ENSG00000161405	True	True	True	3	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+ZNF385C	singleton	ENSG00000187595	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+ZNF652	singleton	ENSG00000198740	False	False	False	0		18.0	Bilateria	6	False	SSD_dispersed	pre2R_ancient
+KAT7	singleton	ENSG00000136504	False	False	False	0		19.0	Opisthokonta	9	False	SSD_dispersed	pre2R_ancient
+VEZF1	singleton	ENSG00000136451	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF750	singleton	ENSG00000141579	False	False	False	0		15.0	Euteleostomi	2	True	SSD_dispersed	2R_vertebrata
+L3MBTL4	singleton	ENSG00000154655	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+ZNF521	singleton	ENSG00000198795	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+ZNF532	singleton	ENSG00000074657	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZNF407	singleton	ENSG00000215421	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+TSHZ1	singleton	ENSG00000179981	True	True	True	2	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+SALL3	singleton	ENSG00000256463	True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+KLF16	singleton	ENSG00000129911	True	True	True	3	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZNF358	singleton	ENSG00000198816	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ZNF414	singleton	ENSG00000133250	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF121	singleton	ENSG00000197961	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF491	singleton	ENSG00000177599	False	False	False	0		4.0	Catarrhini	62	False	SSD_dispersed	post2R_young
+AC008770.3	singleton	ENSG00000267179	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+KLF1	singleton	ENSG00000105610	False	False	True	1	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+KLF2	singleton	ENSG00000127528	False	False	False	0		18.0	Bilateria	22	False	SSD_dispersed	pre2R_ancient
+ZNF493	singleton	ENSG00000196268	False	False	False	0		6.0	Primates	176	False	SSD_dispersed	post2R_young
+OVOL3	singleton	ENSG00000105261	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZNF146	singleton	ENSG00000167635	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF260	singleton	ENSG00000254004	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF345	singleton	ENSG00000251247	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF781	singleton	ENSG00000196381	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+DPF1	singleton	ENSG00000011332	True	True	True	2	Vertebrata	19.0	Opisthokonta	9	False	WGD_ohnolog	pre2R_ancient
+ZNF574	singleton	ENSG00000105732	False	False	False	0		18.0	Bilateria	36	False	SSD_dispersed	pre2R_ancient
+ZNF526	singleton	ENSG00000167625	False	False	False	0		18.0	Bilateria	36	False	SSD_dispersed	pre2R_ancient
+ZNF575	singleton	ENSG00000176472	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF296	singleton	ENSG00000170684	True	True	True	2	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+ZNF841	singleton	ENSG00000197608	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF83	singleton	ENSG00000167766	False	False	False	0		7.0	Euarchontoglires	176	False	SSD_dispersed	post2R_young
+ZNF600	singleton	ENSG00000189190	False	False	False	0		4.0	Catarrhini	176	False	SSD_dispersed	post2R_young
+ZNF415	singleton	ENSG00000170954	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF628	singleton	ENSG00000197483	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF787	singleton	ENSG00000142409	False	False	False	0		15.0	Euteleostomi	1	True	SSD_dispersed	2R_vertebrata
+ZNF71	singleton	ENSG00000197951	False	False	True	2	Vertebrata	18.0	Bilateria	176	False	WGD_ohnolog	pre2R_ancient
+ZNF835	singleton	ENSG00000127903	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF134	singleton	ENSG00000213762	False	False	False	0		9.0	Eutheria	38	False	SSD_dispersed	post2R_young
+ZNF329	singleton	ENSG00000181894	False	False	False	0		18.0	Bilateria	62	False	SSD_dispersed	pre2R_ancient
+MYT1L	singleton	ENSG00000186487	False	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+KLF11	singleton	ENSG00000172059	True	True	True	5	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+OSR1	singleton	ENSG00000143867	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+ZNF513	singleton	ENSG00000163795	True	True	True	2	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+BCL11A	singleton	ENSG00000119866	True	True	True	2	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+EGR4	singleton	ENSG00000135625	False	False	False	0		19.0	Opisthokonta	4	False	SSD_dispersed	pre2R_ancient
+KCMF1	singleton	ENSG00000176407	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+GLI2	singleton	ENSG00000074047	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+SP5	singleton	ENSG00000204335	False	False	False	0		18.0	Bilateria	22	False	SSD_dispersed	pre2R_ancient
+SP3	singleton	ENSG00000172845	False	True	True	2	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+SP9	singleton	ENSG00000217236	False	True	True	1	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZNF385B	singleton	ENSG00000144331	False	False	True	1	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+ZNF804A	singleton	ENSG00000170396	False	False	False	0		16.0	Vertebrata	2	True	SSD_dispersed	2R_vertebrata
+KLF7	singleton	ENSG00000118263	True	True	True	1	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+IKZF2	singleton	ENSG00000030419	True	True	True	3	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+ZNF142	singleton	ENSG00000115568	True	True	True	2	Vertebrata	18.0	Bilateria	36	False	WGD_ohnolog	pre2R_ancient
+ANKZF1	singleton	ENSG00000163516	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+SCRT2	singleton	ENSG00000215397	False	False	False	0		16.0	Vertebrata	36	True	SSD_dispersed	2R_vertebrata
+OVOL2	singleton	ENSG00000125850	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+INSM1	singleton	ENSG00000173404	False	False	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+PLAGL2	singleton	ENSG00000126003	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZNF341	singleton	ENSG00000131061	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+L3MBTL1	singleton	ENSG00000185513	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+ZNF335	singleton	ENSG00000198026	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+SNAI1	singleton	ENSG00000124216	True	True	True	2	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+CTCFL	singleton	ENSG00000124092	True	True	True	1	Vertebrata	18.0	Bilateria	36	False	WGD_ohnolog	pre2R_ancient
+ZNF831	singleton	ENSG00000124203	True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+SLC2A4RG	singleton	ENSG00000125520	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZNF512B	singleton	ENSG00000196700	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+MYT1	singleton	ENSG00000196132	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+PRDM15	singleton	ENSG00000141956	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+ZNF70	singleton	ENSG00000187792	False	False	True	2	Vertebrata	18.0	Bilateria	62	False	WGD_ohnolog	pre2R_ancient
+RBSN	singleton	ENSG00000131381	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF385D	singleton	ENSG00000151789	False	False	True	1	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+ZNF619	singleton	ENSG00000177873	False	False	False	0		18.0	Bilateria	62	False	SSD_dispersed	pre2R_ancient
+FEZF2	singleton	ENSG00000153266	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF654	singleton	ENSG00000175105	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF80	singleton	ENSG00000174255	False	False	False	0		18.0	Bilateria	62	False	SSD_dispersed	pre2R_ancient
+ZNF148	singleton	ENSG00000163848	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+KLF15	singleton	ENSG00000163884	False	False	False	0		18.0	Bilateria	22	False	SSD_dispersed	pre2R_ancient
+ZXDC	singleton	ENSG00000070476	True	True	True	1	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+MECOM	singleton	ENSG00000085276	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+ZNF639	singleton	ENSG00000121864	False	False	False	0		18.0	Bilateria	11	False	SSD_dispersed	pre2R_ancient
+ZNF721	singleton	ENSG00000182903	False	False	False	0		16.0	Vertebrata	5	True	SSD_dispersed	2R_vertebrata
+ZNF518B	singleton	ENSG00000178163	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+KLF3	singleton	ENSG00000109787	True	True	True	2	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+REST	singleton	ENSG00000084093	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+PRDM8	singleton	ENSG00000152784	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PRDM5	singleton	ENSG00000138738	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ZNF827	singleton	ENSG00000151612	False	False	False	0		18.0	Bilateria	36	False	SSD_dispersed	pre2R_ancient
+ZFP42	singleton	ENSG00000179059	True	True	True	2	Younger	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZNF366	singleton	ENSG00000178175	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+FAM170A	singleton	ENSG00000164334	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF474	singleton	ENSG00000164185	False	False	False	0		18.0	Bilateria	3	False	SSD_dispersed	pre2R_ancient
+PRDM6	singleton	ENSG00000061455	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF608	singleton	ENSG00000168916	True	True	True	1	Vertebrata	17.0	Chordata	1	False	WGD_ohnolog	pre2R_ancient
+EGR1	singleton	ENSG00000120738	True	True	True	2	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+ZNF346	singleton	ENSG00000113761	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+ZFP2	singleton	ENSG00000198939	False	False	True	3	Vertebrata	18.0	Bilateria	176	False	WGD_ohnolog	pre2R_ancient
+ZFP62	singleton	ENSG00000196670	False	False	False	0		18.0	Bilateria	5	False	SSD_dispersed	pre2R_ancient
+RREB1	singleton	ENSG00000124782	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+HIVEP1	singleton	ENSG00000095951	True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZNF322	singleton	ENSG00000181315	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF391	singleton	ENSG00000124613	False	False	False	0		11.0	Mammalia	176	False	SSD_dispersed	post2R_young
+ZNF76	singleton	ENSG00000065029	True	True	True	1	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+ZNF318	singleton	ENSG00000171467	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZNF451	singleton	ENSG00000112200	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF292	singleton	ENSG00000188994	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PRDM13	singleton	ENSG00000112238	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+PRDM1	singleton	ENSG00000057657	True	True	True	1	Vertebrata	19.0	Opisthokonta	36	False	WGD_ohnolog	pre2R_ancient
+ZUFSP	singleton	ENSG00000153975	False	False	False	0		18.0	Bilateria	6	False	SSD_dispersed	pre2R_ancient
+L3MBTL3	singleton	ENSG00000198945	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+HIVEP2	singleton	ENSG00000010818	True	True	True	3	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+PLAGL1	singleton	ENSG00000118495	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZNF853	singleton	ENSG00000236609	False	False	False	0		11.0	Mammalia	30	True	SSD_dispersed	post2R_young
+JAZF1	singleton	ENSG00000153814	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+GLI3	singleton	ENSG00000106571	False	False	False	0		18.0	Bilateria	14	False	SSD_dispersed	pre2R_ancient
+IKZF1	singleton	ENSG00000185811	False	True	True	3	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+ZNF117	singleton	ENSG00000152926	False	False	False	0		6.0	Primates	176	False	SSD_dispersed	post2R_young
+ZNF804B	singleton	ENSG00000182348	False	False	False	0		16.0	Vertebrata	2	True	SSD_dispersed	2R_vertebrata
+ZNF655	singleton	ENSG00000197343	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+FEZF1	singleton	ENSG00000128610	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZNF800	singleton	ENSG00000048405	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+KLF14	singleton	ENSG00000266265	True	True	True	3	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZNF467	singleton	ENSG00000181444	False	False	False	0		18.0	Bilateria	50	False	SSD_dispersed	pre2R_ancient
+EGR3	singleton	ENSG00000179388	True	True	True	2	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+ZNF395	singleton	ENSG00000186918	False	False	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZNF703	singleton	ENSG00000183779	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZMAT4	singleton	ENSG00000165061	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+SNAI2	singleton	ENSG00000019549	True	True	True	2	Vertebrata	19.0	Opisthokonta	35	False	WGD_ohnolog	pre2R_ancient
+ST18	singleton	ENSG00000147488	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+PLAG1	singleton	ENSG00000181690	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+PRDM14	singleton	ENSG00000147596	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF704	singleton	ENSG00000164684	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+OSR2	singleton	ENSG00000164920	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+ZNF706	singleton	ENSG00000120963	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+KLF10	singleton	ENSG00000155090	True	True	True	3	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZFPM2	singleton	ENSG00000169946	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZNF572	singleton	ENSG00000180938	False	False	True	1	Younger	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+ZFAT	singleton	ENSG00000066827	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+ZNF623	singleton	ENSG00000183309	False	False	True	3	Vertebrata	18.0	Bilateria	176	False	WGD_ohnolog	pre2R_ancient
+SCRT1	singleton	ENSG00000261678	False	False	False	0		16.0	Vertebrata	36	True	SSD_dispersed	2R_vertebrata
+ZNF16	singleton	ENSG00000170631	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+GLIS3	singleton	ENSG00000107249	True	True	True	1	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+BNC2	singleton	ENSG00000173068	False	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+KLF9	singleton	ENSG00000119138	True	True	True	5	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZNF367	singleton	ENSG00000165244	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ZNF462	singleton	ENSG00000148143	False	False	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+KLF4	singleton	ENSG00000136826	False	False	True	1	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZNF883	singleton	ENSG00000228623	False	False	False	0		16.0	Vertebrata	176	True	SSD_dispersed	2R_vertebrata
+ZNF618	singleton	ENSG00000157657	False	False	False	0		17.0	Chordata	2	False	SSD_dispersed	pre2R_ancient
+PRDM12	singleton	ENSG00000130711	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+GFI1B	singleton	ENSG00000165702	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+YY2	singleton	ENSG00000230797	True	True	True	2	Younger	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ZNF645	singleton	ENSG00000175809	False	False	False	0		10.0	Theria	1	False	SSD_dispersed	post2R_young
+ZFX	singleton	ENSG00000005889	False	False	False	0		8.0	Boreoeutheria	38	False	SSD_dispersed	post2R_young
+KLF8	singleton	ENSG00000102349	True	True	True	2	Vertebrata	18.0	Bilateria	22	False	WGD_ohnolog	pre2R_ancient
+ZXDB	singleton	ENSG00000198455	True	True	True	1	Vertebrata	3.0	Hominoidea	14	False	WGD_ohnolog	post2R_young
+ZXDA	singleton	ENSG00000198205	True	True	True	1	Vertebrata	3.0	Hominoidea	14	False	WGD_ohnolog	post2R_young
+ZNF711	singleton	ENSG00000147180	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+CPXCR1	singleton	ENSG00000147183	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZMAT1	singleton	ENSG00000166432	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+ZNF280C	singleton	ENSG00000056277	True	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ZIC3	singleton	ENSG00000156925	True	True	True	4	Vertebrata	18.0	Bilateria	14	False	WGD_ohnolog	pre2R_ancient
+ZNF275	singleton	ENSG00000063587	False	False	False	0		15.0	Euteleostomi	176	True	SSD_dispersed	2R_vertebrata
+ZFY	singleton	ENSG00000067646	False	False	False	0		8.0	Boreoeutheria	38	False	SSD_dispersed	post2R_young
+ZNF653	singleton	ENSG00000161914	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZNF524	singleton	ENSG00000171443	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+PATZ1	singleton	ENSG00000100105	False	False	False	0		19.0	Opisthokonta	36	False	SSD_dispersed	pre2R_ancient
+ZBTB24	singleton	ENSG00000112365	False	False	False	0		18.0	Bilateria	36	False	SSD_dispersed	pre2R_ancient
+ZNF512	singleton	ENSG00000243943	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+ZNF277	singleton	ENSG00000198839	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ZEB1	singleton	ENSG00000148516	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZFHX3	singleton	ENSG00000140836	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+ZEB2	singleton	ENSG00000169554	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ZFHX4	singleton	ENSG00000091656	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+ZNF541	singleton	ENSG00000118156	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+TRERF1	singleton	ENSG00000124496	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+MBNL2	singleton	ENSG00000139793	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+ZC3H8	singleton	ENSG00000144161	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+ZGPAT	singleton	ENSG00000197114	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+TIGD3	singleton	ENSG00000173825	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+JRKL	singleton	ENSG00000183340	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+TIGD7	singleton	ENSG00000140993	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+CENPBD1	singleton	ENSG00000177946	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TIGD1	singleton	ENSG00000221944	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+CENPB	singleton	ENSG00000125817	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+TIGD2	singleton	ENSG00000180346	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+TIGD4	singleton	ENSG00000169989	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+TIGD6	singleton	ENSG00000164296	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+JRK	singleton	ENSG00000234616	False	False	False	0		19.0	Opisthokonta	11	False	SSD_dispersed	pre2R_ancient
+TIGD5	singleton	ENSG00000179886	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+CAMTA1	singleton	ENSG00000171735	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+CAMTA2	singleton	ENSG00000108509	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+RBPJL	singleton	ENSG00000124232	False	False	False	0		17.0	Chordata	1	False	SSD_dispersed	pre2R_ancient
+RBPJ	singleton	ENSG00000168214	False	False	False	0		17.0	Chordata	1	False	SSD_dispersed	pre2R_ancient
+CUX2	singleton	ENSG00000111249	True	True	True	1	Vertebrata	19.0	Opisthokonta	1	False	WGD_ohnolog	pre2R_ancient
+ONECUT1	singleton	ENSG00000169856	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+ONECUT2	singleton	ENSG00000119547	True	True	True	2	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ONECUT3	singleton	ENSG00000205922	True	True	True	2	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+SATB2	singleton	ENSG00000119042	False	False	False	0		16.0	Vertebrata	1	True	SSD_dispersed	2R_vertebrata
+SATB1	singleton	ENSG00000182568	False	False	False	0		16.0	Vertebrata	1	True	SSD_dispersed	2R_vertebrata
+CUX1	singleton	ENSG00000257923	True	True	True	1	Vertebrata	19.0	Opisthokonta	1	False	WGD_ohnolog	pre2R_ancient
+TET1	singleton	ENSG00000138336	True	True	True	2	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+KDM2A	singleton	ENSG00000173120	True	True	True	2	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+KDM2B	singleton	ENSG00000089094	True	True	True	2	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+FBXL19	singleton	ENSG00000099364	True	True	True	2	Vertebrata	19.0	Opisthokonta	15	False	WGD_ohnolog	pre2R_ancient
+CXXC1	singleton	ENSG00000154832	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+DNMT1	singleton	ENSG00000130816	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+TET3	singleton	ENSG00000187605	True	True	True	2	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+CXXC4	singleton	ENSG00000168772	False	False	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+CXXC5	singleton	ENSG00000171604	False	False	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+KMT2A	singleton	ENSG00000118058	True	True	True	1	Vertebrata	19.0	Opisthokonta	19	False	WGD_ohnolog	pre2R_ancient
+KMT2B	singleton	ENSG00000272333	True	True	True	1	Vertebrata	19.0	Opisthokonta	19	False	WGD_ohnolog	pre2R_ancient
+DMRTA2	singleton	ENSG00000142700	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+DMRTB1	singleton	ENSG00000143006	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+DMRTC2	singleton	ENSG00000142025	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+DMRTA1	singleton	ENSG00000176399	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+E2F2	singleton	ENSG00000007968	True	True	True	3	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+E2F8	singleton	ENSG00000129173	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+E2F7	singleton	ENSG00000165891	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+TFDP1	singleton	ENSG00000198176	True	True	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+E2F4	singleton	ENSG00000205250	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+E2F6	singleton	ENSG00000169016	True	True	True	3	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+E2F1	singleton	ENSG00000101412	True	True	True	3	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+TFDP2	singleton	ENSG00000114126	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+E2F3	singleton	ENSG00000112242	True	True	True	3	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+E2F5	singleton	ENSG00000133740	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+TFDP3	singleton	ENSG00000183434	True	True	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+EBF3	singleton	ENSG00000108001	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+EBF4	singleton	ENSG00000088881	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+EBF1	singleton	ENSG00000164330	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+EBF2	singleton	ENSG00000221818	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+ELK4	singleton	ENSG00000158711	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+SPI1	singleton	ENSG00000066336	False	False	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ETV6	singleton	ENSG00000139083	False	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ELK3	singleton	ENSG00000111145	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+SPIC	singleton	ENSG00000166211	False	False	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ELF1	singleton	ENSG00000120690	True	True	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ETV4	singleton	ENSG00000175832	True	True	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ETV2	singleton	ENSG00000105672	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ERF	singleton	ENSG00000105722	False	False	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+SPIB	singleton	ENSG00000269404	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+FEV	singleton	ENSG00000163497	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+GABPA	singleton	ENSG00000154727	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ETV5	singleton	ENSG00000244405	True	True	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ELF2	singleton	ENSG00000109381	True	True	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+SPDEF	singleton	ENSG00000124664	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ETV7	singleton	ENSG00000010030	False	True	True	1	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ETV1	singleton	ENSG00000006468	True	True	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+ELK1	singleton	ENSG00000126767	False	False	False	0		18.0	Bilateria	28	False	SSD_dispersed	pre2R_ancient
+ELF4	singleton	ENSG00000102034	True	True	True	2	Vertebrata	18.0	Bilateria	28	False	WGD_ohnolog	pre2R_ancient
+FOXO6	singleton	ENSG00000204060	True	True	True	3	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXJ3	singleton	ENSG00000198815	False	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXD3	singleton	ENSG00000187140	True	True	True	2	Vertebrata	15.0	Euteleostomi	41	True	WGD_ohnolog	2R_vertebrata
+FOXI2	singleton	ENSG00000186766	True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXR1	singleton	ENSG00000176302	False	False	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXM1	singleton	ENSG00000111206	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXJ2	singleton	ENSG00000065970	False	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXN4	singleton	ENSG00000139445	True	True	True	3	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+FOXO1	singleton	ENSG00000150907	True	True	True	3	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXG1	singleton	ENSG00000176165	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+FOXA1	singleton	ENSG00000129514	False	True	True	2	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXN3	singleton	ENSG00000053254	True	True	True	1	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+FOXB1	singleton	ENSG00000171956	False	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXF1	singleton	ENSG00000103241	True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXN1	singleton	ENSG00000109101	True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXJ1	singleton	ENSG00000129654	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXK2	singleton	ENSG00000141568	True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXA3	singleton	ENSG00000170608	True	True	True	2	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXN2	singleton	ENSG00000170802	True	True	True	1	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+FOXI3	singleton	ENSG00000214336	True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXD4L1	singleton	ENSG00000184492	False	False	True	1	Vertebrata	4.0	Catarrhini	41	False	WGD_ohnolog	post2R_young
+FOXA2	singleton	ENSG00000125798	True	True	True	2	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXS1	singleton	ENSG00000179772	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXP1	singleton	ENSG00000114861	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXL2	singleton	ENSG00000183770	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXD1	singleton	ENSG00000251493	False	False	False	0		15.0	Euteleostomi	41	True	SSD_dispersed	2R_vertebrata
+FOXI1	singleton	ENSG00000168269	True	True	True	2	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+FOXP4	singleton	ENSG00000137166	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+FOXO3	singleton	ENSG00000118689	True	True	True	3	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXK1	singleton	ENSG00000164916	True	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXP2	singleton	ENSG00000128573	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+FOXH1	singleton	ENSG00000160973	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXD4	singleton	ENSG00000170122	False	False	False	0		1.0	Homininae	41	False	SSD_dispersed	post2R_young
+FOXD4L6	singleton	ENSG00000273514	False	False	False	0		0.0	Homo sapiens	41	False	SSD_dispersed	post2R_young
+FOXD4L5	singleton	ENSG00000204779	False	False	False	0		0.0	Homo sapiens	41	False	SSD_dispersed	post2R_young
+FOXD4L4	singleton	ENSG00000184659	False	False	False	0		0.0	Homo sapiens	41	False	SSD_dispersed	post2R_young
+FOXD4L3	singleton	ENSG00000187559	False	False	False	0		0.0	Homo sapiens	41	False	SSD_dispersed	post2R_young
+FOXB2	singleton	ENSG00000204612	False	True	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXE1	singleton	ENSG00000178919	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXP3	singleton	ENSG00000049768	False	False	False	0		19.0	Opisthokonta	41	False	SSD_dispersed	pre2R_ancient
+FOXR2	singleton	ENSG00000189299	False	False	True	1	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+FOXO4	singleton	ENSG00000184481	True	True	True	3	Vertebrata	19.0	Opisthokonta	41	False	WGD_ohnolog	pre2R_ancient
+GATAD2B	singleton	ENSG00000143614	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+GATA3	singleton	ENSG00000107485	True	True	True	2	Vertebrata	19.0	Opisthokonta	7	False	WGD_ohnolog	pre2R_ancient
+GATA6	singleton	ENSG00000141448	False	True	True	2	Vertebrata	19.0	Opisthokonta	7	False	WGD_ohnolog	pre2R_ancient
+ZGLP1	singleton	ENSG00000220201	False	False	False	0		19.0	Opisthokonta	7	False	SSD_dispersed	pre2R_ancient
+GATAD2A	singleton	ENSG00000167491	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+GATA5	singleton	ENSG00000130700	False	True	True	2	Vertebrata	19.0	Opisthokonta	7	False	WGD_ohnolog	pre2R_ancient
+GATA2	singleton	ENSG00000179348	True	True	True	2	Vertebrata	19.0	Opisthokonta	7	False	WGD_ohnolog	pre2R_ancient
+GATA4	singleton	ENSG00000136574	False	True	True	2	Vertebrata	19.0	Opisthokonta	7	False	WGD_ohnolog	pre2R_ancient
+TRPS1	singleton	ENSG00000104447	False	False	False	0		19.0	Opisthokonta	7	False	SSD_dispersed	pre2R_ancient
+GATA1	singleton	ENSG00000102145	True	True	True	2	Vertebrata	19.0	Opisthokonta	7	False	WGD_ohnolog	pre2R_ancient
+GCM2	singleton	ENSG00000124827	False	False	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+GCM1	singleton	ENSG00000137270	False	False	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+GTF2IRD2	singleton	ENSG00000196275	False	False	False	0		0.0	Homo sapiens	18	False	SSD_dispersed	post2R_young
+GTF2IRD2B	singleton	ENSG00000174428	False	False	False	0		0.0	Homo sapiens	18	False	SSD_dispersed	post2R_young
+GRHL3	singleton	ENSG00000158055	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+TFCP2	singleton	ENSG00000135457	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+GRHL1	singleton	ENSG00000134317	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+TFCP2L1	singleton	ENSG00000115112	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+UBP1	singleton	ENSG00000153560	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+GRHL2	singleton	ENSG00000083307	True	True	True	2	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+SOX13	singleton	ENSG00000143842	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+TCF7L2	singleton	ENSG00000148737	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+SOX6	singleton	ENSG00000110693	False	False	False	0		18.0	Bilateria	20	False	SSD_dispersed	pre2R_ancient
+SOX5	singleton	ENSG00000134532	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX21	singleton	ENSG00000125285	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX1	singleton	ENSG00000182968	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+HMG20A	singleton	ENSG00000140382	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX8	singleton	ENSG00000005513	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX15	singleton	ENSG00000129194	False	False	False	0		18.0	Bilateria	20	False	SSD_dispersed	pre2R_ancient
+SOX9	singleton	ENSG00000125398	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+HMG20B	singleton	ENSG00000064961	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+CIC	singleton	ENSG00000079432	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+SOX11	singleton	ENSG00000176887	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+TCF7L1	singleton	ENSG00000152284	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+SOX12	singleton	ENSG00000177732	False	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX18	singleton	ENSG00000203883	True	True	True	3	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX10	singleton	ENSG00000100146	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+BBX	singleton	ENSG00000114439	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+SOX14	singleton	ENSG00000168875	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX2	singleton	ENSG00000181449	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+LEF1	singleton	ENSG00000138795	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+TCF7	singleton	ENSG00000081059	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+SOX30	singleton	ENSG00000039600	False	False	False	0		18.0	Bilateria	20	False	SSD_dispersed	pre2R_ancient
+SOX4	singleton	ENSG00000124766	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+HMGN3	singleton	ENSG00000118418	False	False	False	0		15.0	Euteleostomi	3	True	SSD_dispersed	2R_vertebrata
+HBP1	singleton	ENSG00000105856	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+SOX7	singleton	ENSG00000171056	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX17	singleton	ENSG00000164736	True	True	True	3	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SOX3	singleton	ENSG00000134595	True	True	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SRY	singleton	ENSG00000184895	False	False	False	0		18.0	Bilateria	20	False	SSD_dispersed	pre2R_ancient
+HSF4	singleton	ENSG00000102878	True	True	True	2	Vertebrata	19.0	Opisthokonta	9	False	WGD_ohnolog	pre2R_ancient
+HSF5	singleton	ENSG00000176160	False	False	False	0		19.0	Opisthokonta	9	False	SSD_dispersed	pre2R_ancient
+HSF2	singleton	ENSG00000025156	True	True	True	2	Vertebrata	19.0	Opisthokonta	9	False	WGD_ohnolog	pre2R_ancient
+HSF1	singleton	ENSG00000185122	True	True	True	2	Vertebrata	19.0	Opisthokonta	9	False	WGD_ohnolog	pre2R_ancient
+HSFX2	singleton	ENSG00000268738	False	False	False	0		0.0	Homo sapiens	9	False	SSD_dispersed	post2R_young
+HSFX1	singleton	ENSG00000171116	False	False	False	0		0.0	Homo sapiens	9	False	SSD_dispersed	post2R_young
+DMBX1	singleton	ENSG00000197587	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+LHX8	singleton	ENSG00000162624	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+BARHL2	singleton	ENSG00000143032	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+ALX3	singleton	ENSG00000156150	True	True	True	2	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PRRX1	singleton	ENSG00000116132	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+LHX4	singleton	ENSG00000121454	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+LHX9	singleton	ENSG00000143355	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+HLX	singleton	ENSG00000136630	False	False	False	0		18.0	Bilateria	3	False	SSD_dispersed	pre2R_ancient
+MIXL1	singleton	ENSG00000185155	False	False	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+MKX	singleton	ENSG00000150051	False	False	False	0		18.0	Bilateria	6	False	SSD_dispersed	pre2R_ancient
+DRGX	singleton	ENSG00000165606	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+HHEX	singleton	ENSG00000152804	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+NKX2-3	singleton	ENSG00000119919	True	True	True	2	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+PITX3	singleton	ENSG00000107859	True	True	True	2	Older	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+VAX1	singleton	ENSG00000148704	False	False	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+EMX2	singleton	ENSG00000170370	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+NKX1-2	singleton	ENSG00000229544	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+NKX6-2	singleton	ENSG00000148826	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+VENTX	singleton	ENSG00000151650	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+DBX1	singleton	ENSG00000109851	True	True	True	1	Vertebrata	17.0	Chordata	3	False	WGD_ohnolog	pre2R_ancient
+ALX4	singleton	ENSG00000052850	True	True	True	2	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PHOX2A	singleton	ENSG00000165462	False	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+BSX	singleton	ENSG00000188909	False	False	False	0		18.0	Bilateria	9	False	SSD_dispersed	pre2R_ancient
+PKNOX2	singleton	ENSG00000165495	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+BARX2	singleton	ENSG00000043039	False	False	False	0		18.0	Bilateria	3	False	SSD_dispersed	pre2R_ancient
+DBX2	singleton	ENSG00000185610	True	True	True	1	Vertebrata	17.0	Chordata	3	False	WGD_ohnolog	pre2R_ancient
+ALX1	singleton	ENSG00000180318	True	True	True	2	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+LHX5	singleton	ENSG00000089116	False	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+HNF1A	singleton	ENSG00000135100	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ANHX	singleton	ENSG00000227059	False	False	False	0		18.0	Bilateria	6	False	SSD_dispersed	pre2R_ancient
+HOMEZ	singleton	ENSG00000215271	False	False	False	0		16.0	Vertebrata	3	True	SSD_dispersed	2R_vertebrata
+ZFHX2	singleton	ENSG00000136367	False	False	True	2	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+OTX2	singleton	ENSG00000165588	True	True	True	2	Older	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+VSX2	singleton	ENSG00000119614	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+GSC	singleton	ENSG00000133937	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+NANOGP8	singleton	ENSG00000255192	False	False	False	0		3.0	Hominoidea	9	False	SSD_dispersed	post2R_young
+MEIS2	singleton	ENSG00000134138	False	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+ISL2	singleton	ENSG00000159556	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+SEBOX	singleton	ENSG00000274529	False	False	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+LHX1	singleton	ENSG00000273706	False	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+HNF1B	singleton	ENSG00000275410	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+MEOX1	singleton	ENSG00000005102	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+TGIF1	singleton	ENSG00000177426	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+RAX	singleton	ENSG00000134438	False	False	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+ADNP2	singleton	ENSG00000101544	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+RAX2	singleton	ENSG00000173976	False	False	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PBX4	singleton	ENSG00000105717	True	True	True	3	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+LEUTX	singleton	ENSG00000213921	False	False	False	0		17.0	Chordata	3	False	SSD_dispersed	pre2R_ancient
+SIX5	singleton	ENSG00000177045	True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+MEIS3	singleton	ENSG00000105419	True	True	True	1	Vertebrata	2.0	Hominidae	13	False	WGD_ohnolog	post2R_young
+DPRX	singleton	ENSG00000204595	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+DUXA	singleton	ENSG00000258873	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+OTX1	singleton	ENSG00000115507	True	True	True	2	Older	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+MEIS1	singleton	ENSG00000143995	True	True	True	2	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+VAX2	singleton	ENSG00000116035	False	False	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+EMX1	singleton	ENSG00000135638	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+NOTO	singleton	ENSG00000214513	False	False	False	0		15.0	Euteleostomi	1	True	SSD_dispersed	2R_vertebrata
+LBX2	singleton	ENSG00000179528	True	True	True	1	Vertebrata	18.0	Bilateria	1	False	WGD_ohnolog	pre2R_ancient
+TLX2	singleton	ENSG00000115297	True	True	True	2	Vertebrata	18.0	Bilateria	42	False	WGD_ohnolog	pre2R_ancient
+EN1	singleton	ENSG00000163064	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+EVX2	singleton	ENSG00000174279	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+GBX2	singleton	ENSG00000168505	False	False	False	0		16.0	Vertebrata	1	True	SSD_dispersed	2R_vertebrata
+VSX1	singleton	ENSG00000100987	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+TGIF2	singleton	ENSG00000118707	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+ZHX3	singleton	ENSG00000174306	False	False	False	0		16.0	Vertebrata	3	True	SSD_dispersed	2R_vertebrata
+ADNP	singleton	ENSG00000101126	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+PKNOX1	singleton	ENSG00000160199	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+GSC2	singleton	ENSG00000063515	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+ISX	singleton	ENSG00000175329	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+HESX1	singleton	ENSG00000163666	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+ARGFX	singleton	ENSG00000186103	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+SHOX2	singleton	ENSG00000168779	False	False	True	1	Vertebrata	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+NKX1-1	singleton	ENSG00000235608	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+MSX1	singleton	ENSG00000163132	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+HMX1	singleton	ENSG00000215612	True	True	True	2	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+NKX3-2	singleton	ENSG00000109705	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+PHOX2B	singleton	ENSG00000109132	False	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+GSX2	singleton	ENSG00000180613	True	True	True	1	Vertebrata	18.0	Bilateria	42	False	WGD_ohnolog	pre2R_ancient
+NKX6-1	singleton	ENSG00000163623	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+PITX2	singleton	ENSG00000164093	True	True	True	2	Older	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+DUX4	singleton	ENSG00000260596	False	False	False	0		0.0	Homo sapiens	51	False	SSD_dispersed	post2R_young
+ISL1	singleton	ENSG00000016082	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+OTP	singleton	ENSG00000171540	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+PITX1	singleton	ENSG00000069011	True	True	True	2	Bilateria	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+CDX1	singleton	ENSG00000113722	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+TLX3	singleton	ENSG00000164438	True	True	True	2	Vertebrata	18.0	Bilateria	42	False	WGD_ohnolog	pre2R_ancient
+NKX2-5	singleton	ENSG00000183072	True	True	True	2	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+MSX2	singleton	ENSG00000120149	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+PROP1	singleton	ENSG00000175325	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+PBX2	singleton	ENSG00000204304	True	True	True	3	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+UNCX	singleton	ENSG00000164853	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+MEOX2	singleton	ENSG00000106511	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+EVX1	singleton	ENSG00000106038	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+NOBOX	singleton	ENSG00000106410	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+GBX1	singleton	ENSG00000164900	False	False	False	0		16.0	Vertebrata	1	True	SSD_dispersed	2R_vertebrata
+EN2	singleton	ENSG00000164778	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+MNX1	singleton	ENSG00000130675	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+HMBOX1	singleton	ENSG00000147421	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+NKX6-3	singleton	ENSG00000165066	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+ZHX2	singleton	ENSG00000178764	False	False	False	0		16.0	Vertebrata	2	True	SSD_dispersed	2R_vertebrata
+ZHX1	singleton	ENSG00000165156	False	False	False	0		16.0	Vertebrata	2	True	SSD_dispersed	2R_vertebrata
+BARX1	singleton	ENSG00000131668	False	False	False	0		18.0	Bilateria	3	False	SSD_dispersed	pre2R_ancient
+LHX6	singleton	ENSG00000106852	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+LHX2	singleton	ENSG00000106689	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+PBX3	singleton	ENSG00000167081	True	True	True	3	Vertebrata	15.0	Euteleostomi	13	True	WGD_ohnolog	2R_vertebrata
+LMX1B	singleton	ENSG00000136944	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+PRRX2	singleton	ENSG00000167157	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+BARHL1	singleton	ENSG00000125492	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+LHX3	singleton	ENSG00000107187	True	True	True	1	Vertebrata	18.0	Bilateria	20	False	WGD_ohnolog	pre2R_ancient
+SHOX	singleton	ENSG00000185960	False	False	True	1	Vertebrata	18.0	Bilateria	50	False	WGD_ohnolog	pre2R_ancient
+ARX	singleton	ENSG00000004848	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+CDX4	singleton	ENSG00000131264	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+HDX	singleton	ENSG00000165259	False	False	False	0		18.0	Bilateria	17	False	SSD_dispersed	pre2R_ancient
+TGIF2LX	singleton	ENSG00000153779	False	False	False	0		5.0	Simiiformes	13	False	SSD_dispersed	post2R_young
+ESX1	singleton	ENSG00000123576	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+TGIF2LY	singleton	ENSG00000176679	False	False	False	0		5.0	Simiiformes	13	False	SSD_dispersed	post2R_young
+POU3F1	singleton	ENSG00000185668	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU2F1	singleton	ENSG00000143190	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU2F3	singleton	ENSG00000137709	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU6F1	singleton	ENSG00000184271	False	False	False	0		18.0	Bilateria	17	False	SSD_dispersed	pre2R_ancient
+POU4F1	singleton	ENSG00000152192	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU2F2	singleton	ENSG00000028277	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU3F3	singleton	ENSG00000198914	True	True	True	1	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU1F1	singleton	ENSG00000064835	False	False	False	0		18.0	Bilateria	17	False	SSD_dispersed	pre2R_ancient
+POU4F2	singleton	ENSG00000151615	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU5F2	singleton	ENSG00000248483	False	False	False	0		18.0	Bilateria	17	False	SSD_dispersed	pre2R_ancient
+POU4F3	singleton	ENSG00000091010	True	True	True	2	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU5F1	singleton	ENSG00000204531	False	False	False	0		2.0	Hominidae	17	False	SSD_dispersed	post2R_young
+POU3F2	singleton	ENSG00000184486	False	False	True	1	Vertebrata	18.0	Bilateria	17	False	WGD_ohnolog	pre2R_ancient
+POU6F2	singleton	ENSG00000106536	False	False	False	0		18.0	Bilateria	17	False	SSD_dispersed	pre2R_ancient
+POU5F1B	singleton	ENSG00000212993	False	False	False	0		2.0	Hominidae	17	False	SSD_dispersed	post2R_young
+POU3F4	singleton	ENSG00000196767	False	False	False	0		18.0	Bilateria	17	False	SSD_dispersed	pre2R_ancient
+PAX7	singleton	ENSG00000009709	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PAX2	singleton	ENSG00000075891	True	True	True	2	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PAX6	singleton	ENSG00000007372	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+PAX3	singleton	ENSG00000135903	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PAX4	singleton	ENSG00000106331	False	False	False	0		18.0	Bilateria	51	False	SSD_dispersed	pre2R_ancient
+IRF6	singleton	ENSG00000117595	False	False	False	0		17.0	Chordata	8	False	SSD_dispersed	pre2R_ancient
+IRF7	singleton	ENSG00000185507	False	True	True	2	Vertebrata	17.0	Chordata	8	False	WGD_ohnolog	pre2R_ancient
+IRF9	singleton	ENSG00000213928	False	False	False	0		17.0	Chordata	8	False	SSD_dispersed	pre2R_ancient
+IRF8	singleton	ENSG00000140968	False	True	True	2	Vertebrata	17.0	Chordata	8	False	WGD_ohnolog	pre2R_ancient
+IRF3	singleton	ENSG00000126456	False	False	False	0		17.0	Chordata	8	False	SSD_dispersed	pre2R_ancient
+IRF2	singleton	ENSG00000168310	False	False	False	0		17.0	Chordata	8	False	SSD_dispersed	pre2R_ancient
+IRF1	singleton	ENSG00000125347	False	False	False	0		17.0	Chordata	8	False	SSD_dispersed	pre2R_ancient
+IRF4	singleton	ENSG00000137265	False	True	True	2	Vertebrata	17.0	Chordata	8	False	WGD_ohnolog	pre2R_ancient
+IRF5	singleton	ENSG00000128604	False	False	False	0		17.0	Chordata	8	False	SSD_dispersed	pre2R_ancient
+MSANTD1	singleton	ENSG00000188981	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MSANTD3	singleton	ENSG00000066697	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+NAIF1	singleton	ENSG00000171169	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MEF2D	singleton	ENSG00000116604	True	True	True	4	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+MEF2A	singleton	ENSG00000068305	True	True	True	4	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+MEF2C	singleton	ENSG00000081189	True	True	True	4	Vertebrata	19.0	Opisthokonta	4	False	WGD_ohnolog	pre2R_ancient
+SRF	singleton	ENSG00000112658	False	False	False	0		19.0	Opisthokonta	4	False	SSD_dispersed	pre2R_ancient
+SETDB1	singleton	ENSG00000143379	False	False	False	0		19.0	Opisthokonta	19	False	SSD_dispersed	pre2R_ancient
+MBD6	singleton	ENSG00000166987	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+SETDB2	singleton	ENSG00000136169	False	False	False	0		19.0	Opisthokonta	19	False	SSD_dispersed	pre2R_ancient
+MBD2	singleton	ENSG00000134046	True	True	True	6	Vertebrata	16.0	Vertebrata	8	True	WGD_ohnolog	2R_vertebrata
+MBD3	singleton	ENSG00000071655	True	True	True	6	Vertebrata	16.0	Vertebrata	8	True	WGD_ohnolog	2R_vertebrata
+PIN1	singleton	ENSG00000127445	False	False	False	0		19.0	Opisthokonta	1	False	SSD_dispersed	pre2R_ancient
+BAZ2B	singleton	ENSG00000123636	True	True	True	1	Vertebrata	19.0	Opisthokonta	11	False	WGD_ohnolog	pre2R_ancient
+MBD4	singleton	ENSG00000129071	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+BAZ2A	singleton	ENSG00000076108	True	True	True	1	Vertebrata	19.0	Opisthokonta	11	False	WGD_ohnolog	pre2R_ancient
+MECP2	singleton	ENSG00000169057	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+MYSM1	singleton	ENSG00000162601	False	True	True	1	Vertebrata	19.0	Opisthokonta	3	False	WGD_ohnolog	pre2R_ancient
+ZZZ3	singleton	ENSG00000036549	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MSANTD4	singleton	ENSG00000170903	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TERB1	singleton	ENSG00000249961	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TERF2	singleton	ENSG00000132604	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MYPOP	singleton	ENSG00000176182	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MYBL2	singleton	ENSG00000101057	True	True	True	2	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+CDC5L	singleton	ENSG00000096401	False	False	False	0		19.0	Opisthokonta	6	False	SSD_dispersed	pre2R_ancient
+MYB	singleton	ENSG00000118513	True	True	True	2	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+DMTF1	singleton	ENSG00000135164	False	False	True	1	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+MYBL1	singleton	ENSG00000185697	True	True	True	2	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+TERF1	singleton	ENSG00000147601	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TTF1	singleton	ENSG00000125482	False	False	True	1	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+SNAPC4	singleton	ENSG00000165684	False	False	False	0		19.0	Opisthokonta	6	False	SSD_dispersed	pre2R_ancient
+NFXL1	singleton	ENSG00000170448	False	False	False	0		19.0	Opisthokonta	1	False	SSD_dispersed	pre2R_ancient
+NFX1	singleton	ENSG00000086102	False	False	False	0		19.0	Opisthokonta	1	False	SSD_dispersed	pre2R_ancient
+MYRF	singleton	ENSG00000124920	False	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+MYRFL	singleton	ENSG00000166268	False	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+RORC	singleton	ENSG00000143365	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR1I3	singleton	ENSG00000143257	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+RXRG	singleton	ENSG00000143171	True	True	True	2	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+NR5A2	singleton	ENSG00000116833	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+ESRRG	singleton	ENSG00000196482	True	True	True	2	Vertebrata	16.0	Vertebrata	8	True	WGD_ohnolog	2R_vertebrata
+NR1H3	singleton	ENSG00000025434	False	True	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+ESRRA	singleton	ENSG00000173153	True	True	True	2	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+PGR	singleton	ENSG00000082175	False	True	True	1	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+VDR	singleton	ENSG00000111424	False	False	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR4A1	singleton	ENSG00000123358	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+RARG	singleton	ENSG00000172819	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR2C1	singleton	ENSG00000120798	True	True	True	1	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+NR1H4	singleton	ENSG00000012504	False	True	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+ESR2	singleton	ENSG00000140009	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+ESRRB	singleton	ENSG00000119715	True	True	True	2	Vertebrata	16.0	Vertebrata	8	True	WGD_ohnolog	2R_vertebrata
+RORA	singleton	ENSG00000069667	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR2E3	singleton	ENSG00000278570	False	False	False	0		18.0	Bilateria	11	False	SSD_dispersed	pre2R_ancient
+NR2F2	singleton	ENSG00000185551	False	False	True	1	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+RARA	singleton	ENSG00000131759	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR2F6	singleton	ENSG00000160113	False	False	False	0		18.0	Bilateria	11	False	SSD_dispersed	pre2R_ancient
+NR1H2	singleton	ENSG00000131408	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+NR4A2	singleton	ENSG00000153234	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+HNF4A	singleton	ENSG00000101076	True	True	True	1	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+PPARA	singleton	ENSG00000186951	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+PPARG	singleton	ENSG00000132170	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR2C2	singleton	ENSG00000177463	True	True	True	1	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+NR1I2	singleton	ENSG00000144852	False	False	True	1	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR3C2	singleton	ENSG00000151623	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+NR2F1	singleton	ENSG00000175745	False	False	True	1	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+NR3C1	singleton	ENSG00000113580	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+RXRB	singleton	ENSG00000204231	True	True	True	2	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+PPARD	singleton	ENSG00000112033	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR2E1	singleton	ENSG00000112333	False	False	False	0		18.0	Bilateria	11	False	SSD_dispersed	pre2R_ancient
+ESR1	singleton	ENSG00000091831	False	True	True	1	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+HNF4G	singleton	ENSG00000164749	True	True	True	1	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+RORB	singleton	ENSG00000198963	True	True	True	2	Vertebrata	18.0	Bilateria	18	False	WGD_ohnolog	pre2R_ancient
+NR4A3	singleton	ENSG00000119508	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+RXRA	singleton	ENSG00000186350	True	True	True	2	Vertebrata	18.0	Bilateria	11	False	WGD_ohnolog	pre2R_ancient
+AR	singleton	ENSG00000169083	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+PAX9	singleton	ENSG00000198807	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PAX8	singleton	ENSG00000125618	True	True	True	2	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PAX1	singleton	ENSG00000125813	True	True	True	1	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+PAX5	singleton	ENSG00000196092	True	True	True	2	Vertebrata	18.0	Bilateria	51	False	WGD_ohnolog	pre2R_ancient
+LCOR	singleton	ENSG00000196233	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+LCORL	singleton	ENSG00000178177	True	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+PROX1	singleton	ENSG00000117707	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+PROX2	singleton	ENSG00000119608	True	True	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+RFX5	singleton	ENSG00000143390	False	True	True	1	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+RFX4	singleton	ENSG00000111783	False	False	False	0		17.0	Chordata	7	False	SSD_dispersed	pre2R_ancient
+RFX7	singleton	ENSG00000181827	False	True	True	1	Vertebrata	19.0	Opisthokonta	6	False	WGD_ohnolog	pre2R_ancient
+RFX2	singleton	ENSG00000087903	True	True	True	2	Vertebrata	16.0	Vertebrata	6	True	WGD_ohnolog	2R_vertebrata
+RFX1	singleton	ENSG00000132005	False	True	True	2	Vertebrata	16.0	Vertebrata	6	True	WGD_ohnolog	2R_vertebrata
+RFX8	singleton	ENSG00000196460	False	False	False	0		16.0	Vertebrata	6	True	SSD_dispersed	2R_vertebrata
+RFX6	singleton	ENSG00000185002	False	False	False	0		17.0	Chordata	7	False	SSD_dispersed	pre2R_ancient
+RFX3	singleton	ENSG00000080298	True	True	True	2	Vertebrata	16.0	Vertebrata	6	True	WGD_ohnolog	2R_vertebrata
+NFKB2	singleton	ENSG00000077150	False	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+RELA	singleton	ENSG00000173039	True	True	True	2	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NFATC4	singleton	ENSG00000100968	True	True	True	4	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NFATC3	singleton	ENSG00000072736	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NFAT5	singleton	ENSG00000102908	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NFATC1	singleton	ENSG00000131196	True	True	True	4	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+RELB	singleton	ENSG00000104856	True	True	True	2	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+REL	singleton	ENSG00000162924	True	True	True	2	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NFATC2	singleton	ENSG00000101096	True	True	True	4	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NFKB1	singleton	ENSG00000109320	False	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+RUNX3	singleton	ENSG00000020633	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+RUNX1	singleton	ENSG00000159216	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+RUNX2	singleton	ENSG00000124813	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+GMEB1	singleton	ENSG00000162419	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+DEAF1	singleton	ENSG00000177030	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+SKOR2	singleton	ENSG00000215474	False	False	True	1	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+GMEB2	singleton	ENSG00000101216	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+AIRE	singleton	ENSG00000160224	True	True	True	1	Vertebrata	18.0	Bilateria	5	False	WGD_ohnolog	pre2R_ancient
+ZSCAN20	singleton	ENSG00000121903	False	False	False	0		18.0	Bilateria	38	False	SSD_dispersed	pre2R_ancient
+ZSCAN29	singleton	ENSG00000140265	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZSCAN2	singleton	ENSG00000176371	False	False	True	4	Vertebrata	18.0	Bilateria	38	False	WGD_ohnolog	pre2R_ancient
+ZSCAN10	singleton	ENSG00000130182	False	False	False	0		18.0	Bilateria	176	False	SSD_dispersed	pre2R_ancient
+ZNF232	singleton	ENSG00000167840	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+ZNF444	singleton	ENSG00000167685	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+PEG3	singleton	ENSG00000198300	False	False	False	0		18.0	Bilateria	29	False	SSD_dispersed	pre2R_ancient
+ZSCAN4	singleton	ENSG00000180532	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+ZSCAN22	singleton	ENSG00000182318	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+MZF1	singleton	ENSG00000099326	False	False	False	0		15.0	Euteleostomi	176	True	SSD_dispersed	2R_vertebrata
+ZSCAN9	singleton	ENSG00000137185	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+ZSCAN26	singleton	ENSG00000197062	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+ZSCAN21	singleton	ENSG00000166529	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+ZNF449	singleton	ENSG00000173275	False	False	False	0		16.0	Vertebrata	30	True	SSD_dispersed	2R_vertebrata
+NFIA	singleton	ENSG00000162599	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+SMAD9	singleton	ENSG00000120693	True	True	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+SMAD3	singleton	ENSG00000166949	True	True	True	1	Vertebrata	16.0	Vertebrata	7	True	WGD_ohnolog	2R_vertebrata
+SMAD4	singleton	ENSG00000141646	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+NFIC	singleton	ENSG00000141905	True	True	True	3	Vertebrata	17.0	Chordata	3	False	WGD_ohnolog	pre2R_ancient
+NFIX	singleton	ENSG00000008441	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+SMAD1	singleton	ENSG00000170365	True	True	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+SMAD5	singleton	ENSG00000113658	True	True	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+NFIB	singleton	ENSG00000147862	True	True	True	3	Vertebrata	17.0	Chordata	3	False	WGD_ohnolog	pre2R_ancient
+STAT2	singleton	ENSG00000170581	True	True	True	5	Vertebrata	16.0	Vertebrata	6	True	WGD_ohnolog	2R_vertebrata
+STAT6	singleton	ENSG00000166888	True	True	True	5	Vertebrata	16.0	Vertebrata	6	True	WGD_ohnolog	2R_vertebrata
+TBX15	singleton	ENSG00000092607	False	False	False	0		18.0	Bilateria	16	False	SSD_dispersed	pre2R_ancient
+TBX19	singleton	ENSG00000143178	False	True	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX10	singleton	ENSG00000167800	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+MGA	singleton	ENSG00000174197	False	False	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX6	singleton	ENSG00000149922	False	False	False	0		18.0	Bilateria	16	False	SSD_dispersed	pre2R_ancient
+TBX21	singleton	ENSG00000073861	True	True	True	3	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBR1	singleton	ENSG00000136535	True	True	True	2	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX1	singleton	ENSG00000184058	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+EOMES	singleton	ENSG00000163508	True	True	True	2	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX18	singleton	ENSG00000112837	False	False	False	0		18.0	Bilateria	16	False	SSD_dispersed	pre2R_ancient
+T	singleton	ENSG00000164458	False	True	True	1	Vertebrata	18.0	Bilateria	16	False	WGD_ohnolog	pre2R_ancient
+TBX20	singleton	ENSG00000164532	False	False	False	0		18.0	Bilateria	16	False	SSD_dispersed	pre2R_ancient
+TBX22	singleton	ENSG00000122145	False	False	False	0		18.0	Bilateria	16	False	SSD_dispersed	pre2R_ancient
+TBPL2	singleton	ENSG00000182521	True	True	True	1	Vertebrata	19.0	Opisthokonta	2	False	WGD_ohnolog	pre2R_ancient
+TBPL1	singleton	ENSG00000028839	False	False	False	0		19.0	Opisthokonta	2	False	SSD_dispersed	pre2R_ancient
+TBP	singleton	ENSG00000112592	True	True	True	1	Vertebrata	19.0	Opisthokonta	2	False	WGD_ohnolog	pre2R_ancient
+TEAD1	singleton	ENSG00000187079	True	True	True	2	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+TEAD4	singleton	ENSG00000197905	True	True	True	2	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+TEAD2	singleton	ENSG00000074219	False	False	False	0		17.0	Chordata	3	False	SSD_dispersed	pre2R_ancient
+TEAD3	singleton	ENSG00000007866	True	True	True	2	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+THAP3	singleton	ENSG00000041988	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+THAP12	singleton	ENSG00000137492	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+THAP2	singleton	ENSG00000173451	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+THAP10	singleton	ENSG00000129028	False	False	False	0		18.0	Bilateria	18	False	SSD_dispersed	pre2R_ancient
+THAP11	singleton	ENSG00000168286	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+THAP8	singleton	ENSG00000161277	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+THAP4	singleton	ENSG00000176946	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+THAP7	singleton	ENSG00000184436	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+THAP6	singleton	ENSG00000174796	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+THAP9	singleton	ENSG00000168152	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+THAP5	singleton	ENSG00000177683	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+THAP1	singleton	ENSG00000131931	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+HES4	singleton	ENSG00000188290	False	False	True	1	Vertebrata	19.0	Opisthokonta	12	False	WGD_ohnolog	pre2R_ancient
+HES5	singleton	ENSG00000197921	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+HES3	singleton	ENSG00000173673	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+HES2	singleton	ENSG00000069812	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+HEYL	singleton	ENSG00000163909	True	True	True	2	Vertebrata	19.0	Opisthokonta	12	False	WGD_ohnolog	pre2R_ancient
+MYCL	singleton	ENSG00000116990	True	True	True	2	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+TAL1	singleton	ENSG00000162367	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+NHLH2	singleton	ENSG00000177551	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ARNT	singleton	ENSG00000143437	True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+NHLH1	singleton	ENSG00000171786	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+USF1	singleton	ENSG00000158773	True	True	True	1	Vertebrata	19.0	Opisthokonta	3	False	WGD_ohnolog	pre2R_ancient
+ASCL5	singleton	ENSG00000232237	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+MYOG	singleton	ENSG00000122180	True	True	True	3	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+PTF1A	singleton	ENSG00000168267	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+ATOH7	singleton	ENSG00000179774	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+NEUROG3	singleton	ENSG00000122859	True	True	True	2	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+MXI1	singleton	ENSG00000119950	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+ASCL2	singleton	ENSG00000183734	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ASCL3	singleton	ENSG00000176009	False	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+ARNTL	singleton	ENSG00000133794	False	False	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+MYOD1	singleton	ENSG00000129152	True	True	True	3	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+NPAS4	singleton	ENSG00000174576	False	False	False	0		18.0	Bilateria	7	False	SSD_dispersed	pre2R_ancient
+BHLHE41	singleton	ENSG00000123095	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+ARNTL2	singleton	ENSG00000029153	False	False	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+NEUROD4	singleton	ENSG00000123307	True	True	True	2	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+ASCL1	singleton	ENSG00000139352	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+ASCL4	singleton	ENSG00000187855	False	True	True	1	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+MLXIP	singleton	ENSG00000175727	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+NPAS3	singleton	ENSG00000151322	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+HIF1A	singleton	ENSG00000100644	True	True	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+MAX	singleton	ENSG00000125952	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TCF12	singleton	ENSG00000140262	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ARNT2	singleton	ENSG00000172379	True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+TFAP4	singleton	ENSG00000090447	False	False	False	0		18.0	Bilateria	3	False	SSD_dispersed	pre2R_ancient
+BHLHA9	singleton	ENSG00000205899	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+MNT	singleton	ENSG00000070444	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+HES7	singleton	ENSG00000179111	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+SREBF1	singleton	ENSG00000072310	True	True	True	1	Vertebrata	19.0	Opisthokonta	3	False	WGD_ohnolog	pre2R_ancient
+NEUROD2	singleton	ENSG00000171532	True	True	True	2	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+MLX	singleton	ENSG00000108788	False	False	False	0		18.0	Bilateria	3	False	SSD_dispersed	pre2R_ancient
+TCF4	singleton	ENSG00000196628	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+TCF3	singleton	ENSG00000071564	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+LYL1	singleton	ENSG00000104903	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+USF2	singleton	ENSG00000105698	True	True	True	1	Vertebrata	19.0	Opisthokonta	3	False	WGD_ohnolog	pre2R_ancient
+HIF3A	singleton	ENSG00000124440	True	True	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+NPAS1	singleton	ENSG00000130751	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+MYCN	singleton	ENSG00000134323	True	True	True	2	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+MSGN1	singleton	ENSG00000151379	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+NCOA1	singleton	ENSG00000084676	False	False	False	0		16.0	Vertebrata	2	True	SSD_dispersed	2R_vertebrata
+TCF23	singleton	ENSG00000163792	False	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+EPAS1	singleton	ENSG00000116016	True	True	True	2	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+MXD1	singleton	ENSG00000059728	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+FIGLA	singleton	ENSG00000183733	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+ATOH8	singleton	ENSG00000168874	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+NPAS2	singleton	ENSG00000170485	True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+NEUROD1	singleton	ENSG00000162992	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+HES6	singleton	ENSG00000144485	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+TWIST2	singleton	ENSG00000233608	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+TCF15	singleton	ENSG00000125878	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+NCOA3	singleton	ENSG00000124151	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+TCFL5	singleton	ENSG00000101190	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+BHLHE23	singleton	ENSG00000125533	True	True	True	1	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+SIM2	singleton	ENSG00000159263	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+SREBF2	singleton	ENSG00000198911	True	True	True	1	Vertebrata	19.0	Opisthokonta	3	False	WGD_ohnolog	pre2R_ancient
+BHLHE40	singleton	ENSG00000134107	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+MITF	singleton	ENSG00000187098	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+USF3	singleton	ENSG00000176542	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+HES1	singleton	ENSG00000114315	False	False	True	1	Vertebrata	19.0	Opisthokonta	12	False	WGD_ohnolog	pre2R_ancient
+MXD4	singleton	ENSG00000123933	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+CLOCK	singleton	ENSG00000134852	True	True	True	1	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+ATOH1	singleton	ENSG00000172238	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+NEUROG2	singleton	ENSG00000178403	True	True	True	2	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+HAND2	singleton	ENSG00000164107	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+HELT	singleton	ENSG00000187821	False	False	False	0		19.0	Opisthokonta	12	False	SSD_dispersed	pre2R_ancient
+AHRR	singleton	ENSG00000063438	True	True	True	1	Vertebrata	17.0	Chordata	1	False	WGD_ohnolog	pre2R_ancient
+NEUROG1	singleton	ENSG00000181965	True	True	True	2	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+HAND1	singleton	ENSG00000113196	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+MXD3	singleton	ENSG00000213347	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+TFEB	singleton	ENSG00000112561	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+SIM1	singleton	ENSG00000112246	True	True	True	1	Vertebrata	18.0	Bilateria	7	False	WGD_ohnolog	pre2R_ancient
+HEY2	singleton	ENSG00000135547	True	True	True	2	Vertebrata	19.0	Opisthokonta	12	False	WGD_ohnolog	pre2R_ancient
+TCF21	singleton	ENSG00000118526	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+OLIG3	singleton	ENSG00000177468	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+AHR	singleton	ENSG00000106546	True	True	True	1	Vertebrata	17.0	Chordata	1	False	WGD_ohnolog	pre2R_ancient
+NEUROD6	singleton	ENSG00000164600	True	True	True	2	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+MLXIPL	singleton	ENSG00000009950	True	True	True	1	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+BHLHA15	singleton	ENSG00000180535	False	False	False	0		18.0	Bilateria	15	False	SSD_dispersed	pre2R_ancient
+TFEC	singleton	ENSG00000105967	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+BHLHE22	singleton	ENSG00000180828	True	True	True	1	Vertebrata	18.0	Bilateria	15	False	WGD_ohnolog	pre2R_ancient
+TCF24	singleton	ENSG00000261787	False	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+NCOA2	singleton	ENSG00000140396	False	False	True	1	Vertebrata	16.0	Vertebrata	1	True	WGD_ohnolog	2R_vertebrata
+MSC	singleton	ENSG00000178860	True	True	True	1	Vertebrata	18.0	Bilateria	13	False	WGD_ohnolog	pre2R_ancient
+HEY1	singleton	ENSG00000164683	True	True	True	2	Vertebrata	19.0	Opisthokonta	12	False	WGD_ohnolog	pre2R_ancient
+MYC	singleton	ENSG00000136997	True	True	True	2	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+SCX	singleton	ENSG00000260428	False	False	False	0		18.0	Bilateria	13	False	SSD_dispersed	pre2R_ancient
+TAL2	singleton	ENSG00000186051	False	False	False	0		18.0	Bilateria	4	False	SSD_dispersed	pre2R_ancient
+SOHLH1	singleton	ENSG00000165643	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TFE3	singleton	ENSG00000068323	True	True	True	3	Vertebrata	18.0	Bilateria	3	False	WGD_ohnolog	pre2R_ancient
+JUN	singleton	ENSG00000177606	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+CREB3L4	singleton	ENSG00000143578	True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+ATF6	singleton	ENSG00000118217	False	True	True	1	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+ATF3	singleton	ENSG00000162772	True	True	True	1	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+BATF3	singleton	ENSG00000123685	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+CREM	singleton	ENSG00000095794	True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+CREB3L1	singleton	ENSG00000157613	True	True	True	1	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+BATF2	singleton	ENSG00000168062	False	False	False	0		18.0	Bilateria	8	False	SSD_dispersed	pre2R_ancient
+FOSL1	singleton	ENSG00000175592	True	True	True	3	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+CREBZF	singleton	ENSG00000137504	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+CREBL2	singleton	ENSG00000111269	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+ATF1	singleton	ENSG00000123268	True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+NFE2	singleton	ENSG00000123405	True	True	True	4	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+DDIT3	singleton	ENSG00000175197	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+CEBPE	singleton	ENSG00000092067	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+NRL	singleton	ENSG00000129535	True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+MAF	singleton	ENSG00000178573	True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+NFE2L1	singleton	ENSG00000082641	True	True	True	5	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+HLF	singleton	ENSG00000108924	False	True	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+MAFG	singleton	ENSG00000197063	True	True	True	2	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+CREB3L3	singleton	ENSG00000060566	True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+JUNB	singleton	ENSG00000171223	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+JUND	singleton	ENSG00000130522	True	True	True	2	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+FOSB	singleton	ENSG00000125740	True	True	True	3	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+DBP	singleton	ENSG00000105516	False	True	True	1	Vertebrata	18.0	Bilateria	2	False	WGD_ohnolog	pre2R_ancient
+ATF5	singleton	ENSG00000169136	False	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+FOSL2	singleton	ENSG00000075426	True	True	True	3	Vertebrata	18.0	Bilateria	8	False	WGD_ohnolog	pre2R_ancient
+ATF2	singleton	ENSG00000115966	True	True	True	2	Vertebrata	19.0	Opisthokonta	2	False	WGD_ohnolog	pre2R_ancient
+NFE2L2	singleton	ENSG00000116044	True	True	True	5	Vertebrata	17.0	Chordata	2	False	WGD_ohnolog	pre2R_ancient
+CREB1	singleton	ENSG00000118260	True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+MAFB	singleton	ENSG00000204103	True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+CEBPB	singleton	ENSG00000172216	True	True	True	3	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+BACH1	singleton	ENSG00000156273	True	True	True	4	Vertebrata	18.0	Bilateria	54	False	WGD_ohnolog	pre2R_ancient
+XBP1	singleton	ENSG00000100219	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MAFF	singleton	ENSG00000185022	True	True	True	2	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+ATF4	singleton	ENSG00000128272	False	True	True	1	Vertebrata			0	False	WGD_ohnolog	no_paralog_node
+TEF	singleton	ENSG00000167074	False	False	False	0		18.0	Bilateria	2	False	SSD_dispersed	pre2R_ancient
+ATF6B	singleton	ENSG00000213676	False	True	True	1	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+BACH2	singleton	ENSG00000112182	True	True	True	1	Vertebrata	18.0	Bilateria	54	False	WGD_ohnolog	pre2R_ancient
+MAFK	singleton	ENSG00000198517	True	True	True	2	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+NFE2L3	singleton	ENSG00000050344	True	True	True	3	Vertebrata	16.0	Vertebrata	3	True	WGD_ohnolog	2R_vertebrata
+CREB5	singleton	ENSG00000146592	False	False	True	2	Vertebrata	19.0	Opisthokonta	2	False	WGD_ohnolog	pre2R_ancient
+CREB3L2	singleton	ENSG00000182158	True	True	True	1	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+CEBPD	singleton	ENSG00000221869	True	True	True	4	Vertebrata	18.0	Bilateria	4	False	WGD_ohnolog	pre2R_ancient
+MAFA	singleton	ENSG00000182759	True	True	True	3	Vertebrata	18.0	Bilateria	6	False	WGD_ohnolog	pre2R_ancient
+CREB3	singleton	ENSG00000107175	True	True	True	2	Vertebrata	18.0	Bilateria	9	False	WGD_ohnolog	pre2R_ancient
+NFIL3	singleton	ENSG00000165030	False	False	False	0		18.0	Bilateria	1	False	SSD_dispersed	pre2R_ancient
+MTERF2	singleton	ENSG00000120832	False	False	False	0		16.0	Vertebrata	1	True	SSD_dispersed	2R_vertebrata
+MTERF4	singleton	ENSG00000122085	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+MTERF1	singleton	ENSG00000127989	False	False	False	0		16.0	Vertebrata	1	True	SSD_dispersed	2R_vertebrata
+MTERF3	singleton	ENSG00000156469	False	False	False	0				0	False	SSD_dispersed	no_paralog_node
+TP73	singleton	ENSG00000078900	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+TP53	singleton	ENSG00000141510	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata
+TP63	singleton	ENSG00000073282	True	True	True	2	Vertebrata	16.0	Vertebrata	2	True	WGD_ohnolog	2R_vertebrata

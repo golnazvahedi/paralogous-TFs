@@ -1,0 +1,9 @@
+panel	group	n_pairs	median_B	frac_buffered_B_lt1	median_marginal_r	median_partial_r	frac_compensating_pr_lt0	p_partial_r_vs_null	p_B_vs_null	note
+per_category	dispersed_ohnolog	4177	1.003	0.481	0.005	0.002	0.495	0.9747502930615961	0.010492413975585355	
+per_category	clustered_cis_ohnolog	194	0.998	0.51	-0.002	-0.019	0.541	0.5399133207767705	0.8790998335137516	
+per_category	clustered_SSD_tandem	302	1.014	0.474	0.026	-0.003	0.507	0.8644535771117945	0.018224508335256254	
+per_category	dispersed_SSD	7338	1.001	0.493	0.003	-0.011	0.519	0.3490389058429242	0.20660302397735808	
+null	random_cross_family	3000	0.999	0.507		-0.008	0.518			
+test	KruskalWallis_B_4cat	12011							0.13856528171354482	
+neighbor_cis_vs_SSD	buffering_index_B	43	1.018						0.03781888606158265	cis median=1.02 (n=28) vs SSD-tandem median=1.23 (n=15)
+neighbor_cis_vs_SSD	partial_r	43				0.002			0.0646788973747446	cis median=0.00 (n=28) vs SSD-tandem median=0.35 (n=15)

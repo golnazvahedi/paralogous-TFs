@@ -1,0 +1,11 @@
+gene	dup_class4	TF_subfamily	hgnc_locus_type	removal_reason
+ZNF788	clustered_SSD_tandem	C2H2 ZF	pseudogene	pseudogene
+ZNF705E	dispersed_SSD	C2H2 ZF	pseudogene	pseudogene
+ZNF286B	dispersed_SSD	C2H2 ZF	pseudogene	pseudogene
+ZNF781	dispersed_SSD	C2H2 ZF	pseudogene	pseudogene
+CENPBD1	dispersed_SSD	CENPB	pseudogene	pseudogene
+BORCS8-MEF2B	clustered_cis_ohnolog	MADS box	readthrough	readthrough
+CCDC169-SOHLH2	clustered_SSD_tandem	bHLH	readthrough	readthrough
+AC138696.1	clustered_cis_ohnolog	C2H2 ZF	NOT_IN_HGNC	uncharacterized_clone
+AC023509.3	clustered_cis_ohnolog	bZIP	NOT_IN_HGNC	uncharacterized_clone
+AC008770.3	dispersed_SSD	C2H2 ZF	NOT_IN_HGNC	uncharacterized_clone
