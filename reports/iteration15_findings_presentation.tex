@@ -1,0 +1,263 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+\usetheme{default}
+\usecolortheme{default}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+% ---- palette (matches the analysis figures) ----
+\definecolor{ohnolog}{HTML}{2166AC}   % dispersed ohnolog (blue)
+\definecolor{cisohno}{HTML}{5AAE61}   % clustered cis-ohnolog (green)
+\definecolor{ssdtan}{HTML}{762A83}    % clustered SSD-tandem (purple)
+\definecolor{dispssd}{HTML}{9E9E9E}   % dispersed SSD (grey)
+\definecolor{accent}{HTML}{B2182B}    % OR / emphasis (red)
+\definecolor{ink}{HTML}{1A1A1A}
+
+\setbeamercolor{frametitle}{fg=ohnolog,bg=white}
+\setbeamercolor{title}{fg=ohnolog}
+\setbeamercolor{structure}{fg=ohnolog}
+\setbeamercolor{normal text}{fg=ink}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{frametitle}{\vspace{0.35em}\usebeamerfont{frametitle}\usebeamercolor[fg]{frametitle}\insertframetitle\par\vspace{-0.2em}\hrule height 1.2pt\vspace{0.2em}}
+\setbeamertemplate{itemize item}{\color{ohnolog}\textbullet}
+\setbeamertemplate{itemize subitem}{\color{cisohno}--}
+\setbeamerfont{frametitle}{size=\large,series=\bfseries}
+\setbeamertemplate{footline}{\hfill\tiny\color{gray}\insertframenumber\hspace{1em}\vspace{0.5em}}
+
+\newcommand{\OR}[1]{\textcolor{accent}{\textbf{OR=#1}}}
+\newcommand{\cat}[2]{\textcolor{#1}{\textbf{#2}}}
+\newcommand{\fig}[2]{\begin{center}\includegraphics[width=#2\linewidth]{../results/figures/#1}\end{center}}
+
+\title{\bfseries The Buffering Code}
+\subtitle{Genome-duplication history reorganizes the immune-disease genetics of paralogous transcription factors}
+\author{iteration15 --- human-only paralogous-TF duplication analysis}
+\date{2026-07-01}
+
+\begin{document}
+
+{\setbeamertemplate{footline}{}
+\begin{frame}[plain]
+  \titlepage
+  \vspace{-1.2em}
+  \begin{center}\footnotesize\color{gray}
+  1{,}153 paralogous TFs $\times$ \{provenance, arrangement\} $\times$ \{PBMC, spleen, cytokine, dosage, monogenic, polygenic\}
+  \end{center}
+\end{frame}}
+
+% ---------------------------------------------------------------
+\begin{frame}{The one idea}
+\large
+The unit of immune-disease genetics may not be the \emph{gene} but the
+\textbf{buffered paralog pair}.
+
+\vspace{1em}
+\normalsize
+Two independent axes of a gene's duplication history:
+\begin{itemize}
+  \item \textbf{PROVENANCE} --- \cat{ohnolog}{2R whole-genome-duplication ohnolog} vs.\ small-scale duplicate (SSD)
+  \item \textbf{ARRANGEMENT} --- \cat{cisohno}{clustered} (a co-regulated neighbor buffers the sibling) vs.\ \textbf{dispersed}
+\end{itemize}
+
+\vspace{0.8em}
+\begin{center}
+\setlength{\tabcolsep}{10pt}\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{lcc}
+\toprule
+ & \textbf{clustered (buffered)} & \textbf{dispersed (unbuffered)} \\
+\midrule
+\textbf{ohnolog} & \cat{cisohno}{clustered\_cis\_ohnolog} (106) & \cat{ohnolog}{dispersed\_ohnolog} (524) \\
+\textbf{SSD}     & \cat{ssdtan}{clustered\_SSD\_tandem} (73)   & \cat{dispssd}{dispersed\_SSD} (450) \\
+\bottomrule
+\end{tabular}
+\end{center}
+\vspace{0.5em}
+\footnotesize KRAB-ZNF + HOX arrays removed up front. \texttt{dup\_class4} in \texttt{TF\_dup\_2x2\_classification.tsv}.
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Design: one denominator, one test}
+\begin{itemize}
+  \item \textbf{Universe:} the 1{,}153 classified paralogous TFs (or its detectable subset $\cap$ single-cell \texttt{var\_names}).
+  \item \textbf{Test:} for each category, a one-vs-rest Fisher exact odds ratio (OR, 95\% CI, BH-FDR) \emph{within} that universe.
+  \item \textbf{Contrasts:} \cat{ohnolog}{ohnolog vs SSD} (provenance) and \textbf{clustered vs dispersed} (arrangement/buffering).
+\end{itemize}
+\vspace{0.6em}
+\begin{block}{Six readouts, one framework}
+PBMC identity $\cdot$ spleen identity $\cdot$ cytokine response $\cdot$ dosage buffering $\cdot$
+\textbf{monogenic disease (IEI)} $\cdot$ \textbf{polygenic disease (GWAS)} $\cdot$ \textbf{dosage sensitivity (MRDS)}
+\end{block}
+\vspace{0.4em}
+\footnotesize The recurring question: \emph{is a signal a property of PROVENANCE (being an ohnolog) or of BUFFERING (being clustered)?}
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Cell-identity DEGs: a property of \emph{dispersed} ohnologs}
+\fig{TF_dup4_DEG_OR.pdf}{0.86}
+\vspace{-0.3em}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\footnotesize
+\textbf{PBMC identity markers}
+\begin{itemize}\footnotesize
+  \item \cat{ohnolog}{dispersed\_ohnolog}: 28.7\%, \OR{1.79} (FDR-sig)
+  \item clustering \emph{erases} it: within-ohnolog clustered-vs-dispersed \OR{0.47}
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\footnotesize
+\textbf{Spleen identity markers} (reproduces)
+\begin{itemize}\footnotesize
+  \item \cat{ohnolog}{dispersed\_ohnolog}: \OR{2.87} (p=2e-7)
+  \item within-ohnolog clustered-vs-dispersed \OR{0.33}
+\end{itemize}
+\end{column}
+\end{columns}
+\vspace{0.4em}
+\centering\small Identity is carried by \textbf{unbuffered} ohnologs; a buffering neighbor cancels the signal.
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Cytokine response: ohnolog provenance \emph{survives} clustering}
+\fig{TF_dup4_cytokine_DEG_OR.pdf}{0.82}
+\vspace{-0.2em}
+\begin{itemize}\small
+  \item \cat{ohnolog}{dispersed\_ohnolog} most enriched (37.5\%, \OR{1.67}, FDR-sig).
+  \item BUT \cat{cisohno}{clustered\_cis\_ohnolog} stays high (29.2\%, ns vs dispersed) --- unlike identity.
+  \item marginal ohnolog-vs-SSD \OR{1.63} (p=2e-4); clustered-vs-dispersed \textbf{ns}.
+\end{itemize}
+\centering\small \textbf{Clustering converts a 2R ohnolog from an identity factor into a dedicated cytokine EFFECTOR} (the ETS/STAT clustered cis-ohnologs).
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Where buffering actually lives: specific clustered pairs}
+\begin{columns}
+\begin{column}{0.52\textwidth}
+\fig{cytokine_dosage_buffering_by_category.pdf}{1.0}
+\end{column}
+\begin{column}{0.48\textwidth}
+\small
+Buffering is \emph{not} a category-level trait (every category median $B\approx1.0$), but the two
+\textbf{clustered} categories diverge among neighbors:
+\begin{itemize}\small
+  \item \cat{ssdtan}{SSD-tandem} neighbors co-\textbf{AMPLIFY}: SAND \textit{SP100/110/140/140L} $B$ 1.4--1.8, partial $r$ up to 0.82.
+  \item \cat{cisohno}{cis-ohnolog} harbor the cleanest \textbf{BUFFER}: \textit{STAT1/STAT4} $B{=}0.78$, partial $r{=}-0.41$.
+\end{itemize}
+\vspace{0.3em}
+cis-vs-SSD neighbor $B$ contrast p$\approx$0.038.
+\end{column}
+\end{columns}
+\vspace{0.2em}
+\centering\footnotesize Buffering (STAT) vs amplification (SAND) are the signatures of the two clustered categories.
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Clustered cis-ohnologs really do co-express (single-cell PBMC)}
+\fig{TF_cluster_coexpression.pdf}{0.9}
+\vspace{-0.3em}
+\begin{itemize}\small
+  \item \cat{cisohno}{cis-ohnolog} clusters: tighter joint on/off + dominant-member skew (median top-share 0.92 vs 0.73 for \cat{ssdtan}{SSD-tandem}; Mann-Whitney p=5e-14).
+  \item \textit{ETS1/FLI1} co-active in all 15 cell types (all-on 1.00, never single) --- the archetypal buffered pair.
+\end{itemize}
+\centering\small The empirical readout behind ``buffering'': a co-regulated neighbor is actually on when its sibling is.
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Alpha vs beta ohnologs (Zhu \emph{et al.} Nature 2026)}
+\fig{TF_alpha_beta_DEG_OR.pdf}{0.82}
+\vspace{-0.2em}
+\begin{itemize}\small
+  \item 451 detectable ohnolog TFs labeled = 343 alpha / 108 beta (3.2:1 --- reproduces the alpha-retention bias).
+  \item Zhu's \textbf{ohnolog $>$ SSD} REPLICATES in PBMC (both lineages beat dispersed\_SSD).
+  \item BUT the \textbf{alpha $>$ beta} brain asymmetry does NOT: alpha-vs-beta ns for both modalities.
+\end{itemize}
+\centering\small Robust claim = ohnolog$>$SSD; within-ohnolog alpha/beta contrasts are trends (beta $n$ small).
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Monogenic immune disease (IEI): a PROVENANCE property}
+\fig{TF_IEI_disease_enrichment.pdf}{0.82}
+\vspace{-0.2em}
+\begin{itemize}\small
+  \item 42/1{,}153 paralogous TFs are green IEI genes. \cat{ohnolog}{dispersed\_ohnolog} \OR{3.53} (p=2e-4).
+  \item \cat{ohnolog}{ohnolog}-vs-SSD \OR{4.34} (p=1e-4); pre-R1-ancient-vs-younger \OR{3.40}.
+  \item clustered-vs-dispersed (buffered vs unbuffered) \textbf{ns} (OR=0.73).
+\end{itemize}
+\centering\small \textit{SPI1}/PU.1 + \textit{ELF4} + \textit{GATA2} + \textit{IRF8} are dispersed-ohnolog green IEI genes.
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Dosage sensitivity (MRDS): the same PROVENANCE signal, sharper}
+\fig{TF_dosage_sensitive_enrichment.pdf}{0.82}
+\vspace{-0.2em}
+\begin{itemize}\small
+  \item 118/1{,}153 (10.2\%) are dosage-sensitive (Wang \emph{et al.} 2019). \cat{ohnolog}{dispersed\_ohnolog}: 18.1\%, \OR{5.83} (FDR=9e-16).
+  \item \cat{ohnolog}{ohnolog}-vs-SSD \OR{11.95} (p=6e-21) --- the dominant axis. Both SSD groups \textbf{depleted} (\cat{ssdtan}{tandem} 0/73).
+  \item clustered-vs-dispersed \textbf{ns} (OR=0.71); alpha/beta \& origin-age ns.
+\end{itemize}
+\centering\small Dosage sensitivity tracks being an ohnolog --- not being buffered. (An orthogonal, non-disease annotation.)
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Polygenic disease (GWAS): the monogenic\,$\rightarrow$\,polygenic FLIP}
+\fig{TF_GWAS_disease_enrichment.pdf}{0.82}
+\vspace{-0.3em}
+\begin{itemize}\small
+  \item 245/1{,}153 (21\%) are GWAS genes (5 complex immune diseases).
+  \item \cat{cisohno}{clustered\_cis\_ohnolog} is the \textbf{MOST GWAS-enriched} category (29.2\%, \OR{1.61}, p=0.045)\ldots
+  \item \ldots despite being at \textbf{background for monogenic IEI} (3.8\%). \textit{ETS1/FLI1/ERG}, \textit{STAT5A}, \textit{BATF} --- lupus/allergy loci, not Mendelian.
+\end{itemize}
+\centering\small \textbf{Buffering converts a monogenic dosage gene into a polygenic risk locus.}
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{The synthesis: two knobs, two disease modes}
+\small
+\begin{center}
+\setlength{\tabcolsep}{7pt}\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Readout} & \cat{ohnolog}{disp.\ ohnolog} & \cat{cisohno}{clust.\ cis-ohno} & \cat{ssdtan}{clust.\ SSD-tan} & \cat{dispssd}{disp.\ SSD} \\
+\midrule
+PBMC identity (OR)      & \textbf{1.79}$^\ast$ & 0.61 & 0.64 & 0.70 \\
+Spleen identity (OR)    & \textbf{2.87}$^\ast$ & 0.51 & 0.60 & 0.42 \\
+Cytokine response (OR)  & \textbf{1.67}$^\ast$ & 0.89 & 0.59 & 0.68 \\
+Monogenic IEI (OR)      & \textbf{3.53}$^\ast$ & 1.04 & 0.35 & 0.25 \\
+Dosage-sensitive (OR)   & \textbf{5.83}$^\ast$ & 1.38 & 0.06 & 0.11 \\
+Polygenic GWAS (OR)     & 1.54 & \textbf{1.61}$^\ast$ & 0.64 & 0.49 \\
+\bottomrule
+\end{tabular}
+\end{center}
+\vspace{0.4em}
+\begin{itemize}
+  \item \cat{ohnolog}{PROVENANCE (ohnolog)} sets \textbf{dosage sensitivity, monogenic disease, and cell identity}.
+  \item \cat{cisohno}{BUFFERING (clustering)} \emph{cancels} identity/monogenic signal and \textbf{shifts disease to polygenic}.
+  \item \cat{ssdtan}{SSD} is dosage-\emph{insensitive} throughout; tandem SSD amplifies rather than buffers.
+\end{itemize}
+\centering\footnotesize $^\ast$ FDR / p $<$ 0.05, one-vs-rest within the paralogous-TF universe.
+\end{frame}
+
+% ---------------------------------------------------------------
+\begin{frame}{Why it matters}
+\begin{itemize}
+  \item A single evolutionary axis --- \cat{ohnolog}{2R ohnolog provenance} --- predicts which paralogous TFs are \textbf{dosage-sensitive} and \textbf{monogenic-disease} genes, \emph{before any patient is sequenced}.
+  \item A second axis --- \cat{cisohno}{cis-clustering / buffering} --- \textbf{re-routes} the same class of gene from Mendelian to polygenic (the \textit{ETS1/FLI1} autoimmunity pole).
+  \item Suggests buffering is a measurable, cell-type-specific variable behind penetrance and the immunodeficiency\,$\leftrightarrow$\,autoinflammation\,$\leftrightarrow$\,autoimmunity spectrum.
+\end{itemize}
+\vspace{0.6em}
+\footnotesize\textbf{Caveats:} enrichment is WITHIN the paralogous-TF universe (not genome-wide), denominators are not expression-matched; provenance uses conservative OHNOLOGS v2 + cis-rescue; GWAS is nearest-gene, MHC-excluded; small clustered $n$ $\Rightarrow$ within-clustered contrasts are trends.
+\end{frame}
+
+% ---------------------------------------------------------------
+{\setbeamertemplate{footline}{}
+\begin{frame}[plain]
+\vfill
+\begin{center}
+{\LARGE\bfseries\color{ohnolog} The buffering code}\\[0.6em]
+{\large ``which buffered network failed, in which cell, and how do we re-balance it?''}\\[1.2em]
+{\footnotesize\color{gray} iteration15 $\cdot$ scripts 01--17 $\cdot$ \texttt{TF\_dup\_2x2\_classification.tsv} + 8 enrichment analyses}
+\end{center}
+\vfill
+\end{frame}}
+
+\end{document}
