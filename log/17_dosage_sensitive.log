@@ -1,0 +1,22 @@
+[17] MRDS dosage-sensitive genes: 853 symbols (122 annotated Is-TF=Yes); mapped to 852 HGNC ids
+[17] paralogous TFs that are dosage-sensitive (MRDS): 118/1153 (10.2%)
+[17] per-category dosage-sensitive rate + one-vs-rest OR:
+                            test   n    rate1       OR    ci_lo    ci_hi            p       fdr_bh
+    onevsrest__dispersed_ohnolog 524 0.181298 5.834600 3.639452 9.353758 2.291764e-16 9.167057e-16
+onevsrest__clustered_cis_ohnolog 106 0.132075 1.379808 0.759047 2.508237 3.112342e-01 3.112342e-01
+ onevsrest__clustered_SSD_tandem  73 0.000000 0.055254 0.003401 0.897625 4.751039e-04 6.334719e-04
+        onevsrest__dispersed_SSD 450 0.020000 0.111215 0.055736 0.221919 6.584755e-16 1.316951e-15
+[17] headline contrasts:
+                                      test    rate1    rate2        OR    ci_lo     ci_hi            p              note
+buffered_clustered_vs_unbuffered_dispersed 0.078212 0.106776  0.709790 0.396510  1.270592 2.842347e-01 14/179 vs 104/974
+                            ohnolog_vs_SSD 0.173016 0.017208 11.948390 5.989399 23.836118 5.807982e-21  109/630 vs 9/523
+                             alpha_vs_beta 0.201166 0.157407  1.348003 0.753779  2.410672 3.992372e-01  69/343 vs 17/108
+                  preR1_ancient_vs_younger 0.111409 0.085784  1.336167 0.882409  2.023262 1.870540e-01  83/745 vs 35/408
+[17] dosage-sensitive paralogous TFs by category:
+  dispersed_ohnolog (95): ARID3B, ARNT, ARNTL, BCL11B, CLOCK, CUX2, DPF1, E2F1, E2F8, EMX2, ESR1, ESRRG, ETV6, FOXJ2, FOXJ3, FOXO1, GATA2, GCM1, GRHL1, GRHL2, GRHL3, HEY1, HIF1A, HIVEP1, HIVEP2, HNF1B, HNF4A, IKZF2, IKZF3, IKZF4, IRF8, KLF6, KLF7, L3MBTL3, LCORL, LEF1, LHX2, LHX6, LHX9, MBD2, MBNL2, MECOM, MITF, MYCN, NFATC3, NFATC4, NFIB, NFIX, NR2C1, NR2C2, NR2F2, NR4A1, NR4A2, NR5A2, ONECUT2, PAX5, PAX8, POU2F1, PPARD, PRDM16, RARA, RARG, REL, RFX1, RFX2, RORA, RORB, RORC, RUNX2, RXRB, RXRG, SALL1, SIM1, SOX9, TBX21, TCF4, TET3, TFAP2A, TFAP2C, TFCP2L1, TFEB, TP63, TRERF1, USF2, ZEB1, ZEB2, ZFHX4, ZFPM2, ZNF362, ZNF423, ZNF608, ZNF609, ZNF629, ZNF687, ZNF704
+  clustered_cis_ohnolog (14): DLX1, KLF12, LMX1A, NR1D1, RARB, SP1, SP2, SP4, STAT3, TBX2, TBX3, TBX5, TFAP2D, THRB
+  clustered_SSD_tandem (0): 
+  dispersed_SSD (9): ELK1, FOXP2, NCOA1, RFX4, RLF, TBX18, ZBTB17, ZBTB18, ZNF710
+[17] dosage-sensitive AND monogenic-IEI (8): GATA2, IKZF2, IKZF3, IRF8, MECOM, REL, RORC, STAT3
+[17] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_dosage_sensitive_enrichment.pdf/.png
+[17] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dosage_sensitive_genes.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_dosage_sensitive_enrichment.summary.tsv

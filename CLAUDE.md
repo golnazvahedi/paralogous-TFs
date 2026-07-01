@@ -307,6 +307,34 @@ core sequence.
     not Mendelian = the Vahedi autoimmunity pole. CAVEAT: nearest-gene mapping (not fine-mapped),
     MHC excluded, enrichment within the paralogous-TF universe.
 
+########################################## Part VIII — Dosage-sensitive (MRDS) gene enrichment ##########################################
+
+  - `17_dosage_sensitive_gene_enrichment.py`. Intersects the 4-group catalog with curated
+    DOSAGE-SENSITIVE genes and asks which duplication category is enriched — the direct test of
+    the dosage thesis against an orthogonal (not-disease-derived) sensitivity annotation.
+    Dosage-sensitive set = MRDS genes (Wang et al., Front. Genet. 2019,
+    doi:10.3389/fgene.2019.01208), Table S1 "List of MRDS genes" read from
+    `inputs/Data Sheet 1.XLSX` (sheet "Table S1", header on row 2; 853 genes, 122 Is-TF=Yes).
+    Match by HGNC ID (catalog symbol→hgnc_id via `inputs/hgnc_complete_set.txt` incl.
+    alias/prev; symbol fallback). Universe = full classified catalog (1153); one-vs-rest Fisher
+    OR (+BH-FDR) WITHIN that universe + the same headline contrasts as 13/15; merges alpha/beta
+    lineage (12), gene-origin window (05d), and the IEI flag (13). Inputs:
+    `TF_dup_2x2_classification.tsv`, `inputs/Data Sheet 1.XLSX`, `inputs/hgnc_complete_set.txt`,
+    `TF_ohnolog_alpha_beta.tsv`, `TF_gene_origin_age_2R.full.tsv`, `TF_IEI_disease_genes.tsv`.
+    Outputs: `results/TF_dosage_sensitive_genes.tsv` (per-TF annot + flags),
+    `results/TF_dosage_sensitive_enrichment.summary.tsv`,
+    `results/figures/TF_dosage_sensitive_enrichment.{pdf,png}`.
+    RESULT (dosage sensitivity is a PROVENANCE property, mirrors IEI): 118/1153 (10.2%)
+    paralogous TFs are dosage-sensitive. dispersed_ohnolog strongly enriched (18.1%, OR=5.83,
+    FDR=9e-16); ohnolog-vs-SSD OR=11.95 (p=6e-21) is the dominant axis. BOTH SSD groups depleted
+    (dispersed_SSD 2.0% OR=0.11; clustered_SSD_tandem 0/73, OR≈0.06 continuity-corrected).
+    clustered_cis_ohnolog at background (13.2%, ns) and clustered-vs-dispersed (buffered vs
+    unbuffered) ns (OR=0.71) — arrangement/buffering does NOT drive dosage sensitivity; alpha/beta
+    and origin-age also ns. 8 TFs are dosage-sensitive AND monogenic IEI (GATA2, IKZF2, IKZF3,
+    IRF8, MECOM, REL, RORC, STAT3) = the unbuffered-ohnolog→Mendelian archetypes. CAVEAT:
+    enrichment WITHIN the paralogous-TF universe; MRDS is a mouse-conservation/dN-dS-derived
+    dosage-sensitivity call, not expression-matched.
+
 ### How to run (from the iteration root)
 ```
 PY=/mnt/alvand/apps/anaconda2/envs/py3/bin/python3
@@ -330,6 +358,7 @@ $PY scripts/12_alpha_beta_ohnolog_DEG_OR.py               # Part V: alpha/beta o
 $PY scripts/13_IEI_disease_gene_enrichment.py            # Part VI: monogenic immune-disease (IEI) enrichment
 $PY scripts/14_gwas_curate_immune_disease_genes.py       # Part VII: curate GWAS genes (5 complex diseases; reads iteration7 catalog)
 $PY scripts/15_gwas_TF_enrichment.py                     # Part VII: GWAS enrichment by category + monogenic-vs-polygenic flip
+$PY scripts/17_dosage_sensitive_gene_enrichment.py       # Part VIII: dosage-sensitive (MRDS) gene enrichment by category
 ```
 
 ### CAVEATS to carry
