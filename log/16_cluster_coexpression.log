@@ -1,0 +1,21 @@
+[16] clusters with >=2 detectable members: 74 (45 cis-ohnolog, 29 SSD-tandem)
+[16] reading /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/intermediate/h5ad/human_pbmc.h5ad (backed) ...
+[16] per-cell library size (chunked) ...
+[16] active (cluster x cell-type) instances: 367
+[16] per-category summary:
+      view            dup_class4  n_instances  pct_all_on  pct_single_on  pct_one_dominant  mean_frac_on  mean_top_share  median_top_share
+ all_sizes clustered_cis_ohnolog          197    0.233503       0.690355          0.720812      0.583333        0.866748          0.924813
+ all_sizes  clustered_SSD_tandem          170    0.317647       0.494118          0.417647      0.656863        0.719542          0.734062
+pairs_only clustered_cis_ohnolog          122    0.262295       0.737705          0.778689      0.631148        0.898233          0.981415
+pairs_only  clustered_SSD_tandem          113    0.336283       0.663717          0.610619      0.668142        0.811860          0.844596
+[16] tests (cis-ohnolog vs SSD-tandem):
+      view  fisher_all_on_p  fisher_single_on_p  mannwhitney_top_share_p  cis_pct_all_on  ssd_pct_all_on  cis_median_top_share  ssd_median_top_share
+ all_sizes         0.078394            0.000176             5.128735e-14        0.233503        0.317647              0.924813              0.734062
+pairs_only         0.253852            0.253852             2.529436e-07        0.262295        0.336283              0.981415              0.844596
+[16] notable clusters (per-cluster co-expression):
+  SP100|SP110|SP140|SP140L [SSD-tandem]: active in 15 cts, all_on 0.67, single_on 0.07, mean top_share 0.48
+  STAT3|STAT5A|STAT5B [cis-ohnolog]: active in 15 cts, all_on 0.73, single_on 0.07, mean top_share 0.60
+  ETS1|FLI1 [cis-ohnolog]: active in 15 cts, all_on 1.00, single_on 0.00, mean top_share 0.78
+  STAT1|STAT4 [cis-ohnolog]: active in 14 cts, all_on 0.57, single_on 0.43, mean top_share 0.81
+[16] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/figures/TF_cluster_coexpression.pdf/.png
+[16] wrote /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_cluster_coexpression.per_instance.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_cluster_coexpression.per_cluster.tsv / /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration15_06.29.2026/results/TF_cluster_coexpression.summary.tsv

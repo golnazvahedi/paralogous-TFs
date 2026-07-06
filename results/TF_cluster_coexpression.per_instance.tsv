@@ -1,0 +1,368 @@
+cluster_id	dup_class4	cell_type	n_members	n_on	frac_on	all_on	single_on	top_share	one_dominant	top_gene	members
+clust0002	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	1.0	True	ZBTB8A	ZBTB8A|ZBTB8B
+clust0003	clustered_SSD_tandem	progenitor	2	2	1.0	True	False	0.7213183916130373	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.7927638712422881	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	cDC1	2	2	1.0	True	False	0.7566184729603095	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	cDC2	2	2	1.0	True	False	0.8120138707079366	True	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	DC_other	2	2	1.0	True	False	0.8160754825664129	True	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	pDC	2	2	1.0	True	False	0.7591797936602128	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	B	2	2	1.0	True	False	0.6787182425872885	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	plasma	2	2	1.0	True	False	0.6609313617042717	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	CD4 T	2	2	1.0	True	False	0.5219468872971904	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	CD8 T	2	2	1.0	True	False	0.6462757667533295	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	other T	2	2	1.0	True	False	0.7153209596361501	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	NK	2	2	1.0	True	False	0.787494981711729	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	ILC	2	2	1.0	True	False	0.7687551689321999	False	ZBTB1	ZBTB1|ZBTB25
+clust0003	clustered_SSD_tandem	erythrocyte	2	2	1.0	True	False	0.5575191726752068	False	ZBTB1	ZBTB1|ZBTB25
+clust0004	clustered_SSD_tandem	progenitor	2	1	0.5	False	True	0.6743383838812187	False	ZBTB26	ZBTB26|ZBTB6
+clust0005	clustered_SSD_tandem	progenitor	2	1	0.5	False	True	0.7577852725609583	False	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.8137076531516657	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	cDC1	2	1	0.5	False	True	0.8113914262754979	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	cDC2	2	1	0.5	False	True	0.8465858600917207	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	0.8046507940208352	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	pDC	2	1	0.5	False	True	0.7618002550808299	False	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	B	2	1	0.5	False	True	0.9007253792767723	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	plasma	2	1	0.5	False	True	0.9730374536933747	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	CD8 T	2	1	0.5	False	True	0.9209124915376454	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	other T	2	1	0.5	False	True	0.915753171186791	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	NK	2	1	0.5	False	True	0.8980583998739556	True	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	ILC	2	1	0.5	False	True	0.7903534079410939	False	ZBTB43	ZBTB34|ZBTB43
+clust0005	clustered_SSD_tandem	erythrocyte	2	1	0.5	False	True	0.6706189561446448	False	ZBTB43	ZBTB34|ZBTB43
+clust0006	clustered_SSD_tandem	progenitor	2	2	1.0	True	False	0.5818700279888457	False	ZNF672	ZNF672|ZNF692
+clust0006	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.7473378951055236	False	ZNF672	ZNF672|ZNF692
+clust0006	clustered_SSD_tandem	cDC1	2	1	0.5	False	True	0.850547820164859	True	ZNF672	ZNF672|ZNF692
+clust0006	clustered_SSD_tandem	cDC2	2	1	0.5	False	True	0.8247245410411214	True	ZNF672	ZNF672|ZNF692
+clust0006	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	1.0	True	ZNF672	ZNF672|ZNF692
+clust0006	clustered_SSD_tandem	pDC	2	1	0.5	False	True	0.7563047745169824	False	ZNF672	ZNF672|ZNF692
+clust0006	clustered_SSD_tandem	plasma	2	1	0.5	False	True	0.5487151644202475	False	ZNF672	ZNF672|ZNF692
+clust0007	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	cDC2	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	DC_other	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	0.9947848220002895	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	B	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	CD4 T	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	CD8 T	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	other T	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	NK	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0007	clustered_cis_ohnolog	ILC	2	1	0.5	False	True	1.0	True	SP1	SP1|SP7
+clust0008	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	0.8435923857364056	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	cDC2	2	1	0.5	False	True	0.9909610627150766	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	DC_other	2	1	0.5	False	True	0.9820014811692291	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	0.9918770627184914	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	B	2	1	0.5	False	True	0.9808284834509293	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	0.8438133294785025	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	CD4 T	2	1	0.5	False	True	0.969447750971154	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	CD8 T	2	1	0.5	False	True	0.9871178150339569	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	other T	2	1	0.5	False	True	0.9911892283785234	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	NK	2	1	0.5	False	True	0.9964519557685135	True	KLF12	KLF12|KLF5
+clust0008	clustered_cis_ohnolog	ILC	2	1	0.5	False	True	0.9884178682920753	True	KLF12	KLF12|KLF5
+clust0010	clustered_SSD_tandem	progenitor	2	1	0.5	False	True	0.5272349877815694	False	ZNF771	ZNF48|ZNF771
+clust0010	clustered_SSD_tandem	plasma	2	1	0.5	False	True	0.8132453929285639	True	ZNF48	ZNF48|ZNF771
+clust0012	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	0.9455533085405782	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	0.9603881777113177	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	0.911000608953009	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	cDC2	2	2	1.0	True	False	0.726818628488555	False	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	DC_other	2	2	1.0	True	False	0.5915858441223392	False	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	0.8853125440574028	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	B	2	1	0.5	False	True	0.9796404388748261	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	0.9950503612397671	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	CD4 T	2	1	0.5	False	True	0.9931834634444775	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	CD8 T	2	1	0.5	False	True	0.9898980909984368	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	other T	2	1	0.5	False	True	0.9881149407518278	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	NK	2	1	0.5	False	True	0.96696819461206	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	ILC	2	1	0.5	False	True	1.0	True	ZFPM1	ZFPM1|ZNF469
+clust0012	clustered_cis_ohnolog	erythrocyte	2	1	0.5	False	True	0.972587993485352	True	ZFPM1	ZFPM1|ZNF469
+clust0013	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	1.0	True	SP2	SP2|SP6
+clust0013	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	0.9989916647286848	True	SP2	SP2|SP6
+clust0013	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	1.0	True	SP2	SP2|SP6
+clust0013	clustered_cis_ohnolog	cDC2	2	1	0.5	False	True	1.0	True	SP2	SP2|SP6
+clust0013	clustered_cis_ohnolog	DC_other	2	1	0.5	False	True	1.0	True	SP2	SP2|SP6
+clust0013	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	1.0	True	SP2	SP2|SP6
+clust0013	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	1.0	True	SP2	SP2|SP6
+clust0014	clustered_SSD_tandem	progenitor	2	2	1.0	True	False	0.6030991791568904	False	ZNF236	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	monocyte	2	2	1.0	True	False	0.7451023059216508	False	ZNF516	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	cDC1	2	2	1.0	True	False	0.8445963107457264	True	ZNF516	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	cDC2	2	2	1.0	True	False	0.6810661865365963	False	ZNF516	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	0.5432973008817775	False	ZNF516	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	pDC	2	2	1.0	True	False	0.6408853543944388	False	ZNF236	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	B	2	1	0.5	False	True	0.7347617860817217	False	ZNF236	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	plasma	2	1	0.5	False	True	0.9452651709702532	True	ZNF236	ZNF236|ZNF516
+clust0014	clustered_SSD_tandem	ILC	2	1	0.5	False	True	0.665646919501866	False	ZNF236	ZNF236|ZNF516
+clust0016	clustered_SSD_tandem	progenitor	3	3	1.0	True	False	0.5899371374735127	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	monocyte	3	2	0.6666666666666666	False	False	0.5150435917900812	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	cDC1	3	3	1.0	True	False	0.5594458961652887	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	cDC2	3	3	1.0	True	False	0.5441849954699145	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	DC_other	3	3	1.0	True	False	0.5249304449907696	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	pDC	3	3	1.0	True	False	0.4586340603279028	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	B	3	2	0.6666666666666666	False	False	0.6045446927445711	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	plasma	3	3	1.0	True	False	0.5414284465697249	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	CD4 T	3	2	0.6666666666666666	False	False	0.5993527905332161	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	CD8 T	3	2	0.6666666666666666	False	False	0.6030159546352187	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	other T	3	2	0.6666666666666666	False	False	0.5941671370930143	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	NK	3	2	0.6666666666666666	False	False	0.5934142960878059	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	ILC	3	2	0.6666666666666666	False	False	0.563284410982452	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0016	clustered_SSD_tandem	erythrocyte	3	1	0.3333333333333333	False	True	0.45952972034211015	False	AKAP8L	AKAP8|AKAP8L|WIZ
+clust0017	clustered_cis_ohnolog	progenitor	3	1	0.3333333333333333	False	True	0.9248133265758249	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	monocyte	3	1	0.3333333333333333	False	True	0.919429705154561	True	TSHZ3	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	B	3	1	0.3333333333333333	False	True	0.9803071914507036	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	plasma	3	1	0.3333333333333333	False	True	0.9848392324274549	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	CD4 T	3	1	0.3333333333333333	False	True	0.965263568209219	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	CD8 T	3	1	0.3333333333333333	False	True	0.9120951236609269	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	other T	3	1	0.3333333333333333	False	True	0.9185828196826928	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	NK	3	1	0.3333333333333333	False	True	0.8483750645314623	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0017	clustered_cis_ohnolog	ILC	3	1	0.3333333333333333	False	True	1.0	True	ZNF507	TSHZ3|ZNF507|ZNF536
+clust0018	clustered_SSD_tandem	progenitor	2	2	1.0	True	False	0.9274127005891336	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.8352324531727218	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	cDC1	2	2	1.0	True	False	0.8877722508259841	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	cDC2	2	2	1.0	True	False	0.8476866736836713	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	0.907995530152401	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	pDC	2	2	1.0	True	False	0.8852061573667331	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	B	2	1	0.5	False	True	0.8515589276292685	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	plasma	2	2	1.0	True	False	0.7537744057799504	False	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	CD4 T	2	1	0.5	False	True	0.8829786288119291	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	CD8 T	2	1	0.5	False	True	0.9030778960149367	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	other T	2	1	0.5	False	True	0.9135445845308666	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	NK	2	1	0.5	False	True	0.9122689415782715	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	ILC	2	1	0.5	False	True	0.9040867184354825	True	ZNF428	ZNF428|ZNF576
+clust0018	clustered_SSD_tandem	erythrocyte	2	1	0.5	False	True	0.7202625204494941	False	ZNF428	ZNF428|ZNF576
+clust0019	clustered_SSD_tandem	progenitor	6	3	0.5	False	False	0.4095541427237128	False	ZNF581	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	monocyte	6	2	0.3333333333333333	False	False	0.4149936925088474	False	ZNF581	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	cDC1	6	4	0.6666666666666666	False	False	0.42738508782746437	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	cDC2	6	4	0.6666666666666666	False	False	0.3771742823689568	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	DC_other	6	4	0.6666666666666666	False	False	0.41066236504088377	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	pDC	6	2	0.3333333333333333	False	False	0.4807029503958175	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	B	6	2	0.3333333333333333	False	False	0.5008651632690594	False	ZNF581	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	plasma	6	2	0.3333333333333333	False	False	0.4150087813410688	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	CD4 T	6	2	0.3333333333333333	False	False	0.37899536297212993	False	ZNF581	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	CD8 T	6	2	0.3333333333333333	False	False	0.3698197557750542	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	other T	6	1	0.16666666666666666	False	True	0.3782960509302286	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	NK	6	1	0.16666666666666666	False	True	0.4316374676993969	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0019	clustered_SSD_tandem	ILC	6	2	0.3333333333333333	False	False	0.4861084339147896	False	ZNF580	FIZ1|ZNF579|ZNF580|ZNF581|ZNF784|ZNF865
+clust0021	clustered_cis_ohnolog	progenitor	4	1	0.25	False	True	0.8073400447082985	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	monocyte	4	1	0.25	False	True	0.9424761153596733	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	cDC1	4	1	0.25	False	True	0.8314226839584475	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	cDC2	4	1	0.25	False	True	0.9251635120169925	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	DC_other	4	2	0.5	False	False	0.7858475241955967	False	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	pDC	4	1	0.25	False	True	0.9046411338830807	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	B	4	1	0.25	False	True	0.7752256434261542	False	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	plasma	4	3	0.75	False	False	0.4637565479795907	False	TSHZ2	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	CD4 T	4	2	0.5	False	False	0.6389723881494691	False	TSHZ2	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	CD8 T	4	1	0.25	False	True	0.8069345581953487	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	other T	4	1	0.25	False	True	0.8794222161437507	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	NK	4	1	0.25	False	True	0.8616452743366775	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	ILC	4	1	0.25	False	True	0.9032981284841026	True	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0021	clustered_cis_ohnolog	erythrocyte	4	2	0.5	False	False	0.4998712551538795	False	ZNF217	SALL4|TSHZ2|ZFP64|ZNF217
+clust0023	clustered_cis_ohnolog	progenitor	4	1	0.25	False	True	0.5546197142517754	False	ZNF660	ZNF35|ZNF501|ZNF502|ZNF660
+clust0023	clustered_cis_ohnolog	plasma	4	1	0.25	False	True	0.7227586659426727	False	ZNF35	ZNF35|ZNF501|ZNF502|ZNF660
+clust0025	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	DC_other	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	B	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	CD4 T	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	CD8 T	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	other T	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0025	clustered_cis_ohnolog	NK	2	1	0.5	False	True	1.0	True	SP4	SP4|SP8
+clust0026	clustered_SSD_tandem	progenitor	2	2	1.0	True	False	0.5178900984813022	False	ZNF107	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	cDC1	2	2	1.0	True	False	0.5820362980883951	False	ZNF138	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	cDC2	2	2	1.0	True	False	0.5904238110722018	False	ZNF138	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	DC_other	2	2	1.0	True	False	0.5588367659081046	False	ZNF138	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	pDC	2	2	1.0	True	False	0.536569060778755	False	ZNF138	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	B	2	2	1.0	True	False	0.6689165302436292	False	ZNF107	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	plasma	2	2	1.0	True	False	0.6088404912476135	False	ZNF107	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	CD4 T	2	2	1.0	True	False	0.5167189125595562	False	ZNF107	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	CD8 T	2	2	1.0	True	False	0.5008247514647666	False	ZNF107	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	other T	2	2	1.0	True	False	0.500537385379307	False	ZNF138	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	NK	2	1	0.5	False	True	0.5403410838849657	False	ZNF138	ZNF107|ZNF138
+clust0026	clustered_SSD_tandem	ILC	2	1	0.5	False	True	0.6042959406913624	False	ZNF138	ZNF107|ZNF138
+clust0027	clustered_SSD_tandem	progenitor	2	2	1.0	True	False	0.8377599095813458	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.8791483385967286	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	cDC1	2	2	1.0	True	False	0.9362665600362191	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	cDC2	2	1	0.5	False	True	0.8945887596761947	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	0.9298805910493184	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	pDC	2	2	1.0	True	False	0.9212847458021373	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	B	2	1	0.5	False	True	0.8575012731219617	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	plasma	2	2	1.0	True	False	0.830412881067024	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	CD4 T	2	1	0.5	False	True	0.8603458756086161	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	CD8 T	2	1	0.5	False	True	0.853078819843879	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	other T	2	1	0.5	False	True	0.8469559846716556	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	NK	2	1	0.5	False	True	0.8706823009560313	True	REPIN1	REPIN1|ZNF775
+clust0027	clustered_SSD_tandem	ILC	2	1	0.5	False	True	0.8363178705990646	True	REPIN1	REPIN1|ZNF775
+clust0028	clustered_cis_ohnolog	progenitor	3	1	0.3333333333333333	False	True	0.8098114470220867	True	GLI4	GLI4|ZFP41|ZNF696
+clust0028	clustered_cis_ohnolog	monocyte	3	1	0.3333333333333333	False	True	0.8956182411386818	True	GLI4	GLI4|ZFP41|ZNF696
+clust0028	clustered_cis_ohnolog	cDC1	3	1	0.3333333333333333	False	True	0.786495942914168	False	GLI4	GLI4|ZFP41|ZNF696
+clust0028	clustered_cis_ohnolog	cDC2	3	1	0.3333333333333333	False	True	0.880553267025252	True	GLI4	GLI4|ZFP41|ZNF696
+clust0028	clustered_cis_ohnolog	DC_other	3	1	0.3333333333333333	False	True	0.9003484440567964	True	GLI4	GLI4|ZFP41|ZNF696
+clust0028	clustered_cis_ohnolog	pDC	3	1	0.3333333333333333	False	True	0.9114984152714228	True	GLI4	GLI4|ZFP41|ZNF696
+clust0028	clustered_cis_ohnolog	plasma	3	1	0.3333333333333333	False	True	0.8615338451088568	True	GLI4	GLI4|ZFP41|ZNF696
+clust0030	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	0.9941643341035014	True	ETV3	ETV3|ETV3L
+clust0030	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	1.0	True	ETV3	ETV3|ETV3L
+clust0030	clustered_cis_ohnolog	cDC2	2	1	0.5	False	True	0.9987198748195644	True	ETV3	ETV3|ETV3L
+clust0030	clustered_cis_ohnolog	DC_other	2	1	0.5	False	True	1.0	True	ETV3	ETV3|ETV3L
+clust0030	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	1.0	True	ETV3	ETV3|ETV3L
+clust0030	clustered_cis_ohnolog	other T	2	1	0.5	False	True	1.0	True	ETV3	ETV3|ETV3L
+clust0030	clustered_cis_ohnolog	ILC	2	1	0.5	False	True	1.0	True	ETV3	ETV3|ETV3L
+clust0031	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	1.0	True	EHF	EHF|ELF5
+clust0032	clustered_cis_ohnolog	progenitor	2	2	1.0	True	False	0.6725605549992044	False	FLI1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	monocyte	2	2	1.0	True	False	0.7935542317809549	False	FLI1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	cDC1	2	2	1.0	True	False	0.8002553517813328	True	FLI1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	cDC2	2	2	1.0	True	False	0.8026519066069286	True	FLI1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	DC_other	2	2	1.0	True	False	0.5065293362073149	False	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	pDC	2	2	1.0	True	False	0.8251360457519885	True	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	B	2	2	1.0	True	False	0.7992627239042154	False	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	plasma	2	2	1.0	True	False	0.6629881380354075	False	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	CD4 T	2	2	1.0	True	False	0.9236231068723839	True	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	CD8 T	2	2	1.0	True	False	0.9075673927538781	True	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	other T	2	2	1.0	True	False	0.8959801728130387	True	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	NK	2	2	1.0	True	False	0.8812252948543722	True	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	ILC	2	2	1.0	True	False	0.8630002867913361	True	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	platelet	2	2	1.0	True	False	0.5436832011066559	False	ETS1	ETS1|FLI1
+clust0032	clustered_cis_ohnolog	erythrocyte	2	2	1.0	True	False	0.8364094777532907	True	ETS1	ETS1|FLI1
+clust0033	clustered_cis_ohnolog	progenitor	2	2	1.0	True	False	0.7437709705184796	False	ETS2	ERG|ETS2
+clust0033	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	0.9992354864923433	True	ETS2	ERG|ETS2
+clust0033	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	1.0	True	ETS2	ERG|ETS2
+clust0033	clustered_cis_ohnolog	cDC2	2	1	0.5	False	True	0.9974207337149963	True	ETS2	ERG|ETS2
+clust0033	clustered_cis_ohnolog	DC_other	2	1	0.5	False	True	1.0	True	ETS2	ERG|ETS2
+clust0033	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	1.0	True	ETS2	ERG|ETS2
+clust0033	clustered_cis_ohnolog	erythrocyte	2	1	0.5	False	True	1.0	True	ETS2	ERG|ETS2
+clust0037	clustered_SSD_tandem	progenitor	2	1	0.5	False	True	1.0	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.9995568168740567	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	cDC1	2	1	0.5	False	True	1.0	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	cDC2	2	1	0.5	False	True	0.9938466651454648	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	0.987554412090024	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	pDC	2	1	0.5	False	True	0.9995691772780029	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	B	2	1	0.5	False	True	0.999623825443069	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	plasma	2	1	0.5	False	True	1.0	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	CD4 T	2	1	0.5	False	True	0.9973282507314821	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	CD8 T	2	1	0.5	False	True	0.9992101261153321	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	other T	2	1	0.5	False	True	0.9992480809450208	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	NK	2	1	0.5	False	True	0.9997716962257187	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	ILC	2	1	0.5	False	True	1.0	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	platelet	2	1	0.5	False	True	0.9979539835807361	True	GTF2I	GTF2I|GTF2IRD1
+clust0037	clustered_SSD_tandem	erythrocyte	2	1	0.5	False	True	1.0	True	GTF2I	GTF2I|GTF2IRD1
+clust0039	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	1.0	True	PBX1	LMX1A|PBX1
+clust0039	clustered_cis_ohnolog	platelet	2	1	0.5	False	True	1.0	True	PBX1	LMX1A|PBX1
+clust0039	clustered_cis_ohnolog	erythrocyte	2	1	0.5	False	True	1.0	True	PBX1	LMX1A|PBX1
+clust0057	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	0.9025277529767971	True	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	0.7860612810152753	False	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	0.7901476739423171	False	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	CD4 T	2	1	0.5	False	True	0.7786581789390005	False	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	CD8 T	2	1	0.5	False	True	0.8689704281805666	True	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	other T	2	1	0.5	False	True	0.7599698847608835	False	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	NK	2	1	0.5	False	True	0.908809043025683	True	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	ILC	2	1	0.5	False	True	0.8521770088514121	True	THRA	NR1D1|THRA
+clust0057	clustered_cis_ohnolog	erythrocyte	2	1	0.5	False	True	0.8636981142342898	True	THRA	NR1D1|THRA
+clust0058	clustered_cis_ohnolog	progenitor	3	1	0.3333333333333333	False	True	0.6733728421995124	False	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	monocyte	3	1	0.3333333333333333	False	True	0.9931426947610082	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	cDC1	3	2	0.6666666666666666	False	False	0.5265466992183793	False	THRB	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	cDC2	3	1	0.3333333333333333	False	True	0.9753337759027286	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	DC_other	3	1	0.3333333333333333	False	True	1.0	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	pDC	3	1	0.3333333333333333	False	True	0.974086454317187	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	B	3	1	0.3333333333333333	False	True	0.9298816228736115	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	plasma	3	1	0.3333333333333333	False	True	1.0	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	CD4 T	3	1	0.3333333333333333	False	True	0.9868163102698352	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	CD8 T	3	1	0.3333333333333333	False	True	0.9825726458180812	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	other T	3	1	0.3333333333333333	False	True	0.9892991427858717	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	NK	3	1	0.3333333333333333	False	True	0.9832889030786615	True	NR1D2	NR1D2|RARB|THRB
+clust0058	clustered_cis_ohnolog	ILC	3	1	0.3333333333333333	False	True	1.0	True	NR1D2	NR1D2|RARB|THRB
+clust0060	clustered_SSD_tandem	progenitor	4	3	0.75	False	False	0.4672097714528472	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	monocyte	4	4	1.0	True	False	0.46166535901310335	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	cDC1	4	4	1.0	True	False	0.41989538114198927	False	SP110	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	cDC2	4	4	1.0	True	False	0.4368510871219213	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	DC_other	4	4	1.0	True	False	0.5487176049773945	False	SP110	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	pDC	4	3	0.75	False	False	0.6028833319449263	False	SP110	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	B	4	4	1.0	True	False	0.41290756335660017	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	plasma	4	4	1.0	True	False	0.4362552209044408	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	CD4 T	4	4	1.0	True	False	0.4325754959759537	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	CD8 T	4	4	1.0	True	False	0.4467224440158296	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	other T	4	4	1.0	True	False	0.474164058437608	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	NK	4	4	1.0	True	False	0.49889882129409446	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	ILC	4	3	0.75	False	False	0.5244813860140831	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	platelet	4	1	0.25	False	True	0.4665983895059835	False	SP100	SP100|SP110|SP140|SP140L
+clust0060	clustered_SSD_tandem	erythrocyte	4	3	0.75	False	False	0.5246275920771952	False	SP100	SP100|SP110|SP140|SP140L
+clust0061	clustered_SSD_tandem	DC_other	2	1	0.5	False	True	0.5236636976720118	False	ZSCAN32	ZNF174|ZSCAN32
+clust0062	clustered_SSD_tandem	progenitor	4	3	0.75	False	False	0.4109344606672978	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	monocyte	4	2	0.5	False	False	0.7436629032733276	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	cDC1	4	2	0.5	False	False	0.6503387312455846	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	cDC2	4	2	0.5	False	False	0.7333617925491248	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	DC_other	4	2	0.5	False	False	0.6367572665632215	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	pDC	4	3	0.75	False	False	0.6222456277776831	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	B	4	2	0.5	False	False	0.6106820437206654	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	plasma	4	2	0.5	False	False	0.6990555365303721	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	CD4 T	4	2	0.5	False	False	0.6560409695932529	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	CD8 T	4	2	0.5	False	False	0.6773042892575042	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	other T	4	1	0.25	False	True	0.7206160981959024	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	NK	4	1	0.25	False	True	0.6933270614174111	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	ILC	4	1	0.25	False	True	0.8353172270584777	True	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	platelet	4	1	0.25	False	True	0.8234996138002657	True	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0062	clustered_SSD_tandem	erythrocyte	4	1	0.25	False	True	0.6821873600778793	False	ZNF24	ZNF24|ZNF396|ZNF397|ZSCAN30
+clust0064	clustered_SSD_tandem	progenitor	2	1	0.5	False	True	0.9817754718311213	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0064	clustered_SSD_tandem	cDC1	2	1	0.5	False	True	0.9740420937594171	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0064	clustered_SSD_tandem	cDC2	2	1	0.5	False	True	1.0	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0064	clustered_SSD_tandem	pDC	2	1	0.5	False	True	0.9740255070376497	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0064	clustered_SSD_tandem	B	2	1	0.5	False	True	1.0	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0064	clustered_SSD_tandem	CD4 T	2	1	0.5	False	True	0.9998383096265875	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0064	clustered_SSD_tandem	ILC	2	1	0.5	False	True	0.9639851123185493	True	ZSCAN18	ZSCAN1|ZSCAN18
+clust0065	clustered_SSD_tandem	progenitor	2	1	0.5	False	True	0.810775519450771	True	ZSCAN16	ZNF165|ZSCAN16
+clust0065	clustered_SSD_tandem	pDC	2	1	0.5	False	True	0.8833673257279935	True	ZSCAN16	ZNF165|ZSCAN16
+clust0065	clustered_SSD_tandem	plasma	2	1	0.5	False	True	0.8656242527320467	True	ZSCAN16	ZNF165|ZSCAN16
+clust0067	clustered_cis_ohnolog	progenitor	3	3	1.0	True	False	0.4966047043609523	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	monocyte	3	3	1.0	True	False	0.5900587701342321	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	cDC1	3	3	1.0	True	False	0.47798462430751626	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	cDC2	3	3	1.0	True	False	0.584401455311669	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	DC_other	3	3	1.0	True	False	0.3699611781641201	False	STAT5A	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	pDC	3	3	1.0	True	False	0.6918383235366028	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	B	3	3	1.0	True	False	0.658358833538668	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	plasma	3	3	1.0	True	False	0.7074989849204824	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	CD4 T	3	3	1.0	True	False	0.5918702428349284	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	CD8 T	3	3	1.0	True	False	0.6204337406856222	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	other T	3	3	1.0	True	False	0.6273045385820277	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	NK	3	2	0.6666666666666666	False	False	0.686879851244715	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	ILC	3	2	0.6666666666666666	False	False	0.586539229764689	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	platelet	3	1	0.3333333333333333	False	True	0.7054019037105207	False	STAT3	STAT3|STAT5A|STAT5B
+clust0067	clustered_cis_ohnolog	erythrocyte	3	2	0.6666666666666666	False	False	0.6307240305787599	False	STAT3	STAT3|STAT5A|STAT5B
+clust0068	clustered_cis_ohnolog	progenitor	2	1	0.5	False	True	0.9505603027425568	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	monocyte	2	1	0.5	False	True	0.9843549954558655	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	cDC1	2	1	0.5	False	True	0.9827498693323282	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	cDC2	2	1	0.5	False	True	0.9637372875005102	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	DC_other	2	2	1.0	True	False	0.9227819689469897	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	pDC	2	2	1.0	True	False	0.8989658043153547	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	B	2	1	0.5	False	True	0.9385208421506374	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	0.9702195026228532	True	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	CD4 T	2	2	1.0	True	False	0.6928735595489723	False	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	CD8 T	2	2	1.0	True	False	0.5829605299288568	False	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	other T	2	2	1.0	True	False	0.5011406454342052	False	STAT4	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	NK	2	2	1.0	True	False	0.60104331312124	False	STAT4	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	ILC	2	2	1.0	True	False	0.6511242683151384	False	STAT1	STAT1|STAT4
+clust0068	clustered_cis_ohnolog	erythrocyte	2	2	1.0	True	False	0.6756096047929646	False	STAT1	STAT1|STAT4
+clust0073	clustered_SSD_tandem	plasma	2	1	0.5	False	True	0.9890774442441163	True	MESP1	MESP1|MESP2
+clust0074	clustered_SSD_tandem	monocyte	2	1	0.5	False	True	0.9987277785288183	True	OLIG1	OLIG1|OLIG2
+clust0077	clustered_cis_ohnolog	progenitor	3	2	0.6666666666666666	False	False	0.9331973782089648	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	monocyte	3	3	1.0	True	False	0.9667044146787604	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	cDC1	3	2	0.6666666666666666	False	False	0.9742796445617812	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	cDC2	3	3	1.0	True	False	0.9487177425772502	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	DC_other	3	1	0.3333333333333333	False	True	0.9728483422624399	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	pDC	3	1	0.3333333333333333	False	True	0.9222393017599444	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	B	3	1	0.3333333333333333	False	True	0.9005271073686038	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	plasma	3	3	1.0	True	False	0.7300416963809635	False	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	CD4 T	3	2	0.6666666666666666	False	False	0.8186297725739043	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	CD8 T	3	2	0.6666666666666666	False	False	0.7182878175420406	False	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	other T	3	2	0.6666666666666666	False	False	0.8372215737694506	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	NK	3	2	0.6666666666666666	False	False	0.7199318872122915	False	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	ILC	3	2	0.6666666666666666	False	False	0.9790533115841559	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	platelet	3	1	0.3333333333333333	False	True	0.9338469714027821	True	FOS	BATF|FOS|JDP2
+clust0077	clustered_cis_ohnolog	erythrocyte	3	1	0.3333333333333333	False	True	0.9661062460642084	True	FOS	BATF|FOS|JDP2
+clust0078	clustered_cis_ohnolog	progenitor	2	2	1.0	True	False	0.5095001963911949	False	CEBPA	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	monocyte	2	2	1.0	True	False	0.6129344716331042	False	CEBPA	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	cDC1	2	2	1.0	True	False	0.6547837175502996	False	CEBPG	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	cDC2	2	2	1.0	True	False	0.563281413993484	False	CEBPA	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	DC_other	2	2	1.0	True	False	0.6441649664116462	False	CEBPA	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	pDC	2	1	0.5	False	True	0.9128782450299247	True	CEBPG	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	B	2	1	0.5	False	True	0.9166968097210659	True	CEBPG	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	plasma	2	1	0.5	False	True	0.9727033994923897	True	CEBPG	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	other T	2	1	0.5	False	True	0.754736482697474	False	CEBPG	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	NK	2	1	0.5	False	True	0.792237333667168	False	CEBPG	CEBPA|CEBPG
+clust0078	clustered_cis_ohnolog	erythrocyte	2	2	1.0	True	False	0.5095667442830333	False	CEBPA	CEBPA|CEBPG

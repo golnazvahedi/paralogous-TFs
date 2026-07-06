@@ -1,0 +1,23 @@
+gene	cluster_id	TF_subfamily	lineage	is_IEI
+BATF	clust0077	bZIP	alpha	False
+CEBPA	clust0078	bZIP	alpha	False
+CRX	clust0048	Homeodomain		False
+EHF	clust0031	Ets	alpha	False
+ERG	clust0033	Ets	beta	False
+ETS1	clust0032	Ets	beta	False
+FLI1	clust0032	Ets	beta	False
+FOXQ1	clust0036	Forkhead		False
+IRX1	clust0052	Homeodomain	alpha	False
+IRX3	clust0046	Homeodomain	alpha	False
+JDP2	clust0077	bZIP	alpha	False
+KLF12	clust0008	C2H2 ZF	alpha	False
+KLF5	clust0008	C2H2 ZF	alpha	False
+NR1D2	clust0058	Nuclear receptor	alpha	False
+PBX1	clust0039	Homeodomain	alpha	False
+SIX1	clust0045	Homeodomain	alpha	False
+SIX4	clust0045	Homeodomain	alpha	False
+STAT3	clust0067	STAT	beta	True
+STAT5B	clust0067	STAT	beta	True
+THRB	clust0058	Nuclear receptor	alpha	False
+ZFP64	clust0021	C2H2 ZF	beta	False
+ZNF217	clust0021	C2H2 ZF	beta	False
