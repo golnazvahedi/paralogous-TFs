@@ -1,0 +1,4 @@
+assay	headline_metric	median_ohnolog	median_SSD	U	p_value	rank_biserial	direction
+CTCF insulation (CD4 T)	CTCF peaks between the two members	3.0	0.0	948.5	0.008942	-0.3454	ohnolog > SSD
+ATAC accessibility (Treg)	Nearest ATAC peak to member TSS (bp, mean)	25492.0	445.75	1062.0	0.0001836	-0.5064	SSD closer (more open)
+E2G wiring (Treg)	Enhancers shared by both paralogs	0.0	10.5	362.0	3.284e-05	0.4865	SSD > ohnolog

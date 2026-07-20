@@ -1,0 +1,98 @@
+ENCODE CTCF peak download provenance
+=====================================
+Download date: 2026-07-18
+Portal: https://www.encodeproject.org
+
+Experiment accession : ENCSR000DZN
+  assay_title        : TF ChIP-seq
+  target             : CTCF
+  biosample          : GM12878 (EBV-transformed B-lymphoblastoid cell line)
+  status             : released
+
+File accession       : ENCFF796WRU
+  file_format        : bed narrowPeak
+  output_type        : conservative IDR thresholded peaks
+  assembly           : GRCh38 (hg38)
+  status             : released
+  href               : /files/ENCFF796WRU/@@download/ENCFF796WRU.bed.gz
+  saved to           : inputs/encode/ENCFF796WRU.bed.gz
+
+Sanity checks
+  n peaks            : 44217
+  chrom set          : chr1..chr22, chrX (no chrY; GM12878 is female) -- all hg38 primary autosomes + chrX
+  interval type      : narrowPeak, point-ish (median width ~ a few hundred bp)
+
+Notes
+  The experiment also carries an "optimal IDR thresholded peaks" file (ENCFF960ZGP).
+  Per iteration19 CLAUDE.md we use the CONSERVATIVE IDR-thresholded set (ENCFF796WRU)
+  as the single primary CTCF peak call. One cell type (GM12878) per request; kept
+  swappable via a CLI arg in the analysis scripts.
+
+=====================================
+SECOND CELL TYPE added 2026-07-18 (naive/resting CD4 T cell)
+=====================================
+Experiment accession : ENCSR470KCE
+  assay_title        : TF ChIP-seq
+  target             : CTCF
+  biosample          : Homo sapiens CD4-positive, alpha-beta T cell, male adult (20 years)
+                       -- primary RESTING/UNSTIMULATED CD4 T cell. NOTE: ENCODE has no
+                       experiment explicitly labelled "naive CD4"; this resting primary
+                       CD4+ ab T cell is the closest match (its "activated CD4" counterpart
+                       is the separate experiment ENCSR806WWX).
+  status             : released
+
+File accession       : ENCFF858TLX
+  file_format        : bed narrowPeak
+  output_type        : IDR thresholded peaks   (the experiment carries a single IDR
+                       thresholded set; analogous to the conservative/optimal IDR call)
+  assembly           : GRCh38 (hg38)
+  status             : released
+  saved to           : inputs/encode/ENCFF858TLX.bed.gz
+
+Sanity checks
+  n peaks            : 40346
+  chrom set          : chr1..chr22, chrX, chrY (male donor -> chrY present)
+
+Cross-cell-type note
+  For direct comparability with the GM12878 baseline the analysed locus set is kept
+  identical (the single chrY locus HSFY1/HSFY2 remains excluded even though this male
+  CD4 sample has chrY signal). Windows are cell-type-independent and reused verbatim.
+
+=====================================
+ATAC-seq + ENCODE-rE2G add-on 2026-07-18 (regulatory CD4 T cell / Treg)
+=====================================
+(A) ATAC-seq accessibility peaks
+Experiment accession : ENCSR159GFS
+  assay_title        : ATAC-seq
+  biosample          : Homo sapiens CD4-positive, CD25-positive, alpha-beta regulatory T cell
+                       (Treg), male adult (42 years)
+File accession       : ENCFF519QMA
+  file_format        : bed narrowPeak
+  output_type        : IDR thresholded peaks
+  assembly           : GRCh38 (hg38)
+  saved to           : inputs/encode/ENCFF519QMA.bed.gz
+  n peaks            : 57636 ; chroms chr1..chr22,chrX,chrY (male donor)
+
+(B) ENCODE-rE2G predictions ("new E2G dataset")
+Annotation accession : ENCSR759OVP  ("enhancer gene links in regulatory CD4 T cells")
+  model              : ENCODE-rE2G multiomic (ATAC-seq + H3K27ac + HiC + RNA inputs)
+File accession       : ENCFF393GIF
+  file_format        : bed bed3+ , thresholded element gene links
+  assembly           : GRCh38 (hg38)
+  saved to           : inputs/encode/ENCFF393GIF.bed.gz
+  n links            : 295377 ; each row = element(chr,start,end) -> TargetGene, Score, Open(ATAC), class
+Download date        : 2026-07-18   Portal: https://www.encodeproject.org
+
+=====================================
+E2G reproducibility panel 2026-07-18 (5 additional lymphoid cell types)
+=====================================
+All ATAC-based ENCODE-rE2G thresholded element-gene links (extended model, GRCh38),
+saved under inputs/encode/e2g_panel/. Analysed with scripts 07 (per set) + 08 (aggregate).
+  memory CD4 T cell : annotation ENCSR167VBG -> file ENCFF440AKC  (T cell)
+  CD8 T cell        : annotation ENCSR701WTT -> file ENCFF993UOE  (T cell)
+  Jurkat (T-ALL)    : annotation ENCSR094ORE -> file ENCFF705FWU  (T-lineage cell line)
+  NK cell           : annotation ENCSR090RIY -> file ENCFF359ZSL  (lymphoid control, non-T)
+  B cell            : annotation ENCSR414ISQ -> file ENCFF186ABX  (lymphoid control, non-T)
+NOTE: ENCODE's ATAC-based rE2G resource contains only 3 T-cell subtypes beyond the Treg
+baseline (memory CD4, CD8, Jurkat); NK and B cell added as lymphoid controls to complete a
+5-set panel and test generalization. Download date 2026-07-18; portal encodeproject.org.

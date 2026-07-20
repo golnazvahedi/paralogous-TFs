@@ -1,0 +1,4 @@
+metric	label	n_ohnolog	n_SSD	median_ohnolog	median_SSD	U	p_value	rank_biserial_r	test
+promoter_distance_bp	Promoter-promoter distance (bp)	35	22	52561.0	25179.0	473.0	0.1515	-0.2286	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem; 2-member clusters only
+n_ctcf_between_promoters	CTCF peaks between promoters (count)	35	22	2.0	1.0	534.5	0.01247	-0.3883	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem; 2-member clusters only
+ctcf_between_per_kb	CTCF peaks/kb between promoters	35	22	0.0285	0.0158	462.0	0.2038	-0.2	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem; 2-member clusters only

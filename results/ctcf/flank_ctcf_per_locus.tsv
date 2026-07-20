@@ -1,0 +1,78 @@
+cluster_id	dup_class4	family	chrom	n_members	members	clipped	left_flank_len_kb	left_ctcf_peaks	left_peaks_per_kb	left_obs_exp	right_flank_len_kb	right_ctcf_peaks	right_peaks_per_kb	right_obs_exp
+clust0006	clustered_SSD_tandem	C2H2 ZF (other)	chr1	2	ZNF672,ZNF692	right	100.0	4	0.04	2.742	97.28	2	0.02056	1.4093
+clust0042	clustered_SSD_tandem	Homeodomain	chr12	2	NANOGNB,NANOG	none	100.0	1	0.01	0.6855	100.0	3	0.03	2.0565
+clust0072	clustered_SSD_tandem	bHLH	chr13	2	SOHLH2,CCDC169-SOHLH2	none	100.0	0	0.0	0.0	100.0	2	0.02	1.371
+clust0003	clustered_SSD_tandem	BTB-ZNF	chr14	2	ZBTB25,ZBTB1	none	100.0	2	0.02	1.371	100.0	1	0.01	0.6855
+clust0073	clustered_SSD_tandem	bHLH	chr15	2	MESP1,MESP2	none	100.0	2	0.02	1.371	100.0	1	0.01	0.6855
+clust0061	clustered_SSD_tandem	SCAN-ZNF	chr16	2	ZSCAN32,ZNF174	none	100.0	1	0.01	0.6855	100.0	4	0.04	2.742
+clust0010	clustered_SSD_tandem	C2H2 ZF (other)	chr16	2	ZNF48,ZNF771	none	100.0	0	0.0	0.0	100.0	4	0.04	2.742
+clust0011	clustered_SSD_tandem	C2H2 ZF (other)	chr16	2	ZNF668,ZNF646	none	100.0	4	0.04	2.742	100.0	4	0.04	2.742
+clust0035	clustered_SSD_tandem	Forkhead	chr16	2	FOXC2,FOXL1	none	100.0	3	0.03	2.0565	100.0	0	0.0	0.0
+clust0062	clustered_SSD_tandem	SCAN-ZNF	chr18	4	ZNF397,ZSCAN30,ZNF24,ZNF396	none	100.0	3	0.03	2.0565	100.0	3	0.03	2.0565
+clust0014	clustered_SSD_tandem	C2H2 ZF (other)	chr18	2	ZNF516,ZNF236	none	100.0	2	0.02	1.371	100.0	8	0.08	5.4839
+clust0015	clustered_SSD_tandem	C2H2 ZF (other)	chr19	2	ZNF788,ZNF625	none	100.0	4	0.04	2.742	100.0	2	0.02	1.371
+clust0016	clustered_SSD_tandem	C2H2 ZF (other)	chr19	3	AKAP8,AKAP8L,WIZ	none	100.0	3	0.03	2.0565	100.0	1	0.01	0.6855
+clust0018	clustered_SSD_tandem	C2H2 ZF (other)	chr19	2	ZNF576,ZNF428	none	100.0	5	0.05	3.4275	100.0	4	0.04	2.742
+clust0019	clustered_SSD_tandem	C2H2 ZF (other)	chr19	6	ZNF579,FIZ1,ZNF865,ZNF784,ZNF580,ZNF581	none	100.0	3	0.03	2.0565	100.0	5	0.05	3.4275
+clust0063	clustered_SSD_tandem	SCAN-ZNF	chr19	3	ZSCAN5B,ZSCAN5C,ZSCAN5A	none	100.0	4	0.04	2.742	100.0	2	0.02	1.371
+clust0064	clustered_SSD_tandem	SCAN-ZNF	chr19	2	ZSCAN1,ZSCAN18	none	100.0	1	0.01	0.6855	100.0	2	0.02	1.371
+clust0020	clustered_SSD_tandem	C2H2 ZF (other)	chr19	2	ZNF497,ZNF837	none	100.0	1	0.01	0.6855	100.0	3	0.03	2.0565
+clust0060	clustered_SSD_tandem	SAND	chr2	4	SP110,SP140,SP140L,SP100	none	100.0	4	0.04	2.742	100.0	3	0.03	2.0565
+clust0074	clustered_SSD_tandem	bHLH	chr21	2	OLIG2,OLIG1	none	100.0	2	0.02	1.371	100.0	3	0.03	2.0565
+clust0065	clustered_SSD_tandem	SCAN-ZNF	chr6	2	ZNF165,ZSCAN16	none	100.0	0	0.0	0.0	100.0	2	0.02	1.371
+clust0066	clustered_SSD_tandem	SCAN-ZNF	chr6	3	ZSCAN31,ZSCAN12,ZSCAN23	none	100.0	0	0.0	0.0	100.0	2	0.02	1.371
+clust0075	clustered_SSD_tandem	bHLH	chr7	2	TWIST1,FERD3L	none	100.0	0	0.0	0.0	100.0	0	0.0	0.0
+clust0026	clustered_SSD_tandem	C2H2 ZF (other)	chr7	2	ZNF107,ZNF138	none	100.0	3	0.03	2.0565	100.0	1	0.01	0.6855
+clust0037	clustered_SSD_tandem	GTF2I-like	chr7	2	GTF2IRD1,GTF2I	none	100.0	6	0.06	4.113	100.0	0	0.0	0.0
+clust0027	clustered_SSD_tandem	C2H2 ZF (other)	chr7	2	REPIN1,ZNF775	none	100.0	4	0.04	2.742	100.0	4	0.04	2.742
+clust0029	clustered_SSD_tandem	DM	chr9	3	DMRT1,DMRT3,DMRT2	none	100.0	3	0.03	2.0565	100.0	1	0.01	0.6855
+clust0004	clustered_SSD_tandem	BTB-ZNF	chr9	2	ZBTB6,ZBTB26	none	100.0	2	0.02	1.371	100.0	2	0.02	1.371
+clust0005	clustered_SSD_tandem	BTB-ZNF	chr9	2	ZBTB43,ZBTB34	none	100.0	5	0.05	3.4275	100.0	4	0.04	2.742
+clust0055	clustered_SSD_tandem	Homeodomain	chrX	3	RHOXF2B,RHOXF1,RHOXF2	none	100.0	2	0.02	1.371	100.0	4	0.04	2.742
+clust0002	clustered_cis_ohnolog	BTB-ZNF	chr1	2	ZBTB8B,ZBTB8A	none	100.0	5	0.05	3.4275	100.0	3	0.03	2.0565
+clust0034	clustered_cis_ohnolog	Forkhead	chr1	2	FOXE3,FOXD2	none	100.0	5	0.05	3.4275	100.0	2	0.02	1.371
+clust0030	clustered_cis_ohnolog	Ets	chr1	2	ETV3L,ETV3	none	100.0	2	0.02	1.371	100.0	4	0.04	2.742
+clust0039	clustered_cis_ohnolog	Homeodomain	chr1	2	PBX1,LMX1A	none	100.0	0	0.0	0.0	100.0	5	0.05	3.4275
+clust0040	clustered_cis_ohnolog	Homeodomain	chr10	2	TLX1,LBX1	none	100.0	7	0.07	4.7984	100.0	6	0.06	4.113
+clust0041	clustered_cis_ohnolog	Homeodomain	chr10	2	HMX3,HMX2	none	100.0	2	0.02	1.371	100.0	0	0.0	0.0
+clust0031	clustered_cis_ohnolog	Ets	chr11	2	ELF5,EHF	none	100.0	1	0.01	0.6855	100.0	0	0.0	0.0
+clust0032	clustered_cis_ohnolog	Ets	chr11	2	ETS1,FLI1	none	100.0	0	0.0	0.0	100.0	6	0.06	4.113
+clust0007	clustered_cis_ohnolog	C2H2 ZF (other)	chr12	2	SP7,SP1	none	100.0	8	0.08	5.4839	100.0	5	0.05	3.4275
+clust0076	clustered_cis_ohnolog	bZIP	chr12	2	AC023509.3,ATF7	none	100.0	4	0.04	2.742	100.0	2	0.02	1.371
+clust0071	clustered_cis_ohnolog	bHLH	chr12	2	MYF6,MYF5	none	100.0	1	0.01	0.6855	100.0	1	0.01	0.6855
+clust0069	clustered_cis_ohnolog	T-box	chr12	2	TBX5,TBX3	none	100.0	0	0.0	0.0	100.0	0	0.0	0.0
+clust0043	clustered_cis_ohnolog	Homeodomain	chr13	3	GSX1,PDX1,CDX2	none	100.0	3	0.03	2.0565	100.0	3	0.03	2.0565
+clust0008	clustered_cis_ohnolog	C2H2 ZF (other)	chr13	2	KLF5,KLF12	none	100.0	0	0.0	0.0	100.0	0	0.0	0.0
+clust0009	clustered_cis_ohnolog	C2H2 ZF (other)	chr13	2	ZIC5,ZIC2	none	100.0	2	0.02	1.371	100.0	0	0.0	0.0
+clust0044	clustered_cis_ohnolog	Homeodomain	chr14	2	NKX2-1,NKX2-8	none	100.0	0	0.0	0.0	100.0	3	0.03	2.0565
+clust0045	clustered_cis_ohnolog	Homeodomain	chr14	3	SIX6,SIX1,SIX4	none	100.0	1	0.01	0.6855	100.0	0	0.0	0.0
+clust0077	clustered_cis_ohnolog	bZIP	chr14	3	FOS,JDP2,BATF	none	100.0	1	0.01	0.6855	100.0	3	0.03	2.0565
+clust0046	clustered_cis_ohnolog	Homeodomain	chr16	3	IRX3,IRX5,IRX6	none	100.0	2	0.02	1.371	100.0	1	0.01	0.6855
+clust0012	clustered_cis_ohnolog	C2H2 ZF (other)	chr16	2	ZNF469,ZFPM1	none	100.0	3	0.03	2.0565	100.0	5	0.05	3.4275
+clust0057	clustered_cis_ohnolog	Nuclear receptor	chr17	2	THRA,NR1D1	none	100.0	7	0.07	4.7984	100.0	8	0.08	5.4839
+clust0067	clustered_cis_ohnolog	STAT	chr17	3	STAT5B,STAT5A,STAT3	none	100.0	7	0.07	4.7984	100.0	6	0.06	4.113
+clust0013	clustered_cis_ohnolog	C2H2 ZF (other)	chr17	2	SP6,SP2	none	100.0	7	0.07	4.7984	100.0	9	0.09	6.1694
+clust0047	clustered_cis_ohnolog	Homeodomain	chr17	2	DLX4,DLX3	none	100.0	2	0.02	1.371	100.0	7	0.07	4.7984
+clust0070	clustered_cis_ohnolog	T-box	chr17	2	TBX2,TBX4	none	100.0	3	0.03	2.0565	100.0	3	0.03	2.0565
+clust0056	clustered_cis_ohnolog	MADS box	chr19	2	MEF2B,BORCS8-MEF2B	none	100.0	5	0.05	3.4275	100.0	1	0.01	0.6855
+clust0017	clustered_cis_ohnolog	C2H2 ZF (other)	chr19	3	ZNF536,TSHZ3,ZNF507	none	100.0	1	0.01	0.6855	100.0	0	0.0	0.0
+clust0078	clustered_cis_ohnolog	bZIP	chr19	2	CEBPA,CEBPG	none	100.0	5	0.05	3.4275	100.0	4	0.04	2.742
+clust0048	clustered_cis_ohnolog	Homeodomain	chr19	2	TPRX1,CRX	none	100.0	6	0.06	4.113	100.0	2	0.02	1.371
+clust0049	clustered_cis_ohnolog	Homeodomain	chr2	2	SIX3,SIX2	none	100.0	0	0.0	0.0	100.0	1	0.01	0.6855
+clust0050	clustered_cis_ohnolog	Homeodomain	chr2	2	DLX1,DLX2	none	100.0	0	0.0	0.0	100.0	5	0.05	3.4275
+clust0068	clustered_cis_ohnolog	STAT	chr2	2	STAT1,STAT4	none	100.0	2	0.02	1.371	100.0	5	0.05	3.4275
+clust0051	clustered_cis_ohnolog	Homeodomain	chr20	2	NKX2-4,NKX2-2	none	100.0	1	0.01	0.6855	100.0	3	0.03	2.0565
+clust0021	clustered_cis_ohnolog	C2H2 ZF (other)	chr20	4	SALL4,ZFP64,TSHZ2,ZNF217	none	100.0	2	0.02	1.371	100.0	1	0.01	0.6855
+clust0033	clustered_cis_ohnolog	Ets	chr21	2	ERG,ETS2	none	100.0	3	0.03	2.0565	100.0	1	0.01	0.6855
+clust0022	clustered_cis_ohnolog	C2H2 ZF (other)	chr22	2	ZNF280B,ZNF280A	none	100.0	4	0.04	2.742	100.0	5	0.05	3.4275
+clust0058	clustered_cis_ohnolog	Nuclear receptor	chr3	3	NR1D2,THRB,RARB	none	100.0	4	0.04	2.742	100.0	2	0.02	1.371
+clust0023	clustered_cis_ohnolog	C2H2 ZF (other)	chr3	4	ZNF660,ZNF35,ZNF502,ZNF501	none	100.0	3	0.03	2.0565	100.0	1	0.01	0.6855
+clust0024	clustered_cis_ohnolog	C2H2 ZF (other)	chr3	2	ZIC4,ZIC1	none	100.0	3	0.03	2.0565	100.0	0	0.0	0.0
+clust0052	clustered_cis_ohnolog	Homeodomain	chr5	3	IRX4,IRX2,IRX1	none	100.0	2	0.02	1.371	100.0	0	0.0	0.0
+clust0036	clustered_cis_ohnolog	Forkhead	chr6	3	FOXQ1,FOXF2,FOXC1	none	100.0	0	0.0	0.0	100.0	0	0.0	0.0
+clust0001	clustered_cis_ohnolog	AP-2	chr6	2	TFAP2D,TFAP2B	none	100.0	1	0.01	0.6855	100.0	0	0.0	0.0
+clust0025	clustered_cis_ohnolog	C2H2 ZF (other)	chr7	2	SP8,SP4	none	100.0	1	0.01	0.6855	100.0	2	0.02	1.371
+clust0053	clustered_cis_ohnolog	Homeodomain	chr7	2	DLX6,DLX5	none	100.0	0	0.0	0.0	100.0	4	0.04	2.742
+clust0054	clustered_cis_ohnolog	Homeodomain	chr8	2	NKX3-1,NKX2-6	none	100.0	1	0.01	0.6855	100.0	3	0.03	2.0565
+clust0028	clustered_cis_ohnolog	C2H2 ZF (other)	chr8	4	ZFP41,AC138696.1,GLI4,ZNF696	none	100.0	2	0.02	1.371	100.0	5	0.05	3.4275
+clust0059	clustered_cis_ohnolog	Nuclear receptor	chr9	2	NR5A1,NR6A1	none	100.0	6	0.06	4.113	100.0	9	0.09	6.1694

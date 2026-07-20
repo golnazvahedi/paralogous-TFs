@@ -1,0 +1,18 @@
+E2G file: /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration19_07.17.2026/inputs/encode/ENCFF393GIF.bed.gz
+n links (primary chroms): 280094
+n unique elements: 93685
+genome-wide baseline: 0.03091 elements/kb
+n loci: 77 (ohnolog=47, SSD=30)
+
+group comparison (Mann-Whitney U, clustered_cis_ohnolog vs clustered_SSD_tandem):
+  elem_per_kb_window               med_ohno=   0.03003 med_SSD=   0.06613 U=439.0 p=0.005532 r_rb=0.3773
+  elem_per_kb_body                 med_ohno=   0.02417 med_SSD=    0.0802 U=494.0 p=0.02732 r_rb=0.2993
+  elem_per_kb_flank                med_ohno=      0.03 med_SSD=      0.06 U=489.5 p=0.02441 r_rb=0.3057
+  obs_exp_window                   med_ohno=   0.97143 med_SSD=   2.13947 U=439.0 p=0.005532 r_rb=0.3773
+  n_links_total                    med_ohno=       9.0 med_SSD=      32.5 U=363.0 p=0.0002651 r_rb=0.4851
+  n_distinct_elem_total            med_ohno=       9.0 med_SSD=      22.5 U=396.5 p=0.001001 r_rb=0.4376
+  n_enhancer_elem_sum              med_ohno=       8.0 med_SSD=      30.5 U=363.5 p=0.0002707 r_rb=0.4844
+  n_shared_enhancer_any            med_ohno=       0.0 med_SSD=      10.5 U=362.0 p=3.284e-05 r_rb=0.4865
+  n_shared_enhancer_in_window      med_ohno=       0.0 med_SSD=       6.0 U=378.5 p=7.704e-05 r_rb=0.4631
+  shared_frac                      med_ohno=       0.0 med_SSD=       0.5 U=152.5 p=0.001247 r_rb=0.5112
+  mean_open_enh                    med_ohno=   9.36621 med_SSD=   9.99619 U=263.0 p=0.3463 r_rb=0.1571

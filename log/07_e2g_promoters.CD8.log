@@ -1,0 +1,18 @@
+E2G file: inputs/encode/e2g_panel/ENCFF993UOE.bed.gz
+n links (primary chroms): 334237
+n unique elements: 103313
+genome-wide baseline: 0.03408 elements/kb
+n loci: 77 (ohnolog=47, SSD=30)
+
+group comparison (Mann-Whitney U, clustered_cis_ohnolog vs clustered_SSD_tandem):
+  elem_per_kb_window               med_ohno=   0.04533 med_SSD=   0.07669 U=493.5 p=0.02749 r_rb=0.3
+  elem_per_kb_body                 med_ohno=   0.04259 med_SSD=   0.07973 U=593.5 p=0.2449 r_rb=0.1582
+  elem_per_kb_flank                med_ohno=      0.04 med_SSD=      0.07 U=498.5 p=0.03106 r_rb=0.2929
+  obs_exp_window                   med_ohno=   1.32999 med_SSD=   2.25008 U=493.5 p=0.02749 r_rb=0.3
+  n_links_total                    med_ohno=      11.0 med_SSD=      34.5 U=432.5 p=0.003492 r_rb=0.3865
+  n_distinct_elem_total            med_ohno=      11.0 med_SSD=      23.0 U=479.0 p=0.01544 r_rb=0.3206
+  n_enhancer_elem_sum              med_ohno=      10.0 med_SSD=      32.5 U=432.5 p=0.003494 r_rb=0.3865
+  n_shared_enhancer_any            med_ohno=       0.0 med_SSD=      10.5 U=399.0 p=0.0002461 r_rb=0.434
+  n_shared_enhancer_in_window      med_ohno=       0.0 med_SSD=       5.5 U=418.5 p=0.0005982 r_rb=0.4064
+  shared_frac                      med_ohno=       0.0 med_SSD=   0.51531 U=129.0 p=0.0007396 r_rb=0.5521
+  mean_open_enh                    med_ohno=   9.31713 med_SSD=  10.97072 U=158.0 p=0.00758 r_rb=0.4514

@@ -1,0 +1,58 @@
+cluster_id	dup_class4	family	chrom	geneA	geneB	strandA	strandB	tssA	tssB	orientation	promoter_distance_bp	n_ctcf_between_promoters	ctcf_between_per_kb
+clust0061	clustered_SSD_tandem	SCAN-ZNF	chr16	ZSCAN32	ZNF174	-	+	3401065	3401215	head-to-head	150	1	6.66667
+clust0011	clustered_SSD_tandem	C2H2 ZF (other)	chr16	ZNF668	ZNF646	-	+	31074240	31074422	head-to-head	182	1	5.49451
+clust0027	clustered_SSD_tandem	C2H2 ZF (other)	chr7	REPIN1	ZNF775	+	+	150368189	150368790	tandem	601	0	0.0
+clust0003	clustered_SSD_tandem	BTB-ZNF	chr14	ZBTB25	ZBTB1	-	+	64505213	64503712	tail-to-tail	1501	3	1.99867
+clust0073	clustered_SSD_tandem	bHLH	chr15	MESP1	MESP2	-	+	89751249	89760591	head-to-head	9342	0	0.0
+clust0035	clustered_SSD_tandem	Forkhead	chr16	FOXC2	FOXL1	+	+	86566829	86576368	tandem	9539	0	0.0
+clust0020	clustered_SSD_tandem	C2H2 ZF (other)	chr19	ZNF497	ZNF837	-	-	58362848	58381030	tandem	18182	2	0.11
+clust0004	clustered_SSD_tandem	BTB-ZNF	chr9	ZBTB6	ZBTB26	-	-	122913323	122931512	tandem	18189	1	0.05498
+clust0006	clustered_SSD_tandem	C2H2 ZF (other)	chr1	ZNF672	ZNF692	+	-	248838210	248859144	tail-to-tail	20934	6	0.28662
+clust0042	clustered_SSD_tandem	Homeodomain	chr12	NANOGNB	NANOG	+	+	7765216	7787794	tandem	22578	0	0.0
+clust0018	clustered_SSD_tandem	C2H2 ZF (other)	chr19	ZNF576	ZNF428	+	-	43596392	43619629	tail-to-tail	23237	1	0.04303
+clust0065	clustered_SSD_tandem	SCAN-ZNF	chr6	ZNF165	ZSCAN16	+	+	28080568	28107689	tandem	27121	3	0.11062
+clust0075	clustered_SSD_tandem	bHLH	chr7	TWIST1	FERD3L	-	-	19117636	19145421	tandem	27785	0	0.0
+clust0010	clustered_SSD_tandem	C2H2 ZF (other)	chr16	ZNF48	ZNF771	+	+	30378106	30407414	tandem	29308	8	0.27296
+clust0074	clustered_SSD_tandem	bHLH	chr21	OLIG2	OLIG1	+	+	33025935	33070141	tandem	44206	2	0.04524
+clust0005	clustered_SSD_tandem	BTB-ZNF	chr9	ZBTB43	ZBTB34	+	+	126805006	126860639	tandem	55633	6	0.10785
+clust0015	clustered_SSD_tandem	C2H2 ZF (other)	chr19	ZNF788	ZNF625	+	-	12092468	12156734	tail-to-tail	64266	5	0.0778
+clust0072	clustered_SSD_tandem	bHLH	chr13	SOHLH2	CCDC169-SOHLH2	-	-	36214588	36297842	tandem	83254	0	0.0
+clust0064	clustered_SSD_tandem	SCAN-ZNF	chr19	ZSCAN1	ZSCAN18	+	-	58034025	58118427	tail-to-tail	84402	4	0.04739
+clust0026	clustered_SSD_tandem	C2H2 ZF (other)	chr7	ZNF107	ZNF138	+	+	64666099	64794388	tandem	128289	2	0.01559
+clust0037	clustered_SSD_tandem	GTF2I-like	chr7	GTF2IRD1	GTF2I	+	+	74453790	74650231	tandem	196441	4	0.02036
+clust0014	clustered_SSD_tandem	C2H2 ZF (other)	chr18	ZNF516	ZNF236	-	+	76495242	76822557	head-to-head	327315	7	0.02139
+clust0056	clustered_cis_ohnolog	MADS box	chr19	MEF2B	BORCS8-MEF2B	-	-	19192131	19192158	tandem	27	0	0.0
+clust0076	clustered_cis_ohnolog	bZIP	chr12	AC023509.3	ATF7	-	-	53625979	53626410	tandem	431	1	2.32019
+clust0048	clustered_cis_ohnolog	Homeodomain	chr19	TPRX1	CRX	-	+	47819051	47819779	head-to-head	728	0	0.0
+clust0071	clustered_cis_ohnolog	bHLH	chr12	MYF6	MYF5	+	+	80707634	80716912	tandem	9278	0	0.0
+clust0009	clustered_cis_ohnolog	C2H2 ZF (other)	chr13	ZIC5	ZIC2	-	+	99971767	99981784	head-to-head	10017	0	0.0
+clust0022	clustered_cis_ohnolog	C2H2 ZF (other)	chr22	ZNF280B	ZNF280A	-	-	22508742	22520270	tandem	11528	1	0.08675
+clust0041	clustered_cis_ohnolog	Homeodomain	chr10	HMX3	HMX2	+	+	123135970	123148136	tandem	12166	0	0.0
+clust0024	clustered_cis_ohnolog	C2H2 ZF (other)	chr3	ZIC4	ZIC1	-	+	147406809	147393422	tail-to-tail	13387	0	0.0
+clust0050	clustered_cis_ohnolog	Homeodomain	chr2	DLX1	DLX2	+	-	172084740	172102900	tail-to-tail	18160	4	0.22026
+clust0053	clustered_cis_ohnolog	Homeodomain	chr7	DLX6	DLX5	+	-	97005553	97024950	tail-to-tail	19397	0	0.0
+clust0034	clustered_cis_ohnolog	Forkhead	chr1	FOXE3	FOXD2	+	+	47416285	47438044	tandem	21759	5	0.22979
+clust0054	clustered_cis_ohnolog	Homeodomain	chr8	NKX3-1	NKX2-6	-	-	23682938	23706756	tandem	23818	1	0.04199
+clust0030	clustered_cis_ohnolog	Ets	chr1	ETV3L	ETV3	-	-	157112412	157138474	tandem	26062	3	0.11511
+clust0047	clustered_cis_ohnolog	Homeodomain	chr17	DLX4	DLX3	+	-	49968588	49995224	tail-to-tail	26636	1	0.03754
+clust0007	clustered_cis_ohnolog	C2H2 ZF (other)	chr12	SP7	SP1	-	+	53345315	53380176	head-to-head	34861	6	0.17211
+clust0013	clustered_cis_ohnolog	C2H2 ZF (other)	chr17	SP6	SP2	-	+	47855874	47896150	head-to-head	40276	2	0.04966
+clust0057	clustered_cis_ohnolog	Nuclear receptor	chr17	THRA	NR1D1	+	-	40058290	40100589	tail-to-tail	42299	7	0.16549
+clust0070	clustered_cis_ohnolog	T-box	chr17	TBX2	TBX4	+	+	61399843	61452404	tandem	52561	2	0.03805
+clust0044	clustered_cis_ohnolog	Homeodomain	chr14	NKX2-1	NKX2-8	-	-	36521149	36582614	tandem	61465	0	0.0
+clust0049	clustered_cis_ohnolog	Homeodomain	chr2	SIX3	SIX2	+	-	44941702	45009452	tail-to-tail	67750	0	0.0
+clust0012	clustered_cis_ohnolog	C2H2 ZF (other)	chr16	ZNF469	ZFPM1	+	+	88382959	88453280	tandem	70321	7	0.09954
+clust0078	clustered_cis_ohnolog	bZIP	chr19	CEBPA	CEBPG	-	+	33302534	33373685	head-to-head	71151	3	0.04216
+clust0002	clustered_cis_ohnolog	BTB-ZNF	chr1	ZBTB8B	ZBTB8A	+	+	32465072	32539427	tandem	74355	1	0.01345
+clust0031	clustered_cis_ohnolog	Ets	chr11	ELF5	EHF	-	+	34525193	34621093	head-to-head	95900	0	0.0
+clust0040	clustered_cis_ohnolog	Homeodomain	chr10	TLX1	LBX1	+	-	101131300	101229463	tail-to-tail	98163	2	0.02037
+clust0032	clustered_cis_ohnolog	Ets	chr11	ETS1	FLI1	-	+	128587558	128686535	head-to-head	98977	7	0.07072
+clust0001	clustered_cis_ohnolog	AP-2	chr6	TFAP2D	TFAP2B	+	+	50713526	50818723	tandem	105197	0	0.0
+clust0051	clustered_cis_ohnolog	Homeodomain	chr20	NKX2-4	NKX2-2	-	-	21397526	21514064	tandem	116538	4	0.03432
+clust0068	clustered_cis_ohnolog	STAT	chr2	STAT1	STAT4	-	-	191020960	191151596	tandem	130636	14	0.10717
+clust0033	clustered_cis_ohnolog	Ets	chr21	ERG	ETS2	-	+	38661780	38805183	head-to-head	143403	4	0.02789
+clust0059	clustered_cis_ohnolog	Nuclear receptor	chr9	NR5A1	NR6A1	-	-	124507420	124771311	tandem	263891	2	0.00758
+clust0069	clustered_cis_ohnolog	T-box	chr12	TBX5	TBX3	-	-	114408442	114684175	tandem	275733	0	0.0
+clust0025	clustered_cis_ohnolog	C2H2 ZF (other)	chr7	SP8	SP4	-	+	20786886	21428043	head-to-head	641157	11	0.01716
+clust0039	clustered_cis_ohnolog	Homeodomain	chr1	PBX1	LMX1A	+	-	164555584	165356715	tail-to-tail	801131	1	0.00125
+clust0008	clustered_cis_ohnolog	C2H2 ZF (other)	chr13	KLF5	KLF12	+	-	73054976	74134404	tail-to-tail	1079428	27	0.02501

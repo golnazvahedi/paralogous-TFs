@@ -1,0 +1,10 @@
+metric	label	n_ohnolog	n_SSD	median_ohnolog	median_SSD	mean_ohnolog	mean_SSD	U	p_value	rank_biserial_r	test
+peaks_per_kb_window	CTCF peaks/kb (+/-100 kb window)	47	30	0.02563	0.0268	0.03086	0.02556	718.5	0.892	-0.0191	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+peaks_per_kb_body	CTCF peaks/kb (locus body)	47	30	0.02506	0.01053	0.038	0.028	839.0	0.1589	-0.1901	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+peaks_per_kb_flank	CTCF peaks/kb (flanks)	47	30	0.025	0.025	0.03032	0.02601	666.0	0.6863	0.0553	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+obs_exp_window	Observed/expected CTCF (window)	47	30	1.962	2.05185	2.36246	1.95618	719.0	0.8879	-0.0199	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+nearest_peak_to_tss_min	Nearest CTCF peak to a member TSS (bp, min)	47	30	9445.0	10478.0	24147.59574	17015.03333	707.0	0.9875	-0.0028	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+nearest_peak_to_tss_mean	Nearest CTCF peak to member TSS (bp, mean)	47	30	22427.0	22615.75	46451.92553	31338.44333	719.0	0.8879	-0.0199	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+n_peaks_between_members	CTCF peaks between paralog members	47	30	3.0	0.0	4.25532	1.83333	948.5	0.008942	-0.3454	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+inter_member_tss_dist_bp	Inter-member TSS distance (bp)	47	30	74355.0	49408.5	280936.61702	76663.0	866.0	0.09364	-0.2284	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+peaks_between_per_kb	CTCF peaks/kb between members (dist-normalized)	47	30	0.01901	0.0	0.03913	0.02177	876.0	0.06718	-0.2426	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem

@@ -1,0 +1,12 @@
+scope	metric	label	median_ohnolog	median_SSD	n_ohnolog	n_SSD	U	p_value	rank_biserial
+per_locus	elem_per_kb_window	E2G elements/kb (+/-100 kb window)	0.04533	0.07669	47	30	493.5	0.027487045281374613	0.3
+per_locus	elem_per_kb_body	E2G elements/kb (locus body)	0.04259	0.07973	47	30	593.5	0.24485160605849865	0.1582
+per_locus	elem_per_kb_flank	E2G elements/kb (flanks)	0.04	0.07	47	30	498.5	0.031058599257394393	0.2929
+per_locus	obs_exp_window	E2G observed/expected (window)	1.32999	2.25008	47	30	493.5	0.027487045281374613	0.3
+pair	n_links_total	E2G links to pair promoters (total)	11.0	34.5	47	30	432.5	0.0034924255519656056	0.3865
+pair	n_distinct_elem_total	Distinct enhancer elements on pair promoters	11.0	23.0	47	30	479.0	0.015444043868640487	0.3206
+pair	n_enhancer_elem_sum	Enhancer elements summed over members	10.0	32.5	47	30	432.5	0.0034935625378818207	0.3865
+pair	n_shared_enhancer_any	Shared enhancer elements (both paralogs)	0.0	10.5	47	30	399.0	0.0002460735644188554	0.434
+pair	n_shared_enhancer_in_window	Shared enhancers within +/-100 kb	0.0	5.5	47	30	418.5	0.000598173831579811	0.4064
+pair	shared_frac	Shared-enhancer fraction	0.0	0.51531	24	24	129.0	0.0007395797993047495	0.5521
+pair	mean_open_enh	Mean enhancer ATAC accessibility (Open)	9.31713	10.97072	24	24	158.0	0.00757959203158261	0.4514

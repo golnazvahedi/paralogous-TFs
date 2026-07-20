@@ -1,0 +1,7 @@
+peaks file: /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration19_07.17.2026/inputs/encode/ENCFF796WRU.bed.gz
+total CTCF summits (primary chroms): 44217
+total primary bp: 3031042417
+genome-wide expected rate: 1.458805e-05 peaks/bp (0.01459 peaks/kb)
+n loci: 77
+fixed binsize: 5000; flank_bins=20; body_bins=20
+outputs: ctcf_bins.5000.matrix.tsv, ctcf_metagene.matrix.tsv, ctcf_per_locus_summary.tsv

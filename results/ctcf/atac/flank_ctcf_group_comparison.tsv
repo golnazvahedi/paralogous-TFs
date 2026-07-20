@@ -1,0 +1,7 @@
+comparison	metric	label	n_ohnolog	n_SSD	median_ohnolog	median_SSD	U	p_value	rank_biserial_r	test
+ohnolog_vs_SSD	left_peaks_per_kb	LEFT flank CTCF peaks/kb (-100 kb -> locus start)	47	30	0.02	0.04	565.0	0.1356	0.1986	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+ohnolog_vs_SSD	left_obs_exp	LEFT flank observed/expected	47	30	1.0716	2.1433	565.0	0.1356	0.1986	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+ohnolog_vs_SSD	right_peaks_per_kb	RIGHT flank CTCF peaks/kb (locus end -> +100 kb)	47	30	0.02	0.05	487.5	0.02208	0.3085	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+ohnolog_vs_SSD	right_obs_exp	RIGHT flank observed/expected	47	30	1.0716	2.6791	487.5	0.02208	0.3085	Mann-Whitney U (two-sided), clustered_cis_ohnolog vs clustered_SSD_tandem
+cis-ohnolog_left_vs_right	left_vs_right_peaks_per_kb	cis-ohnolog: LEFT vs RIGHT flank peaks/kb (paired)	47		0.02	0.02	319.5	0.8319		Wilcoxon signed-rank (paired), LEFT vs RIGHT flank within group
+SSD-tandem_left_vs_right	left_vs_right_peaks_per_kb	SSD-tandem: LEFT vs RIGHT flank peaks/kb (paired)		30	0.04	0.05	141.0	0.1577		Wilcoxon signed-rank (paired), LEFT vs RIGHT flank within group
