@@ -1,0 +1,12 @@
+E2G file: inputs/encode/e2g_panel/ENCFF705FWU.bed.gz
+label: Jurkat, ENCFF705FWU
+n links (primary chroms): 283147
+n unique elements: 94815
+n loci: 77 (ohnolog=47, SSD=30)
+
+Mann-Whitney U (clustered_cis_ohnolog vs clustered_SSD_tandem):
+  ctcf_mean_pair_enh     med_ohno=   9.3091 med_SSD=  7.68962 n=(31,23) U=405.0 p=0.4011 r_rb=-0.136
+  ctcf_max_pair_enh      med_ohno=  32.5803 med_SSD=  34.9434 n=(31,23) U=307.0 p=0.3913 r_rb=0.1388
+  ctcf_mean_pair_prom    med_ohno=   3.7652 med_SSD=   1.8862 n=(31,23) U=454.0 p=0.08973 r_rb=-0.2735
+  ctcf_mean_shared_enh   med_ohno=   7.8469 med_SSD=  7.48375 n=(15,18) U=152.0 p=0.5508 r_rb=-0.1259
+  ctcf_mean_window       med_ohno=  8.61848 med_SSD=    7.682 n=(44,29) U=792.0 p=0.08355 r_rb=-0.2414

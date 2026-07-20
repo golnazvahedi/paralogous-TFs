@@ -1,0 +1,12 @@
+E2G file: inputs/encode/e2g_panel/ENCFF359ZSL.bed.gz
+label: NK, ENCFF359ZSL
+n links (primary chroms): 263840
+n unique elements: 90107
+n loci: 77 (ohnolog=47, SSD=30)
+
+Mann-Whitney U (clustered_cis_ohnolog vs clustered_SSD_tandem):
+  ctcf_mean_pair_enh     med_ohno=  9.03172 med_SSD=  6.58856 n=(27,23) U=363.0 p=0.3114 r_rb=-0.1691
+  ctcf_max_pair_enh      med_ohno=  33.2177 med_SSD=  31.2406 n=(27,23) U=336.0 p=0.6265 r_rb=-0.0821
+  ctcf_mean_pair_prom    med_ohno=   1.7584 med_SSD=  2.30195 n=(27,23) U=288.0 p=0.6685 r_rb=0.0725
+  ctcf_mean_shared_enh   med_ohno=  7.43502 med_SSD=  5.98446 n=(11,17) U=124.0 p=0.1582 r_rb=-0.3262
+  ctcf_mean_window       med_ohno=  8.65068 med_SSD=  6.75965 n=(43,30) U=826.0 p=0.043 r_rb=-0.2806

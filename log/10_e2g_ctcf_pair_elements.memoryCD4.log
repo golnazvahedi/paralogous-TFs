@@ -1,0 +1,12 @@
+E2G file: inputs/encode/e2g_panel/ENCFF440AKC.bed.gz
+label: memory CD4, ENCFF440AKC
+n links (primary chroms): 263265
+n unique elements: 91102
+n loci: 77 (ohnolog=47, SSD=30)
+
+Mann-Whitney U (clustered_cis_ohnolog vs clustered_SSD_tandem):
+  ctcf_mean_pair_enh     med_ohno=  5.39144 med_SSD=  5.13269 n=(24,22) U=317.0 p=0.2483 r_rb=-0.2008
+  ctcf_max_pair_enh      med_ohno= 32.00945 med_SSD= 29.05825 n=(24,22) U=325.0 p=0.1834 r_rb=-0.2311
+  ctcf_mean_pair_prom    med_ohno=   2.5338 med_SSD=   1.7346 n=(24,22) U=289.0 p=0.5901 r_rb=-0.0947
+  ctcf_mean_shared_enh   med_ohno=  5.22165 med_SSD=  4.68776 n=(8,18) U=77.0 p=0.8026 r_rb=-0.0694
+  ctcf_mean_window       med_ohno=  8.16386 med_SSD=  6.29153 n=(42,28) U=709.0 p=0.1486 r_rb=-0.2058

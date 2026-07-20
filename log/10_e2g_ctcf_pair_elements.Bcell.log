@@ -1,0 +1,12 @@
+E2G file: inputs/encode/e2g_panel/ENCFF186ABX.bed.gz
+label: B cell, ENCFF186ABX
+n links (primary chroms): 284362
+n unique elements: 91137
+n loci: 77 (ohnolog=47, SSD=30)
+
+Mann-Whitney U (clustered_cis_ohnolog vs clustered_SSD_tandem):
+  ctcf_mean_pair_enh     med_ohno=  6.89744 med_SSD=  6.36907 n=(23,24) U=311.0 p=0.4628 r_rb=-0.1268
+  ctcf_max_pair_enh      med_ohno=  32.7149 med_SSD=  30.7277 n=(23,24) U=308.0 p=0.5026 r_rb=-0.1159
+  ctcf_mean_pair_prom    med_ohno=   2.4048 med_SSD=  2.40087 n=(23,24) U=276.5 p=1 r_rb=-0.0018
+  ctcf_mean_shared_enh   med_ohno=  5.66724 med_SSD=  4.75371 n=(10,19) U=120.0 p=0.261 r_rb=-0.2632
+  ctcf_mean_window       med_ohno=  7.41705 med_SSD=  5.51718 n=(42,29) U=748.0 p=0.1052 r_rb=-0.2282

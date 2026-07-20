@@ -1,0 +1,12 @@
+E2G file: /mnt/alvand/golnaz/vibe-coding/paralogous_TFs/iteration19_07.17.2026/inputs/encode/ENCFF393GIF.bed.gz
+label: Treg ENCODE-rE2G, ENCFF393GIF
+n links (primary chroms): 280094
+n unique elements: 93685
+n loci: 77 (ohnolog=47, SSD=30)
+
+Mann-Whitney U (clustered_cis_ohnolog vs clustered_SSD_tandem):
+  ctcf_mean_pair_enh     med_ohno=  6.66892 med_SSD=  5.24404 n=(24,26) U=367.0 p=0.2899 r_rb=-0.1763
+  ctcf_max_pair_enh      med_ohno= 31.30465 med_SSD=  28.9873 n=(24,26) U=363.0 p=0.3268 r_rb=-0.1635
+  ctcf_mean_pair_prom    med_ohno=   2.2555 med_SSD=  1.70646 n=(24,26) U=326.0 p=0.7932 r_rb=-0.0449
+  ctcf_mean_shared_enh   med_ohno=  1.98242 med_SSD=  4.74637 n=(9,19) U=63.0 p=0.2792 r_rb=0.2632
+  ctcf_mean_window       med_ohno=  7.78145 med_SSD=  6.12021 n=(40,30) U=722.0 p=0.1493 r_rb=-0.2033

@@ -1,0 +1,6 @@
+metric	label	median_ohnolog	median_SSD	n_ohnolog	n_SSD	U	p_value	rank_biserial
+ctcf_mean_pair_enh	Mean CTCF signal at pair-linked enhancers	9.3091	7.68962	31	23	405.0	0.4010965686173191	-0.136
+ctcf_max_pair_enh	Max CTCF signal at pair-linked enhancers	32.5803	34.9434	31	23	307.0	0.39133983130949823	0.1388
+ctcf_mean_pair_prom	Mean CTCF signal at pair promoter elements	3.7652	1.8862	31	23	454.0	0.08973034674822036	-0.2735
+ctcf_mean_shared_enh	Mean CTCF at enhancers shared by both paralogs	7.8469	7.48375	15	18	152.0	0.5508020125828832	-0.1259
+ctcf_mean_window	Mean CTCF over E2G elements in +/-100 kb window	8.61848	7.682	44	29	792.0	0.08355079592914551	-0.2414

@@ -1,0 +1,12 @@
+E2G file: inputs/encode/e2g_panel/ENCFF993UOE.bed.gz
+label: CD8, ENCFF993UOE
+n links (primary chroms): 334237
+n unique elements: 103313
+n loci: 77 (ohnolog=47, SSD=30)
+
+Mann-Whitney U (clustered_cis_ohnolog vs clustered_SSD_tandem):
+  ctcf_mean_pair_enh     med_ohno=  7.24494 med_SSD=  5.34139 n=(24,24) U=359.0 p=0.146 r_rb=-0.2465
+  ctcf_max_pair_enh      med_ohno= 34.88735 med_SSD= 30.42985 n=(24,24) U=323.0 p=0.4768 r_rb=-0.1215
+  ctcf_mean_pair_prom    med_ohno=  1.87308 med_SSD=  2.11295 n=(24,24) U=267.0 p=0.6725 r_rb=0.0729
+  ctcf_mean_shared_enh   med_ohno=  4.77524 med_SSD=  4.60669 n=(11,18) U=105.0 p=0.8047 r_rb=-0.0606
+  ctcf_mean_window       med_ohno=  7.58691 med_SSD=  6.31593 n=(42,29) U=777.0 p=0.05007 r_rb=-0.2759
